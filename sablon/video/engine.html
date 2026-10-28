@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Emsal Var mı – Reels motoru</title>
+<link rel="stylesheet" href="FONTBASE/inter/400.css">
+<link rel="stylesheet" href="FONTBASE/inter/500.css">
+<link rel="stylesheet" href="FONTBASE/inter/600.css">
+<link rel="stylesheet" href="FONTBASE/inter/700.css">
+<link rel="stylesheet" href="FONTBASE/inter/800.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/600.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/400-italic.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/600-italic.css">
+<style>
+  :root { --navy:#14233C; --navy2:#1C2E4A; --line:#3A4A64; --gold:#D2AE66; --gold2:#7E6026; --muted:#A9B4C6; --light:#F5F6F8; --red:#E5484D; --green:#1F9D6B; }
+  html, body { margin:0; background:#0F1B2E; }
+  #stage { position:relative; width:1080px; height:1920px; overflow:hidden; color:#fff; font-family:Inter, sans-serif;
+           background: radial-gradient(1200px 1300px at 50% 42%, #1E3253 0%, #14233C 55%, #0C1626 100%); }
+  #cam { position:absolute; inset:0; transform-origin:50% 45%; }
+  .serif { font-family:'Source Serif 4', Georgia, serif; }
+  .scene { position:absolute; left:0; top:0; width:1080px; height:1920px; box-sizing:border-box; padding:300px 80px 0; opacity:0; visibility:hidden; }
+  p, h1, h2 { margin:0; }
+  .brand { position:absolute; left:80px; top:214px; font-size:28px; font-weight:600; letter-spacing:0.04em; color:rgba(255,255,255,0.85); z-index:5; }
+  .siren { position:absolute; width:1100px; height:1100px; border-radius:50%; filter:blur(40px); opacity:0; top:420px; }
+  .kick { font-size:30px; font-weight:600; letter-spacing:0.16em; color:var(--gold); }
+  .center { position:absolute; left:0; right:0; display:flex; justify-content:center; }
+  .card { position:absolute; left:90px; right:90px; top:620px; background:#FFFFFF; color:var(--navy); border-radius:40px; padding:44px 48px; box-shadow:0 30px 80px rgba(0,0,0,0.35); opacity:0; }
+  .chk { display:flex; align-items:center; gap:22px; font-size:40px; padding:18px 0; border-bottom:2px solid #E6E9EF; }
+  .chk:last-child { border-bottom:none; }
+  .tick { width:54px; height:54px; flex-shrink:0; border-radius:27px; display:flex; align-items:center; justify-content:center; }
+  .bubble { display:inline-block; max-width:760px; background:#EEF1F5; color:var(--navy); font-size:40px; line-height:1.3; padding:22px 30px; border-radius:32px 32px 32px 8px; opacity:0; transform-origin:0% 100%; }
+  .opt { position:absolute; left:80px; right:80px; height:240px; border-radius:36px; border:4px solid var(--line); background:rgba(28,46,74,0.9); display:flex; align-items:center; gap:36px; padding:0 44px; box-sizing:border-box; opacity:0; }
+  .badge { width:110px; height:110px; flex-shrink:0; border-radius:55px; background:var(--navy); border:4px solid var(--muted); display:flex; align-items:center; justify-content:center; font-size:60px; font-weight:800; }
+  .tape { position:absolute; left:-200px; width:1480px; height:120px; background:#F2C230; color:#14233C; font-weight:800; font-size:54px; letter-spacing:0.12em; display:flex; align-items:center; white-space:nowrap; overflow:hidden; box-shadow:0 12px 30px rgba(0,0,0,0.35); opacity:0; }
+  .lesson { background:rgba(28,46,74,0.9); border:2px solid var(--line); border-radius:30px; padding:34px 40px; font-size:42px; line-height:1.3; opacity:0; }
+  .stamp { position:absolute; left:50%; top:46%; border:12px solid var(--red); color:var(--red); font-size:110px; font-weight:800; letter-spacing:0.08em; padding:6px 40px; border-radius:18px; background:rgba(20,35,60,0.25); white-space:nowrap; opacity:0; }
+</style>
+</head>
+<body>
+<div id="stage"><div id="cam">
+  <div class="siren" id="sirenR" style="left:-620px; background:#E5484D"></div>
+  <div class="siren" id="sirenB" style="right:-620px; background:#3E7BFA"></div>
+  <p class="brand">@emsalvarmi</p>
+  <div id="scenes"></div>
+</div></div>
+<script>
+const SPEC = /*SPEC*/null;
+
+// ---------- helpers ----------
+const clamp = (x) => Math.min(1, Math.max(0, x));
+const prog = (t, s, d) => clamp((t - s) / d);
+const easeOut = (x) => 1 - Math.pow(1 - x, 3);
+const easeInOut = (x) => x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+const back = (x) => { const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const WORDS = (s) => String(s || '').trim().split(/\s+/).filter(Boolean).length;
+// Reading time: about 2.6 words per second plus a settling pause; never shorter than 1.8 seconds.
+// (The first Reels moved on after roughly 0.18 s per word, which was too fast to read.)
+const RT = (s) => Math.max(1.8, WORDS(s) * 0.38 + 1.0);
+
+const anims = [], events = [], scenes = [], sirenWins = [], quizWins = [], shakes = [];
+const root = document.getElementById('scenes');
+const A = (el, s, d, fn) => { if (el) anims.push({ el, s, d, fn }); };
+const fade = (el, p) => { el.style.opacity = p; };
+const fadeUp = (el, p) => { const e = easeOut(p); el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 46}px)`; };
+const pop = (el, p) => { el.style.opacity = clamp(p * 2.2); el.style.transform = `scale(${0.8 + 0.2 * back(p)})`; };
+const stampIn = (rot, base = 'translate(-50%,-50%)') => (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `${base} rotate(${rot}deg) scale(${2.2 - 1.2 * easeOut(p)})`; };
+function addScene(html, extraStyle = '') {
+  const el = document.createElement('section');
+  el.className = 'scene'; el.id = 's' + scenes.length; el.setAttribute('style', extraStyle); el.innerHTML = html;
+  root.appendChild(el); return el;
+}
+
+// ---------- illustrations ----------
+const ICONS = {
+  car: ['0 0 600 260', `<ellipse cx="300" cy="238" rx="270" ry="16" fill="rgba(0,0,0,0.35)"/><path d="M40 172 Q40 142 72 137 L172 126 Q212 80 262 70 L382 70 Q432 72 472 120 L542 130 Q572 136 572 166 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#E9EDF3"/><path d="M40 182 L572 182 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#C9D1DC"/><path d="M204 124 Q232 90 266 84 L322 84 L322 124 Z" fill="#1C2E4A"/><path d="M336 84 L378 84 Q410 86 440 124 L336 124 Z" fill="#1C2E4A"/><rect x="548" y="146" width="22" height="12" rx="5" fill="#F7D774"/><rect x="42" y="148" width="14" height="14" rx="4" fill="#E5484D"/><circle cx="152" cy="204" r="42" fill="#0E1A2D"/><circle cx="152" cy="204" r="20" fill="#A9B4C6"/><circle cx="462" cy="204" r="42" fill="#0E1A2D"/><circle cx="462" cy="204" r="20" fill="#A9B4C6"/>`],
+  house: ['0 0 400 300', `<ellipse cx="200" cy="286" rx="170" ry="12" fill="rgba(0,0,0,0.35)"/><rect x="276" y="52" width="36" height="70" rx="6" fill="#A9B4C6"/><path d="M40 150 L200 34 L360 150" stroke="#D2AE66" stroke-width="26" fill="none" stroke-linejoin="round" stroke-linecap="round"/><rect x="78" y="140" width="244" height="140" rx="12" fill="#E9EDF3"/><rect x="176" y="186" width="50" height="94" rx="6" fill="#1C2E4A"/><rect x="104" y="170" width="46" height="46" rx="6" fill="#1C2E4A"/><rect x="252" y="170" width="46" height="46" rx="6" fill="#1C2E4A"/>`],
+  phone: ['0 0 400 340', `<rect x="110" y="10" width="180" height="320" rx="30" fill="#0E1A2D" stroke="#3A4A64" stroke-width="6"/><rect x="124" y="36" width="152" height="268" rx="14" fill="#F5F6F8"/><rect x="136" y="70" width="110" height="34" rx="14" fill="#FFFFFF" stroke="#E1E4EA" stroke-width="2"/><rect x="156" y="118" width="108" height="34" rx="14" fill="#D2AE66"/><rect x="136" y="166" width="90" height="34" rx="14" fill="#FFFFFF" stroke="#E1E4EA" stroke-width="2"/><path d="M300 92 C300 70 334 70 334 92 C334 70 368 70 368 92 C368 118 334 134 334 146 C334 134 300 118 300 92 Z" fill="#E5484D"/>`],
+  briefcase: ['0 0 400 300', `<ellipse cx="200" cy="284" rx="160" ry="12" fill="rgba(0,0,0,0.35)"/><path d="M150 70 Q150 44 176 44 L224 44 Q250 44 250 70 L250 88 L228 88 L228 66 L172 66 L172 88 L150 88 Z" fill="#A9B4C6"/><rect x="50" y="86" width="300" height="190" rx="24" fill="#B8954F"/><rect x="50" y="150" width="300" height="20" fill="#9C7C3E"/><rect x="180" y="138" width="40" height="44" rx="8" fill="#E9EDF3"/>`],
+  family: ['0 0 420 300', `<ellipse cx="210" cy="288" rx="180" ry="10" fill="rgba(0,0,0,0.35)"/><circle cx="110" cy="80" r="44" fill="#A9B4C6"/><path d="M40 282 C40 168 180 168 180 282 Z" fill="#A9B4C6"/><circle cx="310" cy="80" r="44" fill="#E9EDF3"/><path d="M240 282 C240 168 380 168 380 282 Z" fill="#E9EDF3"/><circle cx="210" cy="150" r="32" fill="#D2AE66"/><path d="M160 282 C160 204 260 204 260 282 Z" fill="#D2AE66"/>`],
+  document: ['0 0 360 320', `<path d="M70 20 L230 20 L290 80 L290 300 L70 300 Z" fill="#E9EDF3"/><path d="M230 20 L230 80 L290 80 Z" fill="#C9D1DC"/><rect x="100" y="110" width="160" height="14" rx="7" fill="#A9B4C6"/><rect x="100" y="146" width="160" height="14" rx="7" fill="#A9B4C6"/><rect x="100" y="182" width="110" height="14" rx="7" fill="#A9B4C6"/><circle cx="236" cy="252" r="34" fill="none" stroke="#D2AE66" stroke-width="10"/><path d="M222 252 l10 10 l18 -20" stroke="#D2AE66" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`],
+  gavel: ['0 0 360 320', `<rect x="40" y="262" width="220" height="38" rx="10" fill="#3A4A64"/><g transform="rotate(-30 180 150)"><rect x="160" y="138" width="190" height="26" rx="13" fill="#A9B4C6"/><rect x="60" y="88" width="120" height="126" rx="18" fill="#D2AE66"/><rect x="48" y="108" width="144" height="20" rx="7" fill="#B8954F"/><rect x="48" y="174" width="144" height="20" rx="7" fill="#B8954F"/></g>`],
+  gold: ['0 0 420 300', `<ellipse cx="210" cy="286" rx="185" ry="12" fill="rgba(0,0,0,0.35)"/><circle cx="140" cy="172" r="92" fill="none" stroke="#B8954F" stroke-width="28"/><circle cx="140" cy="172" r="92" fill="none" stroke="#F1D58F" stroke-width="5" stroke-dasharray="120 460"/><circle cx="214" cy="196" r="78" fill="none" stroke="#D2AE66" stroke-width="24"/><circle cx="214" cy="196" r="78" fill="none" stroke="#F6E2A8" stroke-width="5" stroke-dasharray="90 400" stroke-dashoffset="-60"/><rect x="276" y="168" width="124" height="100" fill="#B8954F"/><ellipse cx="338" cy="268" rx="62" ry="18" fill="#B8954F"/><path d="M276 192 Q338 212 400 192 M276 216 Q338 236 400 216 M276 240 Q338 260 400 240" stroke="#8F7035" stroke-width="3" fill="none"/><ellipse cx="338" cy="168" rx="62" ry="18" fill="#E7C985" stroke="#9C7C3E" stroke-width="4"/><ellipse cx="338" cy="168" rx="40" ry="10" fill="none" stroke="#B8954F" stroke-width="3"/>`],
+  money: ['0 0 400 300', `<ellipse cx="200" cy="284" rx="160" ry="12" fill="rgba(0,0,0,0.35)"/><rect x="70" y="130" width="280" height="140" rx="16" fill="#1A7F57"/><rect x="50" y="100" width="280" height="140" rx="16" fill="#1F9D6B"/><rect x="66" y="116" width="248" height="108" rx="10" fill="none" stroke="#7FD3B0" stroke-width="4"/><text x="190" y="190" text-anchor="middle" font-family="Inter" font-weight="800" font-size="56" fill="#E3F5EC">TL</text>`],
+};
+function icon(name, width) {
+  const ic = ICONS[name]; if (!ic) return '';
+  const [vb, body] = ic; const [, , w, h] = vb.split(' ').map(Number);
+  return `<svg width="${width}" height="${Math.round(width * h / w)}" viewBox="${vb}" aria-hidden="true">${body}</svg>`;
+}
+const TICK_OK = `<svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>`;
+const TICK_NO = `<svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"><path d="M7 7l10 10M17 7L7 17"/></svg>`;
+
+// ---------- scene builders (each returns its end time) ----------
+function hook(sc, T0) {
+  const L = sc.lines || [];
+  const el = addScene(`
+    <h1 class="serif l0" style="font-size:96px; font-weight:600; line-height:1.05; letter-spacing:-0.01em">${esc(L[0])}</h1>
+    ${L[1] ? `<p class="l1" style="margin-top:26px; font-size:50px; font-weight:500; color:var(--muted); line-height:1.2; opacity:0">${esc(L[1])}</p>` : ''}
+    ${L[2] ? `<p class="l2" style="margin-top:50px; font-size:64px; font-weight:700; line-height:1.15; opacity:0">${esc(L[2])}</p>` : ''}
+    <div class="center" style="top:${sc.iconTop || 1010}px"><div class="illu" style="position:relative">${icon(sc.icon || 'document', sc.icon === 'car' ? 840 : 560)}
+      ${sc.stamp ? `<div class="stamp">${esc(sc.stamp)}</div>` : ''}</div></div>`);
+  A(el.querySelector('.l0'), T0 - 0.02, 0.01, fade);
+  // the hook question must arrive within ~4-5 s; the safety net below still keeps all three lines up long enough to read
+  let t = T0 + Math.max(1.4, RT(L[0]) * 0.6);
+  if (L[1]) { A(el.querySelector('.l1'), t, 0.45, fadeUp); t += Math.max(1.6, RT(L[1]) * 0.7); }
+  let sirenStart = null;
+  if (L[2]) { A(el.querySelector('.l2'), t, 0.45, fadeUp); sirenStart = t; t += RT(L[2]) * 0.7; }
+  if (sc.stamp) { A(el.querySelector('.stamp'), t, 0.28, stampIn(-10)); events.push({ t: t + 0.02, type: 'boom' }); shakes.push(t + 0.08); t += 2.0; }
+  const end = t + 0.8;
+  if (sc.siren && sirenStart !== null) { sirenWins.push([sirenStart, end]); events.push({ t: sirenStart, type: 'siren', d: 1.0 }); }
+  scenes.push({ el, start: T0, end, cover: Math.max(T0 + 0.5, end - 0.6) });
+  return end;
+}
+
+function buildCard(card, cardEl, s) {
+  card = card || { kind: 'text', text: '' };
+  if (card.kind === 'info') {
+    cardEl.innerHTML = `<div style="height:300px; border-radius:26px; background:linear-gradient(160deg,#DCE3EC,#C2CCD8); display:flex; align-items:center; justify-content:center">${icon(card.icon || 'document', card.icon === 'car' ? 460 : 300)}</div>
+      ${card.title ? `<p style="margin-top:30px; font-size:40px; font-weight:600">${esc(card.title)}</p>` : ''}
+      <div style="margin-top:18px; display:flex; justify-content:space-between; align-items:center; gap:20px">
+        ${card.value ? `<p style="font-size:64px; font-weight:800">${esc(card.value)}</p>` : '<span></span>'}
+        ${card.tag ? `<p style="font-size:30px; font-weight:600; color:var(--green); background:#E3F5EC; padding:10px 22px; border-radius:999px; white-space:nowrap">${esc(card.tag)}</p>` : ''}
+      </div>`;
+    return RT([card.title, card.value, card.tag].join(' '));
+  }
+  if (card.kind === 'chat') {
+    cardEl.innerHTML = `<p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#5B6576">${esc(card.title || 'MESAJLAR')}</p>
+      <div class="msgs" style="margin-top:24px; display:flex; flex-direction:column; gap:22px; align-items:flex-start"></div>`;
+    const box = cardEl.querySelector('.msgs'); let o = 0.5;
+    (card.messages || []).forEach((m) => {
+      const b = document.createElement('div'); b.className = 'bubble'; b.textContent = m; box.appendChild(b);
+      A(b, s + o, 0.4, pop); events.push({ t: s + o, type: 'pop' }); o += RT(m) * 0.85;
+    });
+    return o + 0.6;
+  }
+  if (card.kind === 'check') {
+    const good = card.good !== false;
+    cardEl.innerHTML = `<p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#5B6576">${esc(card.title || '')}</p>
+      <div class="rows" style="margin-top:20px"></div>
+      ${card.stamp ? `<div class="cst" style="margin-top:26px; text-align:center; font-size:56px; font-weight:800; color:${good ? 'var(--green)' : 'var(--red)'}; border:6px solid ${good ? 'var(--green)' : 'var(--red)'}; border-radius:16px; padding:10px 0; opacity:0">${esc(card.stamp)}</div>` : ''}`;
+    const rows = cardEl.querySelector('.rows'); let o = 0.5;
+    (card.rows || []).forEach((r) => {
+      const d = document.createElement('div'); d.className = 'chk';
+      d.innerHTML = `<div class="tick" style="background:${good ? 'var(--green)' : 'var(--red)'}">${good ? TICK_OK : TICK_NO}</div><span>${esc(r)}</span>`;
+      d.style.opacity = 0; rows.appendChild(d);
+      A(d, s + o, 0.3, pop); events.push({ t: s + o, type: 'blip' }); o += 0.45;
+    });
+    if (card.stamp) { A(cardEl.querySelector('.cst'), s + o + 0.2, 0.3, (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `rotate(-3deg) scale(${1.8 - 0.8 * easeOut(p)})`; }); events.push({ t: s + o + 0.22, type: 'thud' }); o += 0.5; }
+    return o + RT((card.rows || []).join(' ') + ' ' + (card.stamp || '')) * 0.8;
+  }
+  if (card.kind === 'seal') {
+    cardEl.style.textAlign = 'center';
+    cardEl.innerHTML = `<p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#5B6576">${esc(card.title || '')}</p>
+      <div class="seal" style="margin:34px auto 0; width:330px; height:330px; opacity:0"><svg width="330" height="330" viewBox="0 0 330 330" aria-hidden="true"><circle cx="165" cy="165" r="150" fill="none" stroke="#14233C" stroke-width="10"/><circle cx="165" cy="165" r="118" fill="none" stroke="#14233C" stroke-width="4"/><text x="165" y="152" text-anchor="middle" font-family="Inter" font-weight="800" font-size="${Math.min(52, Math.round(210 / Math.max(1, String(card.seal || '').length * 0.68)))}" fill="#14233C">${esc(card.seal || '')}</text><text x="165" y="204" text-anchor="middle" font-family="Inter" font-weight="600" font-size="${Math.min(28, Math.round(190 / Math.max(1, String(card.sealSub || '').length * 0.66)))}" fill="#14233C">${esc(card.sealSub || '')}</text></svg></div>
+      ${card.caption ? `<p style="margin-top:26px; font-size:44px; font-weight:600">${esc(card.caption)}</p>` : ''}`;
+    A(cardEl.querySelector('.seal'), s + 0.5, 0.3, (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `scale(${1.9 - 0.9 * easeOut(p)}) rotate(${-12 + 12 * easeOut(p)}deg)`; });
+    events.push({ t: s + 0.52, type: 'thud' });
+    return 0.8 + RT([card.title, card.caption].join(' '));
+  }
+  // text
+  cardEl.innerHTML = `${card.icon ? `<div style="display:flex; justify-content:center; margin-bottom:26px">${icon(card.icon, card.icon === 'car' ? 460 : 260)}</div>` : ''}
+    <p style="font-size:44px; font-weight:600; line-height:1.32">${esc(card.text || '')}</p>`;
+  return RT(card.text);
+}
+
+function steps(sc, T0) {
+  const el = addScene(`<p class="kick">${esc(sc.kicker || 'NE OLDU?')}</p><div class="titles" style="position:relative; height:220px; margin-top:22px"></div>`);
+  const titles = el.querySelector('.titles');
+  let t = T0 + 0.1; const items = sc.items || [];
+  items.forEach((it, i) => {
+    const h = document.createElement('h2'); h.className = 'serif'; h.style.cssText = 'position:absolute; font-size:78px; font-weight:600; line-height:1.08; opacity:0';
+    h.textContent = it.title; titles.appendChild(h);
+    const c = document.createElement('div'); c.className = 'card'; el.appendChild(c);
+    const start = t; const need = buildCard(it.card, c, start + 0.3);
+    // title and card are read together, so the hold covers both
+    const end = start + Math.max(RT(it.title) + 0.4, 0.3 + need + WORDS(it.title) * 0.34 + 0.3);
+    const last = i === items.length - 1;
+    A(h, start, end - start, (e, p, tt) => { const inn = easeOut(prog(tt, start, 0.35)); const out = last ? 0 : easeInOut(prog(tt, end - 0.3, 0.3)); e.style.opacity = tt < start ? 0 : Math.min(inn, 1 - out); e.style.transform = `translateX(${(1 - inn) * 80 - out * 80}px)`; });
+    A(c, start, end - start, (e, p, tt) => { const inn = easeOut(prog(tt, start + 0.1, 0.45)); const out = last ? 0 : easeInOut(prog(tt, end - 0.3, 0.3)); e.style.opacity = tt < start ? 0 : Math.min(inn, 1 - out); e.style.transform = `translateX(${(1 - inn) * 700 - out * 700}px) rotate(${(1 - inn) * 4}deg)`; });
+    if (i > 0) events.push({ t: start - 0.1, type: 'whoosh' });
+    t = end;
+  });
+  const end = t + 0.3;
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+function twist(sc, T0) {
+  const el = addScene(`
+    <h2 class="serif tw0" style="font-size:150px; font-weight:600; font-style:italic; color:var(--gold); opacity:0">${esc(sc.big || 'Ama…')}</h2>
+    <p class="tw1" style="margin-top:30px; font-size:60px; font-weight:700; line-height:1.18; opacity:0">${esc(sc.text)}</p>
+    ${sc.icon ? `<div class="center" style="top:1040px"><div style="position:relative">${icon(sc.icon, sc.icon === 'car' ? 800 : 520)}
+      ${sc.badge ? `<div style="position:absolute; left:50%; top:-120px; transform:translateX(-50%); background:#0C1626; border:3px solid var(--line); border-radius:20px; padding:16px 30px; text-align:center; white-space:nowrap"><p style="font-size:26px; font-weight:600; letter-spacing:0.14em; color:var(--muted)">${esc(sc.badge.label)}</p><p class="vin" style="font-family:'Courier New', monospace; font-size:46px; font-weight:700; letter-spacing:0.06em">${esc(sc.badge.from)}</p></div>` : ''}
+    </div></div>` : ''}
+    ${sc.tape ? `<div class="tape" style="top:1430px">${Array(6).fill(esc(sc.tape)).join(' · ')} ·</div>` : ''}`);
+  A(el.querySelector('.tw0'), T0 + 0.1, 0.4, pop);
+  A(el.querySelector('.tw1'), T0 + 0.7, 0.45, fadeUp);
+  let t = T0 + 0.7 + RT(sc.text) * 0.55;
+  if (sc.badge) {
+    const from = sc.badge.from, to = sc.badge.to, s0 = T0 + 1.0, chars = 'ABCDEFGHJKLMNPRSTUVWXYZ0123456789';
+    A(el.querySelector('.vin'), s0, 1.0, (e, p, tt) => {
+      if (p <= 0) { e.textContent = from; e.style.color = '#fff'; return; }
+      if (p >= 1) { e.textContent = to; e.style.color = '#E5484D'; return; }
+      let seed = Math.floor(tt * 30), out = '';
+      for (let i = 0; i < from.length; i++) { seed = (seed * 9301 + 49297 + i * 7) % 233280; out += (i / from.length < p - 0.15) ? (to[i] || '') : chars[seed % chars.length]; }
+      e.textContent = out; e.style.color = '#F2C230';
+    });
+    events.push({ t: s0, type: 'glitch', d: 1.0 });
+  }
+  if (sc.tape) { A(el.querySelector('.tape'), t, 0.35, (e, p) => { const k = easeOut(p); e.style.opacity = clamp(p * 4); e.style.transform = `rotate(-6deg) translateX(${(1 - k) * -1300}px)`; }); events.push({ t: t + 0.05, type: 'boom' }); shakes.push(t + 0.12); }
+  const end = T0 + 0.7 + RT(sc.text) + 1.4;
+  if (sc.siren) { sirenWins.push([t, end]); events.push({ t, type: 'siren', d: 0.9 }); }
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+function quiz(sc, T0) {
+  const opts = sc.options || []; const letters = ['A', 'B', 'C'];
+  const H = opts.length > 2 ? 200 : 240, GAP = opts.length > 2 ? 30 : 50, TOP = 660;
+  const ringTop = TOP + opts.length * (H + GAP) + 10;
+  const el = addScene(`
+    <p class="kick">${esc(sc.kicker || 'SİZCE?')}</p>
+    <h2 class="serif qz" style="margin-top:22px; font-size:92px; font-weight:600; line-height:1.05; opacity:0">${esc(sc.question)}</h2>
+    ${opts.map((o, i) => `<div class="opt o${i}" style="top:${TOP + i * (H + GAP)}px; height:${H}px"><div class="badge">${letters[i]}</div><div><p style="font-size:48px; font-weight:700; line-height:1.15">${esc(o.title)}</p>${o.sub ? `<p style="margin-top:8px; font-size:34px; color:var(--muted)">${esc(o.sub)}</p>` : ''}</div></div>`).join('')}
+    <div class="center ringW" style="top:${ringTop}px; opacity:0"><div style="position:relative; width:170px; height:170px">
+      <svg width="170" height="170" viewBox="0 0 170 170" aria-hidden="true" style="transform:rotate(-90deg)"><circle cx="85" cy="85" r="74" fill="none" stroke="#2A3B57" stroke-width="12"/><circle class="ring" cx="85" cy="85" r="74" fill="none" stroke="#D2AE66" stroke-width="12" stroke-linecap="round" stroke-dasharray="465" stroke-dashoffset="0"/></svg>
+      <p class="cnt" style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-size:84px; font-weight:800"></p></div></div>
+    <p class="cta" style="position:absolute; left:0; right:0; top:${ringTop + 200}px; text-align:center; font-size:36px; font-weight:600; color:var(--muted); opacity:0">${esc(sc.cta || 'Cevabınızı yorumlara yazın')}</p>`);
+  A(el.querySelector('.qz'), T0 + 0.1, 0.45, fadeUp);
+  const optText = opts.map((o) => o.title + ' ' + (o.sub || '')).join(' ');
+  opts.forEach((o, i) => A(el.querySelector('.o' + i), T0 + 0.9 + i * 0.35, 0.45, (e, p) => { const k = easeOut(p); e.style.opacity = k; e.style.transform = `translateX(${(1 - k) * (i % 2 ? 120 : -120)}px)`; }));
+  const N = sc.countdown || 5;
+  const cs = T0 + 0.9 + opts.length * 0.35 + Math.max(1.5, RT(sc.question + ' ' + optText) * 0.55);
+  const R = cs + N;
+  A(el.querySelector('.ringW'), cs - 0.4, 0.4, pop);
+  A(el.querySelector('.cta'), cs - 0.2, 0.4, fade);
+  A(el.querySelector('.ring'), cs, N, (e, p) => { e.style.strokeDashoffset = 465 * p; });
+  A(el.querySelector('.cnt'), cs, N, (e, p) => { const n = p >= 1 ? 0 : N - Math.floor(p * N); e.textContent = n === 0 ? '!' : String(n); const ph = (p * N) % 1; e.style.transform = `scale(${1 + 0.25 * Math.max(0, 1 - ph * 4)})`; });
+  for (let k = 0; k < N; k++) events.push({ t: cs + k, type: 'count' });
+  events.push({ t: R, type: 'boom' }); shakes.push(R);
+  const ans = sc.answer ?? 0;
+  opts.forEach((o, i) => {
+    const oe = el.querySelector('.o' + i); const badge = oe.querySelector('.badge');
+    anims.push({ el: oe, s: R, d: 0.4, fn: (e, p, tt) => {
+      if (tt < R) { e.style.borderColor = '#3A4A64'; e.style.boxShadow = 'none'; badge.style.background = '#14233C'; badge.style.color = '#fff'; badge.style.borderColor = '#A9B4C6'; return; }
+      if (i === ans) { e.style.borderColor = '#D2AE66'; e.style.boxShadow = `0 0 ${60 * p}px rgba(210,174,102,${0.55 * p})`; badge.style.background = '#D2AE66'; badge.style.color = '#14233C'; badge.style.borderColor = '#D2AE66'; }
+      else { e.style.opacity = 1 - 0.65 * p; }
+    } });
+  });
+  const end = R + 1.6;
+  quizWins.push([T0, end]);
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+function reveal(sc, T0) {
+  const el = addScene(`
+    <p class="kick">${esc(sc.kicker || "YARGITAY'IN CEVABI")}</p>
+    <h2 class="serif rv0" style="margin-top:22px; font-size:124px; font-weight:600; line-height:1; opacity:0">${esc(sc.title)}</h2>
+    <p class="rv1" style="margin-top:34px; font-size:58px; font-weight:700; line-height:1.18; opacity:0">${esc(sc.text)}</p>
+    ${sc.detail ? `<p class="rv2" style="margin-top:24px; font-size:36px; color:var(--muted); line-height:1.38; opacity:0">${esc(sc.detail)}</p>` : ''}
+    ${sc.extra ? `<div class="rv3" style="margin-top:56px; background:#FFFFFF; color:var(--navy); border-radius:36px; padding:40px 44px; box-shadow:0 30px 80px rgba(0,0,0,0.35); opacity:0"><p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:var(--gold2)">${esc(sc.extra.label || 'ÜSTELİK')}</p><p style="margin-top:14px; font-size:44px; font-weight:600; line-height:1.3">${esc(sc.extra.text)}</p></div>` : ''}`);
+  A(el.querySelector('.rv0'), T0 + 0.1, 0.4, pop); events.push({ t: T0 + 0.15, type: 'chime' });
+  let t = T0 + 0.9;
+  A(el.querySelector('.rv1'), t, 0.45, fadeUp); t += RT(sc.text) * 0.9;
+  if (sc.detail) { A(el.querySelector('.rv2'), t, 0.45, fadeUp); t += RT(sc.detail) * 0.9; }
+  if (sc.extra) { A(el.querySelector('.rv3'), t, 0.5, (e, p) => { const k = easeOut(p); e.style.opacity = k; e.style.transform = `translateY(${(1 - k) * 120}px) scale(${0.96 + 0.04 * k})`; }); events.push({ t, type: 'pop' }); t += RT(sc.extra.text); }
+  const end = t + 1.0;
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+function lessons(sc, T0) {
+  const items = sc.items || [];
+  const el = addScene(`
+    <p class="kick">${esc(sc.kicker || 'KARAR')}</p>
+    <h2 class="serif ls0" style="margin-top:22px; font-size:78px; font-weight:600; line-height:1.08; opacity:0">${esc(SPEC.court)}</h2>
+    <p class="ls1" style="margin-top:22px; font-size:38px; color:var(--muted); opacity:0">${esc(SPEC.kunye)}</p>
+    ${SPEC.note ? `<p class="ls2" style="margin-top:12px; font-size:34px; color:var(--muted); opacity:0">${esc(SPEC.note)}</p>` : ''}
+    <div style="margin-top:70px; display:flex; flex-direction:column; gap:26px">${items.map((it, i) => `<div class="lesson l${i}"><span style="color:var(--gold); font-weight:700">${esc(it[0])}</span> ${esc(it[1] || '')}</div>`).join('')}</div>`);
+  A(el.querySelector('.ls0'), T0 + 0.1, 0.45, fadeUp); A(el.querySelector('.ls1'), T0 + 0.4, 0.45, fadeUp); A(el.querySelector('.ls2'), T0 + 0.6, 0.45, fadeUp);
+  let t = T0 + 0.6 + RT(SPEC.court + ' ' + SPEC.kunye) * 0.5;
+  items.forEach((it, i) => { A(el.querySelector('.l' + i), t, 0.45, fadeUp); events.push({ t, type: 'pop' }); t += RT(it.join(' ')); });
+  const end = t + 0.6;
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+function outro(sc, T0) {
+  const el = addScene(`<div style="position:absolute; left:0; right:0; top:560px; display:flex; flex-direction:column; align-items:center; text-align:center">
+      <p class="serif o0" style="font-size:260px; font-weight:600; line-height:1; letter-spacing:-0.02em; opacity:0">E<span style="font-style:italic; color:var(--gold)">?</span></p>
+      <p class="o1" style="margin-top:40px; font-size:60px; font-weight:700; opacity:0">@emsalvarmi</p>
+      <p class="o2" style="margin-top:22px; font-size:40px; color:var(--muted); opacity:0">Her gün bir Yargıtay kararı, sade bir dille.</p>
+      <p class="o3" style="margin-top:60px; font-size:44px; font-weight:700; color:#14233C; background:var(--gold); padding:22px 54px; border-radius:999px; opacity:0">Takip edin, kaçırmayın</p>
+      <p class="o4" style="margin-top:110px; font-size:28px; color:var(--muted); opacity:0">Bu paylaşım genel bilgilendirme amaçlıdır.</p></div>`);
+  A(el.querySelector('.o0'), T0 + 0.1, 0.5, pop); A(el.querySelector('.o1'), T0 + 0.5, 0.45, fadeUp); A(el.querySelector('.o2'), T0 + 0.8, 0.45, fadeUp);
+  A(el.querySelector('.o3'), T0 + 1.3, 0.4, pop); events.push({ t: T0 + 1.3, type: 'chime', soft: true }); A(el.querySelector('.o4'), T0 + 1.7, 0.4, fade);
+  const end = T0 + 4.6;
+  scenes.push({ el, start: T0, end });
+  return end;
+}
+
+// ---------- build timeline ----------
+const BUILD = { hook, steps, twist, quiz, reveal, lessons, outro };
+let T = 0;
+for (const sc of (SPEC.scenes || [])) {
+  const b = BUILD[sc.type]; if (!b) continue;
+  if (T > 0) events.push({ t: T - 0.2, type: 'whoosh' });
+  const T0 = T;
+  T = b(sc, T);
+  // Safety net: a scene whose text stays on screen together never ends before all of it can be read.
+  if (sc.type !== 'steps' && sc.type !== 'outro') {
+    const s = scenes[scenes.length - 1];
+    const c = s.el.cloneNode(true); c.querySelectorAll('.tape, svg, .cnt').forEach((n) => n.remove());
+    const min = T0 + WORDS(c.textContent) * 0.34 + 1.2;
+    if (T < min) { s.end = min; T = min; }
+  }
+}
+const DURATION = Math.round(T * 30) / 30;
+scenes.forEach((s) => { s.start = Math.round(s.start * 30) / 30; s.end = Math.round(s.end * 30) / 30; });
+scenes[scenes.length - 1].end = DURATION;
+
+function seek(t) {
+  for (const sc of scenes) {
+    let o = 0;
+    if (t >= sc.start && t < sc.end) { const fin = sc.start === 0 ? 1 : prog(t, sc.start, 0.25); const fout = sc === scenes[scenes.length - 1] ? 1 : 1 - prog(t, sc.end - 0.25, 0.25); o = Math.min(fin, fout); }
+    sc.el.style.opacity = o; sc.el.style.visibility = o > 0 ? 'visible' : 'hidden';
+  }
+  for (const a of anims) a.fn(a.el, prog(t, a.s, a.d), t);
+  const on = sirenWins.some(([a, b]) => t >= a && t < b);
+  const ph = Math.sin(t * Math.PI * 4);
+  document.getElementById('sirenR').style.opacity = on ? 0.32 * Math.max(0, ph) : 0;
+  document.getElementById('sirenB').style.opacity = on ? 0.32 * Math.max(0, -ph) : 0;
+  const cur = scenes.find((s) => t >= s.start && t < s.end) || scenes[scenes.length - 1];
+  const push = 1 + 0.035 * prog(t, cur.start, cur.end - cur.start);
+  let sx = 0, sy = 0;
+  for (const h of shakes) { const k = t - h; if (k >= 0 && k < 0.35) { const amp = 18 * (1 - k / 0.35); sx += amp * Math.sin(k * 90); sy += amp * Math.cos(k * 70); } }
+  document.getElementById('cam').style.transform = `translate(${sx}px, ${sy}px) scale(${push})`;
+}
+window.DURATION = DURATION;
+window.SCENES = scenes.map((s) => ({ id: s.el.id, start: s.start, end: s.end }));
+window.TIMELINE = { duration: DURATION, events: events.sort((a, b) => a.t - b.t), quizWins, cover: scenes[0].cover || 3.0 };
+window.seek = seek;
+seek(0);
+</script>
+</body>
+</html>

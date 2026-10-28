@@ -46,3 +46,60 @@ Dosyalar verilen sırayla `01.png … 06.png` olarak yazılır. Yayından önce 
 - Künye: daire, karar tarihi, E. ve K. numarası.
 - Avukatlık reklam yasağı gereği ofise yönlendirme, iletişim çağrısı ya da tanıtım dili kullanılmaz; taraf kimlikleri ve dosya ayrıntıları paylaşılmaz.
 - Instagram açıklaması: en fazla 5 hashtag, etkileşim için bir soru ve "Bu paylaşım genel bilgilendirme amaçlıdır." satırı.
+
+## Reels videoları (günde 3 video)
+
+Hesabın ana içeriği 1080×1920 Reels videolarıdır. Her video bir JSON senaryodan (`spec.json`) otomatik üretilir.
+
+- `sablon/video/engine.html`: senaryoyu sahnelere çeviren zaman çizelgesi motoru.
+- `sablon/video/make_video.js`: sahneleri kare kare çekip H.264 videoya çevirir, sesi ekler, kapak görselini yazar.
+- `sablon/video/audio.py`: videonun zaman çizelgesinden telifsiz müzik ve efekt üretir (hazır ses dosyası kullanılmaz).
+- `sablon/video/ornek/*.json`: örnek senaryo.
+- Yayınlanan videolar: `2026/<YYYY-MM-DD>-<konu>/reel.mp4`, `kapak.jpg`, `spec.json`.
+
+### Üretim
+
+```bash
+cd sablon
+npm install @fontsource/inter@5.0.18 @fontsource/source-serif-4@5.0.19
+pip install --break-system-packages numpy scipy   # yoksa
+# Önce kontrol kareleri (tam boy JPG): sahnelerin en kalabalık anlarına bakın, taşma ve bölünme olmasın.
+node video/make_video.js <spec.json> <çıktı-klasörü> ./node_modules --snap 4,15,30,45,60
+# Sonra tam video:
+node video/make_video.js <spec.json> <çıktı-klasörü> ./node_modules
+```
+
+Playwright ve ffmpeg gerekir. Çıktı: `reel.mp4`, `kapak.jpg`, `timeline.json`.
+
+### Okuma süresi kuralı
+
+Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime sayısından hesaplar: `max(1,8 sn; kelime × 0,38 sn + 1,0 sn)`. Aynı anda ekranda kalan metinler için sahne, toplam kelime × 0,34 sn + 1,2 sn'den önce bitmez. Bu yüzden senaryodaki metinleri kısa tutmak videoyu kısaltmanın tek yoludur; hedef toplam süre 60–80 sn.
+
+### Senaryo biçimi
+
+```json
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2026/1776 · K. 2026/7439",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    { "type": "hook", "lines": ["kısa çarpıcı cümle", "durumu açan cümle", "izleyiciye soru"], "icon": "gold", "stamp": "ÇALINTI", "siren": false },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [ { "title": "...", "card": { "kind": "info", "icon": "car", "title": "...", "value": "...", "tag": "..." } } ] },
+    { "type": "twist", "big": "Ama…", "text": "...", "icon": "car", "badge": { "label": "ŞASİ NO", "from": "...", "to": "..." }, "tape": "EL KONULDU", "siren": true },
+    { "type": "quiz", "question": "...", "options": [ { "title": "...", "sub": "..." }, { "title": "...", "sub": "..." } ], "answer": 1, "countdown": 5 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "...", "detail": "ilgili madde", "extra": { "label": "ÜSTELİK", "text": "..." } },
+    { "type": "lessons", "items": [["Kalın kısım:", "devamı"], ["...", "..."]] },
+    { "type": "outro" }
+  ]
+}
+```
+
+- `steps` kart türleri: `info` (icon, title, value, tag), `chat` (title, messages[]), `check` (title, rows[], stamp, good), `seal` (title, seal, sealSub, caption), `text` (icon, text).
+- Çizimler (`icon`): `car`, `house`, `phone`, `briefcase`, `family`, `document`, `gavel`, `money`, `gold`.
+- `quiz` 2 ya da 3 seçenek alır; `answer` doğru seçeneğin sırasıdır (0'dan başlar). Cevap mutlaka kararın hüküm fıkrasıyla aynı olmalı.
+- Kanca (`hook`) ilk 5 saniyede soruyu sormalı; ilk satır videonun ilk karesinde görünür.
+- `stamp`, `siren`, `badge`, `tape` isteğe bağlıdır; yalnızca olaya uyuyorsa kullanın.
+
+### Instagram açıklaması
+
+İlk satır anahtar kelimeli bir başlık (ör. "Boşanmada düğün altınları kimin? Yargıtay ne dedi?"), ardından 2–3 cümlelik özet, künye, izleyiciye soru, "Bu paylaşım genel bilgilendirme amaçlıdır." satırı ve en fazla 5 hashtag (konuya özgü 3 + #yargıtay #hukuk gibi 2 genel).

@@ -1,0 +1,99 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2026/1776 · K. 2026/7439",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşanırken altınlar eşinizde kaldı.",
+        "Bir kısmı düğünde takıldı, bir kısmı sonradan biriktirildi.",
+        "Hepsini aynı davada geri isteyebilir misiniz?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın altınlarını geri istedi",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "Ortak evden alınan altınlar",
+            "value": "İade edilsin",
+            "tag": "Ziynet davası"
+          }
+        },
+        {
+          "title": "İki mahkeme de davayı reddetti",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "RET",
+            "sealSub": "AİLE MAHKEMESİ",
+            "caption": "Hangisinin düğün takısı olduğu ispatlanamadı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bu ret, evlilikte biriktirilen altınları da kapsıyordu. Kadın onları ayrı davada da isteyemeyecekti.",
+      "icon": "gold",
+      "tape": "KESİN HÜKÜM"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Dava tümden reddedilebilir mi?",
+      "options": [
+        {
+          "title": "Evet, ret doğru",
+          "sub": "Kadın iddiasını ispat edemedi"
+        },
+        {
+          "title": "Hayır, karar bozulmalı",
+          "sub": "Hâkim önce altınları ayırtmalıydı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 5,
+      "cta": "Cevabınızı yorumlara yazın"
+    },
+    {
+      "type": "reveal",
+      "kicker": "YARGITAY'IN CEVABI",
+      "title": "Bozuldu.",
+      "text": "Hâkim önce hangi altının düğünde takıldığını, hangisinin biriktirildiğini açıklatmalıydı.",
+      "detail": "HMK m. 31: Hâkimin davayı aydınlatma yükümlülüğü.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Biriktirilen altınlar edinilmiş maldır. Onlar için mal rejimi davasının yolu açık kalmalıydı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Düğün takıları:",
+          "Ziynet alacağı davasında istenir."
+        ],
+        [
+          "Biriktirilen altınlar:",
+          "Mal rejimi tasfiyesinde değerlendirilir."
+        ],
+        [
+          "Hâkim:",
+          "Hangisinin hangisi olduğunu açıklatmalıdır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}
