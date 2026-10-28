@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Reel – Çalıntı çıkan ikinci el araç</title>
+<link rel="stylesheet" href="FONTBASE/inter/400.css">
+<link rel="stylesheet" href="FONTBASE/inter/500.css">
+<link rel="stylesheet" href="FONTBASE/inter/600.css">
+<link rel="stylesheet" href="FONTBASE/inter/700.css">
+<link rel="stylesheet" href="FONTBASE/inter/800.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/600.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/400-italic.css">
+<link rel="stylesheet" href="FONTBASE/source-serif-4/600-italic.css">
+<style>
+  :root { --navy:#14233C; --navy2:#1C2E4A; --line:#3A4A64; --gold:#D2AE66; --muted:#A9B4C6; --light:#F5F6F8; --red:#E5484D; }
+  html, body { margin:0; background:#0F1B2E; }
+  #stage { position:relative; width:1080px; height:1920px; overflow:hidden; color:#fff; font-family:Inter, sans-serif;
+           background: radial-gradient(1200px 1300px at 50% 42%, #1E3253 0%, #14233C 55%, #0C1626 100%); }
+  #cam { position:absolute; inset:0; transform-origin:50% 45%; }
+  .serif { font-family:'Source Serif 4', Georgia, serif; }
+  .scene { position:absolute; left:0; top:0; width:1080px; height:1920px; box-sizing:border-box; padding:300px 80px 0; opacity:0; visibility:hidden; }
+  p, h1, h2 { margin:0; }
+  .brand { position:absolute; left:80px; top:214px; font-size:28px; font-weight:600; letter-spacing:0.04em; color:rgba(255,255,255,0.85); z-index:5; }
+  .siren { position:absolute; width:1100px; height:1100px; border-radius:50%; filter:blur(40px); opacity:0; z-index:0; }
+  .center { position:absolute; left:0; right:0; display:flex; justify-content:center; }
+  .card { position:absolute; left:90px; right:90px; top:640px; background:#FFFFFF; color:var(--navy); border-radius:40px; padding:44px 48px; box-shadow:0 30px 80px rgba(0,0,0,0.35); }
+  .chk { display:flex; align-items:center; gap:22px; font-size:40px; padding:18px 0; border-bottom:2px solid #E6E9EF; }
+  .chk:last-child { border-bottom:none; }
+  .tick { width:54px; height:54px; border-radius:27px; background:#1F9D6B; color:#fff; display:flex; align-items:center; justify-content:center; }
+  .opt { position:absolute; left:80px; right:80px; height:250px; border-radius:36px; border:4px solid var(--line); background:rgba(28,46,74,0.85); display:flex; align-items:center; gap:36px; padding:0 44px; box-sizing:border-box; }
+  .badge { width:110px; height:110px; flex-shrink:0; border-radius:55px; background:var(--navy); border:4px solid var(--muted); display:flex; align-items:center; justify-content:center; font-size:60px; font-weight:800; }
+  .tape { position:absolute; left:-200px; width:1480px; height:120px; background:#F2C230; color:#14233C; font-weight:800; font-size:54px; letter-spacing:0.12em; display:flex; align-items:center; white-space:nowrap; overflow:hidden; box-shadow:0 12px 30px rgba(0,0,0,0.35); }
+  .lesson { background:rgba(28,46,74,0.9); border:2px solid var(--line); border-radius:30px; padding:34px 40px; font-size:42px; line-height:1.3; }
+</style>
+</head>
+<body>
+<div id="stage">
+<div id="cam">
+
+  <div class="siren" id="sirenR" style="left:-620px; top:420px; background:#E5484D"></div>
+  <div class="siren" id="sirenB" style="right:-620px; top:420px; background:#3E7BFA"></div>
+
+  <p class="brand">@emsalvarmi</p>
+
+  <!-- ====== S1 HOOK ====== -->
+  <section class="scene" id="s1">
+    <h1 class="serif" id="h1a" style="font-size:96px; font-weight:600; line-height:1.05; letter-spacing:-0.01em">İkinci el araba aldınız.</h1>
+    <p id="h1b" style="margin-top:26px; font-size:50px; font-weight:500; color:var(--muted)">Ekspertizden de temiz çıktı.</p>
+    <p id="h1c" style="margin-top:56px; font-size:66px; font-weight:700; line-height:1.15">8 ay sonra polis arıyor…</p>
+    <div class="center" style="top:1010px">
+      <div id="car1" style="position:relative">
+        <svg width="860" height="373" viewBox="0 0 600 260" aria-hidden="true">
+          <ellipse cx="300" cy="238" rx="270" ry="16" fill="rgba(0,0,0,0.35)"></ellipse>
+          <path d="M40 172 Q40 142 72 137 L172 126 Q212 80 262 70 L382 70 Q432 72 472 120 L542 130 Q572 136 572 166 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#E9EDF3"></path>
+          <path d="M40 182 L572 182 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#C9D1DC"></path>
+          <path d="M204 124 Q232 90 266 84 L322 84 L322 124 Z" fill="#1C2E4A"></path>
+          <path d="M336 84 L378 84 Q410 86 440 124 L336 124 Z" fill="#1C2E4A"></path>
+          <line x1="329" y1="84" x2="329" y2="196" stroke="#C9D1DC" stroke-width="4"></line>
+          <rect x="296" y="138" width="24" height="6" rx="3" fill="#A9B4C6"></rect>
+          <rect x="400" y="138" width="24" height="6" rx="3" fill="#A9B4C6"></rect>
+          <rect x="548" y="146" width="22" height="12" rx="5" fill="#F7D774"></rect>
+          <rect x="42" y="148" width="14" height="14" rx="4" fill="#E5484D"></rect>
+          <circle cx="152" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="152" cy="204" r="20" fill="#A9B4C6"></circle>
+          <circle cx="462" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="462" cy="204" r="20" fill="#A9B4C6"></circle>
+        </svg>
+        <div id="stamp1" style="position:absolute; left:50%; top:46%; transform:translate(-50%,-50%) rotate(-10deg); border:12px solid var(--red); color:var(--red); font-size:120px; font-weight:800; letter-spacing:0.08em; padding:6px 40px; border-radius:18px; background:rgba(20,35,60,0.25); opacity:0">ÇALINTI</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== S2 STORY ====== -->
+  <section class="scene" id="s2">
+    <p style="font-size:30px; font-weight:600; letter-spacing:0.16em; color:var(--gold)">NE OLDU?</p>
+    <div style="position:relative; height:180px; margin-top:22px">
+      <h2 class="serif" id="t2a" style="position:absolute; font-size:84px; font-weight:600">1. İlanı buldu.</h2>
+      <h2 class="serif" id="t2b" style="position:absolute; font-size:84px; font-weight:600; opacity:0">2. Ekspertize götürdü.</h2>
+      <h2 class="serif" id="t2c" style="position:absolute; font-size:84px; font-weight:600; opacity:0">3. Noterde satın aldı.</h2>
+    </div>
+    <!-- card 1: listing -->
+    <div class="card" id="c2a">
+      <div style="height:300px; border-radius:26px; background:linear-gradient(160deg,#DCE3EC,#C2CCD8); display:flex; align-items:center; justify-content:center">
+        <svg width="460" height="200" viewBox="0 0 600 260" aria-hidden="true"><path d="M40 172 Q40 142 72 137 L172 126 Q212 80 262 70 L382 70 Q432 72 472 120 L542 130 Q572 136 572 166 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#FFFFFF"></path><path d="M204 124 Q232 90 266 84 L322 84 L322 124 Z" fill="#1C2E4A"></path><path d="M336 84 L378 84 Q410 86 440 124 L336 124 Z" fill="#1C2E4A"></path><circle cx="152" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="152" cy="204" r="20" fill="#A9B4C6"></circle><circle cx="462" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="462" cy="204" r="20" fill="#A9B4C6"></circle></svg>
+      </div>
+      <p style="margin-top:30px; font-size:40px; font-weight:600">İkinci el sedan · 2012 model</p>
+      <div style="margin-top:18px; display:flex; justify-content:space-between; align-items:center">
+        <p style="font-size:64px; font-weight:800">45.000 TL</p>
+        <p style="font-size:30px; font-weight:600; color:#1F9D6B; background:#E3F5EC; padding:10px 22px; border-radius:999px">Ekspertizli</p>
+      </div>
+    </div>
+    <!-- card 2: report -->
+    <div class="card" id="c2b" style="opacity:0">
+      <p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#5B6576">EKSPERTİZ RAPORU</p>
+      <div style="margin-top:20px">
+        <div class="chk" id="k1"><div class="tick"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"></path></svg></div>Kaporta</div>
+        <div class="chk" id="k2"><div class="tick"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"></path></svg></div>Motor</div>
+        <div class="chk" id="k3"><div class="tick"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"></path></svg></div>Mekanik</div>
+      </div>
+      <div id="ok2" style="margin-top:26px; text-align:center; font-size:56px; font-weight:800; color:#1F9D6B; border:6px solid #1F9D6B; border-radius:16px; padding:10px 0; transform:rotate(-3deg)">SORUN YOK</div>
+    </div>
+    <!-- card 3: notary -->
+    <div class="card" id="c2c" style="opacity:0; text-align:center">
+      <p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#5B6576">ARAÇ SATIŞ SÖZLEŞMESİ</p>
+      <div style="margin:34px auto 0; width:330px; height:330px; position:relative" id="seal">
+        <svg width="330" height="330" viewBox="0 0 330 330" aria-hidden="true">
+          <circle cx="165" cy="165" r="150" fill="none" stroke="#14233C" stroke-width="10"></circle>
+          <circle cx="165" cy="165" r="118" fill="none" stroke="#14233C" stroke-width="4"></circle>
+          <text x="165" y="150" text-anchor="middle" font-family="Inter" font-weight="800" font-size="56" fill="#14233C">NOTER</text>
+          <text x="165" y="205" text-anchor="middle" font-family="Inter" font-weight="600" font-size="30" fill="#14233C">ONAYLI SATIŞ</text>
+        </svg>
+      </div>
+      <p style="margin-top:26px; font-size:44px; font-weight:600">Mayıs 2020</p>
+    </div>
+  </section>
+
+  <!-- ====== S3 TWIST ====== -->
+  <section class="scene" id="s3">
+    <h2 class="serif" id="t3a" style="font-size:150px; font-weight:600; font-style:italic; color:var(--gold)">Ama…</h2>
+    <p id="t3b" style="margin-top:30px; font-size:62px; font-weight:700; line-height:1.18">Araç çalıntıydı ve kimliği değiştirilmişti.</p>
+    <div class="center" style="top:1000px">
+      <div style="position:relative">
+        <svg width="820" height="356" viewBox="0 0 600 260" aria-hidden="true">
+          <path d="M40 172 Q40 142 72 137 L172 126 Q212 80 262 70 L382 70 Q432 72 472 120 L542 130 Q572 136 572 166 L572 192 Q572 204 560 204 L52 204 Q40 204 40 192 Z" fill="#E9EDF3"></path>
+          <path d="M204 124 Q232 90 266 84 L322 84 L322 124 Z" fill="#1C2E4A"></path>
+          <path d="M336 84 L378 84 Q410 86 440 124 L336 124 Z" fill="#1C2E4A"></path>
+          <circle cx="152" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="152" cy="204" r="20" fill="#A9B4C6"></circle>
+          <circle cx="462" cy="204" r="42" fill="#0E1A2D"></circle><circle cx="462" cy="204" r="20" fill="#A9B4C6"></circle>
+        </svg>
+        <div style="position:absolute; left:50%; top:-120px; transform:translateX(-50%); background:#0C1626; border:3px solid var(--line); border-radius:20px; padding:16px 30px; text-align:center">
+          <p style="font-size:26px; font-weight:600; letter-spacing:0.14em; color:var(--muted)">ŞASİ NO</p>
+          <p id="vin" style="font-family:'Courier New', monospace; font-size:46px; font-weight:700; letter-spacing:0.06em; color:#fff">NMT8Y3K42C0071355</p>
+        </div>
+      </div>
+    </div>
+    <div class="tape" id="tape1" style="top:1420px; transform:rotate(-6deg)">EL KONULDU · EL KONULDU · EL KONULDU · EL KONULDU · EL KONULDU ·</div>
+  </section>
+
+  <!-- ====== S4 QUIZ ====== -->
+  <section class="scene" id="s4">
+    <p style="font-size:30px; font-weight:600; letter-spacing:0.16em; color:var(--gold)">SİZCE?</p>
+    <h2 class="serif" id="q4" style="margin-top:22px; font-size:96px; font-weight:600; line-height:1.05">Zararı kim öder?</h2>
+    <div class="opt" id="optA" style="top:690px">
+      <div class="badge">A</div>
+      <div><p style="font-size:50px; font-weight:700">Alıcı katlanır.</p><p style="margin-top:8px; font-size:34px; color:var(--muted)">Satıcı iyi niyetliydi.</p></div>
+    </div>
+    <div class="opt" id="optB" style="top:980px">
+      <div class="badge" id="badgeB">B</div>
+      <div><p style="font-size:50px; font-weight:700">Satıcı öder.</p><p style="margin-top:8px; font-size:34px; color:var(--muted)">Kusuru olmasa bile.</p></div>
+    </div>
+    <div class="center" style="top:1270px" id="ringWrap">
+      <div style="position:relative; width:170px; height:170px">
+        <svg width="170" height="170" viewBox="0 0 170 170" aria-hidden="true" style="transform:rotate(-90deg)">
+          <circle cx="85" cy="85" r="74" fill="none" stroke="#2A3B57" stroke-width="12"></circle>
+          <circle id="ring" cx="85" cy="85" r="74" fill="none" stroke="#D2AE66" stroke-width="12" stroke-linecap="round" stroke-dasharray="465" stroke-dashoffset="0"></circle>
+        </svg>
+        <p id="count" style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-size:84px; font-weight:800">3</p>
+      </div>
+    </div>
+    <p id="cta4" style="position:absolute; left:0; right:0; top:1468px; text-align:center; font-size:36px; font-weight:600; color:var(--muted)">Cevabınızı yorumlara yazın</p>
+  </section>
+
+  <!-- ====== S5 REVEAL ====== -->
+  <section class="scene" id="s5">
+    <p style="font-size:30px; font-weight:600; letter-spacing:0.16em; color:var(--gold)">YARGITAY'IN CEVABI</p>
+    <h2 class="serif" id="r5a" style="margin-top:22px; font-size:132px; font-weight:600; line-height:1">Cevap: B</h2>
+    <p id="r5b" style="margin-top:34px; font-size:60px; font-weight:700; line-height:1.18">Satıcı öder. Kusuru olmasa bile.</p>
+    <p id="r5c" style="margin-top:24px; font-size:34px; color:var(--muted); line-height:1.35">Çalıntı araca el konulması "zapta karşı tekeffül" hâlidir; satıcının sorumluluğu kusursuzdur (TBK m. 214–218).</p>
+    <div id="r5d" style="position:absolute; left:80px; right:80px; top:930px; background:#FFFFFF; color:var(--navy); border-radius:36px; padding:40px 44px; box-shadow:0 30px 80px rgba(0,0,0,0.35)">
+      <p style="font-size:30px; font-weight:700; letter-spacing:0.14em; color:#7E6026">ÜSTELİK</p>
+      <p style="margin-top:14px; font-size:44px; font-weight:600; line-height:1.3">Alıcı yalnızca ödediği <span style="text-decoration:line-through; color:#8A94A6">45.000 TL</span>'yi değil, aracın el konulduğu tarihteki <span style="color:#7E6026">gerçek değerini</span> isteyebilir.</p>
+    </div>
+  </section>
+
+  <!-- ====== S6 CITATION ====== -->
+  <section class="scene" id="s6">
+    <p style="font-size:30px; font-weight:600; letter-spacing:0.16em; color:var(--gold)">KARAR</p>
+    <h2 class="serif" id="c6a" style="margin-top:22px; font-size:80px; font-weight:600; line-height:1.08">Yargıtay 3. Hukuk Dairesi</h2>
+    <p id="c6b" style="margin-top:22px; font-size:38px; color:var(--muted)">18.06.2026 · E. 2026/351 · K. 2026/3940</p>
+    <p id="c6c" style="margin-top:12px; font-size:34px; color:var(--muted)">Karar oy çokluğuyla verildi.</p>
+    <div style="margin-top:80px; display:flex; flex-direction:column; gap:26px">
+      <div class="lesson" id="l1"><span style="color:var(--gold); font-weight:700">Ekspertiz her şeyi göstermez.</span> Bu davada rapor temizdi.</div>
+      <div class="lesson" id="l2"><span style="color:var(--gold); font-weight:700">Belgeleri saklayın.</span> Noter senedi ve ödeme kayıtları hakkınızı korur.</div>
+    </div>
+  </section>
+
+  <!-- ====== S7 OUTRO ====== -->
+  <section class="scene" id="s7" style="text-align:center">
+    <div style="position:absolute; left:0; right:0; top:560px; display:flex; flex-direction:column; align-items:center">
+      <p class="serif" id="o7a" style="font-size:260px; font-weight:600; line-height:1; letter-spacing:-0.02em">E<span style="font-style:italic; color:var(--gold)">?</span></p>
+      <p id="o7b" style="margin-top:40px; font-size:60px; font-weight:700">@emsalvarmi</p>
+      <p id="o7c" style="margin-top:22px; font-size:40px; color:var(--muted)">Her gün bir Yargıtay kararı, sade bir dille.</p>
+      <p id="o7d" style="margin-top:60px; font-size:44px; font-weight:700; color:#14233C; background:var(--gold); padding:22px 54px; border-radius:999px">Takip edin, kaçırmayın</p>
+      <p id="o7e" style="margin-top:110px; font-size:28px; color:var(--muted)">Bu paylaşım genel bilgilendirme amaçlıdır.</p>
+    </div>
+  </section>
+
+</div>
+</div>
+<script>
+  const DURATION = 32.5;
+  const scenes = [
+    { id:'s1', start:0,    end:3.5 },
+    { id:'s2', start:3.5,  end:9.7 },
+    { id:'s3', start:9.7,  end:13.3 },
+    { id:'s4', start:13.3, end:19.5 },
+    { id:'s5', start:19.5, end:25.7 },
+    { id:'s6', start:25.7, end:29.5 },
+    { id:'s7', start:29.5, end:DURATION + 1 },
+  ];
+  const clamp = (x) => Math.min(1, Math.max(0, x));
+  const prog = (t, s, d) => clamp((t - s) / d);
+  const easeOut = (x) => 1 - Math.pow(1 - x, 3);
+  const easeInOut = (x) => x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+  const back = (x) => { const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+  const $ = (id) => document.getElementById(id);
+  const anims = [];
+  const A = (id, s, d, fn) => anims.push({ el: $(id), s, d, fn });
+
+  const fadeUp = (el, p) => { const e = easeOut(p); el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 46}px)`; };
+  const pop = (el, p) => { el.style.opacity = clamp(p * 2.2); el.style.transform = `scale(${0.8 + 0.2 * back(p)})`; };
+  const fade = (el, p) => { el.style.opacity = p; };
+
+  // S1
+  A('h1a', 0.0, 0.01, fade);
+  A('car1', 0.0, 0.01, fade);
+  A('h1b', 0.7, 0.45, fadeUp);
+  A('h1c', 1.4, 0.45, fadeUp);
+  A('stamp1', 2.3, 0.28, (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `translate(-50%,-50%) rotate(-10deg) scale(${2.2 - 1.2 * easeOut(p)})`; });
+  // S2: three beats
+  const beats = [['t2a','c2a',3.5,5.6],['t2b','c2b',5.6,7.65],['t2c','c2c',7.65,9.7]];
+  beats.forEach(([h, c, s, e], i) => {
+    anims.push({ el: $(h), s, d: e - s, fn: (el, p, t) => {
+      const inn = i === 0 ? 1 : easeOut(prog(t, s, 0.35)); const out = i === 2 ? 0 : easeInOut(prog(t, e - 0.3, 0.3));
+      el.style.opacity = t < s ? 0 : Math.min(inn, 1 - out); el.style.transform = `translateX(${(1 - inn) * 80 - out * 80}px)`; } });
+    anims.push({ el: $(c), s, d: e - s, fn: (el, p, t) => {
+      const inn = easeOut(prog(t, s + (i === 0 ? 0.15 : 0.05), 0.45)); const out = i === 2 ? 0 : easeInOut(prog(t, e - 0.3, 0.3));
+      el.style.opacity = t < s ? 0 : Math.min(inn, 1 - out); el.style.transform = `translateX(${(1 - inn) * 700 - out * 700}px) rotate(${(1 - inn) * 4}deg)`; } });
+  });
+  A('k1', 6.0, 0.3, pop); A('k2', 6.3, 0.3, pop); A('k3', 6.6, 0.3, pop);
+  A('ok2', 6.95, 0.3, (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `rotate(-3deg) scale(${1.8 - 0.8 * easeOut(p)})`; });
+  A('seal', 8.15, 0.3, (el, p) => { el.style.opacity = clamp(p * 3); el.style.transform = `scale(${1.9 - 0.9 * easeOut(p)}) rotate(${-12 + 12 * easeOut(p)}deg)`; });
+  // S3
+  A('t3a', 9.75, 0.4, pop);
+  A('t3b', 10.2, 0.45, fadeUp);
+  anims.push({ el: $('vin'), s: 10.4, d: 0.9, fn: (el, p, t) => {
+    const A1 = 'NMT8Y3K42C0071355', B1 = 'WDX2R7P19F4408826', chars = 'ABCDEFGHJKLMNPRSTUVWXYZ0123456789';
+    if (p <= 0) { el.textContent = A1; el.style.color = '#fff'; return; }
+    if (p >= 1) { el.textContent = B1; el.style.color = '#E5484D'; return; }
+    let seed = Math.floor(t * 30); let out = '';
+    for (let i = 0; i < A1.length; i++) { seed = (seed * 9301 + 49297 + i * 7) % 233280; out += (i / A1.length < p - 0.15) ? B1[i] : chars[seed % chars.length]; }
+    el.textContent = out; el.style.color = '#F2C230'; } });
+  A('tape1', 11.5, 0.35, (el, p) => { const e = easeOut(p); el.style.opacity = clamp(p * 4); el.style.transform = `rotate(-6deg) translateX(${(1 - e) * -1300}px)`; });
+  // S4
+  A('q4', 13.4, 0.45, fadeUp);
+  A('optA', 14.0, 0.45, (el, p) => { const e = easeOut(p); el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * -120}px)`; });
+  A('optB', 14.3, 0.45, (el, p) => { const e = easeOut(p); el.style.opacity = e; el.style.transform = `translateX(${(1 - e) * 120}px)`; });
+  A('ringWrap', 15.0, 0.4, pop);
+  A('cta4', 15.2, 0.4, fade);
+  anims.push({ el: $('ring'), s: 15.6, d: 3.0, fn: (el, p) => { el.style.strokeDashoffset = 465 * p; } });
+  anims.push({ el: $('count'), s: 15.6, d: 3.0, fn: (el, p, t) => {
+    const n = p >= 1 ? 0 : 3 - Math.floor(p * 3); el.textContent = n === 0 ? '!' : String(n);
+    const ph = (p * 3) % 1; el.style.transform = `scale(${1 + 0.25 * Math.max(0, 1 - ph * 4)})`; } });
+  // S5
+  A('r5a', 19.6, 0.4, pop);
+  A('r5b', 20.2, 0.45, fadeUp);
+  A('r5c', 20.9, 0.45, fadeUp);
+  A('r5d', 22.5, 0.5, (el, p) => { const e = easeOut(p); el.style.opacity = e; el.style.transform = `translateY(${(1 - e) * 120}px) scale(${0.96 + 0.04 * e})`; });
+  // S6
+  A('c6a', 25.8, 0.45, fadeUp); A('c6b', 26.1, 0.45, fadeUp); A('c6c', 26.3, 0.45, fadeUp);
+  A('l1', 26.9, 0.45, fadeUp); A('l2', 27.6, 0.45, fadeUp);
+  // S7
+  A('o7a', 29.6, 0.5, pop); A('o7b', 30.0, 0.45, fadeUp); A('o7c', 30.3, 0.45, fadeUp); A('o7d', 30.8, 0.4, pop); A('o7e', 31.2, 0.4, fade);
+
+  function seek(t) {
+    for (const sc of scenes) {
+      const el = $(sc.id);
+      let o = 0;
+      if (t >= sc.start && t < sc.end) {
+        const fin = sc.start === 0 ? 1 : prog(t, sc.start, 0.25);
+        const fout = 1 - prog(t, sc.end - 0.25, 0.25);
+        o = Math.min(fin, fout);
+      }
+      el.style.opacity = o;
+      el.style.visibility = o > 0 ? 'visible' : 'hidden';
+    }
+    for (const a of anims) a.fn(a.el, prog(t, a.s, a.d), t);
+
+    // quiz result styling (S4 end -> S5 uses it implicitly)
+    const reveal = prog(t, 18.6, 0.4);
+    $('optA').style.borderColor = '#3A4A64';
+    if (t >= 18.6 && t < 19.5) {
+      $('optA').style.opacity = 1 - 0.65 * reveal;
+      $('optB').style.borderColor = '#D2AE66';
+      $('optB').style.boxShadow = `0 0 ${60 * reveal}px rgba(210,174,102,${0.55 * reveal})`;
+      $('badgeB').style.background = '#D2AE66'; $('badgeB').style.color = '#14233C'; $('badgeB').style.borderColor = '#D2AE66';
+    } else if (t < 18.6) {
+      $('optB').style.borderColor = '#3A4A64'; $('optB').style.boxShadow = 'none';
+      $('badgeB').style.background = '#14233C'; $('badgeB').style.color = '#fff'; $('badgeB').style.borderColor = '#A9B4C6';
+    }
+
+    // sirens in hook (1.4–3.5) and twist (11.5–13.3)
+    const sirenOn = (t >= 1.4 && t < 3.5) || (t >= 11.5 && t < 13.3);
+    const ph = Math.sin(t * Math.PI * 4);
+    $('sirenR').style.opacity = sirenOn ? (0.32 * Math.max(0, ph)) : 0;
+    $('sirenB').style.opacity = sirenOn ? (0.32 * Math.max(0, -ph)) : 0;
+
+    // camera: slow push + impact shakes
+    const sc = scenes.find((s) => t >= s.start && t < s.end) || scenes[scenes.length - 1];
+    const push = 1 + 0.035 * prog(t, sc.start, sc.end - sc.start);
+    let sx = 0, sy = 0;
+    for (const hit of [2.38, 11.62, 18.6, 19.6]) {
+      const k = t - hit;
+      if (k >= 0 && k < 0.35) { const amp = 18 * (1 - k / 0.35); sx += amp * Math.sin(k * 90); sy += amp * Math.cos(k * 70); }
+    }
+    $('cam').style.transform = `translate(${sx}px, ${sy}px) scale(${push})`;
+  }
+  window.DURATION = DURATION;
+  window.SCENES = scenes;
+  window.seek = seek;
+  seek(0);
+</script>
+</body>
+</html>
