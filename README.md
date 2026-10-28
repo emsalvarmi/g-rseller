@@ -73,7 +73,13 @@ Playwright ve ffmpeg gerekir. Çıktı: `reel.mp4`, `kapak.jpg`, `timeline.json`
 
 ### Okuma süresi kuralı
 
-Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime sayısından hesaplar: `max(1,8 sn; kelime × 0,38 sn + 1,0 sn)`. Aynı anda ekranda kalan metinler için sahne, toplam kelime × 0,34 sn + 1,2 sn'den önce bitmez. Bu yüzden senaryodaki metinleri kısa tutmak videoyu kısaltmanın tek yoludur; hedef toplam süre 60–80 sn.
+Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime sayısından hesaplar: `max(1,8 sn; kelime × 0,38 sn + 1,0 sn)`. Aynı anda ekranda kalan metinler için sahne, toplam kelime × 0,34 sn + 1,2 sn'den önce bitmez. Bu yüzden senaryodaki metinleri kısa tutmak videoyu kısaltmanın tek yoludur. Hedef toplam süre yaklaşık 60 sn (en fazla 65 sn). Bunun için:
+
+- `steps` en fazla 2 adım; kart metinleri 4–8 kelime.
+- `reveal` sahnesinde `detail` kullanmayın; madde numarasını Instagram açıklamasına yazın.
+- `lessons` tek madde (ör. `["Unutmayın:", "…"]`), çünkü cevap zaten `reveal` sahnesinde verildi.
+- `quiz` için `countdown: 4`.
+- Süre 65 sn'yi geçerse önce `lessons`, sonra `reveal.extra`, sonra `twist` metnini kısaltın.
 
 ### Senaryo biçimi
 
