@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "02.06.2026 · E. 2026/3669 · K. 2026/5928",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca, boşanma davası sürerken öldü.",
+        "Mirasçılar davaya devam etti: “Kadın kusurlu.”",
+        "Kusurlu çıkarsa kadın mirasçı olamayacak."
+      ],
+      "icon": "document"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mirasçılar davayı sürdürdü",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Davacı koca yargılamada öldü",
+            "value": "Kusur tespiti"
+          }
+        },
+        {
+          "title": "Mahkeme kadını tam kusurlu buldu",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE VE İSTİNAF",
+            "good": false,
+            "rows": [
+              "Eşini ailesiyle görüştürmedi",
+              "Çocuklarıyla iletişimini istemedi"
+            ],
+            "stamp": "TAM KUSURLU"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Evlilik yaklaşık 38 yıl sürmüştü. Kocanın çocukları da reşitti.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın kusurlu mu?",
+      "options": [
+        {
+          "title": "Evet, tam kusurlu",
+          "sub": "Ailesiyle görüştürmedi"
+        },
+        {
+          "title": "Hayır, kusursuz",
+          "sub": "İddia inandırıcı değil"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "38 yıl sorun etmeyip sonra dava açmak hakkın kötüye kullanılması. İddia hayatın olağan akışına aykırı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Sağ kalan eşin kusursuz olduğu tespit edilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusuru ispatlanan sağ kalan eş mirasçı olamaz (TMK m. 181/2)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "21.04.2026 · E. 2025/5548 · K. 2026/4435",
+  "note": "Oy çokluğuyla.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mısır'da evlendiler, Türkiye'de yaşıyorlar.",
+        "Mahkeme: “Bu evliliği tanımıyorum.”",
+        "Tanınmayan evlilikte boşanma olur mu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Yabancı iki eş Türkiye'de yaşıyor",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Mısır'da evlilik, 2012'den beri Türkiye",
+            "value": "2 çocuk",
+            "tag": "Kadın boşanmak istedi"
+          }
+        },
+        {
+          "title": "Mahkeme davayı usulden reddetti",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "RET",
+            "sealSub": "USULDEN",
+            "caption": "Çok eşliliğe izin veren hukuk kamu düzenine aykırı denildi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kimse evliliğin iptali davası açmamıştı. Kadın yalnızca boşanmak istiyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Mahkeme ne yapmalı?",
+      "options": [
+        {
+          "title": "Davayı reddetmeli",
+          "sub": "Evlilik tanınmıyor"
+        },
+        {
+          "title": "Boşanmayı incelemeli",
+          "sub": "Evlilik hâlâ geçerli"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Batıl bir evlilik bile hâkim kararına kadar geçerlidir. Mahkeme bunu kendiliğinden ele alamaz.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Eşler Türkiye'de yaşadığı için Türk hukuku uygulanır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Batıl evlilik ancak hâkim kararıyla sona erer (TMK m. 156)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

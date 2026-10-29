@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/736 · K. 2026/7351",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Eşinden, evin tapusunu babasına yazdırmasını istedi.",
+        "Mahkeme bunu “baskı” sayıp kusur yazdı.",
+        "İstemek kusur mu?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: tüm kusur erkekte",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE MAHKEMESİ",
+            "seal": "TAM",
+            "sealSub": "KUSUR: ERKEK",
+            "caption": "Kadının davası kabul, erkeğinki ret."
+          }
+        },
+        {
+          "title": "İstinaf: kadın da kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAFA GÖRE KADIN",
+            "good": false,
+            "rows": [
+              "Didim'deki ev babası adına olsun diye baskı yaptı"
+            ],
+            "stamp": "HAFİF KUSUR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Üstelik…",
+      "text": "Dosyadaki fotoğraf ve CD, erkeğin sadakatsizliğini gösteriyordu.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadının isteği kusur mu?",
+      "options": [
+        {
+          "title": "Evet, kusurdur",
+          "sub": "Eşine baskı yaptı"
+        },
+        {
+          "title": "Hayır, kusur değil",
+          "sub": "Sadece bir istek"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Bu bir istekti, baskı değil. Erkek tam kusurlu, kadın kusursuz.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Erkeğin boşanma davası reddedilmeli; kadının maddi tazminatı az."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "İstek ile baskı aynı şey değildir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

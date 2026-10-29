@@ -22,6 +22,11 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-30 | Yargıtay 2. HD, 15.09.2026, E. 2025/10470, K. 2026/8047 | Kişisel ilişki, çocuğun isteği (Reels) | planlandı 30.10 11:00 |
 | 2026-10-30 | Yargıtay 2. HD, 29.06.2026, E. 2026/245, K. 2026/7338 | Telefon kaydı (HTS) delili, eksik inceleme (Reels) | planlandı 30.10 12:00 |
 | 2026-10-30 | Yargıtay 2. HD, 29.06.2026, E. 2026/1444, K. 2026/7357 | Eşin ailesinin müdahalesi, kusur (Reels) | planlandı 30.10 13:00 |
+| 2026-10-30 | Yargıtay 2. HD, 21.04.2026, E. 2025/5548, K. 2026/4435 | Yabancıların boşanması, mutlak butlan (Reels) | planlandı 30.10 14:00 |
+| 2026-10-30 | Yargıtay 2. HD, 29.06.2026, E. 2026/736, K. 2026/7351 | Kusur belirlemesi, istek-baskı ayrımı (Reels) | planlandı 30.10 15:00 |
+| 2026-10-30 | Yargıtay 2. HD, 25.06.2026, E. 2026/427, K. 2026/7210 | Af, kusur belirlemesi (Reels) | planlandı 30.10 16:00 |
+| 2026-10-30 | Yargıtay 2. HD, 17.02.2026, E. 2025/7361, K. 2026/1811 | Manevi tazminat şartları (Reels) | planlandı 30.10 17:00 |
+| 2026-10-30 | Yargıtay 2. HD, 02.06.2026, E. 2026/3669, K. 2026/5928 | Ölen eşin mirasçılarının kusur tespiti (Reels) | planlandı 30.10 18:00 |
 
 ## Hazır ama henüz paylaşılmadı
 

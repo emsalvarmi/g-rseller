@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "17.02.2026 · E. 2025/7361 · K. 2026/1811",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Aynı evde “ev arkadaşı” gibi yaşadılar.",
+        "Koca tam kusurlu bulundu.",
+        "Kadın manevi tazminat alır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkek tam kusurlu bulundu",
+          "card": {
+            "kind": "check",
+            "title": "İSPATLANAN KUSURLAR",
+            "good": false,
+            "rows": [
+              "Eşine ve çocuğuna ilgisizdi",
+              "Aile terapisine sıcak bakmadı"
+            ],
+            "stamp": "TAM KUSURLU"
+          }
+        },
+        {
+          "title": "Kadına tazminat verildi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Maddi ve manevi tazminat",
+            "value": "40.000 + 40.000 TL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "“Cinsel şiddet” iddiası ispatlanamadı. Tanıklar yer ve zaman söylemedi.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Manevi tazminat verilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Erkek tam kusurlu"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Kişilik hakkına saldırı yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Manevi tazminat için kusur yetmez; olaylar kişilik haklarına saldırı niteliğinde olmalı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Manevi tazminat reddedilmeli. Kararın geri kalanı onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Manevi tazminat için kişilik hakkına saldırı gerekir (TMK m. 174/2)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

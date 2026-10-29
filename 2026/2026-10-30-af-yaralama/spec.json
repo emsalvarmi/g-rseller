@@ -1,0 +1,86 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "25.06.2026 · E. 2026/427 · K. 2026/7210",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın, üvey çocuklarını yaraladı.",
+        "Koca şikâyet etmedi, evliliğe devam etti.",
+        "Sonra bu olaya dayanıp boşanabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın hakkında ceza davası açıldı",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Erkeğin önceki evliliğinden çocuklar",
+            "value": "Yaralama",
+            "tag": "Ceza davası"
+          }
+        },
+        {
+          "title": "Erkek şikâyetçi olmadı",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "Olaydan sonra eşler evliliği sürdürdü."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Sonra…",
+      "text": "Erkek boşanma davası açtı. İstinaf mahkemesi boşanmaya karar verdi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu olay kadına kusur yazılır mı?",
+      "options": [
+        {
+          "title": "Evet, ağır kusur",
+          "sub": "Çocukları yaraladı"
+        },
+        {
+          "title": "Hayır, affedilmiş",
+          "sub": "Evlilik sürdü"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Şikâyet etmeyip evliliği sürdüren erkek olayı affetmiş sayılır.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Erkek eşine ve çocuğuna destek olmadı. Tam kusurlu, davası reddedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Affedilen olaylar kusur belirlemesinde dikkate alınmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
