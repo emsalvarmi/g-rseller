@@ -55,7 +55,8 @@ Hesabın ana içeriği 1080×1920 Reels videolarıdır. Her video bir JSON senar
 - `sablon/video/make_video.js`: sahneleri kare kare çekip H.264 videoya çevirir, sesi ekler, kapak görselini yazar.
 - `sablon/video/audio.py`: videonun zaman çizelgesinden telifsiz müzik ve efekt üretir (hazır ses dosyası kullanılmaz).
 - `sablon/video/ornek/*.json`: örnek senaryo.
-- Yayınlanan videolar: `2026/<YYYY-MM-DD>-<konu>/reel.mp4`, `kapak.jpg`, `spec.json`.
+- `sablon/video/medya.sh`: videoları tek bir `medya` dalına yükler ve herkese açık bağlantılarını yazdırır (aşağıya bakın).
+- Ana dalda (main) her video için yalnızca senaryo tutulur: `2026/<YYYY-MM-DD>-<konu>/spec.json` (ve gerekirse `aciklama.txt`). 29 Ekim 2026 ve öncesindeki videolar main'de duruyor; yenileri main'e eklenmez.
 
 ### Üretim
 
@@ -70,6 +71,25 @@ node video/make_video.js <spec.json> <çıktı-klasörü> ./node_modules
 ```
 
 Playwright ve ffmpeg gerekir. Çıktı: `reel.mp4`, `kapak.jpg`, `timeline.json`.
+
+### Yayınlama (depo büyümesin diye)
+
+Günde 15 video (yaklaşık 120 MB) main'e eklenirse depo birkaç haftada GitHub sınırlarına yaklaşır. Bu yüzden:
+
+1. Depoyu sığ klonlayın: `git clone --depth 1 --branch main https://github.com/emsalvarmi/g-rseller.git`.
+2. Videoları üretin (`reel.mp4`, `kapak.jpg` her biri kendi klasöründe, klasör adı `<YYYY-MM-DD>-<konu-ascii>`).
+3. `sablon/video/medya.sh <klasör>...` ile tüm günün videolarını tek seferde `medya` dalına yükleyin. Dal her çalıştırmada üzerine yazılır; komut her dosya için bağlantıyı ve HTTP kodunu yazdırır (200 olmalı).
+4. Hemen ardından Metricool'de planlayın ve yanıttaki `media` ile `videoThumbnailUrl` adreslerinin `static.metricool.com` olduğunu kontrol edin (Metricool dosyayı kopyalamış demektir).
+5. `spec.json` dosyalarını ve `paylasilanlar.md` güncellemesini main'e commit edip push edin.
+
+Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dalı kaldı, yok sayın.
+
+### Güncel yayın planı ve içerik talimatı
+
+- **Sıklık:** her gün 09:00'dan 23:00'e kadar saat başı 1 Reels (09:00, 10:00, …, 23:00; günde 15 video).
+- **Konu (kullanıcının 29.10.2026 talimatı, ikinci bir talimata kadar):** yalnızca aile hukuku kararları ve özellikle ilgi çekici konular. Örnek alanlar: aldatma ve sadakat, şiddet ve ekonomik şiddet, eşin ailesinin müdahalesi, sosyal medya ve telefon delilleri, kusur ve maddi-manevi tazminat, nafaka (tedbir, iştirak, yoksulluk; artırım, azaltım, kaldırma), velayet ve çocukla kişisel ilişki, düğün takıları ve ziynet, nişan ve hediyeler, mal rejimi ve katılma alacağı, mal kaçırma, aile konutu, soybağı ve babalık, koruma kararları (6284). Kararlar çoğunlukla Yargıtay 2. Hukuk Dairesi ve Hukuk Genel Kurulundan gelir.
+- Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:00–22:00) koyun.
+- Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
 ### Okuma süresi kuralı
 

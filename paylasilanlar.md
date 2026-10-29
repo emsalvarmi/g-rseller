@@ -20,4 +20,4 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 
 ## Hazır ama henüz paylaşılmadı
 
-- Yargıtay 3. HD, 18.06.2026, E. 2025/6145, K. 2026/3936 — boyası dökülen sıfır araç, ayıpsız misliyle değişim (Reels hazır: `2026/2026-10-29-sifir-arac-boya/`, açıklama metni Metricool'deki 29.10 21:00 taslağında). Kullanıcı 29.10'da "ikinci bir talimata kadar yalnızca aile hukuku" dediği için bekletiliyor; aile hukuku dışı içerik serbest bırakılınca kullanılabilir.
+- Yargıtay 3. HD, 18.06.2026, E. 2025/6145, K. 2026/3936 — boyası dökülen sıfır araç, ayıpsız misliyle değişim (Reels hazır: `2026/2026-10-29-sifir-arac-boya/`, açıklama metni aynı klasörde `aciklama.txt`). Kullanıcı 29.10'da "ikinci bir talimata kadar yalnızca aile hukuku" dediği için bekletiliyor; aile hukuku dışı içerik serbest bırakılınca kullanılabilir.
