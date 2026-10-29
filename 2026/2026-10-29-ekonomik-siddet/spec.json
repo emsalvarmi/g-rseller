@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2026/5630 · K. 2026/7434",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Evin geçimine katkı vermedi.",
+        "Mahkeme ise iki eşi eşit kusurlu buldu.",
+        "Eve para vermemek şiddet sayılır mı?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkeme iki eşi de kusurlu buldu",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE MAHKEMESİNE GÖRE",
+            "good": false,
+            "rows": [
+              "Kadın, eşinin çocuğuna hakaret etti",
+              "Erkek, ortak eve gelmedi"
+            ],
+            "stamp": "EŞİT KUSUR"
+          }
+        },
+        {
+          "title": "Kadının tazminat talebi reddedildi",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "RET",
+            "sealSub": "TAZMİNAT",
+            "caption": "Eşit kusurda tazminat yok."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek eşini aşağılamış, aileyle ilgilenmemiş, evin geçimine katkı vermemişti.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Eşler gerçekten eşit kusurlu mu?",
+      "options": [
+        {
+          "title": "Evet, eşit kusurlu",
+          "sub": "İkisinin de kusuru var"
+        },
+        {
+          "title": "Hayır, erkek daha kusurlu",
+          "sub": "Kadın tazminat almalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Evin geçimine katkı vermemek ekonomik şiddettir. Erkek ağır, kadın az kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına uygun miktarda maddi ve manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ekonomik şiddet de boşanmada kusur sayılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

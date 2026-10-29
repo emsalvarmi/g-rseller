@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "23.06.2026 · E. 2025/9563 · K. 2026/7000",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca arabasını sattı.",
+        "Aynı gün kayınvalide adına bir araba alındı.",
+        "Boşanırken bunun payı istenebilir mi?"
+      ],
+      "icon": "car"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Araba satıldı, yenisi kayınvalideye",
+          "card": {
+            "kind": "info",
+            "icon": "car",
+            "title": "Erkek adına olan araç satıldı",
+            "value": "01.12.2014",
+            "tag": "Aynı gün"
+          }
+        },
+        {
+          "title": "Mahkeme arabayı hesaba kattı",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "KABUL",
+            "sealSub": "KATILMA ALACAĞI",
+            "caption": "Satılan araba paylaşıma eklendi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Araba 2014'te satılmıştı, boşanma davası 2016'da açıldı. Mal kaçırma kastı da kanıtlanamadı.",
+      "icon": "car"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Satılan araba hesaba katılır mı?",
+      "options": [
+        {
+          "title": "Evet, katılır",
+          "sub": "Kayınvalide adına araba alındı"
+        },
+        {
+          "title": "Hayır, katılmaz",
+          "sub": "Kast ispatlanamadı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Araba, mal rejimi sona erdiğinde mevcut değildi ve payı azaltma kastı ispatlanamadı.",
+      "extra": {
+        "label": "KURAL",
+        "text": "Son bir yıldaki karşılıksız kazandırmalar ve kasıtlı devirler hesaba eklenir (TMK m. 229)."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Mal kaçırma iddiası delille ispatlanmalıdır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

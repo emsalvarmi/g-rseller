@@ -1,0 +1,85 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "09.09.2026 · E. 2025/676 · K. 2026/471",
+  "note": "Oy birliğiyle, kesin olarak.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Eşinin telefonunda aldatma mesajlarını gördü.",
+        "Ama çocuklar için aynı evde kalmaya devam etti.",
+        "Bu, affettiği anlamına mı gelir?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mesajları tesadüfen gördü",
+          "card": {
+            "kind": "info",
+            "icon": "phone",
+            "title": "Erkeğin anlatımına göre öğrendiği tarih",
+            "value": "Ocak 2020"
+          }
+        },
+        {
+          "title": "Kimse duymadan boşanmak istedi",
+          "card": {
+            "kind": "text",
+            "text": "Çocukları düşünerek anlaşmalı boşanmayı teklif etti. Aynı evde yaşamaya devam ettiler."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın “öğrendikten sonra birlikte yaşadık, affetti” dedi. Üstelik erkek eşine şiddet uygulamıştı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Aynı evde kalmak affetmek midir?",
+      "options": [
+        {
+          "title": "Evet, affetmiş sayılır",
+          "sub": "Birlikte yaşamaya devam etti"
+        },
+        {
+          "title": "Hayır, sayılmaz",
+          "sub": "Af başka davranışlar ister"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "GENEL KURULUN CEVABI",
+      "title": "Affetmiş sayılmaz.",
+      "text": "Sadece aynı evde yaşamak af değildir. Ayrı yataklarda yatıyorlardı.",
+      "extra": {
+        "label": "AMA",
+        "text": "Erkeğin şiddeti de kusurdu: Eşit kusurlu sayıldılar, tazminat yok."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Af için barışma, normal eş ilişkisine dönme gibi davranışlar gerekir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

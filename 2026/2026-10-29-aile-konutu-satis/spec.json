@@ -1,0 +1,94 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "16.09.2026 · E. 2025/730 · K. 2026/496",
+  "note": "Oy birliğiyle, kesin olarak.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşanma davası sürerken eşiniz evi sattı.",
+        "Yeni malik sizi evden çıkarmak istiyor.",
+        "Çıkmak zorunda mısınız?"
+      ],
+      "icon": "house",
+      "stamp": "SATILDI"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Ev aile konutu olarak korunuyordu",
+          "card": {
+            "kind": "seal",
+            "title": "BOŞANMA DAVASI SÜRERKEN",
+            "seal": "ŞERH",
+            "sealSub": "AİLE KONUTU",
+            "caption": "Tapuya aile konutu şerhi konuldu."
+          }
+        },
+        {
+          "title": "Diğer eş evi yine de sattı",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Tapuda satış",
+            "value": "Haziran 2021",
+            "tag": "Açık rıza yok"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Sonra…",
+      "text": "Alıcı dava açtı: Evden çıkın, ecrimisil ödeyin.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Mahkeme ne demeli?",
+      "options": [
+        {
+          "title": "Hemen çıksın",
+          "sub": "Tapu alıcının"
+        },
+        {
+          "title": "Hiç çıkmasın",
+          "sub": "Satış rızasız"
+        },
+        {
+          "title": "Boşanma kesinleşince çıksın",
+          "sub": "Koruma o zamana kadar"
+        }
+      ],
+      "answer": 2,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "GENEL KURULUN CEVABI",
+      "title": "Kesinleşince biter.",
+      "text": "Dava açıldığında ev aile konutuydu, oturmak haksız değildi. Koruma, boşanma kesinleşince bitti.",
+      "extra": {
+        "label": "BİLMENİZ GEREKEN",
+        "text": "Tapuda şerh olmasa da aile konutu korunur."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşin rızası olmadan aile konutu devredilemez (TMK m. 194)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
