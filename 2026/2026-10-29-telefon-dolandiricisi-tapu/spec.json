@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 1. Hukuk Dairesi",
+  "kunye": "17.09.2026 · E. 2026/5493 · K. 2026/6151",
+  "note": "Oy birliğiyle, kesin olarak.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Telefonda “operasyon var, aileniz tehlikede” dediler.",
+        "Korkuyla dairesini sattı.",
+        "Evini geri alabilir mi?"
+      ],
+      "icon": "call",
+      "stamp": "TUZAK",
+      "siren": true
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Uzun süre telefonla arandı",
+          "card": {
+            "kind": "chat",
+            "title": "DAVACININ ANLATIMINA GÖRE",
+            "messages": [
+              "Bir operasyon var.",
+              "Siz ve aileniz tehlikedesiniz.",
+              "Tapunuzda usulsüzlük var."
+            ]
+          }
+        },
+        {
+          "title": "Korku içinde dairesini sattı",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Tapuda satış bedeli",
+            "value": "1.850.000 TL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Alıcı dolandırıcı değildi. Evi ilanda gördü, pazarlık yaptı, parayı satıcının eşinin hesabına ödedi.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Evini geri alabilir mi?",
+      "options": [
+        {
+          "title": "Evet, alabilir",
+          "sub": "Korku altında sattı"
+        },
+        {
+          "title": "Hayır, alamaz",
+          "sub": "Alıcının bir suçu yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "MAHKEMELERİN CEVABI",
+      "title": "Alamadı.",
+      "text": "Dava reddedildi, Yargıtay kararı onadı.",
+      "extra": {
+        "label": "NEDEN?",
+        "text": "Alıcının dolandırıcılarla bağlantısı yoktu ve fiyat piyasa değerine yakındı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kamu görevlisi telefonda para ya da ev satışı istemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu videoyu anne ve babanıza gönderin."
+    }
+  ]
+}
