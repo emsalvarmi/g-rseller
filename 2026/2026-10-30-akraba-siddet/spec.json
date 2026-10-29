@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.03.2026 · E. 2025/8483 · K. 2026/3326",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kocasının ailesinden şiddet gördü.",
+        "Sonra onların eve gelmesini istemedi.",
+        "Bu, kadına kusur yazılır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: erkeğin davası reddedildi",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE MAHKEMESİ",
+            "seal": "RET",
+            "sealSub": "BOŞANMA",
+            "caption": "Kadının kusuru ispatlanamadı."
+          }
+        },
+        {
+          "title": "İstinaf: kadın da az kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAFA GÖRE",
+            "good": false,
+            "rows": [
+              "Erkek: eşine şiddet uyguladı",
+              "Kadın: kocasının ailesini eve istemedi"
+            ],
+            "stamp": "BOŞANDILAR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın, eve gelmesini istemediği kişilerden şiddet görmüştü.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın kusurlu mu?",
+      "options": [
+        {
+          "title": "Evet, az kusurlu",
+          "sub": "Akrabaları eve almadı"
+        },
+        {
+          "title": "Hayır, kusursuz",
+          "sub": "Bu tepkisel bir davranış"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Şiddet gördüğü kişileri eve istememek tepkiseldir, kusur sayılmaz. Erkek tam kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Tam kusurlu erkeğin boşanma davası reddedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kimse yalnızca kendi kusuruna dayanarak boşanamaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

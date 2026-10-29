@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "01.07.2026 · E. 2025/718 · K. 2026/429",
+  "note": "Oy çokluğuyla, kesin olarak.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "“Evi satarsam sana 12.300 dolar öderim.”",
+        "Eski koca evi hiç satmadı.",
+        "Parayı ödemek zorunda mı?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Anlaşmalı boşanma protokolü",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Ev satılırsa 15 gün içinde",
+            "value": "12.300 USD",
+            "tag": "2011"
+          }
+        },
+        {
+          "title": "Erkeğin savunması",
+          "card": {
+            "kind": "text",
+            "icon": "house",
+            "text": "“Evi satmadım, ödeme şartı gerçekleşmedi.”"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Boşanmanın üzerinden yıllar geçti. Erkek satışa hiç yanaşmadı.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Erkek parayı ödemeli mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Ev satılmadı, şart yok"
+        },
+        {
+          "title": "Evet, ödemeli",
+          "sub": "Şartı kendisi engelledi"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Ödemeli.",
+      "text": "Şartın gerçekleşmesini dürüstlüğe aykırı engelleyen için şart gerçekleşmiş sayılır.",
+      "extra": {
+        "label": "NEDEN?",
+        "text": "Bu madde, mal paylaşımına yönelik bir anlaşmaydı."
+      },
+      "kicker": "GENEL KURULUN CEVABI"
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Koşulu dürüstlüğe aykırı engelleyen için koşul gerçekleşmiş sayılır (TBK m. 175)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

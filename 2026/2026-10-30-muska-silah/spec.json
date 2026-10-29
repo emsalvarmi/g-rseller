@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "18.06.2026 · E. 2026/3731 · K. 2026/6854",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Baba, çocuğun ilaçlarını engelledi.",
+        "Elinde silahla fotoğrafını çekip anneye gönderdi.",
+        "Babayla görüşme kaldırılabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Çocuk babayı görmek istemedi",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "İdrak çağındaki çocuk, babasıyla görüşmek istemediğini gerekçeleriyle anlattı."
+          }
+        },
+        {
+          "title": "Tanıklara göre baba",
+          "card": {
+            "kind": "check",
+            "title": "DOSYAYA GÖRE",
+            "good": false,
+            "rows": [
+              "Tedaviye karşı çıktı",
+              "Çocuğa muska taktı",
+              "Silahlı fotoğrafını gönderdi"
+            ],
+            "stamp": "TEHLİKE"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf mahkemesi, kişisel ilişkinin kaldırılması davasını reddetti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Görüşme kaldırılmalı mı?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Baba-çocuk bağı korunmalı"
+        },
+        {
+          "title": "Evet, kaldırılmalı",
+          "sub": "Çocuğun üstün yararı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Çocuğun görüşü ve babanın davranışları birlikte değerlendirilince dava kabul edilmeliydi.",
+      "extra": {
+        "label": "ÖLÇÜT",
+        "text": "Çocuğun o anki değil, bütün hayatı gözetilir."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Çocuğun huzuru tehlikeye girerse kişisel ilişki kaldırılabilir (TMK m. 324)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

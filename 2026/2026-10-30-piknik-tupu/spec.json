@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/996 · K. 2026/6951",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın, eşini piknik tüpüyle yaraladı.",
+        "Erkek ise eşini tehdit ediyor, sık sık içiyordu.",
+        "Kadın yoksulluk nafakası alabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İstinafa göre kadın daha kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAFA GÖRE",
+            "good": false,
+            "rows": [
+              "Kadın: eşini yaraladı, eşyaları kırdı",
+              "Erkek: tehdit etti, alkol aldı"
+            ],
+            "stamp": "AĞIR KUSUR: KADIN"
+          }
+        },
+        {
+          "title": "Kadına nafaka verilmedi",
+          "card": {
+            "kind": "seal",
+            "title": "SONUÇ",
+            "seal": "RET",
+            "sealSub": "NAFAKA",
+            "caption": "Yoksulluk nafakası verilmedi; erkeğe tazminat verildi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Tanıklara göre erkeğin güven sarsıcı davranışları da vardı.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın nafaka alabilir mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Eşini yaraladı"
+        },
+        {
+          "title": "Evet, alabilir",
+          "sub": "Kusuru daha ağır değil"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Eşler eşit kusurlu. Erkeğe tazminat yok; geliri olmayan kadına yoksulluk nafakası verilmeli.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Nafakanın toptan ödenmesi de tartışılmalı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusuru daha ağır olmayan eş yoksulluk nafakası isteyebilir (TMK m. 175)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

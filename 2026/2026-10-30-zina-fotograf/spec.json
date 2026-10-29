@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "01.04.2026 · E. 2025/201 · K. 2026/200",
+  "note": "Oy çokluğuyla, kesin olarak.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kocanın başka kadınlarla fotoğrafları çıktı.",
+        "İstinaf: “Bu zina değil, güven sarsıcı davranış.”",
+        "Bu, zinayı ispatlar mı?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın zina nedeniyle boşanmak istedi",
+          "card": {
+            "kind": "info",
+            "icon": "phone",
+            "title": "Farklı kadınlarla, farklı zamanlarda",
+            "value": "Fotoğraflar",
+            "tag": "Tanık: kişi o"
+          }
+        },
+        {
+          "title": "Bir tanık da konuştu",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "Kadının tanığı, erkeğin başka bir kadınla birlikte olduğunu anlattı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf mahkemesi direndi: Fotoğraflar ve yazışmalar zinayı değil, güven sarsıcı davranışı gösterir.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Genel Kurul ne dedi?",
+      "options": [
+        {
+          "title": "Güven sarsıcı davranış",
+          "sub": "Zina ispatlanmadı"
+        },
+        {
+          "title": "Zina ispatlandı",
+          "sub": "Deliller birlikte yeterli"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Zina ispatlandı.",
+      "text": "Tüm deliller ve hayat tecrübesi birlikte değerlendirildi: Erkeğin zina yaptığı kabul edilmeli.",
+      "extra": {
+        "label": "AMA",
+        "text": "Karşı oya göre bu yalnızca güven sarsıcı davranıştı."
+      },
+      "kicker": "GENEL KURULUN CEVABI"
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Zina için salt şüphe yetmez; kuvvetli emareler gerekir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
