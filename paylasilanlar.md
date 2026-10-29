@@ -11,6 +11,8 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-28 | Yargıtay 3. HD, 18.06.2026, E. 2026/351, K. 2026/3940 | Aynı kararın kaydırmalı gönderisi | https://www.instagram.com/p/DfCwrADjVCj/ |
 | 2026-10-28 | Yargıtay 1. HD, 16.09.2026, E. 2026/1375, K. 2026/6040 | Ölünceye kadar bakma sözleşmesiyle tüm malvarlığının tek çocuğa devri, muris muvazaası | https://www.instagram.com/p/DfDCTj3CHT8/ |
 | 2026-10-29 | Yargıtay 2. HD, 30.06.2026, E. 2026/1776, K. 2026/7439 | Boşanmada düğün takıları ve evlilikte biriktirilen altınlar; hâkimin davayı aydınlatma yükümlülüğü (Reels) | planlandı 29.10 12:30 |
+| 2026-10-29 | Yargıtay 3. HD, 15.06.2026, E. 2026/2725, K. 2026/3805 | İhtiyaç nedeniyle tahliyede erken yapılan arabuluculuk başvurusu; süreç dava süresi içinde sonuçlanırsa şart sağlanır (Reels) | planlandı 29.10 18:30 |
+| 2026-10-29 | Yargıtay 3. HD, 18.06.2026, E. 2025/6145, K. 2026/3936 | Boyası dökülen sıfır araç; tüketicinin ayıpsız misliyle değişim hakkı, yalnızca bedel indirimi yetmez (Reels) | planlandı 29.10 21:00 |
 
 ## Hazır ama henüz paylaşılmadı
 

@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 3. Hukuk Dairesi",
+  "kunye": "18.06.2026 · E. 2025/6145 · K. 2026/3936",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Sıfır aldığınız aracın boyası dökülmeye başladı.",
+        "Bilirkişi: Üretim hatası.",
+        "Yenisini mi istersiniz, fark parasını mı?"
+      ],
+      "icon": "car"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Boya soyuldu, kaportada göçük çıktı",
+          "card": {
+            "kind": "check",
+            "title": "BİLİRKİŞİ RAPORU",
+            "rows": [
+              "Kullanım hatası değil",
+              "Üretimden kaynaklı ayıp"
+            ],
+            "stamp": "AYIPLI",
+            "good": false
+          }
+        },
+        {
+          "title": "Alıcı aracın yenisini istedi",
+          "card": {
+            "kind": "info",
+            "icon": "car",
+            "title": "Seçilen hak",
+            "value": "Ayıpsız misliyle değişim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf mahkemesi değişimi reddetti, yalnızca 19.050 TL bedel indirimine hükmetti.",
+      "icon": "money",
+      "tape": "SADECE FARK"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Fark parası yeterli mi?",
+      "options": [
+        {
+          "title": "Evet, fark yeter",
+          "sub": "Bedel indirimi yapılır"
+        },
+        {
+          "title": "Hayır, yenisi verilmeli",
+          "sub": "Seçim tüketicinin"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4,
+      "cta": "Cevabınızı yorumlara yazın"
+    },
+    {
+      "type": "reveal",
+      "kicker": "YARGITAY'IN CEVABI",
+      "title": "Bozuldu.",
+      "text": "Tüketici aracı ayıplarıyla kabul etmeye zorlanamaz. Değişim talebi kabul edilmeliydi.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Davalıların tüm temyiz itirazları reddedildi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Üretim kaynaklı ayıpta tüketicinin seçtiği hak gözetilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

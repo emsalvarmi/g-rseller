@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 3. Hukuk Dairesi",
+  "kunye": "15.06.2026 · E. 2026/2725 · K. 2026/3805",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Ev sahibi evi kendisi için geri istedi.",
+        "Arabulucuya dava süresi başlamadan gitti.",
+        "Tahliye davası şimdi açılabilir mi?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Başvuru süreden önce yapıldı",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Arabuluculuk başvurusu",
+            "value": "19 Mart",
+            "tag": "Dava süresi 1 Nisan'da başlıyor"
+          }
+        },
+        {
+          "title": "Tutanak süre içinde düzenlendi",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Anlaşamama tutanağı",
+            "value": "7 Nisan",
+            "tag": "Dava 15 Nisan'da açıldı"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derece mahkemesi davayı reddetti: Arabuluculuğa çok erken gidilmişti.",
+      "icon": "house",
+      "tape": "USULDEN RET"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Arabuluculuk şartı yerine geldi mi?",
+      "options": [
+        {
+          "title": "Hayır, başvuru erken",
+          "sub": "Dava reddedilmeli"
+        },
+        {
+          "title": "Evet, şart sağlandı",
+          "sub": "Süreç süre içinde bitti"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4,
+      "cta": "Cevabınızı yorumlara yazın"
+    },
+    {
+      "type": "reveal",
+      "kicker": "YARGITAY'IN CEVABI",
+      "title": "Şart sağlandı.",
+      "text": "Başvuru erken olsa da süreç dava süresi içinde bittiyse dava açılabilir.",
+      "extra": {
+        "label": "NEDEN?",
+        "text": "Kanunun amacı ve usul ekonomisi bunu gerektirir."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Arabuluculuk süreci dava açma süresi içinde sonuçlanmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}
