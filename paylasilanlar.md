@@ -17,6 +17,11 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-29 | Yargıtay 2. HD, 30.06.2026, E. 2026/5630, K. 2026/7434 | Evin geçimine katkı vermemek ekonomik şiddet; erkek ağır kusurlu, kadına tazminat (Reels) | planlandı 29.10 21:00 |
 | 2026-10-29 | Yargıtay HGK, 16.09.2026, E. 2025/730, K. 2026/496 | Boşanma sürerken satılan aile konutu; koruma boşanma kesinleşince biter, şerh açıklayıcıdır (Reels) | planlandı 29.10 22:00 |
 | 2026-10-29 | Yargıtay 2. HD, 23.06.2026, E. 2025/9563, K. 2026/7000 | Satılan araba ve kayınvalide adına alınan araç; TMK 229 eklenecek değer, kast ispatlanamadı (Reels) | planlandı 29.10 23:00 |
+| 2026-10-30 | Yargıtay 2. HD, 09.09.2026, E. 2026/5087, K. 2026/7879 | Yoksulluk nafakası, mirasın nafakaya etkisi (Reels) | planlandı 30.10 09:00 |
+| 2026-10-30 | Yargıtay 2. HD, 09.06.2026, E. 2026/23, K. 2026/6266 | Ziynet alacağı, banka kaydı ve tanık (Reels) | planlandı 30.10 10:00 |
+| 2026-10-30 | Yargıtay 2. HD, 15.09.2026, E. 2025/10470, K. 2026/8047 | Kişisel ilişki, çocuğun isteği (Reels) | planlandı 30.10 11:00 |
+| 2026-10-30 | Yargıtay 2. HD, 29.06.2026, E. 2026/245, K. 2026/7338 | Telefon kaydı (HTS) delili, eksik inceleme (Reels) | planlandı 30.10 12:00 |
+| 2026-10-30 | Yargıtay 2. HD, 29.06.2026, E. 2026/1444, K. 2026/7357 | Eşin ailesinin müdahalesi, kusur (Reels) | planlandı 30.10 13:00 |
 
 ## Hazır ama henüz paylaşılmadı
 

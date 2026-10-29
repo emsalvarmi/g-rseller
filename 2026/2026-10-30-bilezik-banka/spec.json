@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.06.2026 · E. 2026/23 · K. 2026/6266",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Düğünde 200 gram bilezik takıldı.",
+        "Kadın: “Kocam altınlarımı bozdurdu.”",
+        "Banka kaydı 151 gram gösteriyor. Kaç gram ödenir?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Düğünde 8 bilezik takıldı",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "8 adet × 25 gram",
+            "value": "200 gram",
+            "tag": "Tanıkla ispat"
+          }
+        },
+        {
+          "title": "Banka kaydı ortaya çıktı",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Erkeğin hesabından altın satışı",
+            "value": "151,54 gr",
+            "tag": "30.08.2018"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf mahkemesi yalnızca banka kaydındaki 151,54 gramı kabul etti.",
+      "icon": "gold"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Erkek kaç gram bilezik öder?",
+      "options": [
+        {
+          "title": "151,54 gram",
+          "sub": "Banka kaydı kadar"
+        },
+        {
+          "title": "200 gram",
+          "sub": "Takılanın tamamı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tanıklar, erkeğin altınları alıp bozdurduğunu doğruladı. Erkek aksini ispatlayamadı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Davanın tamamen kabulü gerekirdi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Tanık beyanı ve banka kaydı birlikte değerlendirilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/245 · K. 2026/7338",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "“Eşim başka biriyle görüşüyor.”",
+        "Mahkemeden tek bir numaranın sorgulanmasını istedi.",
+        "Mahkeme o numaraya bakmak zorunda mı?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkek belli bir numarayı gösterdi",
+          "card": {
+            "kind": "info",
+            "icon": "phone",
+            "title": "Erkeğin delil talebi",
+            "value": "GSM sorgusu",
+            "tag": "Tek numara"
+          }
+        },
+        {
+          "title": "Mahkeme başka numaralara baktı",
+          "card": {
+            "kind": "seal",
+            "title": "MAHKEMENİN İNCELEMESİ",
+            "seal": "EKSİK",
+            "sealSub": "İNCELEME",
+            "caption": "En sık görüşülen 5 numaraya bakıldı, o numaraya bakılmadı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Üstelik…",
+      "text": "Erkek ağır kusurlu sayıldı, kadına tazminat verildi.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Karar doğru",
+          "sub": "5 numara yeterli"
+        },
+        {
+          "title": "O numara da incelenmeli",
+          "sub": "Delil eksik kaldı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Gösterilen numaranın kaydı getirilmeli, tüm delillerle birlikte kusur yeniden belirlenmeli.",
+      "extra": {
+        "label": "NEDEN?",
+        "text": "Erkeğin sunduğu deliller değerlendirilmemişti."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Mahkeme, tarafın dayandığı delili tartışmadan karar veremez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

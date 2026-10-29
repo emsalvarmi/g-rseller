@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/1444 · K. 2026/7357",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kocanın ailesi evliliğe karıştı.",
+        "Koca ise sessiz kaldı.",
+        "Bu sessizlik kusur mu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadına iki kusur yüklendi",
+          "card": {
+            "kind": "check",
+            "title": "ÖNCEKİ MAHKEMELERE GÖRE",
+            "good": false,
+            "rows": [
+              "Aşırı kıskançtı",
+              "Kocasını işi yüzünden hor gördü"
+            ],
+            "stamp": "KUSURLU"
+          }
+        },
+        {
+          "title": "Erkek ailesine ses çıkarmadı",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "Tanıklara göre aile evliliğe müdahale etti, erkek sessiz kaldı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Üstelik…",
+      "text": "Erkeğin güven sarsıcı davranışları vardı. Hor görme iddiası ise duyuma dayanıyordu.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Sessiz kalan koca kusurlu mu?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Karışan ailesi, o değil"
+        },
+        {
+          "title": "Evet, kusurlu",
+          "sub": "Evlerini korumalıydı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Ailesinin müdahalesine sessiz kalan erkek kusurlu. Kadına yüklenen kusurlar ispatlanamadı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına verilen tazminat ve nafakalar az bulundu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşler, evin manevi bağımsızlığını korumalıdır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

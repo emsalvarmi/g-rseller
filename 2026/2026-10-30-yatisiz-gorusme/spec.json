@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "15.09.2026 · E. 2025/10470 · K. 2026/8047",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuklar babada yatıya kalmak istemedi.",
+        "Uzman raporu da yatısız görüşme önerdi.",
+        "Çocukların isteği dikkate alınır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Velayet anneye verildi",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Ortak çocuklar",
+            "value": "2011 ve 2013",
+            "tag": "Doğumlu"
+          }
+        },
+        {
+          "title": "Rapor: görüşme yatısız olsun",
+          "card": {
+            "kind": "check",
+            "title": "SOSYAL İNCELEME RAPORU",
+            "good": true,
+            "rows": [
+              "Her ayın 1. ve 3. haftası",
+              "Yatılı kalma aşamalı olsun"
+            ],
+            "stamp": "YATISIZ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkemenin kurduğu görüşme düzeni bu rapora ve çocukların isteğine uymuyordu.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Babayla görüşme nasıl olmalı?",
+      "options": [
+        {
+          "title": "Yatılı",
+          "sub": "Baba-çocuk bağı için"
+        },
+        {
+          "title": "Yatısız",
+          "sub": "Rapor ve çocukların isteği"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltildi.",
+      "text": "Her ayın 1. ve 3. hafta sonu cumartesi, 10.00–18.00 arası, yatısız görüşme.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Bayramların 2. günü ve Babalar Günü de aynı saatlerde."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kişisel ilişkide çocuğun yüksek yararı esastır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

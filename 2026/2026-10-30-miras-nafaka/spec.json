@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.09.2026 · E. 2026/5087 · K. 2026/7879",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşandıktan sonra eski eşine miras kaldı.",
+        "Eski koca: “Artık nafaka ödemem.”",
+        "Miras, nafakayı bitirir mi?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadına birden çok taşınmaz kaldı",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Boşanma kesinleştikten sonra",
+            "value": "Miras",
+            "tag": "İstanbul'da"
+          }
+        },
+        {
+          "title": "Mahkeme nafakayı kaldırdı",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "KALDIRILDI",
+            "sealSub": "NAFAKA",
+            "caption": "Yoksulluk sona erdi denildi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Evler hisseli mi, satılabilir mi, gelir getiriyor mu? Dosyadan anlaşılmıyordu.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Miras kalması nafakayı tek başına bitirir mi?",
+      "options": [
+        {
+          "title": "Evet, biter",
+          "sub": "Artık malı var"
+        },
+        {
+          "title": "Hayır, tek başına bitmez",
+          "sub": "Düzenli gelir sağlamalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Miras tek başına yetmez. Önemli olan sürekli, düzenli ve güvenceli gelir sağlaması.",
+      "extra": {
+        "label": "ŞİMDİ",
+        "text": "Evlerin değeri ve geliri araştırılıp yeniden karar verilecek."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Nafaka, yoksulluk tamamen ortadan kalkınca kaldırılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
