@@ -1,0 +1,85 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2026/7468 · K. 2026/7414",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Babaanne ve dede, torunu için dava açtı.",
+        "Mahkeme ayda bir hafta sonu, gündüz görüşme verdi.",
+        "Sizce torun dedesinde yatıya kalabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkeme: yalnızca gündüz",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE KARARI",
+            "good": false,
+            "rows": [
+              "Ayın 1. hafta sonu, 10.00–17.30",
+              "Bayramın 2. günü, gündüz"
+            ],
+            "stamp": "YATISIZ"
+          }
+        },
+        {
+          "title": "Hem anne hem dede temyiz etti",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Torun",
+            "value": "2017 doğumlu",
+            "tag": "Babaanne ve dede"
+          }
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Gündüz yeter",
+          "sub": "Anne itiraz ediyor"
+        },
+        {
+          "title": "Yatılı ve daha uzun",
+          "sub": "Sevgi bağı için"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltildi.",
+      "text": "Ayın ilk hafta sonu, cumartesi sabahtan pazar akşamına kadar yatılı görüşme.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Her yıl 1–7 Ağustos arası torun onlarda kalacak."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dede ve babaanne de torunla kişisel ilişki kurulmasını isteyebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

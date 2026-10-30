@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "10.09.2026 · E. 2025/5281 · K. 2026/7924",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    { "type": "hook", "lines": ["Boşanma davasından 2 ay önce araba aldı.", "Ama ruhsatı kardeşinin adına çıktı.", "Sizce araba paylaşıma girer mi?"], "icon": "car" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "Araç kocanın kardeşi adına", "card": { "kind": "info", "icon": "car", "title": "Boşanma davası: 16.09.2020", "value": "14.07.2020", "tag": "Alım tarihi" } },
+      { "title": "Koca: “Kardeşime borç verdim.”", "card": { "kind": "check", "title": "KADININ DELİLLERİ", "good": true, "rows": ["WhatsApp mesajları", "Kredi ve kart harcamaları", "HGS-OGS ödemeleri"], "stamp": "MAL KAÇIRMA?" } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Çift daha önce de evlenip boşanmıştı. Bu, ikinci evlilikleriydi.", "icon": "family" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Araç tasfiyeye girer mi?", "options": [ { "title": "Hayır", "sub": "Kayıt kardeşin adına" }, { "title": "Evet, girer", "sub": "Gerçek sahibi koca" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "Deliller aracın kocaya ait olduğunu gösterdi. Araç eklenecek değer sayılmalı.", "extra": { "label": "ÜSTELİK", "text": "Kredi kullanılan kısım hesapta gözetilecek." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Başkasının adına alınan mal da paylaşıma girebilir."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

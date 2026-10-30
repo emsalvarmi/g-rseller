@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "16.09.2026 · E. 2025/678 · K. 2026/489",
+  "note": "Oy çokluğuyla, kesin olarak.",
+  "scenes": [
+    { "type": "hook", "lines": ["47 yıllık eşi, aile evini habersiz sattı.", "Ev beş ay sonra ortak çocuklarına geçti.", "Sizce kadın evi geri alabilir mi?"], "icon": "house" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "Koca evi üçüncü kişiye sattı", "card": { "kind": "info", "icon": "house", "title": "Banka kredisi ve ipotekle", "value": "31.05.2018", "tag": "Eşin rızası yok" } },
+      { "title": "Ev sonra çocuğa devredildi", "card": { "kind": "info", "icon": "family", "title": "Son malik: ortak çocuk", "value": "02.11.2018", "tag": "Kredi ödenmedi" } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Yerel mahkeme direndi: “Çocuğu aldıysa annenin haberi, dolayısıyla rızası vardır.”", "icon": "gavel" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Haberdar olmak rıza sayılır mı?", "options": [ { "title": "Evet, sayılır", "sub": "Alan kendi çocuğu" }, { "title": "Hayır, açık rıza şart", "sub": "İspat satanlarda" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "kicker": "GENEL KURULUN CEVABI", "title": "Bozuldu.", "text": "Aile konutu, eşin açık rızası olmadan devredilemez. Rızayı satanlar ispatlamalı.", "extra": { "label": "ÜSTELİK", "text": "Kısa aralıklı, ucuz satışlar el birliğini gösterdi." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Tapuda şerh olmasa da aile konutu korunur."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

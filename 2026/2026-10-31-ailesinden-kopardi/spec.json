@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "09.09.2026 · E. 2025/454 · K. 2026/470",
+  "note": "Oy birliğiyle, kesin olarak.",
+  "scenes": [
+    { "type": "hook", "lines": ["Eşini ailesiyle telefonda bile görüştürmedi.", "Hakaret etti, şiddet uyguladı.", "Kadın da kusurluydu. Sizce kusurlar eşit mi?"], "icon": "family" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "İlk derece ve istinaf: eşit kusur", "card": { "kind": "check", "title": "MAHKEMEYE GÖRE", "good": false, "rows": ["Erkek: hakaret, şiddet, aileden koparma", "Kadın: evi sık sık terk, şiddet"], "stamp": "TAZMİNAT YOK" } },
+      { "title": "Yargıtay bozdu, istinaf direndi", "card": { "kind": "seal", "title": "BÖLGE ADLİYE MAHKEMESİ", "seal": "DİRENME", "sealSub": "EŞİT KUSUR", "caption": "Dosya Genel Kurula gitti." } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Tanıklar, kadının evlilik boyunca hakaret ve şiddet gördüğünü anlattı.", "icon": "family" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Genel Kurul ne dedi?", "options": [ { "title": "Eşit kusur", "sub": "Tazminat yok" }, { "title": "Erkek ağır kusurlu", "sub": "Kadına tazminat" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "kicker": "GENEL KURULUN CEVABI", "title": "Direnme bozuldu.", "text": "Sürekli hakaret ve şiddet ağır basar: Erkek ağır, kadın az kusurlu.", "extra": { "label": "SONUÇ", "text": "Kadına maddi ve manevi tazminat verilmeli." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Kusurlar sayıyla değil, ağırlığıyla tartılır."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}
