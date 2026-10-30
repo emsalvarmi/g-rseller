@@ -91,6 +91,22 @@ Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dal
 - Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:00–22:00) koyun.
 - Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
+### X (Twitter) planı (30.10.2026'dan itibaren)
+
+X hesabı (@emsalvarmi) Metricool'de aynı markaya bağlı (network: `twitter`). X için ek karar araştırılmaz; o günün Instagram'da yayınlanan 15 aile hukuku kararı kullanılır. Kullanıcının talimatı: "Sizce?" soru gönderileri şimdilik ASKIDA; aşağıdakiler otomatik yapılır.
+
+Her gün (Europe/Istanbul):
+- **3 "günün kararı" zinciri — 12:30, 18:30, 21:30.** Günün en çarpıcı 3 kararı. İlk tweet: merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ve o kararın Instagram videosu. Video için Instagram gönderisinin Metricool yanıtındaki `media` adresi (static.metricool.com/...mp4) kullanılır; medya dalına ayrıca yükleme gerekmez. Altına `descendants` ile 2–3 tweet: olay, mahkemenin kararı, Yargıtay'ın gerekçesi; son tweette künye (ör. "Y. 2. HD, 09.06.2026, E. 2026/23, K. 2026/6266" ya da "YHGK, …").
+- **5 tek tweetlik karar notu — 11:30, 14:30, 16:30, 20:00, 23:30.** Kalan kararlardan. Biçim: "Yargıtay: <kuralın tek-iki cümlelik özeti> (ilgili madde)." + boş satır + künye. Bilgi yalnızca kararın tam metninden ve o günün spec/açıklamasından alınır; abartı ve yorum yok.
+- **Pazar 20:30: haftalık bülten zinciri.** paylasilanlar.md'de son 7 günde paylaşılan kararlardan en ilgi çekici 5'i: ilk tweet "Haftanın 5 Yargıtay kararı (<tarih aralığı>) 🧵" + kısa konu listesi; sonra her karar için bir tweet (tek cümlelik kural + künye); son tweet "Bu paylaşım genel bilgilendirme amaçlıdır."
+
+Kurallar:
+- Her tweet en fazla 280 karakter (emoji 2 sayılır); göndermeden önce Python ile say.
+- Bağlantı (URL) koyma; hashtag kullanma ya da en fazla 1.
+- Reklam yasağı ve anonimlik kuralları aynen geçerli; taraf ismi, dosya ayrıntısı yok.
+- Metricool çağrısı: `providers [{"network":"twitter"}]`, `twitterData {"tags":[]}`, zincir için `descendants: [{"text": "...", "media": [], "mediaAltText": []}, ...]`.
+- X paylaşımları `paylasilanlar.md`'ye ayrıca yazılmaz (kararlar zaten Instagram satırlarında var).
+
 ### Okuma süresi kuralı
 
 Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime sayısından hesaplar: `max(1,8 sn; kelime × 0,38 sn + 1,0 sn)`. Aynı anda ekranda kalan metinler için sahne, toplam kelime × 0,34 sn + 1,2 sn'den önce bitmez. Bu yüzden senaryodaki metinleri kısa tutmak videoyu kısaltmanın tek yoludur. Hedef toplam süre yaklaşık 60 sn (en fazla 65 sn). Bunun için:
