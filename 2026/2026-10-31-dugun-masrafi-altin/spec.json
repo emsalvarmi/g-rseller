@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.06.2026 · E. 2026/1518 · K. 2026/6280",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    { "type": "hook", "lines": ["Düğün altınları bozduruldu, masraf ödendi.", "Mahkeme kadına 15.000 TL verdi.", "Sizce para mı, altının kendisi mi?"], "icon": "gold" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "Kadın: “Altınlarım kayınpederde.”", "card": { "kind": "info", "icon": "gold", "title": "Mehir ve düğün takıları", "value": "580 gram", "tag": "Kadının iddiası" } },
+      { "title": "Mahkeme paraya hükmetti", "card": { "kind": "seal", "title": "İLK DERECE MAHKEMESİ", "seal": "15.000 TL", "sealSub": "AYNEN İADE YOK", "caption": "Kayınpedere dava reddedildi." } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Bozdurulan altınlar bilirkişiyle belirlenmişti: 113,47 gram, 22 ayar bilezik.", "icon": "gold" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Kadın ne almalı?", "options": [ { "title": "15.000 TL", "sub": "Dava tarihindeki değer" }, { "title": "Altınların kendisi", "sub": "Olmazsa bedeli" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "Kadın altınların aynen iadesini istemişti. Bu talep gerekçesiz reddedilemezdi.", "extra": { "label": "ÜSTELİK", "text": "150 gram mehir için hiç hüküm kurulmamıştı." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Ziynet davasında paranın yanında altınların aynen iadesi de istenebilir."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

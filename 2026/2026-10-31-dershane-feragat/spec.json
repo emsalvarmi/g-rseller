@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "10.06.2026 · E. 2025/401 · K. 2026/364",
+  "note": "Oy birliğiyle, kesin olarak.",
+  "scenes": [
+    { "type": "hook", "lines": ["“Arabadan vazgeç, yoksa dershaneyi ödemem.”", "Kadın, arabadaki tedbiri kaldırttı.", "Sizce arabadaki hakkını kaybetti mi?"], "icon": "car", "stamp": "TEHDİT" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "Kadın katılma alacağı istedi", "card": { "kind": "info", "icon": "car", "title": "Kocanın adına kayıtlı araç", "value": "Yarı payı", "tag": "Evlilikte alındı" } },
+      { "title": "Mahkeme bunu feragat saydı", "card": { "kind": "seal", "title": "İLK DERECE MAHKEMESİ", "seal": "DİRENME", "sealSub": "FERAGAT", "caption": "Araç talebi reddedildi." } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Kadın ev hanımıydı, geliri yoktu. Çocuk üniversiteye hazırlanıyordu.", "icon": "family" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Bu feragat kadını bağlar mı?", "options": [ { "title": "Evet, bağlar", "sub": "Kendisi vazgeçti" }, { "title": "Hayır, bağlamaz", "sub": "Baskı altında verildi" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "kicker": "GENEL KURULUN CEVABI", "title": "Bozuldu.", "text": "Feragat açık ve şartsız olmalı. Ekonomik tehdit altındaki irade böyle değildi.", "extra": { "label": "ÜSTELİK", "text": "Barışırken yapılan eski feragat de davayı engellemedi." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Tehditle alınan vazgeçme, hakkı ortadan kaldırmaz."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

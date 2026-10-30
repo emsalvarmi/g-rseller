@@ -39,6 +39,11 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-31 | Yargıtay HGK, 01.07.2026, E. 2025/521, K. 2026/437 | Babalık davası; çocuğu başka erkek tanıyınca dava görülemez (Reels) | planlandı 31.10 19:15 |
 | 2026-10-31 | Yargıtay HGK, 16.09.2026, E. 2025/678, K. 2026/489 | Aile konutunun habersiz satışı ve çocuğa devri; açık rıza şartı (Reels) | planlandı 31.10 20:15 |
 | 2026-10-31 | Yargıtay HGK, 09.09.2026, E. 2025/454, K. 2026/470 | Eşini ailesinden koparma, hakaret ve şiddet; erkek ağır kusurlu, kadına tazminat (Reels) | planlandı 31.10 22:15 |
+| 2026-10-31 | Yargıtay 2. HD, 25.06.2026, E. 2026/4820, K. 2026/7213 | Mesajla bozulan nişan; elde kalan eşyanın bedeli istenemez, manevi tazminat reddi onandı (Reels) | planlandı 31.10 10:15 |
+| 2026-10-31 | Yargıtay 2. HD, 02.06.2026, E. 2025/10700, K. 2026/5931 | Telefon kayıtları, kaçma şüphesi ve duyuma dayalı tanık; eşit kusur, tazminat yok (Reels) | planlandı 31.10 11:15 |
+| 2026-10-31 | Yargıtay 2. HD, 09.06.2026, E. 2026/1518, K. 2026/6280 | Düğün masrafına bozdurulan altınlar; aynen iade talebi, mehir (Reels) | planlandı 31.10 16:15 |
+| 2026-10-31 | Yargıtay HGK, 10.06.2026, E. 2025/401, K. 2026/364 | Ekonomik tehditle yapılan feragat; katılma alacağı davası (Reels) | planlandı 31.10 18:15 |
+| 2026-10-31 | Yargıtay 2. HD, 29.06.2026, E. 2026/1428, K. 2026/7333 | Dava açıldıktan sonraki aldatma; ayrı dava konusu, erkek yine tam kusurlu (Reels) | planlandı 31.10 21:15 |
 
 ## Hazır ama henüz paylaşılmadı
 

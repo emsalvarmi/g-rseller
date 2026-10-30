@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "25.06.2026 · E. 2026/4820 · K. 2026/7213",
+  "note": "Oy birliğiyle.",
+  "scenes": [
+    { "type": "hook", "lines": ["Kadın: “Nişanı bir mesajla bozdu.”", "Erkek bir süre sonra başkasıyla evlendi.", "Nişanlı kız tazminat alabilir mi?"], "icon": "phone" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "Kadın tazminat davası açtı", "card": { "kind": "info", "icon": "phone", "title": "Nişan iki ay sürdü", "value": "Maddi + manevi", "tag": "İlk derece kabul etti" } },
+      { "title": "İstinaf manevi tazminatı reddetti", "card": { "kind": "seal", "title": "BÖLGE ADLİYE MAHKEMESİ", "seal": "RET", "sealSub": "MANEVİ TAZMİNAT", "caption": "Ağır zarar ispatlanamadı." } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Maddi tazminat istenen eşyaların hepsi kadının elinde kalmıştı.", "icon": "house" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Eşyaların parasını erkek öder mi?", "options": [ { "title": "Evet, öder", "sub": "Nişanı o bozdu" }, { "title": "Hayır, ödemez", "sub": "Eşyalar kadında" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "Elindeki eşyanın bedelini de almak, aynı değerden iki kez yararlanmak olur.", "extra": { "label": "ÜSTELİK", "text": "Manevi tazminatın reddi onandı." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Nişanın bozulması tek başına manevi tazminat doğurmaz."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

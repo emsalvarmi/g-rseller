@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/1428 · K. 2026/7333",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Tanık, kocayı bir kadınla el ele görmüş.",
+        "Ama bu, dava açıldıktan sonraymış.",
+        "Sizce aldatma kusuru sayılır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: erkek sadakatsiz, tam kusurlu",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE MAHKEMESİ",
+            "seal": "TAM KUSUR",
+            "sealSub": "ERKEK",
+            "caption": "Kadına maddi ve manevi tazminat."
+          }
+        },
+        {
+          "title": "Kadının tanığı ne gördü?",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Bir kadınla el ele",
+            "value": "Dava sonrası",
+            "tag": "Öncesini bilmiyor"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Dava öncesine dair ne tanığın bilgisi ne de başka bir delil vardı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Aldatma ispatlandı",
+          "sub": "Erkek tam kusurlu"
+        },
+        {
+          "title": "Bozulur",
+          "sub": "Aldatma ispatlanmadı"
+        },
+        {
+          "title": "Onanır",
+          "sub": "Erkek yine tam kusurlu"
+        }
+      ],
+      "answer": 2,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Onandı.",
+      "text": "Dava sonrası olaylar yeni dava konusudur. Ama erkek diğer kusurlarıyla yine tam kusurlu."
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dava açıldıktan sonraki olaylar o davada kusur sayılmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

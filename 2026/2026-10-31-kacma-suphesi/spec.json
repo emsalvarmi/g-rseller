@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "02.06.2026 · E. 2025/10700 · K. 2026/5931",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    { "type": "hook", "lines": ["Telefon kayıtları incelendi.", "Kadının başka bir erkekle kaçacağı şüphesi doğdu.", "Şiddet uygulayan koca mı daha kusurlu?"], "icon": "phone" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "İstinaf: erkek ağır kusurlu", "card": { "kind": "check", "title": "İSTİNAFA GÖRE", "good": false, "rows": ["Erkek: şiddet, tehdit, geçime katkısızlık", "Kadın: güven sarsıcı davranış"], "stamp": "KADINA TAZMİNAT" } },
+      { "title": "Telefon kayıtları ve tanıklar", "card": { "kind": "info", "icon": "phone", "title": "Güven sarsıcı eylemler", "value": "Yoğun", "tag": "Kaçma şüphesi" } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "Erkeğin hakaret ettiği ispatlanamadı: Tanık duyduğunu anlatıyordu.", "icon": "phone" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Yargıtay ne dedi?", "options": [ { "title": "Erkek ağır kusurlu", "sub": "Kadına tazminat" }, { "title": "Eşit kusurlu", "sub": "Tazminat yok" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "Kadının güven sarsıcı eylemleri süregelen ve yoğundu: Taraflar eşit kusurlu.", "extra": { "label": "SONUÇ", "text": "Eşit kusurlu eşe tazminat verilemez." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Duyuma dayalı tanık beyanı kusuru ispatlamaz."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}
