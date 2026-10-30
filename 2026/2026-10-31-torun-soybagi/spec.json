@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "23.06.2026 · E. 2026/4203 · K. 2026/6984",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Torun: “Dedem, babamın gerçek babası değil.”",
+        "Babası 1951'de evlilik içinde doğmuştu.",
+        "Sizce 73 yıl sonra soybağı değişir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Torun 2024'te dava açtı",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "İddia",
+            "value": "Gerçek dede başkası",
+            "tag": "Babalık tespiti"
+          }
+        },
+        {
+          "title": "Mahkeme: dava hakkın yok",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE VE İSTİNAF",
+            "good": false,
+            "rows": [
+              "Babalık davası sayıldı",
+              "Torunun dava hakkı yok"
+            ],
+            "stamp": "RET"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yargıtay'a göre bu bir soybağının reddi davasıydı ve torunun dava hakkı vardı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Sonuç ne oldu?",
+      "options": [
+        {
+          "title": "Dava kabul",
+          "sub": "Torunun dava hakkı var"
+        },
+        {
+          "title": "Yine ret",
+          "sub": "Süre çoktan geçmiş"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Ret onandı.",
+      "text": "Dava, dedenin 1991'deki ölümü öğrenildikten sonra 1 yıl içinde açılmalıydı.",
+      "extra": {
+        "label": "GEREKÇE",
+        "text": "Karar, gerekçesi değiştirilerek onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Soybağının reddinde süre kaçırılırsa hak düşer."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

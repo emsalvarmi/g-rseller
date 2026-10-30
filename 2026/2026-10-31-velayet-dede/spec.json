@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "03.06.2026 · E. 2025/9730 · K. 2026/5995",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuklar: “Annemizle kalmak istemiyoruz.”",
+        "Velayet, yurt dışında yaşayan babaya verildi.",
+        "Sizce çocuklar aslında kiminle yaşayacaktı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İstinaf velayeti babaya verdi",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAF KARARI",
+            "good": true,
+            "rows": [
+              "Çocuklar anneyi istemedi",
+              "Üç çocuğun velayeti babaya"
+            ],
+            "stamp": "BABAYA"
+          }
+        },
+        {
+          "title": "Baba yurt dışında yaşıyor",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Çocuklar fiilen",
+            "value": "Dede ve babaannede",
+            "tag": "Babanın ailesi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bir soruşturmada en küçük kardeş, dededen zaman zaman şiddet gördüğünü anlattı.",
+      "icon": "family",
+      "siren": true
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Velayet babada kalır mı?",
+      "options": [
+        {
+          "title": "Evet, kalır",
+          "sub": "Çocuklar böyle istedi"
+        },
+        {
+          "title": "Hayır, bozulur",
+          "sub": "Dede yönü araştırılmalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Dede hakkındaki soruşturma dosyası getirilmeli, çocuklar uzman eşliğinde yeniden dinlenmeli.",
+      "extra": {
+        "label": "İLKE",
+        "text": "Esas olan çocuğun üstün yararıdır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Üstün yararı gerektirirse çocuğun isteğine aykırı karar verilebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

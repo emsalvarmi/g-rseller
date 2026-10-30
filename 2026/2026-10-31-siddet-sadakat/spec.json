@@ -1,0 +1,17 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/1075 · K. 2026/6895",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    { "type": "hook", "lines": ["Koca, karısını darp etti.", "Kadın ise sadakatsizdi, çıplak fotoğraf paylaşmıştı.", "Sizce kim daha kusurlu?"], "icon": "phone" },
+    { "type": "steps", "kicker": "NE OLDU?", "items": [
+      { "title": "İlk derece: kadın daha ağır kusurlu", "card": { "kind": "check", "title": "İLK DERECEYE GÖRE", "good": false, "rows": ["Erkek: eşini darp etti", "Kadın: sadakatsizlik, çıplak paylaşım"], "stamp": "BOŞANDILAR" } },
+      { "title": "İstinaf: taraflar eşit kusurlu", "card": { "kind": "seal", "title": "BÖLGE ADLİYE MAHKEMESİ", "seal": "EŞİT", "sealSub": "KUSUR", "caption": "Şiddet ve sadakatsizlik denk sayıldı." } }
+    ] },
+    { "type": "twist", "big": "Ama…", "text": "İlk dereceye göre son kavgaya kadının bu davranışları yol açmıştı.", "icon": "phone" },
+    { "type": "quiz", "kicker": "SİZCE?", "question": "Yargıtay ne dedi?", "options": [ { "title": "Eşit kusur doğru", "sub": "İstinaf onanır" }, { "title": "Kadın daha ağır kusurlu", "sub": "İstinaf bozulur" } ], "answer": 1, "countdown": 4 },
+    { "type": "reveal", "title": "Bozuldu.", "text": "Kabul edilen kusurlara göre kadın, erkeğe nazaran daha ağır kusurlu.", "extra": { "label": "AMA", "text": "Erkeğin şiddeti de kusur olarak kaldı." } },
+    { "type": "lessons", "kicker": "KARAR", "items": [["Unutmayın:", "Şiddet her zaman kusurdur; mahkeme tüm kusurları birlikte tartar."]] },
+    { "type": "outro", "line": "Bu kararı bilmesi gereken birine gönderin." }
+  ]
+}

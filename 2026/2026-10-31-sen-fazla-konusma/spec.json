@@ -1,0 +1,86 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "14.09.2026 · E. 2026/1903 · K. 2026/8016",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "“Başkalarının yanında ‘sen fazla konuşma’ dedi.”",
+        "Mahkeme kadını da kusurlu buldu, tazminat vermedi.",
+        "Sizce bu iddia ispatlandı mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Tanık: yıllar önceki bir komşu",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Komşuluk dönemi",
+            "value": "2008–2009",
+            "tag": "Sonrasını bilmiyor"
+          }
+        },
+        {
+          "title": "Eşyaları dışarı atma iddiası",
+          "card": {
+            "kind": "text",
+            "icon": "house",
+            "text": "Tanıklara göre olay, uzaklaştırma kararından sonra, dava açıldıktan sonra yaşandı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin kusurları ise itiraz edilmeden kesinleşmişti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Eşit kusur doğru",
+          "sub": "Tazminat yok"
+        },
+        {
+          "title": "Kadın kusursuz",
+          "sub": "Kadına tazminat"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Soyut tanık beyanı ispat sayılmaz. Erkek tam kusurlu, kadın kusursuz.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Kadına tazminat verilmeli, nafaka da azdı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusur, zamanı ve sebebi belli delille ispatlanır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

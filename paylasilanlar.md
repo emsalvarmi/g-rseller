@@ -44,6 +44,11 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-31 | Yargıtay 2. HD, 09.06.2026, E. 2026/1518, K. 2026/6280 | Düğün masrafına bozdurulan altınlar; aynen iade talebi, mehir (Reels) | planlandı 31.10 16:15 |
 | 2026-10-31 | Yargıtay HGK, 10.06.2026, E. 2025/401, K. 2026/364 | Ekonomik tehditle yapılan feragat; katılma alacağı davası (Reels) | planlandı 31.10 18:15 |
 | 2026-10-31 | Yargıtay 2. HD, 29.06.2026, E. 2026/1428, K. 2026/7333 | Dava açıldıktan sonraki aldatma; ayrı dava konusu, erkek yine tam kusurlu (Reels) | planlandı 31.10 21:15 |
+| 2026-10-31 | Yargıtay 2. HD, 15.06.2026, E. 2025/8708, K. 2026/6569 | Protokolde üstlenilen okul ücreti iştirak nafakasının parçası; tek nafaka belirlenmeli (Reels) | planlandı 31.10 09:15 |
+| 2026-10-31 | Yargıtay 2. HD, 23.06.2026, E. 2026/4203, K. 2026/6984 | Torunun açtığı soybağının reddi davası; hak düşürücü süre (Reels) | planlandı 31.10 13:15 |
+| 2026-10-31 | Yargıtay 2. HD, 14.09.2026, E. 2026/1903, K. 2026/8016 | Soyut tanık beyanıyla kusur ispatlanamaz; kadın kusursuz, tazminat (Reels) | planlandı 31.10 15:15 |
+| 2026-10-31 | Yargıtay 2. HD, 22.06.2026, E. 2026/1075, K. 2026/6895 | Darp eden koca ve sadakatsiz kadın; kadın daha ağır kusurlu (Reels) | planlandı 31.10 17:15 |
+| 2026-10-31 | Yargıtay 2. HD, 03.06.2026, E. 2025/9730, K. 2026/5995 | Çocukların isteğine göre babaya verilen velayet; dede hakkındaki soruşturma araştırılmalı (Reels) | planlandı 31.10 23:15 |
 
 ## Hazır ama henüz paylaşılmadı
 

@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "15.06.2026 · E. 2025/8708 · K. 2026/6569",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Baba özel okulu ödüyordu, nafakayı değil.",
+        "Anne aylık 50.000 TL iştirak nafakası istedi.",
+        "Sizce okul ücreti nafakadan ayrı mı?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Protokol: nakit nafaka yok",
+          "card": {
+            "kind": "check",
+            "title": "BOŞANMA PROTOKOLÜ",
+            "good": true,
+            "rows": [
+              "Özel okul, servis, kıyafet",
+              "Sağlık sigortası poliçesi"
+            ],
+            "stamp": "NAFAKA YERİNE"
+          }
+        },
+        {
+          "title": "İki yıl sonra yeni dava",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Annenin talebi",
+            "value": "Aylık 50.000 TL",
+            "tag": "İştirak nafakası"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Anne, değişen ekonomik şartları ve babanın çok yüksek gelirini öne sürdü.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Okul ayrı, nafaka ayrı",
+          "sub": "İki ayrı yükümlülük"
+        },
+        {
+          "title": "Hepsi tek nafaka",
+          "sub": "Okul da nafakanın içinde"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Okul, kıyafet ve sigorta giderleri iştirak nafakasının içindedir. Tek bir nafaka belirlenmeli.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Gelirler ve giderler yeniden araştırılmalı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Şartlar değişirse iştirak nafakası yeniden belirlenebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
