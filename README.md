@@ -86,9 +86,9 @@ Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dal
 
 ### Güncel yayın planı ve içerik talimatı
 
-- **Sıklık:** her gün 09:00'dan 23:00'e kadar saat başı 1 Reels (09:00, 10:00, …, 23:00; günde 15 video).
+- **Sıklık (kullanıcının 30.10.2026 talimatıyla 31.10.2026'dan itibaren):** her gün 09:15'ten 23:15'e kadar her saatin 15. dakikasında 1 Reels (09:15, 10:15, …, 23:15; günde 15 video).
 - **Konu (kullanıcının 29.10.2026 talimatı, ikinci bir talimata kadar):** yalnızca aile hukuku kararları ve özellikle ilgi çekici konular. Örnek alanlar: aldatma ve sadakat, şiddet ve ekonomik şiddet, eşin ailesinin müdahalesi, sosyal medya ve telefon delilleri, kusur ve maddi-manevi tazminat, nafaka (tedbir, iştirak, yoksulluk; artırım, azaltım, kaldırma), velayet ve çocukla kişisel ilişki, düğün takıları ve ziynet, nişan ve hediyeler, mal rejimi ve katılma alacağı, mal kaçırma, aile konutu, soybağı ve babalık, koruma kararları (6284). Kararlar çoğunlukla Yargıtay 2. Hukuk Dairesi ve Hukuk Genel Kurulundan gelir.
-- Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:00–22:00) koyun.
+- Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:15–22:15) koyun.
 - Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
 ### X (Twitter) planı
@@ -110,7 +110,7 @@ Hassasiyet kuralları (çok önemli):
 
 Her gün (Europe/Istanbul):
 - **3 zincir — 11:30, 17:30, 20:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
-- **4–5 tek tweetlik not — 10:30, 13:30, 15:30, 19:00, 22:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
+- **4–5 tek tweetlik not — 09:15, 13:30, 15:30, 19:00, 22:30.** (X'te günün ilk paylaşımı 09:15'te; kullanıcının 30.10.2026 talimatı.) Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
 - **Pazar 19:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
 - Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
 
