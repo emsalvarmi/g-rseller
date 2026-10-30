@@ -91,22 +91,34 @@ Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dal
 - Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:00–22:00) koyun.
 - Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
-### X (Twitter) planı (30.10.2026'dan itibaren)
+### X (Twitter) planı
 
-X hesabı (@emsalvarmi) Metricool'de aynı markaya bağlı (network: `twitter`). X için ek karar araştırılmaz; o günün Instagram'da yayınlanan 15 aile hukuku kararı kullanılır. Kullanıcının talimatı: "Sizce?" soru gönderileri şimdilik ASKIDA; aşağıdakiler otomatik yapılır.
+X hesabı (@emsalvarmi) Metricool'de aynı markaya bağlı (network: `twitter`).
+
+**Konu (kullanıcının 30.10.2026 talimatı, ikinci bir talimata kadar): X'te YALNIZCA SPK, fonlar ve piyasa manipülasyonu (piyasa dolandırıcılığı) konuları.** Instagram bu kuraldan etkilenmez; Instagram'da aile hukuku videoları devam eder. X içeriği Instagram kararlarından ayrı araştırılır. "Sizce?" soru gönderileri şimdilik ASKIDA.
+
+Kaynaklar:
+- UYAP emsal karar araçları: Yargıtay ceza daireleri (piyasa dolandırıcılığı, bilgi suistimali, izinsiz sermaye piyasası faaliyeti, güveni kötüye kullanma), Danıştay 13. Daire (SPK idari para cezaları, işlem yasakları, tedbirler), bölge adliye ve asliye ticaret mahkemeleri (yatırımcı tazminatı, fon, portföy yönetimi, aracı kurum uyuşmazlıkları). Faydalı tırnaklı aramalar: "piyasa dolandırıcılığı", "işlem bazlı piyasa dolandırıcılığı", "bilgi bazlı piyasa dolandırıcılığı", "piyasa bozucu eylem", "bilgi suistimali", "yatırım fonu", "portföy yönetim şirketi", "Sermaye Piyasası Kurulu" "idari para cezası", "örtülü kazanç aktarımı", "işlem yasağı".
+- SPK'nın resmi duyuruları ve bültenleri (spk.gov.tr) ile güvenilir haber kaynakları; güncel gelişmeler için WebSearch/WebFetch. Haber niteliğindeki notlarda yalnızca resmi açıklamada ya da birden fazla güvenilir kaynakta yer alan bilgiler kullanılır, tarih belirtilir.
+- Kanun metinleri (6362 sayılı SPKn): m. 107/1 işlem bazlı piyasa dolandırıcılığı (3–5 yıl hapis, 5.000–10.000 gün adli para cezası; para cezası menfaatten az olamaz), m. 107/2 bilgi bazlı (3–5 yıl hapis, 5.000 güne kadar adli para cezası), m. 107/3 etkin pişmanlık (menfaatin iki katı, en az 500.000 TL). Başka maddeleri kullanmadan önce metni iki güvenilir kaynaktan doğrula.
+
+Hassasiyet kuralları (çok önemli):
+- Devam eden soruşturma ve davalarda kişi, şirket, fon ya da hisse adı verme; suçlu ya da suçsuz gibi hüküm kurma. Bu tür notlarda "Bu kararlar suçun sabit olduğu anlamına gelmez" gibi masumiyet karinesini hatırlatan bir ifade kullan.
+- Yatırım tavsiyesi verme; "al", "sat", "fondan çık" gibi yönlendirmeler yok.
+- Siyasi yorum yok; kararlarda geçen siyasi ya da örgütsel iddiaları aktarma.
+- Avukatlık reklam yasağı ve anonimlik kuralları aynen geçerli.
 
 Her gün (Europe/Istanbul):
-- **3 "günün kararı" zinciri — 12:30, 18:30, 21:30.** Günün en çarpıcı 3 kararı. İlk tweet: merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" + boş satır + 2 hashtag, ve o kararın Instagram videosu. Video için Instagram gönderisinin Metricool yanıtındaki `media` adresi (static.metricool.com/...mp4) kullanılır; medya dalına ayrıca yükleme gerekmez. Altına `descendants` ile 2–3 tweet: olay, mahkemenin kararı, Yargıtay'ın gerekçesi; son tweette künye (ör. "Y. 2. HD, 09.06.2026, E. 2026/23, K. 2026/6266" ya da "YHGK, …").
-- **5 tek tweetlik karar notu — 11:30, 14:30, 16:30, 20:00, 23:30.** Kalan kararlardan. Biçim: "Yargıtay: <kuralın tek-iki cümlelik özeti> (ilgili madde)." + boş satır + künye + alt satırda 2 hashtag. Bilgi yalnızca kararın tam metninden ve o günün spec/açıklamasından alınır; abartı ve yorum yok.
-- **Pazar 20:30: haftalık bülten zinciri.** paylasilanlar.md'de son 7 günde paylaşılan kararlardan en ilgi çekici 5'i: ilk tweet "Haftanın 5 Yargıtay kararı (<tarih aralığı>) 🧵" + kısa konu listesi; sonra her karar için bir tweet (tek cümlelik kural + künye); son tweet "Bu paylaşım genel bilgilendirme amaçlıdır."
+- **3 zincir — 12:30, 18:30, 21:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + 2 hashtag; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
+- **4–5 tek tweetlik not — 11:30, 14:30, 16:30, 20:00, 23:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda 2 hashtag.
+- **Pazar 20:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
+- Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
 
-Kurallar:
-- Her tweet en fazla 280 karakter (emoji 2 sayılır); göndermeden önce Python ile say.
+Biçim kuralları:
+- Her tweet en fazla 280 karakter (emoji 2 sayılır), hashtagler dahil; göndermeden önce Python ile say.
 - Bağlantı (URL) koyma.
-- Hashtag (kullanıcının 30.10.2026 talimatı): zincirlerin yalnızca ilk tweetinde ve tek tweetlik notlarda tam 2 hashtag — konuya özgü 1 (#boşanma, #nafaka, #velayet, #ziynet, #aldatma, #miras, #malrejimi, #ailekonutu gibi) + #Yargıtay. Zincirdeki diğer tweetlerde hashtag yok. Notlarda hashtagler künyenin altındaki satıra yazılır. X'in kendi önerisi gönderi başına en fazla 2 hashtag; 3 ve fazlası spam gibi görünür.
-- Reklam yasağı ve anonimlik kuralları aynen geçerli; taraf ismi, dosya ayrıntısı yok.
+- Hashtag: zincirlerin yalnızca ilk tweetinde ve notlarda tam 2 hashtag — #SPK + konuya özgü 1 (#manipülasyon, #fon, #borsa gibi). Zincirdeki diğer tweetlerde hashtag yok.
 - Metricool çağrısı: `providers [{"network":"twitter"}]`, `twitterData {"tags":[]}`, zincir için `descendants: [{"text": "...", "media": [], "mediaAltText": []}, ...]`.
-- X paylaşımları `paylasilanlar.md`'ye ayrıca yazılmaz (kararlar zaten Instagram satırlarında var).
 
 ### Okuma süresi kuralı
 
