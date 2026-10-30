@@ -1,0 +1,90 @@
+{
+  "court": "Yargıtay 7. Ceza Dairesi",
+  "kunye": "27.04.2026 · E. 2024/1452 · K. 2026/5390",
+  "note": "Oy birliğiyle bozuldu; dosya yeniden görülecek.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Karı-koca aynı hisseyi birbirine alıp sattı.",
+        "Hisse 2,5 ayda %186,90 yükseldi.",
+        "Bu suç mu?"
+      ],
+      "icon": "chart",
+      "stamp": "BORSA"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Emirlerin yarısından fazlası onlarındı",
+          "card": {
+            "kind": "info",
+            "icon": "chart",
+            "title": "5.265 yatırımcının emirleri içinde",
+            "value": "%58,76"
+          }
+        },
+        {
+          "title": "İlk derece mahkemesi mahkûm etti",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE MAHKEMESİ",
+            "seal": "HAPİS",
+            "sealSub": "İKİ EŞE DE",
+            "caption": "Toplam 86 milyon TL'yi aşan adli para cezası."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf ikisini de beraat ettirdi. Eşler, fiyatı kâr açıklamasının yükselttiğini savundu.",
+      "icon": "gavel",
+      "tape": "BERAAT"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay beraati onadı mı?",
+      "options": [
+        {
+          "title": "Evet, onadı",
+          "sub": "Fiyatı kâr açıklaması yükseltti"
+        },
+        {
+          "title": "Hayır, bozdu",
+          "sub": "İşlemler yanıltıcıydı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "YARGITAY'IN CEVABI",
+      "title": "Bozuldu.",
+      "text": "İşlemler yanıltıcı izlenim uyandırmak amacıyla yapılmıştı.",
+      "extra": {
+        "label": "NEDEN?",
+        "text": "İptal edilen her 4 alım emrinden 3'ü onlarındı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yanıltıcı izlenim için alım satım yapmak suçtur: 3–5 yıl hapis."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı borsada işlem yapan birine gönderin."
+    }
+  ]
+}

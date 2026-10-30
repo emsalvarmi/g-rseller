@@ -150,7 +150,7 @@ Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime s
 ```
 
 - `steps` kart türleri: `info` (icon, title, value, tag), `chat` (title, messages[]), `check` (title, rows[], stamp, good), `seal` (title, seal, sealSub, caption), `text` (icon, text).
-- Çizimler (`icon`): `car`, `house`, `phone` (sosyal medya/mesaj), `call` (bilinmeyen numaradan gelen arama), `briefcase`, `family`, `document`, `gavel`, `money`, `gold`.
+- Çizimler (`icon`): `car`, `house`, `phone` (sosyal medya/mesaj), `call` (bilinmeyen numaradan gelen arama), `briefcase`, `family`, `document`, `gavel`, `money`, `gold`, `chart` (borsa grafiği; SPK/manipülasyon videoları).
 - `outro` isteğe bağlı `line` (ör. uyarı niteliğindeki videolarda "Bu videoyu anne ve babanıza gönderin.") ve `cta` (düğme metni) alır. Paylaşılmaya uygun konularda `line` kullanın; videonun gönderilmesini artırır.
 - `quiz` 2 ya da 3 seçenek alır; `answer` doğru seçeneğin sırasıdır (0'dan başlar). Cevap mutlaka kararın hüküm fıkrasıyla aynı olmalı.
 - Kanca (`hook`) ilk 5 saniyede soruyu sormalı; ilk satır videonun ilk karesinde görünür.
