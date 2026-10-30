@@ -5,7 +5,7 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | Tarih | Saat | Tür | Kaynak / künye | Konu |
 |---|---|---|---|---|
 | 2026-10-30 | 11:30 | Zincir | Yargıtay 7. CD, 27.04.2026, E. 2024/1452, K. 2026/5390 | Eşlerin kendinden kendine işlemleri ve emir iptalleri; işlem bazlı piyasa dolandırıcılığı, beraat bozuldu |
-| 2026-10-30 | 12:15 | Video | Yargıtay 7. CD, 27.04.2026, E. 2024/1452, K. 2026/5390 | 11:30 zincirinin 65 sn'lik video hâli (Instagram Reels ile aynı video) |
+| 2026-10-30 | 12:15 | Video | Yargıtay 7. CD, 27.04.2026, E. 2024/1452, K. 2026/5390 | 11:30 zincirinin 65 sn'lik video hâli (Instagram Reels ile aynı video) — https://twitter.com/a/status/2116096799110725958 |
 | 2026-10-30 | 13:30 | Not | SPKn m. 107/1 | İşlem bazlı piyasa dolandırıcılığının tanımı ve cezası |
 | 2026-10-30 | 15:30 | Not | SPKn m. 107/3 | Etkin pişmanlık |
 | 2026-10-30 | 17:30 | Zincir | İstanbul BAM 4. HD, 20.05.2026, E. 2025/231, K. 2026/2631 | Manipülasyon nedeniyle yatırımcı tazminatı; ceza davası bekletici mesele (HMK 165) |
