@@ -33,6 +33,7 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-30 | Yargıtay 2. HD, 18.06.2026, E. 2026/3731, K. 2026/6854 | Kişisel ilişkinin kaldırılması (Reels) | planlandı 30.10 22:00 |
 | 2026-10-30 | Yargıtay 2. HD, 30.03.2026, E. 2025/8483, K. 2026/3326 | Tepkisel davranış, tam kusurlu eşin davası (Reels) | planlandı 30.10 23:00 |
 | 2026-10-30 | Yargıtay 7. CD, 27.04.2026, E. 2024/1452, K. 2026/5390 | Karı-koca arasında hisse alım-satımı, piyasa dolandırıcılığı (SPKn 107/1), beraat bozuldu (Reels; kullanıcının 30.10.2026 isteğiyle aile hukuku kuralına tek seferlik istisna, aynı video X'te de paylaşıldı) | https://www.instagram.com/reel/DfHPOGygrWa/ |
+| 2026-10-30 | İstanbul BAM 4. HD, 20.05.2026, E. 2025/231, K. 2026/2631 | Manipülasyon nedeniyle yatırımcı tazminatı; ceza davası bekletici mesele (HMK 165), vekalet ücreti (Reels; kullanıcının 30.10.2026 isteğiyle aile hukuku kuralına tek seferlik istisna, aynı video X'te de paylaşıldı; hisse adı verilmedi) | planlandı 30.10 18:20 |
 
 ## Hazır ama henüz paylaşılmadı
 

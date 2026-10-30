@@ -1,0 +1,90 @@
+{
+  "court": "İstanbul BAM 4. Hukuk Dairesi",
+  "kunye": "20.05.2026 · E. 2025/231 · K. 2026/2631",
+  "note": "Oy birliğiyle, kesin. Dosya yeniden görülecek.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Hisse aniden fırladı, yatırımcı zarar etti.",
+        "“Manipülasyon yaptılar” diyerek dava açtı.",
+        "Tazminat alabilir mi?"
+      ],
+      "icon": "chart",
+      "stamp": "ZARAR"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kısa pozisyondaydı, teminat çağrısı geldi",
+          "card": {
+            "kind": "info",
+            "icon": "chart",
+            "title": "Yatırımcının iddia ettiği zarar",
+            "value": "832.559,93 TL"
+          }
+        },
+        {
+          "title": "İlk derece davayı reddetti",
+          "card": {
+            "kind": "seal",
+            "title": "ASLİYE TİCARET MAHKEMESİ",
+            "seal": "RET",
+            "sealSub": "İLLİYET YOK",
+            "caption": "Bilirkişi: Zarar yatırımcının kendi işlemlerinden doğdu."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "SPK davalı hakkında suç duyurusunda bulunmuştu. Aynı olay için ceza davası sürüyordu.",
+      "icon": "gavel",
+      "tape": "CEZA DAVASI"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "İstinaf ne dedi?",
+      "options": [
+        {
+          "title": "Ret doğru",
+          "sub": "Zarar ispatlanamadı"
+        },
+        {
+          "title": "Karar kaldırılmalı",
+          "sub": "Önce ceza davası beklenmeli"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "İSTİNAFIN CEVABI",
+      "title": "Kaldırıldı.",
+      "text": "Ceza davasının sonucu tazminat davasını etkileyecekti; beklenmeliydi.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Yatırımcıya yüklenen vekalet ücreti de hatalıydı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ceza davası varsa tazminat davası onu bekleyebilir (HMK m. 165)."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı yatırım yapan birine gönderin."
+    }
+  ]
+}
