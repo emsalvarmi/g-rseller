@@ -109,9 +109,9 @@ Hassasiyet kuralları (çok önemli):
 - Avukatlık reklam yasağı ve anonimlik kuralları aynen geçerli.
 
 Her gün (Europe/Istanbul):
-- **3 zincir — 12:30, 18:30, 21:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
-- **4–5 tek tweetlik not — 11:30, 14:30, 16:30, 20:00, 23:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
-- **Pazar 20:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
+- **3 zincir — 11:30, 17:30, 20:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
+- **4–5 tek tweetlik not — 10:30, 13:30, 15:30, 19:00, 22:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
+- **Pazar 19:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
 - Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
 
 Biçim kuralları:
