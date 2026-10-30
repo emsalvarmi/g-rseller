@@ -109,15 +109,15 @@ Hassasiyet kuralları (çok önemli):
 - Avukatlık reklam yasağı ve anonimlik kuralları aynen geçerli.
 
 Her gün (Europe/Istanbul):
-- **3 zincir — 12:30, 18:30, 21:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + 2 hashtag; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
-- **4–5 tek tweetlik not — 11:30, 14:30, 16:30, 20:00, 23:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda 2 hashtag.
+- **3 zincir — 12:30, 18:30, 21:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
+- **4–5 tek tweetlik not — 11:30, 14:30, 16:30, 20:00, 23:30.** Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
 - **Pazar 20:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
 - Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
 
 Biçim kuralları:
 - Her tweet en fazla 280 karakter (emoji 2 sayılır), hashtagler dahil; göndermeden önce Python ile say.
 - Bağlantı (URL) koyma.
-- Hashtag: zincirlerin yalnızca ilk tweetinde ve notlarda tam 2 hashtag — #SPK + konuya özgü 1 (#manipülasyon, #fon, #borsa gibi). Zincirdeki diğer tweetlerde hashtag yok.
+- Hashtag (kullanıcının 30.10.2026 11:05 talimatı): zincirlerin yalnızca ilk tweetinde ve notlarda, son satırda şu sırayla: konuya özgü 1 etiket (#manipülasyon ya da #borsa) + `#SPK #FON #1milyonÇözümDeğil`. Konu doğrudan fonlarsa konu etiketi eklenmez, yalnızca `#SPK #FON #1milyonÇözümDeğil` yazılır (#fon ile #FON'u tekrarlama). Zincirdeki diğer tweetlerde hashtag yok. Hashtagler 280 karaktere dahildir; sığmazsa metni kısalt, hashtag çıkarma.
 - Metricool çağrısı: `providers [{"network":"twitter"}]`, `twitterData {"tags":[]}`, zincir için `descendants: [{"text": "...", "media": [], "mediaAltText": []}, ...]`.
 
 ### Okuma süresi kuralı
