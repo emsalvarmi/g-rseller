@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "14.04.2026 · E. 2025/6951 · K. 2026/4133",
+  "note": "Karar oy çokluğuyla verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşanma davası sürerken koca başka kadınla ilişki yaşadı.",
+        "Otel kayıtları ve kamera bunu gösterdi.",
+        "Sizce kadın tazminat alır mı?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkeme: ikisi de kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Kadın: sadakat yükümlülüğüne aykırılık",
+              "Erkek: dava sürerken başka ilişki"
+            ],
+            "stamp": "EŞİT KUSUR"
+          }
+        },
+        {
+          "title": "Tazminat ve nafaka: ret",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Bölge adliye",
+            "value": "Esastan ret",
+            "tag": "Kadın temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadının zinaya dayalı davası, boşanma kesinleştiği için konusuz kalmıştı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Eşit kusur",
+          "sub": "Tazminat yok"
+        },
+        {
+          "title": "Erkek ağır kusurlu",
+          "sub": "Kadına tazminat"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltilerek onandı.",
+      "text": "Eşit kusur yerinde; zina davası için 'karar verilmesine yer yok' denmeli.",
+      "extra": {
+        "label": "KARŞI OY",
+        "text": "Bir üye erkeği ağır kusurlu buldu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Sadakat yükümlülüğü, evlilik sona erene kadar sürer."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -28,10 +28,10 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-30 | Yargıtay 2. HD, 17.02.2026, E. 2025/7361, K. 2026/1811 | Manevi tazminat şartları (Reels) | https://www.instagram.com/reel/DfHwnQCkxZ1/ |
 | 2026-10-30 | Yargıtay 2. HD, 02.06.2026, E. 2026/3669, K. 2026/5928 | Ölen eşin mirasçılarının kusur tespiti (Reels) | https://www.instagram.com/reel/DfH3YFYkUOc/ |
 | 2026-10-30 | Yargıtay HGK, 01.04.2026, E. 2025/201, K. 2026/200 | Zinanın ispatı (Reels) | https://www.instagram.com/reel/DfH-LpalcWR/ |
-| 2026-10-30 | Yargıtay 2. HD, 22.06.2026, E. 2026/996, K. 2026/6951 | Eşit kusur, yoksulluk nafakası (Reels) | planlandı 30.10 20:00 |
-| 2026-10-30 | Yargıtay HGK, 01.07.2026, E. 2025/718, K. 2026/429 | Anlaşmalı boşanma protokolü, koşulun engellenmesi (Reels) | planlandı 30.10 21:00 |
-| 2026-10-30 | Yargıtay 2. HD, 18.06.2026, E. 2026/3731, K. 2026/6854 | Kişisel ilişkinin kaldırılması (Reels) | planlandı 30.10 22:00 |
-| 2026-10-30 | Yargıtay 2. HD, 30.03.2026, E. 2025/8483, K. 2026/3326 | Tepkisel davranış, tam kusurlu eşin davası (Reels) | planlandı 30.10 23:00 |
+| 2026-10-30 | Yargıtay 2. HD, 22.06.2026, E. 2026/996, K. 2026/6951 | Eşit kusur, yoksulluk nafakası (Reels) | https://www.instagram.com/reel/DfIFW78jJtW/ |
+| 2026-10-30 | Yargıtay HGK, 01.07.2026, E. 2025/718, K. 2026/429 | Anlaşmalı boşanma protokolü, koşulun engellenmesi (Reels) | https://www.instagram.com/reel/DfILv-RILqy/ |
+| 2026-10-30 | Yargıtay 2. HD, 18.06.2026, E. 2026/3731, K. 2026/6854 | Kişisel ilişkinin kaldırılması (Reels) | https://www.instagram.com/reel/DfISwHpiG3Z/ |
+| 2026-10-30 | Yargıtay 2. HD, 30.03.2026, E. 2025/8483, K. 2026/3326 | Tepkisel davranış, tam kusurlu eşin davası (Reels) | https://www.instagram.com/reel/DfIZXabinbv/ |
 | 2026-10-30 | Yargıtay 7. CD, 27.04.2026, E. 2024/1452, K. 2026/5390 | Karı-koca arasında hisse alım-satımı, piyasa dolandırıcılığı (SPKn 107/1), beraat bozuldu (Reels; kullanıcının 30.10.2026 isteğiyle aile hukuku kuralına tek seferlik istisna, aynı video X'te de paylaşıldı) | https://www.instagram.com/reel/DfHPOGygrWa/ |
 | 2026-10-30 | İstanbul BAM 4. HD, 20.05.2026, E. 2025/231, K. 2026/2631 | Manipülasyon nedeniyle yatırımcı tazminatı; ceza davası bekletici mesele (HMK 165), vekalet ücreti (Reels; kullanıcının 30.10.2026 isteğiyle aile hukuku kuralına tek seferlik istisna, aynı video X'te de paylaşıldı; hisse adı verilmedi) | https://www.instagram.com/reel/DfH5DIeDxjH/ |
 | 2026-10-31 | Yargıtay 2. HD, 10.09.2026, E. 2025/5281, K. 2026/7924 | Boşanmadan önce kardeş adına alınan araç; TMK 229 eklenecek değer (Reels) | planlandı 31.10 12:15 |
@@ -49,6 +49,21 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-10-31 | Yargıtay 2. HD, 14.09.2026, E. 2026/1903, K. 2026/8016 | Soyut tanık beyanıyla kusur ispatlanamaz; kadın kusursuz, tazminat (Reels) | planlandı 31.10 15:15 |
 | 2026-10-31 | Yargıtay 2. HD, 22.06.2026, E. 2026/1075, K. 2026/6895 | Darp eden koca ve sadakatsiz kadın; kadın daha ağır kusurlu (Reels) | planlandı 31.10 17:15 |
 | 2026-10-31 | Yargıtay 2. HD, 03.06.2026, E. 2025/9730, K. 2026/5995 | Çocukların isteğine göre babaya verilen velayet; dede hakkındaki soruşturma araştırılmalı (Reels) | planlandı 31.10 23:15 |
+| 2026-11-01 | Yargıtay 2. HD, 15.09.2026, E. 2025/10355, K. 2026/8040 | Aylık 30.000 TL geliri olan kadına yoksulluk nafakası verilemez (Reels) | planlandı 01.11 09:15 |
+| 2026-11-01 | Yargıtay 2. HD, 15.06.2026, E. 2026/3826, K. 2026/6588 | Çocuğun annenin bekârlık soyadını kullanması; çocuğun üstün yararı, ret bozuldu (Reels) | planlandı 01.11 10:15 |
+| 2026-11-01 | Yargıtay HGK, 24.06.2026, E. 2025/739, K. 2026/408 | Eşin ortak hesaptan çektiği döviz; TL hükmü usuli kazanılmış hak (Reels) | planlandı 01.11 11:15 |
+| 2026-11-01 | Yargıtay 2. HD, 24.03.2026, E. 2025/8401, K. 2026/3103 | Ayrı ev açmayan ve şiddet uygulayan erkek; kadına manevi tazminat (Reels) | planlandı 01.11 12:15 |
+| 2026-11-01 | Yargıtay HGK, 13.05.2026, E. 2025/402, K. 2026/328 | Nafaka davasında reddedilen kısım için vekâlet ücreti verilmez (AAÜT 9/2) (Reels) | planlandı 01.11 13:15 |
+| 2026-11-01 | Yargıtay 2. HD, 04.02.2026, E. 2025/7140, K. 2026/1076 | Araba alımında bozdurulan 7 bilezik; dönmemek üzere verildiği ispatlanamadı (Reels) | planlandı 01.11 14:15 |
+| 2026-11-01 | Yargıtay 2. HD, 05.02.2026, E. 2025/6546, K. 2026/1217 | Kök ailesine vakit ayırıp eşini ihmal eden erkek; 6 yıl ayrılık, boşanma reddi bozuldu (Reels) | planlandı 01.11 15:15 |
+| 2026-11-01 | Yargıtay 2. HD, 16.04.2026, E. 2026/1871, K. 2026/4287 | Velayette çocuğun görüşü ile uzman raporu çelişirse yeniden inceleme (Reels) | planlandı 01.11 16:15 |
+| 2026-11-01 | Yargıtay 2. HD, 14.04.2026, E. 2025/6951, K. 2026/4133 | Dava sürerken otel/kamera kayıtlı ilişki; eşit kusur onandı, zina davası konusuz (oy çokluğu) (Reels) | planlandı 01.11 17:15 |
+| 2026-11-01 | Yargıtay 2. HD, 24.06.2026, E. 2025/10483, K. 2026/7150 | Ziynette yalnızca aynen iade istenince bedele hükmedilemez (Reels) | planlandı 01.11 18:15 |
+| 2026-11-01 | Yargıtay 2. HD, 13.04.2026, E. 2025/8533, K. 2026/4009 | Eniştesiyle güven sarsıcı davranış; tanık beyanlarına itibar edilmemesi bozuldu (Reels) | planlandı 01.11 19:15 |
+| 2026-11-01 | Yargıtay HGK, 24.06.2026, E. 2025/675, K. 2026/410 | İstinafta ölen eş; boşanma hükmü ölümden önce kesinleşmiş (TMK 181) (Reels) | planlandı 01.11 20:15 |
+| 2026-11-01 | Yargıtay 2. HD, 15.06.2026, E. 2025/9098, K. 2026/6561 | Kardeşin kayınvalideye saldırısına müdahale etmeyen kadın; eşit kusur, tazminat yok (Reels) | planlandı 01.11 21:15 |
+| 2026-11-01 | Yargıtay 2. HD, 07.04.2026, E. 2025/6943, K. 2026/3765 | Aile konutunun şirkete satışı; satış kadının şirket borçlarını kapattı, açık rıza var (Reels) | planlandı 01.11 22:15 |
+| 2026-11-01 | Yargıtay 2. HD, 31.03.2026, E. 2025/8320, K. 2026/3419 | Kadının babasının tehdidi kadına kusur yazılamaz; erkek ağır kusurlu (Reels) | planlandı 01.11 23:15 |
 
 ## Hazır ama henüz paylaşılmadı
 

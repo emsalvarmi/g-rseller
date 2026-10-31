@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "15.09.2026 · E. 2025/10355 · K. 2026/8040",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın belediyede çalışıyor.",
+        "Aylık geliri 30.000 TL.",
+        "Boşanınca yoksulluk nafakası alabilir mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: nafaka verildi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Yoksulluk nafakası",
+            "value": "Kadın lehine",
+            "tag": "İstinaf onadı"
+          }
+        },
+        {
+          "title": "Erkek temyize gitti",
+          "card": {
+            "kind": "check",
+            "title": "DOSYADAN",
+            "good": false,
+            "rows": [
+              "Kadın sosyal çalışmacı",
+              "2025 geliri: aylık 30.000 TL"
+            ],
+            "stamp": "DÜZENLİ GELİR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yoksulluk nafakası için boşanma yüzünden yoksulluğa düşmek gerekir.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Nafaka devam",
+          "sub": "Kadın lehine"
+        },
+        {
+          "title": "Nafaka reddedilmeli",
+          "sub": "Yoksulluk yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Düzenli ve sürekli geliri olan kadın boşanmakla yoksulluğa düşmez.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Yoksulluk nafakası talebi reddedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yoksulluk nafakası, boşanma yüzünden yoksulluğa düşecek eşe verilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

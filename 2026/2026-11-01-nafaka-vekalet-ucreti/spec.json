@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "13.05.2026 · E. 2025/402 · K. 2026/328",
+  "note": "Karar oy birliğiyle ve kesin olarak verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Anne, kendisi ve çocuğu için nafaka istedi.",
+        "Çocuk babasıyla yaşıyordu; o kısım reddedildi.",
+        "Anne, babanın avukatına ücret öder mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Anneye nafaka verildi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Tedbir nafakası",
+            "value": "Aylık 2.000 TL",
+            "tag": "Çocuk kısmı ret"
+          }
+        },
+        {
+          "title": "İstinaf: babaya vekâlet ücreti",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Annenin ödeyeceği",
+            "value": "25.250 TL",
+            "tag": "Reddedilen kısım için"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yargıtay bozdu, bölge adliye direndi; dosya Hukuk Genel Kurulu'na gitti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hukuk Genel Kurulu ne dedi?",
+      "options": [
+        {
+          "title": "Ücret ödenir",
+          "sub": "Dava kısmen kaybedildi"
+        },
+        {
+          "title": "Ücret ödenmez",
+          "sub": "Nafaka davası"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Direnme bozuldu.",
+      "text": "Nafaka davalarında reddedilen kısım için avukatlık ücretine hükmedilemez.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Anne, çocuğun yasal temsilcisiydi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Nafaka davasında reddedilen kısım için karşı vekâlet ücreti çıkmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

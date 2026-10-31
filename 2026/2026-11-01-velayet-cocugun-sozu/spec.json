@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "16.04.2026 · E. 2026/1871 · K. 2026/4287",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuk 3 gün annede, 4 gün babada kalıyor.",
+        "Uzmanlar: Velayet babaya. Mahkeme de öyle dedi.",
+        "Peki çocuğa net soruldu mu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Çocuk duruşmada dinlendi",
+          "card": {
+            "kind": "chat",
+            "title": "ÇOCUĞUN ANLATIMINA GÖRE",
+            "messages": [
+              "Hafta başı annemle kalıyorum.",
+              "Annemin fikrine uyuyorum, düzen sürsün."
+            ]
+          }
+        },
+        {
+          "title": "Uzman raporu: babaya",
+          "card": {
+            "kind": "seal",
+            "title": "SOSYAL İNCELEME RAPORU",
+            "seal": "BABA",
+            "sealSub": "VELAYET",
+            "caption": "Çocuğun görüşünün aksine."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Çocuğun beyanı ile rapor birbiriyle çelişiyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Velayet babada",
+          "sub": "Rapor yeterli"
+        },
+        {
+          "title": "Yeniden incelenmeli",
+          "sub": "Çocuğa net sorulmalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Çocuğun tercihi net sorulmalı, yeni uzman raporu alınmalı.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Aksine karar gerekçesi somut gösterilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "İdrak çağındaki çocuğun görüşü alınır ve önemsenir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "24.06.2026 · E. 2025/739 · K. 2026/408",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Tartışmadan sonra eşi ortak hesabı boşalttı.",
+        "Hesapta dolar ve avro vardı.",
+        "Alacak döviz mi, TL mi ödenir?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Dava: paranın yarısı istendi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Islahla istenen",
+            "value": "39.257 USD + 229.487 EUR",
+            "tag": "Ortak hesaptan"
+          }
+        },
+        {
+          "title": "Bir aşamada hüküm TL kuruldu",
+          "card": {
+            "kind": "text",
+            "icon": "document",
+            "text": "Davacı, TL hükmüne karşı karar düzeltme istemedi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Son kararda yerel mahkeme yine dolar ve avroya hükmetti.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hukuk Genel Kurulu ne dedi?",
+      "options": [
+        {
+          "title": "Döviz doğru",
+          "sub": "Talep dövizdi"
+        },
+        {
+          "title": "TL'ye dönülmeli",
+          "sub": "Kazanılmış hak"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "TL hükmünü benimseyen davacı karşısında, karşı taraf için kazanılmış hak doğdu.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Katılma alacağı davası beklenmeyecek."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "İtiraz etmediğiniz hüküm, karşı taraf lehine kazanılmış hak doğurabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
