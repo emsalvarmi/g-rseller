@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "07.04.2026 · E. 2025/6943 · K. 2026/3765",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın: 'Aile konutu rızam olmadan satıldı.'",
+        "Ev, kocanın adınaydı; bir şirkete satılmıştı.",
+        "Sizce tapu iptal edilir mi?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Yargıtay önce kadını haklı buldu",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "İlk bozma",
+            "value": "Açık rıza yok",
+            "tag": "Tapu iptal edilmeli"
+          }
+        },
+        {
+          "title": "Yerel mahkeme tapuyu iptal etti",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE",
+            "seal": "KABUL",
+            "sealSub": "TAPU İPTALİ",
+            "caption": "Banka ve şirket temyize gitti."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Satışla, kadının kendi şirketinin borçları ve evdeki hacizler kapatılmıştı.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Tapu iptal",
+          "sub": "Rıza yoktu"
+        },
+        {
+          "title": "Dava reddedilmeli",
+          "sub": "Rıza vardı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Satış kadının bilgisi ve iradesiyle yapıldı; açık rıza yok denemez.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Ev yıllarca kadının şirket borçlarına teminattı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Açık rıza sözlü de verilebilir, her delille ispatlanabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

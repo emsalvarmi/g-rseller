@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "15.06.2026 · E. 2026/3826 · K. 2026/6588",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Anne, çocuğun soyadını değiştirmek istedi.",
+        "Kendi bekârlık soyadıyla.",
+        "Mahkeme buna izin verir mi?"
+      ],
+      "icon": "family",
+      "stamp": "SOYADI"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: dava reddedildi",
+          "card": {
+            "kind": "seal",
+            "title": "AİLE MAHKEMESİ",
+            "seal": "RET",
+            "sealSub": "KARARI",
+            "caption": "Soyadı değişikliği istemi reddedildi."
+          }
+        },
+        {
+          "title": "İstinaf da reddetti",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Bölge adliye",
+            "value": "Esastan ret",
+            "tag": "Anne temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Ölçüt annenin ya da babanın isteği değil, çocuğun üstün yararıydı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Ret doğru",
+          "sub": "Soyadı aynı kalır"
+        },
+        {
+          "title": "Soyadı değişmeli",
+          "sub": "Çocuğun yararına"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Deliller ve tanıklara göre annenin soyadı çocuğun üstün yararına.",
+      "extra": {
+        "label": "ÖLÇÜT",
+        "text": "Çocuğun üstün yararı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Çocuğu ilgilendiren her işte önce çocuğun yararı gözetilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

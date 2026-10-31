@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "24.06.2026 · E. 2025/10483 · K. 2026/7150",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın: 'Altınlarımı aynen istiyorum.'",
+        "Mahkeme: 'Olmazsa dava tarihindeki bedeli.'",
+        "Sizce bu doğru mu?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Islah: yalnızca aynen iade",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "İstenen",
+            "value": "Altınlar ve set takımı",
+            "tag": "Aynen iade"
+          }
+        },
+        {
+          "title": "İstinaf: bedel de yazıldı",
+          "card": {
+            "kind": "check",
+            "title": "BÖLGE ADLİYEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Aynen iade",
+              "Olmazsa dava tarihi bedeli"
+            ],
+            "stamp": "141.600 TL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın, altının değeri arttığı için yalnızca aynen iade istediğini söylemişti.",
+      "icon": "gold"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Bedel yazılır",
+          "sub": "Dava tarihindeki değer"
+        },
+        {
+          "title": "Yalnız aynen iade",
+          "sub": "Talep bu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltilerek onandı.",
+      "text": "Yalnızca aynen iade istenmişti; talepten başka şeye karar verilemez.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Bedel hükmü çıkarıldı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Hâkim, talepten fazlasına ya da başka bir şeye karar veremez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

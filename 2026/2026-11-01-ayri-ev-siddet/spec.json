@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "24.03.2026 · E. 2025/8401 · K. 2026/3103",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca, evlilikte ayrı ev açmadı.",
+        "Mahkeme onu tam kusurlu buldu.",
+        "Ama kadına manevi tazminat vermedi. Doğru mu?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: erkek tam kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Bağımsız konut temin etmedi",
+              "Kadına manevi tazminat: RET"
+            ],
+            "stamp": "BOŞANDILAR"
+          }
+        },
+        {
+          "title": "İstinaf da onadı",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Bölge adliye",
+            "value": "Esastan ret",
+            "tag": "Kadın temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Dosyada savcılık soruşturması ve adli rapor vardı: Erkek şiddet uygulamıştı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Tazminat yok",
+          "sub": "Ayrı ev yetmez"
+        },
+        {
+          "title": "Manevi tazminat",
+          "sub": "Kişilik hakkına saldırı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Şiddet de erkeğe kusur yazılmalı; bu, kadının kişilik haklarına saldırıdır.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına uygun manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Manevi tazminat için olayların kişilik hakkına saldırı olması gerekir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

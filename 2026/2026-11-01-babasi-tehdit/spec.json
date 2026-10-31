@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "31.03.2026 · E. 2025/8320 · K. 2026/3419",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadının babası damadını tehdit etti.",
+        "Mahkeme bunu kadına kusur yazdı.",
+        "Babanın yaptığı kızına yazılır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: eşit kusur",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Erkek: alkol, uyuşturucu, küfür",
+              "Kadın: babası tehdit etti"
+            ],
+            "stamp": "EŞİT KUSUR"
+          }
+        },
+        {
+          "title": "Kadına tazminat yok",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Bölge adliye",
+            "value": "Esastan ret",
+            "tag": "Kadın temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadının tehditte bir dahli olduğu ispatlanamadı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Eşit kusur",
+          "sub": "Baba tehdit etti"
+        },
+        {
+          "title": "Erkek ağır kusurlu",
+          "sub": "Kadına tazminat"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Üçüncü kişinin eylemi eşe kusur olarak yüklenemez.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Erkek evin ihtiyaçlarını da karşılamamıştı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dahliniz yoksa, ailenizin yaptığı size kusur yazılmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
