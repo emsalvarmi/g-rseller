@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "04.02.2026 · E. 2025/7140 · K. 2026/1076",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "7 bilezik bozduruldu, ikinci el araba alındı.",
+        "Boşanınca kadın bileziklerini geri istedi.",
+        "Sizce geri alabilir mi?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkeğin savunması",
+          "card": {
+            "kind": "chat",
+            "title": "ERKEĞİN SAVUNMASINA GÖRE",
+            "messages": [
+              "Bilezikleri kendisi bozdurdu.",
+              "Parayı satıcıya kendisi ödedi."
+            ]
+          }
+        },
+        {
+          "title": "İstinaf: bilezikler iade edilmez",
+          "card": {
+            "kind": "check",
+            "title": "BÖLGE ADLİYEYE GÖRE",
+            "good": false,
+            "rows": [
+              "7 bilezik: RET",
+              "22 çeyrek altın: iade"
+            ],
+            "stamp": "KISMEN"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek, bileziklerin geri verilmemek üzere verildiğini ispatlayamadı.",
+      "icon": "gold"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "İade edilmez",
+          "sub": "Araba için verildi"
+        },
+        {
+          "title": "İade edilmeli",
+          "sub": "Bağış ispatlanmadı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Bilezikler araba alımında kullanıldı; geri verilmemek üzere verildiği ispatlanamadı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "7 bilezik için de dava kabul edilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ziynetin dönmemek üzere verildiğini ispat yükü erkektedir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

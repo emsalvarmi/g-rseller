@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "13.04.2026 · E. 2025/8533 · K. 2026/4009",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Tanıklar, kadını eniştesiyle öpüşürken gördü.",
+        "Enişte: kız kardeşinin kocası.",
+        "Mahkeme tanıklara inanmadı. Doğru mu?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Tanıklar anlattı",
+          "card": {
+            "kind": "chat",
+            "title": "TANIK BEYANLARINA GÖRE",
+            "messages": [
+              "El ele tutuşup öpüşürken gördüm.",
+              "Mutfaktaki kameranın açısını kaldırdılar."
+            ]
+          }
+        },
+        {
+          "title": "İki mahkeme: dava reddi",
+          "card": {
+            "kind": "seal",
+            "title": "İLK DERECE VE İSTİNAF",
+            "seal": "RET",
+            "sealSub": "KARARI",
+            "caption": "Tanıklar inandırıcı bulunmadı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bir tanık, evdeki bilgisayarda ikisinin eş gibi çekilmiş fotoğrafını gördüğünü anlattı.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Ret doğru",
+          "sub": "Tanıklar inandırıcı değil"
+        },
+        {
+          "title": "Boşanmalılar",
+          "sub": "Güven sarsıldı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tanık beyanları birlikte değerlendirilince güven sarsıcı davranış sabit.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Af yok; erkeğin davası kabul edilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Affedilmeyen eylemlerin eski olması sonucu değiştirmez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "05.02.2026 · E. 2025/6546 · K. 2026/1217",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca, vaktini hep kendi ailesine ayırdı.",
+        "Eşini ve çocuğunu yalnız bıraktı.",
+        "Mahkeme boşanmayı reddetti. Doğru mu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: dava reddedildi",
+          "card": {
+            "kind": "seal",
+            "title": "AİLE MAHKEMESİ",
+            "seal": "RET",
+            "sealSub": "KARARI",
+            "caption": "Kadının boşanma davası reddedildi."
+          }
+        },
+        {
+          "title": "İstinaf da reddetti",
+          "card": {
+            "kind": "check",
+            "title": "DOSYADAN",
+            "good": false,
+            "rows": [
+              "Evin geçimini sağlamadı",
+              "Eşini ve çocuğunu yalnız bıraktı"
+            ],
+            "stamp": "6 YIL AYRI"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Taraflar 6 yıldır ayrı yaşıyordu ve bir daha bir araya gelmemişlerdi.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Ret doğru",
+          "sub": "Evlilik sürer"
+        },
+        {
+          "title": "Boşanmalılar",
+          "sub": "Kadın haklı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Geçimsizlik erkekten kaynaklanıyor; kadın dava açmakta haklı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Boşanmaya karar verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşleri birlikte yaşamaya zorlamak mümkün değilse boşanmaya karar verilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

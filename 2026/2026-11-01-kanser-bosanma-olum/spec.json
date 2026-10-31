@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "24.06.2026 · E. 2025/675 · K. 2026/410",
+  "note": "Karar oy birliğiyle ve kesin olarak verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın son evre kanser hastasıydı.",
+        "Ölmeden önce boşanmanın kesinleşmesini istedi.",
+        "Evlilik boşanmayla mı, ölümle mi bitti?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkeme boşanmaya karar verdi",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kadın istinafa gitti",
+            "value": "Kusura itiraz",
+            "tag": "Boşanmaya itiraz yok"
+          }
+        },
+        {
+          "title": "İstinaf sürerken kadın öldü",
+          "card": {
+            "kind": "check",
+            "title": "BÖLGE ADLİYEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Evlilik ölümle sona erdi",
+              "Boşanmaya yer yok"
+            ],
+            "stamp": "DİRENDİ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın, ölmeden önce boşanma hükmünün kesinleştirilmesini dilekçeyle istemişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hukuk Genel Kurulu ne dedi?",
+      "options": [
+        {
+          "title": "Ölümle bitti",
+          "sub": "Hüküm kesinleşmedi"
+        },
+        {
+          "title": "Boşanmayla bitti",
+          "sub": "Hüküm kesinleşmişti"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Direnme bozuldu.",
+      "text": "Boşanma hükmü istinaf edilmemişti; ölümden önce kesinleşti.",
+      "extra": {
+        "label": "NEDEN ÖNEMLİ?",
+        "text": "Boşanan eşler birbirinin yasal mirasçısı olamaz."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yalnızca kusura itiraz edilirse boşanma hükmü kesinleşebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

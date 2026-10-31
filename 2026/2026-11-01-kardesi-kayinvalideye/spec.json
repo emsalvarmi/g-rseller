@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "15.06.2026 · E. 2025/9098 · K. 2026/6561",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadının kardeşi, kayınvalidenin üzerine yürüdü.",
+        "'Sen kimsin lan' dedi. Kadın müdahale etmedi.",
+        "Sizce kim daha kusurlu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İstinaf: erkek ağır kusurlu",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Kadına tazminat",
+            "value": "75.000 + 75.000 TL",
+            "tag": "Maddi + manevi"
+          }
+        },
+        {
+          "title": "Erkeğin kusurları",
+          "card": {
+            "kind": "check",
+            "title": "DOSYADAN",
+            "good": false,
+            "rows": [
+              "Eşinin eşyalarını almalarını istedi",
+              "Kendi ailesiyle yaşamak istedi"
+            ],
+            "stamp": "ERKEK"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın da kayınlarını ağırlamak istemedi, eşine sürekli bağırdı, çocuğu babasıyla görüştürmedi.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Erkek ağır kusurlu",
+          "sub": "Tazminat kalır"
+        },
+        {
+          "title": "Eşit kusurlu",
+          "sub": "Tazminat yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Gerçekleşen kusurlara göre taraflar eşit kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Eşit kusurlu eşe tazminat verilemez."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yakınınızın eşinizin ailesine saldırısına seyirci kalmak da kusur sayıldı."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
