@@ -86,16 +86,18 @@ Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dal
 
 ### Güncel yayın planı ve içerik talimatı
 
-- **Sıklık (kullanıcının 30.10.2026 talimatıyla 31.10.2026'dan itibaren):** her gün 09:15'ten 23:15'e kadar her saatin 15. dakikasında 1 Reels (09:15, 10:15, …, 23:15; günde 15 video).
+- **Sıklık (kullanıcının 01.11.2026 talimatıyla 3 saatte 1):** her gün 09:15, 12:15, 15:15, 18:15 ve 21:15'te 1 Reels (günde 5 video).
 - **Konu (kullanıcının 29.10.2026 talimatı, ikinci bir talimata kadar):** yalnızca aile hukuku kararları ve özellikle ilgi çekici konular. Örnek alanlar: aldatma ve sadakat, şiddet ve ekonomik şiddet, eşin ailesinin müdahalesi, sosyal medya ve telefon delilleri, kusur ve maddi-manevi tazminat, nafaka (tedbir, iştirak, yoksulluk; artırım, azaltım, kaldırma), velayet ve çocukla kişisel ilişki, düğün takıları ve ziynet, nişan ve hediyeler, mal rejimi ve katılma alacağı, mal kaçırma, aile konutu, soybağı ve babalık, koruma kararları (6284). Kararlar çoğunlukla Yargıtay 2. Hukuk Dairesi ve Hukuk Genel Kurulundan gelir.
-- Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (19:15–22:15) koyun.
+- Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (18:15 ve 21:15) koyun.
 - Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
 ### X (Twitter) planı
 
 X hesabı (@emsalvarmi) Metricool'de aynı markaya bağlı (network: `twitter`).
 
-**Konu (kullanıcının 30.10.2026 talimatı, ikinci bir talimata kadar): X'te YALNIZCA SPK, fonlar ve piyasa manipülasyonu (piyasa dolandırıcılığı) konuları.** Instagram bu kuraldan etkilenmez; Instagram'da aile hukuku videoları devam eder. X içeriği Instagram kararlarından ayrı araştırılır. "Sizce?" soru gönderileri şimdilik ASKIDA.
+**Konu (kullanıcının 30.10.2026 ve 01.11.2026 talimatları, ikinci bir talimata kadar): X'teki metin paylaşımları (zincirler, notlar, pazar bülteni) YALNIZCA SPK ve piyasa manipülasyonu (piyasa dolandırıcılığı, piyasa bozucu eylem, bilgi suistimali, işlem yasakları) konularında. FONLARLA İLGİLİ PAYLAŞIM YAPILMAZ (yatırım fonları, portföy yönetimi, fon mağdurları, fon portföyündeki borçlanma araçları vb.).** X içeriği Instagram kararlarından ayrı araştırılır. "Sizce?" soru gönderileri şimdilik ASKIDA.
+
+**Instagram videoları X'te (kullanıcının 01.11.2026 talimatı):** Instagram'da daha önce yayınlanmış Reels videoları X'te de saatte 1 paylaşılır: her gün 09:45, 10:45, …, 23:45 (günde 15). Bu videolar (çoğu aile hukuku) yukarıdaki konu kuralının istisnasıdır. Sıra: en eski Reels'ten başlayarak (28.10.2026 12:38'deki ilk Reels'ten itibaren) kronolojik; görsel/kaydırmalı gönderiler (instagram.com/p/) değil yalnızca Reels (instagram.com/reel/). X'e aktarılanlar `x-video-kuyrugu.md` dosyasına yazılır; aynı video ikinci kez paylaşılmaz. Video adresi olarak Instagram gönderisinin Metricool'daki `static.metricool.com` mp4 adresi kullanılır (getScheduledPosts yanıtındaki `media`). Metin biçimi: Instagram açıklamasının ilk satırındaki soru + "Yargıtay ne dedi? 🎬" (Hukuk Genel Kurulu kararlarında "Yargıtay Hukuk Genel Kurulu ne dedi? 🎬") + boş satır + kısa künye (ör. "Y. 2. HD, 30.06.2026, E. 2026/1776, K. 2026/7439") + boş satır + konuya uygun 2 hashtag (ör. `#boşanma #ziynet`, `#velayet #Yargıtay`). En fazla 280 karakter. Kuyruk biterse yalnızca yeni Instagram Reels'leri aktarılır; boş kalan saatler doldurulmaz.
 
 Kaynaklar:
 - UYAP emsal karar araçları: Yargıtay ceza daireleri (piyasa dolandırıcılığı, bilgi suistimali, izinsiz sermaye piyasası faaliyeti, güveni kötüye kullanma), Danıştay 13. Daire (SPK idari para cezaları, işlem yasakları, tedbirler), bölge adliye ve asliye ticaret mahkemeleri (yatırımcı tazminatı, fon, portföy yönetimi, aracı kurum uyuşmazlıkları). Faydalı tırnaklı aramalar: "piyasa dolandırıcılığı", "işlem bazlı piyasa dolandırıcılığı", "bilgi bazlı piyasa dolandırıcılığı", "piyasa bozucu eylem", "bilgi suistimali", "yatırım fonu", "portföy yönetim şirketi", "Sermaye Piyasası Kurulu" "idari para cezası", "örtülü kazanç aktarımı", "işlem yasağı".
@@ -109,15 +111,15 @@ Hassasiyet kuralları (çok önemli):
 - Avukatlık reklam yasağı ve anonimlik kuralları aynen geçerli.
 
 Her gün (Europe/Istanbul):
-- **3 zincir — 11:30, 17:30, 20:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
+- **3 zincir (metin) — 11:30, 17:30, 20:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
 - **4–5 tek tweetlik not — 09:15, 13:30, 15:30, 19:00, 22:30.** (X'te günün ilk paylaşımı 09:15'te; kullanıcının 30.10.2026 talimatı.) Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
-- **Pazar 19:30: haftalık bülten zinciri** — haftanın SPK/fon/manipülasyon paylaşımlarından en önemli 5'i.
+- **Pazar 19:30: haftalık bülten zinciri** — haftanın SPK/manipülasyon paylaşımlarından en önemli 4–5'i (fon konusu yok).
 - Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
 
 Biçim kuralları:
 - Her tweet en fazla 280 karakter (emoji 2 sayılır), hashtagler dahil; göndermeden önce Python ile say.
 - Bağlantı (URL) koyma.
-- Hashtag (kullanıcının 30.10.2026 11:05 talimatı): zincirlerin yalnızca ilk tweetinde ve notlarda, son satırda şu sırayla: konuya özgü 1 etiket (#manipülasyon ya da #borsa) + `#SPK #FON #1milyonÇözümDeğil`. Konu doğrudan fonlarsa konu etiketi eklenmez, yalnızca `#SPK #FON #1milyonÇözümDeğil` yazılır (#fon ile #FON'u tekrarlama). Zincirdeki diğer tweetlerde hashtag yok. Hashtagler 280 karaktere dahildir; sığmazsa metni kısalt, hashtag çıkarma.
+- Hashtag (kullanıcının 01.11.2026 talimatı): `#FON` ve `#1milyonÇözümDeğil` artık KULLANILMAZ. Zincirlerin yalnızca ilk tweetinde ve notlarda, son satırda paylaşımın konusuna uygun 2 etiket: ör. `#manipülasyon #SPK`, `#borsa #SPK`, `#SPK #masumiyetkarinesi`. Zincirdeki diğer tweetlerde hashtag yok. Hashtagler 280 karaktere dahildir; sığmazsa metni kısalt.
 - Metricool çağrısı: `providers [{"network":"twitter"}]`, `twitterData {"tags":[]}`, zincir için `descendants: [{"text": "...", "media": [], "mediaAltText": []}, ...]`.
 
 ### Okuma süresi kuralı

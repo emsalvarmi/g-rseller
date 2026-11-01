@@ -1,6 +1,6 @@
 # X'te paylaşılan kararlar
 
-X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir satır eklenir. (30.10.2026'dan itibaren X konusu: SPK, fonlar, piyasa manipülasyonu.)
+X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir satır eklenir. (30.10.2026'dan itibaren X konusu: SPK ve piyasa manipülasyonu; 01.11.2026'dan itibaren fon konusu yok. X'e aktarılan Instagram videoları ayrıca `x-video-kuyrugu.md` dosyasında.)
 
 | Tarih | Saat | Tür | Kaynak / künye | Konu |
 |---|---|---|---|---|
