@@ -47,7 +47,21 @@ Dosyalar verilen sırayla `01.png … 06.png` olarak yazılır. Yayından önce 
 - Avukatlık reklam yasağı gereği ofise yönlendirme, iletişim çağrısı ya da tanıtım dili kullanılmaz; taraf kimlikleri ve dosya ayrıntıları paylaşılmaz.
 - Instagram açıklaması: en fazla 5 hashtag, etkileşim için bir soru ve "Bu paylaşım genel bilgilendirme amaçlıdır." satırı.
 
-## Reels videoları (günde 3 video)
+## Seslendirmeli videolar — Karar Odası motoru (kullanıcının 01.11.2026 talimatı; 02.11.2026 akşamından itibaren)
+
+Instagram Reels videoları ve X'teki karar zincirlerinin videoları artık kullanıcının Mac'indeki **Karar Odası** motoruyla seslendirmeli ve hareketli olarak üretilir. Motor ve kılavuz Mac'te: `~/Movies/KararOdasi/` (kılavuz: `motor/BENIOKU.md`; örnek sahne dosyaları: `motor/ornek_dosya001.py`, `motor/emsalvarmi_tazminat.py`). Motor kodu bu depoya konmaz; çalışma sırasında device_stage_files ile buluta alınır.
+
+- **Akış (her video):** kanca (`hook`) → olay (`olay`) → itiraz/uyuşmazlık (`itiraz`) → "Siz hâkim olsaydınız?" + 3 sn geri sayım (`soru`) → karar ve mühür (`karar`) → neden (`neden`) → tek cümlelik ders (`not`) → kapanış (`kapanis`). Dikey 1080×1920, altyazılı, 45–60 sn.
+- **Marka:** `BRAND = "EMSAL VAR MI?"`, `SERI = "@emsalvarmi"`, slogan `"Kararı bil, hakkını bil."`. Kapanışta: "Yayımlanmış bir kararın genel bilgilendirme amaçlı özetidir; hukuki görüş değildir. Seslendirme sentetik sestir."
+- **Sahneler her karara özel** tasarlanır; görseller kararın kendi olgularından çıkar (şablon gibi görünmesin). Görsel dil `kit.py`'deki renk ve yazı tipleriyle.
+- **Metin:** cümleler kısa, sayılar yazıyla; kısaltmalar açık yazılır ("Sermaye Piyasası Kurulu"). Taraf iddiası ile mahkemenin tespiti ayrılır; karar metninde olmayan bilgi yok.
+- **Seslendirme otomatik:** Mac'te bir kez kurulan LaunchAgent sayesinde `seslendir_istek.txt` yazılınca `seslendir_gemini.sh` kendiliğinden çalışır. Bir akşamın tüm videoları tek `metin.tsv`'de önekli kimliklerle (`v1_hook_0`, `v2_hook_0`, …) seslendirilir. Ayrıntılar `motor/BENIOKU.md` son bölümünde. `gemini_anahtar.txt` okunmaz.
+- **Kontrol:** her video için önce `uret.py --kareler` ile kontrol karelerine bakılır (taşma, çakışma, okunurluk), sonra üretilir; ffprobe ile süre/boyut/ses doğrulanır.
+- **Yayın:** videolar `sablon/video/medya.sh` ile `medya` dalına yüklenir, Metricool'da doğrudan planlanır ve otomatik yayınlanır (kullanıcının 01.11.2026 tercihi). Kapak: hook sahnesinin %92 karesi. Instagram açıklamasının sonunda "Seslendirme sentetik sestir." notu bulunur.
+- **Kayıt:** her videonun anlatım metni main'de `2026/<YYYY-MM-DD>-<konu-ascii>/metin.tsv` olarak saklanır (spec.json yerine).
+- **Yedek:** seslendirme 30 dk içinde gelmezse o günün videoları aşağıdaki eski sessiz şablonla üretilir ve kullanıcıya bildirilir.
+
+## Reels videoları (eski sessiz şablon — yalnızca yedek)
 
 Hesabın ana içeriği 1080×1920 Reels videolarıdır. Her video bir JSON senaryodan (`spec.json`) otomatik üretilir.
 
@@ -111,7 +125,7 @@ Hassasiyet kuralları (çok önemli):
 - Avukatlık reklam yasağı ve anonimlik kuralları aynen geçerli.
 
 Her gün (Europe/Istanbul):
-- **3 zincir (metin) — 11:30, 17:30, 20:30.** Her biri bir mahkeme kararını anlatır (ilk tweet merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" ya da "İstinaf ne dedi? 🧵" + boş satır + hashtag satırı; altına `descendants` ile 2–3 tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye). Videosuz, düz metin.
+- **3 karar zinciri — 11:30, 17:30, 20:30 (kullanıcının 01.11.2026 talimatıyla seslendirmeli videolu).** Her biri bir mahkeme kararını anlatır. İlk tweet: Karar Odası motoruyla üretilen o karara ait seslendirmeli video + merak uyandıran 1–2 cümle + "Yargıtay ne dedi? 🧵" (ya da "İstinaf/Danıştay ne dedi? 🧵") + boş satır + hashtag satırı; altına `descendants` ile 2–3 metin tweet: olay, alt mahkeme kararları, üst mahkemenin gerekçesi; son tweette künye. Video ilk tweetin `media` alanına konur (medya dalındaki reel.mp4 ya da aynı video Instagram'a da yüklendiyse static.metricool.com adresi). Notlar ve pazar bülteni metin olarak kalır.
 - **4–5 tek tweetlik not — 09:15, 13:30, 15:30, 19:00, 22:30.** (X'te günün ilk paylaşımı 09:15'te; kullanıcının 30.10.2026 talimatı.) Kanun maddesi açıklaması, kısa karar notu ya da SPK'nın resmi açıklaması/bülteni hakkında tarafsız bilgi. Biçim: kısa metin + (dayanak) + alt satırda hashtag satırı.
 - **Pazar 19:30: haftalık bülten zinciri** — haftanın SPK/manipülasyon paylaşımlarından en önemli 4–5'i (fon konusu yok).
 - Aynı kararı ikinci kez paylaşma; X'te paylaşılan kararların künyelerini `paylasilanlar-x.md` dosyasına yaz (yoksa oluştur) ve önce oradan kontrol et.
