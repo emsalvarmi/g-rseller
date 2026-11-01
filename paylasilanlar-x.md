@@ -30,3 +30,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-01 | 19:30 | Zincir | Haftalık bülten | 30.10–01.11 X paylaşımlarından 5 başlık (planlandı) |
 | 2026-11-01 | 20:30 | Zincir | Danıştay 13. D., 29.04.2025, E. 2023/1902, K. 2025/1769 | 2 yıl işlem yasağı; "suç işlendi" gerekçesi masumiyet karinesine aykırı ama makul şüphe yeterli, onama (planlandı) |
 | 2026-11-01 | 22:30 | Not | Anayasa m. 38/4 | Masumiyet karinesi hatırlatması (planlandı) |
+| 2026-11-02 | 09:15 | Not | SPKn m. 104 (Danıştay 13. D. K. 2025/3698'de aktarıldığı hâliyle) | Piyasa bozucu eylem tanımı; menfaatin iki katı kuralı (planlandı) |
+| 2026-11-02 | 11:30 | Zincir | Danıştay 13. D., 25.03.2025, E. 2024/2243, K. 2025/1379 | Twitter'da al/sat yönlü paylaşımlardan önce ters işlem; piyasa bozucu eylem (Tebliğ m. 6/4) cezası onandı (planlandı) |
+| 2026-11-02 | 13:30 | Not | Danıştay 13. D., 25.02.2025, E. 2024/2417, K. 2025/950 | İstifa eden YK üyesinin finansal rapor sonrası satışı; ceza onandı (planlandı) |
+| 2026-11-02 | 15:30 | Not | Danıştay 13. D., 16.04.2025, E. 2025/725, K. 2025/1584 | Özel durum açıklamasını 60 günde bir güncelleme yükümlülüğü kalkınca lehe düzenleme, iptal onandı (planlandı) |
+| 2026-11-02 | 17:30 | Zincir | Danıştay 13. D., 19.03.2025, E. 2023/2625, K. 2025/1290 | Yanıltıcı açıklama döneminde YK başkanının kayınbiraderinin satışları; piyasa bozucu eylem cezası onandı (planlandı) |
+| 2026-11-02 | 19:00 | Not | Danıştay 13. D., 01.12.2025, E. 2025/1109, K. 2025/3698 | Gruba dahil sayılma; araç bedeli para transferi birlikte hareketi ispatlamaz, bozma (planlandı) |
+| 2026-11-02 | 20:30 | Zincir | Yargıtay CGK, 02.03.2021, E. 2018/587, K. 2021/61 | Manipülasyonda dava zamanaşımının sirayeti (TCK 67/2), oy çokluğu (planlandı) |
+| 2026-11-02 | 22:30 | Not | Yargıtay CGK, 22.03.2022, E. 2022/90, K. 2022/190 | Başsavcılık itirazı aynı daire kararı için bir kez (manipülasyon dosyası) (planlandı) |
