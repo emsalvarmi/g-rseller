@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.06.2026 · E. 2025/10934 · K. 2026/6262",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Erkek eşini evden kovdu, şiddet uyguladı.",
+        "Kadın da ortak çocuğa şiddet uyguladı.",
+        "İkisi eşit kusurlu mu?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: erkek ağır kusurlu",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECEYE GÖRE",
+            "good": true,
+            "rows": [
+              "Erkek: evden kovma, şiddet",
+              "Kadın: çocuğa şiddet"
+            ],
+            "stamp": "KADINA TAZMİNAT"
+          }
+        },
+        {
+          "title": "Bölge adliye: eşit kusur",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Bölge adliye",
+            "value": "Tazminat yok",
+            "tag": "Kadın temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye iki kusuru erkeğin hanesinden sildi: ayrı konut temin etmemek ve güven sarsıcı davranış.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Eşit kusur",
+          "sub": "Tazminat yok"
+        },
+        {
+          "title": "Erkek ağır kusurlu",
+          "sub": "Kadına tazminat"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kabul edilen kusurlara göre erkek ağır, kadın az kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına maddi ve manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Daha az kusurlu eş tazminat isteyebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
