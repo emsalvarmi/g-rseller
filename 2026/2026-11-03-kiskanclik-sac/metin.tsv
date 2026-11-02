@@ -1,0 +1,14 @@
+hook_0	Senin saçların temiz, kimde yıkandın?
+hook_1	Bu sözden yola çıkılarak kadına kıskançlık kusuru yüklendi.
+olay_0	Karşılıklı boşanma davasında erkeğin fiziksel şiddeti sabitti.
+olay_1	Kadın da telefonla uzun süre meşgul olmuş, mahremiyeti başkalarıyla paylaşmıştı.
+itiraz_0	Bölge adliye mahkemesi kadına kıskançlık kusurunu da ekledi.
+itiraz_1	Eşit kusur dedi, kadının tazminatlarını reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Bu söz kusur mu, değil mi?
+karar_0	Hukuk Genel Kurulu direnme kararını bozdu.
+neden_0	Söz, kavgayı açıklayan savunmada geçmişti; kıskançlık vakıasına dayanılmamıştı.
+neden_1	Zaman zaman hissedilen kıskançlık, tek başına kusur değildir.
+neden_2	Erkek ağır, kadın az kusurludur.
+not_0	Kıskançlığın kusur sayılması için süreklilik ve baskı gerekir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

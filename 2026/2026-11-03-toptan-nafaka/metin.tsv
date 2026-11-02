@@ -1,0 +1,14 @@
+hook_0	Yıllardır ödenen nafaka kaldırıldı.
+hook_1	Yerine tek seferlik bir ödeme konuldu.
+olay_0	Eşler bin dokuz yüz doksan yedide boşandı; kadın yararına yoksulluk nafakası bağlandı.
+olay_1	Erkek, nafakanın kaldırılmasını ya da azaltılmasını istedi.
+itiraz_0	İlk derece mahkemesi davayı reddetti.
+itiraz_1	İstinaf ise nafakayı kaldırdı, yerine beş yüz bin lira toptan nafaka verdi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Toptan nafaka mı, davanın reddi mi?
+karar_0	Yargıtay kararı kadın yararına bozdu.
+neden_0	Nafakanın düzenli mi toptan mı ödeneceği, hüküm kurulurken belirlenir.
+neden_1	Karar kesinleşince bu, usuli kazanılmış hak olur.
+neden_2	Kaldırma davasında nafakanın türü değiştirilemez; talep de aşılmıştı.
+not_0	Kaldırma davası, nafakanın türünü değiştirmenin yolu değildir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

@@ -1,0 +1,14 @@
+hook_0	Hiçbir zaman dava etmeyeceğim, ona hibe ediyorum.
+hook_1	Bu yazı, mal davasını engeller mi?
+olay_0	Otuz yıllık evlilik iki bin dokuzda boşanmayla bitti; erkeğin imzasını taşıyan bu yazı dosyaya girdi.
+olay_1	Sonra erkek, kadın adına kayıtlı iki daire için alacak davası açtı.
+itiraz_0	İmzayı kabul etti, ama yazıyı alkollüyken verdiğini söyledi.
+itiraz_1	Mahkeme yazıyı bağış saydı ve kararında direndi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Bağış mı, yoksa dava hakkı sürüyor mu?
+karar_0	Hukuk Genel Kurulu direnme kararını bozdu.
+neden_0	Yazı, mal rejiminin tasfiyesine dair bir hüküm içermiyordu.
+neden_1	Kesin ve açık bir feragat iradesi de taşımıyordu.
+neden_2	Bu, erkeğin kazandığı anlamına gelmez; dava esastan görülecek.
+not_0	Haktan vazgeçmek için açık ve kesin bir irade gerekir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

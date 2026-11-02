@@ -49,7 +49,7 @@ Dosyalar verilen sırayla `01.png … 06.png` olarak yazılır. Yayından önce 
 
 ## Seslendirmeli videolar — Karar Odası motoru (kullanıcının 01.11.2026 talimatı; 02.11.2026 akşamından itibaren)
 
-Instagram Reels videoları ve X'teki karar zincirlerinin videoları artık kullanıcının Mac'indeki **Karar Odası** motoruyla seslendirmeli ve hareketli olarak üretilir. Motor ve kılavuz Mac'te: `~/Movies/KararOdasi/` (kılavuz: `motor/BENIOKU.md`; örnek sahne dosyaları: `motor/ornek_dosya001.py`, `motor/emsalvarmi_tazminat.py`). Motor kodu bu depoya konmaz; çalışma sırasında device_stage_files ile buluta alınır.
+Instagram Reels videoları ve X'teki karar zincirlerinin videoları artık kullanıcının Mac'indeki **Karar Odası** motoruyla seslendirmeli ve hareketli olarak üretilir. Motor ve kılavuz Mac'te: `~/Movies/KararOdasi/` (kılavuz: `motor/BENIOKU.md`; örnek sahne dosyaları: `motor/ornek_dosya001.py`, `motor/emsalvarmi_tazminat.py`; ortak çerçeve `motor/emsalvarmi_ortak.py` ve onu kullanan `motor/emsalvarmi_20261103_*.py` dosyaları). Bir sahne cümlesi DROP ile düşürülürse görsellerin zamanlaması kimliğe göre yapılır (`O.KS`, `O.has`). Motor kodu bu depoya konmaz; çalışma sırasında device_stage_files ile buluta alınır.
 
 - **Akış (her video):** kanca (`hook`) → olay (`olay`) → itiraz/uyuşmazlık (`itiraz`) → "Siz hâkim olsaydınız?" + 3 sn geri sayım (`soru`) → karar ve mühür (`karar`) → neden (`neden`) → tek cümlelik ders (`not`) → kapanış (`kapanis`). Dikey 1080×1920, altyazılı, 45–60 sn.
 - **Marka:** `BRAND = "EMSAL VAR MI?"`, `SERI = "@emsalvarmi"`, slogan `"Kararı bil, hakkını bil."`. Kapanışta: "Yayımlanmış bir kararın genel bilgilendirme amaçlı özetidir; hukuki görüş değildir. Seslendirme sentetik sestir."
