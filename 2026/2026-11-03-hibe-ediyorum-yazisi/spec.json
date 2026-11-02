@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "29.04.2026 · E. 2025/354 · K. 2026/267",
+  "note": "Karar oy çokluğuyla verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "30 yıllık evlilik bitti.",
+        "Erkek yazdı: \"Haklarımdan dava etmeyeceğim, ona hibe ediyorum.\"",
+        "Sonra iki daire için dava açtı."
+      ],
+      "icon": "document"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Daireler kadının adına",
+          "card": {
+            "kind": "check",
+            "title": "DOSYA",
+            "good": true,
+            "rows": [
+              "1979: evlilik",
+              "2009: boşanma",
+              "2 daire kadın adına"
+            ],
+            "stamp": "KATILMA ALACAĞI"
+          }
+        },
+        {
+          "title": "Erkeğin savunması",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Erkeğe göre",
+            "value": "\"Alkollüydüm\"",
+            "tag": "Yazıyı kendisi imzaladığını kabul etti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derece ve bölge adliye yazıyı bağış saydı, davayı reddetti. Direnme kararı Genel Kurula gitti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu yazı dava hakkını bitirir mi?",
+      "options": [
+        {
+          "title": "Evet, bitirir",
+          "sub": "Haklarını bağışladı"
+        },
+        {
+          "title": "Hayır, bitirmez",
+          "sub": "Açık feragat yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Yazıda mal rejimi yok; kesin ve açık feragat iradesi taşımıyor.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Deliller toplanıp esas hakkında karar verilecek."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dava hakkı kazanmak, davayı kazanmak değildir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

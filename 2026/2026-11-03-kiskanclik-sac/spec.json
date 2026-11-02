@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "23.09.2026 · E. 2025/463 · K. 2026/524",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın eşine sordu: \"Saçların temiz, kimde yıkandın?\"",
+        "Mahkeme bunu psikolojik şiddet saydı.",
+        "Tek soru kıskançlık kusuru olur mu?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkek şiddet uyguladı",
+          "card": {
+            "kind": "check",
+            "title": "SABİT KUSURLAR",
+            "good": true,
+            "rows": [
+              "Erkek: fiziksel şiddet",
+              "Kadın: telefonla meşguliyet",
+              "Kadın: mahremiyeti paylaşmak"
+            ],
+            "stamp": "UYUŞMAZLIK YOK"
+          }
+        },
+        {
+          "title": "Bölge adliye: eşit kusur",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kıskançlık da eklendi",
+            "value": "Tazminat yok",
+            "tag": "Yargıtay bozdu, mahkeme direndi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Söz, erkeğin kavgayı anlattığı savunmada geçiyordu. Kıskançlık ayrı bir vakıa olarak ileri sürülmemişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu söz kıskançlık kusuru mu?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Eşit kusur, tazminat yok"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Erkek ağır kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Olağan kıskançlık kusur değildir; sürekli, baskıcı ve somut olmalıdır.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Erkek ağır, kadın az kusurlu; tazminat istemleri reddedilemez."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dayanılmayan vakıa tanıkla kusura çevrilemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

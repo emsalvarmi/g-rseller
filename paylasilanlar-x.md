@@ -38,3 +38,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-02 | 19:00 | Not | Danıştay 13. D., 01.12.2025, E. 2025/1109, K. 2025/3698 | Gruba dahil sayılma; araç bedeli para transferi birlikte hareketi ispatlamaz, bozma (planlandı) |
 | 2026-11-02 | 20:30 | Zincir | Yargıtay CGK, 02.03.2021, E. 2018/587, K. 2021/61 | Manipülasyonda dava zamanaşımının sirayeti (TCK 67/2), oy çokluğu (planlandı) |
 | 2026-11-02 | 22:30 | Not | Yargıtay CGK, 22.03.2022, E. 2022/90, K. 2022/190 | Başsavcılık itirazı aynı daire kararı için bir kez (manipülasyon dosyası) (planlandı) |
+| 2026-11-03 | 09:15 | Not | Danıştay 13. D., 25.02.2025, E. 2024/142, K. 2025/944 | Yeğenle grup sayılma; menfaatin iki katı ceza onandı (planlandı) |
+| 2026-11-03 | 11:30 | Zincir | Danıştay 13. D., 11.03.2025, E. 2024/1115, K. 2025/1141 | 122 kez ters yönlü emir, kendinden kendine işlem; ceza onandı (seslendirme gelmediği için videosuz) (planlandı) |
+| 2026-11-03 | 13:30 | Not | Y. 7. CD, 08.06.2026, E. 2025/1814, K. 2026/6609 | Beraat temyizinde olağanüstü zamanaşımı; düşme (planlandı) |
+| 2026-11-03 | 15:30 | Not | Danıştay İDDK, 20.03.2025, E. 2025/103, K. 2025/667 | IP ve benzer işlem kalıplarıyla birlikte hareket; ceza onandı (planlandı) |
+| 2026-11-03 | 17:30 | Zincir | Danıştay 13. D., 04.03.2025, E. 2024/2553, K. 2025/1028 | Pasif emir ve emir iptalleri; 2,06 milyon TL ceza onandı (videosuz) (planlandı) |
+| 2026-11-03 | 19:00 | Not | Danıştay 13. D., 01.12.2025, E. 2025/1405, K. 2025/3699 | Kardeşle para transferi gruba dahil olmayı ispatlamaz; bozma (planlandı) |
+| 2026-11-03 | 20:30 | Zincir | Danıştay 13. D., 03.11.2025, E. 2025/1979, K. 2025/3342 | Zarar eden yatırımcıya ceza; İDDK bozması üzerine dava reddi (videosuz) (planlandı) |
+| 2026-11-03 | 22:30 | Not | VI-104.1 m. 5/1-c (Danıştay K. 2025/3699'da aktarıldığı hâliyle) | Yön değiştiren emirler (planlandı) |

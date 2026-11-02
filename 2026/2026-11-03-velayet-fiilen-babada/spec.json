@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "14.09.2026 · E. 2026/1950 · K. 2026/8022",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mahkeme velayeti anneye verdi.",
+        "Baba temyizde dedi ki: çocuklar 2022'den beri yanımda.",
+        "Yargıtay bunu dikkate alır mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: velayet annede",
+          "card": {
+            "kind": "check",
+            "title": "BOŞANMA KARARI",
+            "good": true,
+            "rows": [
+              "Erkek tam kusurlu",
+              "Velayet anneye"
+            ],
+            "stamp": "İSTİNAF RET"
+          }
+        },
+        {
+          "title": "Temyizde yeni iddia",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Babanın beyanı",
+            "value": "2022 yazından beri",
+            "tag": "Çocuklar fiilen babada"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Baba bu durumu ancak temyiz dilekçesinde dile getirdi.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne dedi?",
+      "options": [
+        {
+          "title": "Geç kaldı",
+          "sub": "İddia dikkate alınmaz"
+        },
+        {
+          "title": "İncelenmeli",
+          "sub": "Velayet bozulur"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Velayet kamu düzenine ilişkindir; her aşamada değerlendirilir.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Uzman heyet raporu alınmalı. Velayet babaya verilmedi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Velayette ölçü çocuğun üstün yararıdır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

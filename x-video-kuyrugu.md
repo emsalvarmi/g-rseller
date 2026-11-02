@@ -26,5 +26,20 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-02 | 21:45 | 2026-10-30 18:00 | https://www.instagram.com/reel/DfH3YFYkUOc/ | Y. 2. HD, 02.06.2026, E. 2026/3669, K. 2026/5928 | Ölen eşin mirasçılarının kusur tespiti |
 | 2026-11-02 | 22:45 | 2026-10-30 19:00 | https://www.instagram.com/reel/DfH-LpalcWR/ | YHGK, 01.04.2026, E. 2025/201, K. 2026/200 | Zinanın ispatı |
 | 2026-11-02 | 23:45 | 2026-10-30 20:00 | https://www.instagram.com/reel/DfIFW78jJtW/ | Y. 2. HD, 22.06.2026, E. 2026/996, K. 2026/6951 | Eşit kusur, yoksulluk nafakası |
+| 2026-11-03 | 09:45 | 2026-10-30 21:00 | https://www.instagram.com/reel/DfILv-RILqy/ | YHGK, 01.07.2026, E. 2025/718, K. 2026/429 | Anlaşmalı boşanma protokolü, koşulun engellenmesi (Reels) |
+| 2026-11-03 | 10:45 | 2026-10-30 22:00 | https://www.instagram.com/reel/DfISwHpiG3Z/ | Y. 2. HD, 18.06.2026, E. 2026/3731, K. 2026/6854 | Kişisel ilişkinin kaldırılması (Reels) |
+| 2026-11-03 | 11:45 | 2026-10-30 23:00 | https://www.instagram.com/reel/DfIZXabinbv/ | Y. 2. HD, 30.03.2026, E. 2025/8483, K. 2026/3326 | Tepkisel davranış, tam kusurlu eşin davası (Reels) |
+| 2026-11-03 | 12:45 | 2026-10-31 09:15 | https://www.instagram.com/reel/DfJfZRACeLI/ | Y. 2. HD, 15.06.2026, E. 2025/8708, K. 2026/6569 | Protokolde üstlenilen okul ücreti iştirak nafakasının parçası; tek nafaka belirlenmeli (Reels) |
+| 2026-11-03 | 13:45 | 2026-10-31 10:15 | https://www.instagram.com/reel/DfJmSp4js26/ | Y. 2. HD, 25.06.2026, E. 2026/4820, K. 2026/7213 | Mesajla bozulan nişan; elde kalan eşyanın bedeli istenemez, manevi tazminat reddi onandı (Reels) |
+| 2026-11-03 | 14:45 | 2026-10-31 11:15 | https://www.instagram.com/reel/DfJtImuj_L_/ | Y. 2. HD, 02.06.2026, E. 2025/10700, K. 2026/5931 | Telefon kayıtları, kaçma şüphesi ve duyuma dayalı tanık; eşit kusur, tazminat yok (Reels) |
+| 2026-11-03 | 15:45 | 2026-10-31 12:15 | https://www.instagram.com/reel/DfJ0AC-FIVW/ | Y. 2. HD, 10.09.2026, E. 2025/5281, K. 2026/7924 | Boşanmadan önce kardeş adına alınan araç; TMK 229 eklenecek değer (Reels) |
+| 2026-11-03 | 16:45 | 2026-10-31 13:15 | https://www.instagram.com/reel/DfJ6-ueCU_T/ | Y. 2. HD, 23.06.2026, E. 2026/4203, K. 2026/6984 | Torunun açtığı soybağının reddi davası; hak düşürücü süre (Reels) |
+| 2026-11-03 | 17:45 | 2026-10-31 14:15 | https://www.instagram.com/reel/DfKBwbUAids/ | Y. 2. HD, 30.06.2026, E. 2026/7468, K. 2026/7414 | Babaanne ve dedenin torunla yatılı kişisel ilişkisi (Reels) |
+| 2026-11-03 | 18:45 | 2026-10-31 15:15 | https://www.instagram.com/reel/DfKInObCXN2/ | Y. 2. HD, 14.09.2026, E. 2026/1903, K. 2026/8016 | Soyut tanık beyanıyla kusur ispatlanamaz; kadın kusursuz, tazminat (Reels) |
+| 2026-11-03 | 19:45 | 2026-10-31 16:15 | https://www.instagram.com/reel/DfKPfXlFWdx/ | Y. 2. HD, 09.06.2026, E. 2026/1518, K. 2026/6280 | Düğün masrafına bozdurulan altınlar; aynen iade talebi, mehir (Reels) |
+| 2026-11-03 | 20:45 | 2026-10-31 17:15 | https://www.instagram.com/reel/DfKWW1Kk6iH/ | Y. 2. HD, 22.06.2026, E. 2026/1075, K. 2026/6895 | Darp eden koca ve sadakatsiz kadın; kadın daha ağır kusurlu (Reels) |
+| 2026-11-03 | 21:45 | 2026-10-31 18:15 | https://www.instagram.com/reel/DfKdPV2Dmn7/ | YHGK, 10.06.2026, E. 2025/401, K. 2026/364 | Ekonomik tehditle yapılan feragat; katılma alacağı davası (Reels) |
+| 2026-11-03 | 22:45 | 2026-10-31 19:15 | https://www.instagram.com/reel/DfKkGEgFcjA/ | YHGK, 01.07.2026, E. 2025/521, K. 2026/437 | Babalık davası; çocuğu başka erkek tanıyınca dava görülemez (Reels) |
+| 2026-11-03 | 23:45 | 2026-10-31 20:15 | https://www.instagram.com/reel/DfKq9hBGjMO/ | YHGK, 16.09.2026, E. 2025/678, K. 2026/489 | Aile konutunun habersiz satışı ve çocuğa devri; açık rıza şartı (Reels) |
 
-Sıradaki: 2026-10-30 21:00 (anlaşmalı boşanma protokolü, HGK, https://www.instagram.com/reel/DfILv-RILqy/), ardından 30.10 22:00, 30.10 23:00, 31.10 Reels'leri…
+Sıradaki: 2026-10-31 21:15 (https://www.instagram.com/reel/DfKx0wGlBR8/), ardından 31.10 22:15, 31.10 23:15, 01.11 Reels'leri…

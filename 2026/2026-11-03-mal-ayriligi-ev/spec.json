@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.04.2026 · E. 2026/2275 · K. 2026/4541",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mal ayrılığı sözleşmesinden 4 gün sonra...",
+        "Ev kadının adına tescil edildi.",
+        "Bu ev bağış mı sayılır?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Tarihler kritik",
+          "card": {
+            "kind": "check",
+            "title": "EVLİLİK ÇİZELGESİ",
+            "good": true,
+            "rows": [
+              "2010: evlilik",
+              "27.08.2018: mal ayrılığı",
+              "31.08.2018: tapu kadına"
+            ],
+            "stamp": "2020: DAVA"
+          }
+        },
+        {
+          "title": "Paranın kaynağı",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Evin parası",
+            "value": "Önceki dairenin satışı",
+            "tag": "Katılma rejimi döneminde edinilmişti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin mal rejimi davası reddedildi. Dosya temyize geldi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Eşin adına ev almak bağış mı?",
+      "options": [
+        {
+          "title": "Evet, bağıştır",
+          "sub": "Dava reddi doğru"
+        },
+        {
+          "title": "Tek başına değil",
+          "sub": "Tasfiye incelenmeli"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Bağış iradesi duraksamaya yer vermeyecek kadar açık olmalı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Mahkeme mal rejiminin tasfiyesi hakkında karar vermeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşe yapılan her katkı bağış sayılmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.04.2026 · E. 2026/2344 · K. 2026/4567",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "1997'de boşandılar, nafaka bağlandı.",
+        "Erkek nafakanın kaldırılmasını istedi.",
+        "Mahkeme 500 bin lira toptan nafakaya hükmetti."
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: dava reddi",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İlk derece",
+            "value": "Ret",
+            "tag": "Nafaka aynen devam"
+          }
+        },
+        {
+          "title": "İstinaf: toptan ödeme",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Bölge adliye",
+            "value": "500.000 TL",
+            "tag": "Aylık yerine toptan nafaka"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kimse nafakanın türünün değiştirilmesini istememişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Toptan nafakaya çevrilebilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Hâkim takdir eder"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Tür sonradan değişmez"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Aylık veya toptan olması hüküm anında belirlenir, sonra kazanılmış hak olur.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Bu davalar yalnızca kaldırma, azaltma, artırma ile sınırlıdır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Hâkim talebin ötesine geçemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
