@@ -69,7 +69,7 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-11-03 | Yargıtay 2. HD, 22.04.2026, E. 2026/2275, K. 2026/4541 | Mal ayrılığı döneminde eş adına tescil edilen ev; tescil tek başına bağış değil (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 12:15 |
 | 2026-11-03 | Yargıtay 2. HD, 22.04.2026, E. 2026/2344, K. 2026/4567 | Nafakanın kaldırılması davasında toptan nafakaya çevirme; usuli kazanılmış hak (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 15:15 |
 | 2026-11-03 | Yargıtay HGK, 29.04.2026, E. 2025/354, K. 2026/267 | "Haklarımı hibe ediyorum" yazısı açık feragat değil; dava engellenmez (oy çokluğu) (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 18:15 |
-| 2026-11-03 | Yargıtay HGK, 23.09.2026, E. 2025/463, K. 2026/524 | Tek kıskançlık sözü kusur değil; dayanılmayan vakıa tanıkla kusura çevrilemez; erkek ağır kusurlu (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 21:15 |
+| 2026-11-03 | Yargıtay HGK, 23.09.2026, E. 2025/463, K. 2026/524 | Tek kıskançlık sözü kusur değil; dayanılmayan vakıa tanıkla kusura çevrilemez; erkek ağır kusurlu (Reels, seslendirmeli; kullanıcının isteğiyle 03.11 21:15 yerine 02.11 21:47'ye alındı) | yayınlandı 02.11 21:47 https://www.instagram.com/reel/DfP_Jw6kZTF/ |
 
 ## Hazır ama henüz paylaşılmadı
 
