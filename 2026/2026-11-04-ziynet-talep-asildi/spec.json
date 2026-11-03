@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "24.06.2026 · E. 2026/1504 · K. 2026/7178",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Dava dilekçesinde 32 çeyrek altın istedi.",
+        "Sonra verdiği dilekçede liste değişti.",
+        "Mahkeme yeni listeye hükmedebilir mi?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Önce: dava dilekçesi",
+          "card": {
+            "kind": "check",
+            "title": "DAVA DİLEKÇESİ",
+            "good": true,
+            "rows": [
+              "12 düz, 8 burma bilezik",
+              "32 çeyrek, 13 gram altın"
+            ],
+            "stamp": "İLK TALEP"
+          }
+        },
+        {
+          "title": "Sonra: mahkeme ayrıntı istedi",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "Yeni dilekçe",
+            "value": "Farklı liste",
+            "tag": "34 çeyrek, tam ve gram altın eklendi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme ikinci listeye göre aynen iade ya da 253 bin lira bedele hükmetti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Talep sonradan genişletilebilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Yeni liste geçerli"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Dava dilekçesi esas"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Dava dilekçesinde olmayan ziynet sonradan eklenemez; hâkim taleple bağlıdır.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Yalnızca dava dilekçesinde istenen ziynetler için hüküm kurulmalı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ziynet listesi dava dilekçesinde tam yazılmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

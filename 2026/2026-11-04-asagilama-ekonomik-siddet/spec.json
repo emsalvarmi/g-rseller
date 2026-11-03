@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/977 · K. 2026/6940",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Karı koca birbirine boşanma davası açtı.",
+        "Mahkeme iki davayı da reddetti.",
+        "Bu evlilik zorla sürer mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: iki dava da ret",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE",
+            "good": false,
+            "rows": [
+              "Erkeğin davası: ret",
+              "Kadının davası: ret"
+            ],
+            "stamp": "BOŞANMA YOK"
+          }
+        },
+        {
+          "title": "Bölge adliye de reddetti",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İstinaf",
+            "value": "Esastan ret",
+            "tag": "İki taraf da temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Dosyaya göre erkek kadını sürekli aşağılamış, ekonomik şiddet uygulamıştı.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadının davası reddedilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Evlilik sürsün"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Kadın boşanmada haklı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Geçimsizlik erkekten kaynaklanıyor; kadın dava açmakta haklıdır.",
+      "extra": {
+        "label": "ERKEĞİN DAVASI",
+        "text": "Erkeğin kendi boşanma davasının reddi ise onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Sürekli aşağılama ve ekonomik şiddet boşanma sebebi olabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

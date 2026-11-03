@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/1060 · K. 2026/6919",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mahkeme: Erkek, kadının maaş kartını aldı.",
+        "Eve bakmadı, ekonomik şiddet uyguladı dedi.",
+        "Tanığın soyut sözü yeter mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece erkeğe kusur yazdı",
+          "card": {
+            "kind": "check",
+            "title": "ERKEĞE YÜKLENEN",
+            "good": false,
+            "rows": [
+              "Evin ihtiyaçlarını karşılamama",
+              "Maaş kartını alma"
+            ],
+            "stamp": "EKONOMİK ŞİDDET"
+          }
+        },
+        {
+          "title": "Erkek temyize gitti",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Temyiz",
+            "value": "Kusur, tazminat",
+            "tag": "Tanık beyanı tartışıldı"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yargıtay'a göre tanığın beyanı soyut ifadelerden oluşuyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu vakıa kusur sayılır mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Ekonomik şiddet sabit"
+        },
+        {
+          "title": "Hayır",
+          "sub": "İspatlanamadı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Onandı.",
+      "text": "Vakıa ispatlanamadı, erkeğe kusur yüklenemezdi.",
+      "extra": {
+        "label": "YİNE DE",
+        "text": "Diğer kusurlarıyla erkek ağır kusurlu sayıldı, karar onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Soyut tanık beyanı vakıayı ispatlamaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

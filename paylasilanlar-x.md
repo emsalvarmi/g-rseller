@@ -46,3 +46,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-03 | 19:00 | Not | Danıştay 13. D., 01.12.2025, E. 2025/1405, K. 2025/3699 | Kardeşle para transferi gruba dahil olmayı ispatlamaz; bozma (planlandı) |
 | 2026-11-03 | 20:30 | Zincir | Danıştay 13. D., 03.11.2025, E. 2025/1979, K. 2025/3342 | Zarar eden yatırımcıya ceza; İDDK bozması üzerine dava reddi (videosuz) (planlandı) |
 | 2026-11-03 | 22:30 | Not | VI-104.1 m. 5/1-c (Danıştay K. 2025/3699'da aktarıldığı hâliyle) | Yön değiştiren emirler (planlandı) |
+| 2026-11-04 | 09:15 | Not | VI-104.1 Tebliği m. 3 (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Kendinden kendine işlem ve karşılıklı işlem tanımı (planlandı) |
+| 2026-11-04 | 11:30 | Zincir | Danıştay 13. D., 25.02.2025, E. 2024/1104, K. 2025/948 | Etkin pişmanlıkla KYOK; 2 yıl işlem yasağı yine de hukuka uygun, onama (videosuz) (planlandı) |
+| 2026-11-04 | 13:30 | Not | SPKn m. 105/2 (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Birden çok işlenen kabahatte iki kat ceza, menfaat/zararın üç katı (planlandı) |
+| 2026-11-04 | 15:30 | Not | SPK ilke kararı (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Alt sınırdan uzaklaşma kıstasları (planlandı) |
+| 2026-11-04 | 17:30 | Zincir | Danıştay 13. D., 25.12.2024, E. 2021/4911, K. 2024/5964 | Etkin pişmanlıkta menfaatin iki katı; potansiyel kâr itirazı, onama (videosuz) (planlandı) |
+| 2026-11-04 | 19:00 | Not | VI-104.1 Tebliği m. 5/1-d, e (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Açılış, kapanış ve uzlaşma fiyatını etkilemeye yönelik işlemler (planlandı) |
+| 2026-11-04 | 20:30 | Zincir | Danıştay 13. D., 26.05.2021, E. 2015/2158, K. 2021/1906 | 2014 Tebliği 2012-2013 işlemlerine uygulanamaz; işlem yasağı idari yaptırım, bozma (videosuz) (planlandı) |
+| 2026-11-04 | 22:30 | Not | SPKn m. 105/1 (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Ceza öncesi savunma, 30 gün (planlandı) |

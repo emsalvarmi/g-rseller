@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "10.03.2026 · E. 2025/5552 · K. 2026/2699",
+  "note": "Karar oy çokluğuyla verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın başka erkekten çocuk sahibi oldu.",
+        "Kocası ise ona şiddet uygulamıştı.",
+        "İkisi de birbirinden tazminat alabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İki ayrı dava, iki ayrı kusur",
+          "card": {
+            "kind": "check",
+            "title": "İLK DERECE",
+            "good": true,
+            "rows": [
+              "Zina davası: kadın kusurlu",
+              "Kadının davası: erkek kusurlu"
+            ],
+            "stamp": "İKİSİNE TAZMİNAT"
+          }
+        },
+        {
+          "title": "Bölge adliye yalnızca eleştirdi",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İstinaf",
+            "value": "Esastan ret",
+            "tag": "Erkek istinaf etmemişti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bir evlilik, iki ayrı dosyada iki ayrı kusur tablosuyla bitirilmişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusur iki kez belirlenebilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Her dava için ayrı"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Tek kusur, tek hüküm"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tüm kusurlar birlikte tartılır; kusur oranı bir kez belirlenir.",
+      "extra": {
+        "label": "TAZMİNAT",
+        "text": "Maddi ve manevi tazminat için de bir kez hüküm kurulur."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Aynı evlilikte kusur tek terazide tartılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

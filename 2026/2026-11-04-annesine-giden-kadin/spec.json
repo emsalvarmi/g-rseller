@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "02.03.2026 · E. 2025/7660 · K. 2026/2311",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın evi sürekli bırakıp annesine gitti.",
+        "Erkek alkol kullandı, ekonomik şiddet uyguladı.",
+        "Sizce ikisi eşit kusurlu mu?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkemenin kabul ettiği kusurlar",
+          "card": {
+            "kind": "check",
+            "title": "KUSURLAR",
+            "good": true,
+            "rows": [
+              "Kadın: evi sürekli bırakmak",
+              "Erkek: alkol, ekonomik şiddet"
+            ],
+            "stamp": "EŞİT KUSUR"
+          }
+        },
+        {
+          "title": "Tazminat reddedildi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Kadının tazminatı",
+            "value": "Ret",
+            "tag": "Bölge adliye de reddetti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek, terke dayalı bir boşanma davası açmamıştı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusurlar denk mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Eşit kusur, tazminat yok"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Erkek daha ağır kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Erkek, kadına nazaran daha ağır kusurludur.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadın yararına uygun maddi ve manevi tazminata hükmedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusurlar sayılmaz, niteliğine göre tartılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

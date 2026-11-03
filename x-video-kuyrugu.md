@@ -41,5 +41,20 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-03 | 21:45 | 2026-10-31 18:15 | https://www.instagram.com/reel/DfKdPV2Dmn7/ | YHGK, 10.06.2026, E. 2025/401, K. 2026/364 | Ekonomik tehditle yapılan feragat; katılma alacağı davası (Reels) |
 | 2026-11-03 | 22:45 | 2026-10-31 19:15 | https://www.instagram.com/reel/DfKkGEgFcjA/ | YHGK, 01.07.2026, E. 2025/521, K. 2026/437 | Babalık davası; çocuğu başka erkek tanıyınca dava görülemez (Reels) |
 | 2026-11-03 | 23:45 | 2026-10-31 20:15 | https://www.instagram.com/reel/DfKq9hBGjMO/ | YHGK, 16.09.2026, E. 2025/678, K. 2026/489 | Aile konutunun habersiz satışı ve çocuğa devri; açık rıza şartı (Reels) |
+| 2026-11-04 | 09:45 | 2026-10-31 21:15 | https://www.instagram.com/reel/DfKx0wGlBR8/ | Y. 2. HD, 29.06.2026, E. 2026/1428, K. 2026/7333 | Dava sürerken aldatma, ispat (Reels) |
+| 2026-11-04 | 10:45 | 2026-10-31 22:15 | https://www.instagram.com/reel/DfK4r35gYkC/ | YHGK, 09.09.2026, E. 2025/454, K. 2026/470 | Ailesinden koparma ve şiddet; erkek ağır kusurlu (Reels) |
+| 2026-11-04 | 11:45 | 2026-10-31 23:15 | https://www.instagram.com/reel/DfK_jFtkSTY/ | Y. 2. HD, 03.06.2026, E. 2025/9730, K. 2026/5995 | Velayet, çocuğun isteği ve fiilen dedeyle yaşama (Reels) |
+| 2026-11-04 | 12:45 | 2026-11-01 09:15 | https://www.instagram.com/reel/DfMEMA3kRg2/ | Y. 2. HD, 15.09.2026, E. 2025/10355, K. 2026/8040 | Maaşlı eşin yoksulluk nafakası (Reels) |
+| 2026-11-04 | 13:45 | 2026-11-01 10:15 | https://www.instagram.com/reel/DfMLDntDRcK/ | Y. 2. HD, 15.06.2026, E. 2026/3826, K. 2026/6588 | Çocuğun annenin soyadını kullanması (Reels) |
+| 2026-11-04 | 14:45 | 2026-11-01 11:15 | https://www.instagram.com/reel/DfMR7RsiDRQ/ | YHGK, 24.06.2026, E. 2025/739, K. 2026/408 | Ortak hesaptan döviz; usuli kazanılmış hak (Reels) |
+| 2026-11-04 | 15:45 | 2026-11-01 12:15 | https://www.instagram.com/reel/DfMYy0hle5g/ | Y. 2. HD, 24.03.2026, E. 2025/8401, K. 2026/3103 | Şiddet ve manevi tazminat (Reels) |
+| 2026-11-04 | 16:45 | 2026-11-01 13:15 | https://www.instagram.com/reel/DfMfrGyFUGO/ | YHGK, 13.05.2026, E. 2025/402, K. 2026/328 | Nafakada reddedilen kısım için vekâlet ücreti (Reels) |
+| 2026-11-04 | 17:45 | 2026-11-01 14:15 | https://www.instagram.com/reel/DfMmiazjjvM/ | Y. 2. HD, 04.02.2026, E. 2025/7140, K. 2026/1076 | Arabaya harcanan bilezikler (Reels) |
+| 2026-11-04 | 18:45 | 2026-11-01 15:15 | https://www.instagram.com/reel/DfMtfCWEWTf/ | Y. 2. HD, 05.02.2026, E. 2025/6546, K. 2026/1217 | Kök ailesine vakit ayırma; boşanma reddi bozuldu (Reels) |
+| 2026-11-04 | 19:45 | 2026-11-01 16:15 | https://www.instagram.com/reel/DfM0RGFgZRG/ | Y. 2. HD, 16.04.2026, E. 2026/1871, K. 2026/4287 | Çocuğun görüşü ile uzman raporu (Reels) |
+| 2026-11-04 | 20:45 | 2026-11-01 17:15 | https://www.instagram.com/reel/DfM7I6pjJwL/ | Y. 2. HD, 14.04.2026, E. 2025/6951, K. 2026/4133 | Dava sürerken ilişki; eşit kusur (oy çokluğu) (Reels) |
+| 2026-11-04 | 21:45 | 2026-11-01 18:15 | https://www.instagram.com/reel/DfNCHEqAElC/ | Y. 2. HD, 24.06.2026, E. 2025/10483, K. 2026/7150 | Yalnızca aynen iade talebi, bedele hüküm (Reels) |
+| 2026-11-04 | 22:45 | 2026-11-01 21:15 | https://www.instagram.com/reel/DfNWor0l7LR/ | Y. 2. HD, 15.06.2026, E. 2025/9098, K. 2026/6561 | Kardeşin saldırısına müdahale etmeme; eşit kusur (Reels) |
+| 2026-11-04 | 23:45 | 2026-11-02 09:15 | https://www.instagram.com/reel/DfOo_aDElXL/ | Y. 2. HD, 13.04.2026, E. 2025/8533, K. 2026/4009 | Eniştesiyle güven sarsıcı davranış (Reels) |
 
-Sıradaki: 2026-10-31 21:15 (https://www.instagram.com/reel/DfKx0wGlBR8/), ardından 31.10 22:15, 31.10 23:15, 01.11 Reels'leri…
+Sıradaki: 2026-11-02 Reels'leri, 09:15 sonrası (HGK E. 2025/675 ile devam), sonra kronolojik.
