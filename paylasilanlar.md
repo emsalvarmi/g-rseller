@@ -70,6 +70,7 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-11-03 | Yargıtay 2. HD, 22.04.2026, E. 2026/2344, K. 2026/4567 | Nafakanın kaldırılması davasında toptan nafakaya çevirme; usuli kazanılmış hak (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 15:15 |
 | 2026-11-03 | Yargıtay HGK, 29.04.2026, E. 2025/354, K. 2026/267 | "Haklarımı hibe ediyorum" yazısı açık feragat değil; dava engellenmez (oy çokluğu) (Reels, seslendirmeli; 02.11 akşamı sessiz yedeğin yerine konuldu) | planlandı 03.11 18:15 |
 | 2026-11-03 | Yargıtay HGK, 23.09.2026, E. 2025/463, K. 2026/524 | Tek kıskançlık sözü kusur değil; dayanılmayan vakıa tanıkla kusura çevrilemez; erkek ağır kusurlu (Reels, seslendirmeli; kullanıcının isteğiyle 03.11 21:15 yerine 02.11 21:47'ye alındı) | yayınlandı 02.11 21:47 https://www.instagram.com/reel/DfP_Jw6kZTF/ |
+| 2026-11-03 | Yargıtay HGK, 16.09.2026, E. 2025/720, K. 2026/490 | Tazminat itirazı kusur itirazı sayılmaz; istinaf dilekçedeki sebeplerle sınırlı, evlilik öncesi saklanan rahatsızlık; direnme uygun, dosya 2. HD'ye gönderildi (oy çokluğu) (Reels, seslendirmeli; sabah yedek göreviyle üretildi) | planlandı 03.11 21:15 |
 
 ## Hazır ama henüz paylaşılmadı
 

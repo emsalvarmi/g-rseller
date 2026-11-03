@@ -1,0 +1,14 @@
+hook_0	Evlilik öncesi hastalığını saklamak, boşanmada kusur mu?
+hook_1	Ama dosya, bir dilekçeye takıldı.
+olay_0	Mahkeme kadını ağır kusurlu buldu, erkeğe tazminat verdi.
+olay_1	Gerekçelerden biri bu saklamaydı.
+itiraz_0	İstinaf bunu kusur saymadı, eşit kusur dedi, tazminatı kaldırdı.
+itiraz_1	Yargıtay bozdu, istinaf direndi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Tazminata itiraz eden, kusura da itiraz etmiş sayılır mı?
+karar_0	Hukuk Genel Kurulu, oy çokluğuyla sayılmaz dedi.
+neden_0	Erkek tazminata itiraz etmiş, kusura karşı çıkmamıştı.
+neden_1	İstinaf, dilekçedeki sebeplerle sınırlıdır.
+neden_2	Tazminat itirazı, kusur itirazı sayılmaz.
+not_0	Kamu düzeni dışında, yazılmayan itiraz incelenmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
