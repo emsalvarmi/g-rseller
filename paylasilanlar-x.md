@@ -54,3 +54,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-04 | 19:00 | Not | VI-104.1 Tebliği m. 5/1-d, e (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Açılış, kapanış ve uzlaşma fiyatını etkilemeye yönelik işlemler (planlandı) |
 | 2026-11-04 | 20:30 | Zincir | Danıştay 13. D., 26.05.2021, E. 2015/2158, K. 2021/1906 | 2014 Tebliği 2012-2013 işlemlerine uygulanamaz; işlem yasağı idari yaptırım, bozma (videosuz) (planlandı) |
 | 2026-11-04 | 22:30 | Not | SPKn m. 105/1 (Danıştay K. 2025/1299'da aktarıldığı hâliyle) | Ceza öncesi savunma, 30 gün (planlandı) |
+| 2026-11-05 | 09:15 | Not | Danıştay 13. D., 04.03.2025, E. 2024/3587, K. 2025/1026 | Aynı IP ve grup işlemleri; 6 ay geçici işlem yasağı, onama (planlandı) |
+| 2026-11-05 | 11:30 | Zincir | Danıştay 13. D., 24.03.2025, E. 2025/43, K. 2025/1357 | Hesabı işveren kullandı; cezaların şahsiliği, iptal onandı (videosuz) (planlandı) |
+| 2026-11-05 | 13:30 | Not | Danıştay 13. D., 19.03.2025, E. 2021/420, K. 2025/1287 | 6 yıl sonraki işlem yasağı yaptırımdır; Tebliğ geçmişe yürümez, bozma (planlandı) |
+| 2026-11-05 | 15:30 | Not | Danıştay 13. D., 04.02.2025, E. 2024/131, K. 2025/572 | İşlem yasağı ve para cezası birlikte; onama (planlandı) |
+| 2026-11-05 | 17:30 | Zincir | Danıştay 13. D., 22.04.2025, E. 2025/513, K. 2025/1672 | Sosyal medya grubuna üyelik ve işlem 107/2 değil; yasak iptali onandı, oy çokluğu (videosuz) (planlandı) |
+| 2026-11-05 | 19:00 | Not | V-101.1 m. 4/1-g (Danıştay K. 2025/1672'de aktarıldığı hâliyle) | Makul şüphe tanımı (planlandı) |
+| 2026-11-05 | 20:30 | Zincir | Danıştay 13. D., 05.02.2025, E. 2023/644, K. 2025/620 | Vekâletle başkasının hesabında işlem; menfaatin iki katı ceza işlemi yapana, onama (videosuz) (planlandı) |
+| 2026-11-05 | 22:30 | Not | VI-104.1 m. 3 (Danıştay K. 2025/1672 karşı oyunda aktarıldığı hâliyle) | Birlikte hareket eden kişiler tanımı (planlandı) |

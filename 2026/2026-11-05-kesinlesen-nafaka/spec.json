@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "24.06.2026 · E. 2026/3046 · K. 2026/7149",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Yargıtay dosyayı yalnızca kusur yönünden bozdu.",
+        "Mahkeme ise nafaka da bağladı.",
+        "Bunu yapabilir mi?"
+      ],
+      "icon": "document"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Daire: Yalnızca kusur bozuldu",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "15.10.2025",
+            "value": "Eşit kusur",
+            "tag": "Diğer yönler onandı"
+          }
+        },
+        {
+          "title": "Mahkeme yeni nafaka verdi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "27.01.2026",
+            "value": "Aylık 750 TL",
+            "tag": "Tedbir ve yoksulluk nafakası"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Nafaka dosyası bozmanın dışında kalmış, kesinleşmişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yeni nafaka kararı ayakta kalır mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Mahkeme yeniden baktı"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Bu yön kesinleşmişti"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kesinleşen yönlerde yeniden hüküm kurulamaz.",
+      "extra": {
+        "label": "DİĞER İTİRAZ",
+        "text": "Kadının reddedilen tazminat taleplerine itirazı yerinde görülmedi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Bozmanın dışında kalan yönler yeniden açılmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

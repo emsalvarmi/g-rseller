@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "10.09.2026 · E. 2026/2080 · K. 2026/7940",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Gerekçe: Kadın ağır kusurlu.",
+        "Hüküm: Eşit kusur kararı aynen kaldı.",
+        "Bir karar iki şey söyleyebilir mi?"
+      ],
+      "icon": "document"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: Eşit kusur",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Karşılıklı boşanma",
+            "value": "Eşit kusur",
+            "tag": "Kadının tazminatı reddedildi"
+          }
+        },
+        {
+          "title": "Bölge adliye iki şey söyledi",
+          "card": {
+            "kind": "check",
+            "title": "AYNI KARARDA",
+            "good": false,
+            "rows": [
+              "Gerekçe: Erkek az, kadın ağır kusurlu",
+              "Hüküm: İstinaf esastan reddedildi"
+            ],
+            "stamp": "ÇELİŞKİ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derecenin kusur tespiti yanlış deniyor, ama o karar aynen ayakta bırakılıyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu karar ayakta kalır mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Sonuç önemli"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Çelişki var"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Usulden bozuldu.",
+      "text": "Gerekçe ile hüküm çelişirse bu, tek başına bozma sebebidir.",
+      "extra": {
+        "label": "KUSUR?",
+        "text": "Yargıtay kimin kusurlu olduğuna karar vermedi; itirazlar şimdilik incelenmedi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Gerekçe ile hüküm aynı şeyi söylemelidir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

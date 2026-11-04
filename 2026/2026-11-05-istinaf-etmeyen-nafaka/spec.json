@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "14.09.2026 · E. 2026/1948 · K. 2026/8020",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın ilk derece kararını istinaf etmedi.",
+        "Erkeğin istinafı reddedilince temyize gitti.",
+        "Bu temyiz incelenir mi?"
+      ],
+      "icon": "gavel"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece kadına nafaka verdi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Yoksulluk nafakası",
+            "value": "Kadın lehine",
+            "tag": "Gerekçe: yoksulluğa düşecek"
+          }
+        },
+        {
+          "title": "Yalnızca erkek istinaf etti",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Bölge adliye",
+            "value": "İstinaf reddi",
+            "tag": "Sonra iki taraf da temyize gitti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın tazminat ve nafaka miktarının artmasını istiyordu; erkek yoksulluk nafakasına itiraz ediyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadının temyizi incelenir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Karar onun hakkında"
+        },
+        {
+          "title": "Hayır",
+          "sub": "İstinaf etmemişti"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Dilekçe reddedildi.",
+      "text": "İstinaf reddi kararını yalnız reddedilen taraf temyiz edebilir.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Erkeğin itirazı üzerine yoksulluk nafakası yönünden karar bozuldu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Maaş ve düzenli gelir araştırılmadan nafaka verilemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

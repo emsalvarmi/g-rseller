@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/1048 · K. 2026/6918",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Hamileyken şiddet. Kucağında bebekle evden kovulma.",
+        "Ama eşler sonra birlikte yaşamaya devam etti.",
+        "Bu olaylar affedilmiş mi sayılır?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkeğe yüklenen vakıalar",
+          "card": {
+            "kind": "check",
+            "title": "ERKEĞE YÜKLENEN",
+            "good": false,
+            "rows": [
+              "Fiziksel şiddet, hamilelikte de",
+              "Kucağında bebekle evden kovma"
+            ],
+            "stamp": "KUSUR"
+          }
+        },
+        {
+          "title": "İki taraf da temyize gitti",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Temyiz",
+            "value": "Kusur, nafaka, tazminat",
+            "tag": "Erkek kusura itiraz etti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Olaylardan sonra eşler beraber yaşamayı sürdürmüştü.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu olaylar erkeğe kusur yazılır mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Şiddet sabit"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Af kapsamında"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Onandı.",
+      "text": "Birlikte yaşam sürdüğü için bu vakıalar af kapsamında sayıldı.",
+      "extra": {
+        "label": "YİNE DE",
+        "text": "Kadına da hakaret kusuru gerekirdi; ama erkek yine ağır kusurlu bulundu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Olaydan sonra birlikte yaşamak af sayılabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

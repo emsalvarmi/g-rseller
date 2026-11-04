@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "23.06.2026 · E. 2026/880 · K. 2026/6974",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Baba çocuğunu ayda iki pazar görecekti.",
+        "Üstelik yalnızca gündüz, sabah 10'dan akşam 18'e.",
+        "Bu görüşme yeterli mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece: 13.00-17.00",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Kişisel ilişki",
+            "value": "Ayda 2 pazar",
+            "tag": "Dini bayramın 2. günü de"
+          }
+        },
+        {
+          "title": "Bölge adliye: 10.00-18.00",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İstinaf",
+            "value": "Yine yatısız",
+            "tag": "Babalar günü eklendi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek kişisel ilişki düzenlemesini temyiz etti. Velayet annede kaldı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Yargıtay ne yaptı?",
+      "options": [
+        {
+          "title": "Süreyi uygun buldu",
+          "sub": "Gündüz görüşme yeter"
+        },
+        {
+          "title": "Düzeltti",
+          "sub": "Yatılı görüşme ekledi"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltilerek onandı.",
+      "text": "Görüşme az bulundu; yatılı kişisel ilişki gerekirdi.",
+      "extra": {
+        "label": "YENİ DÜZEN",
+        "text": "2. ve 4. cumartesi 10.00'dan pazar 17.00'ye; 1-20 Temmuz ve yarıyıl tatili."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kişisel ilişkide ölçü çocuğun üstün yararıdır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

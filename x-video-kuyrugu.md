@@ -56,5 +56,20 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-04 | 21:45 | 2026-11-01 18:15 | https://www.instagram.com/reel/DfNCHEqAElC/ | Y. 2. HD, 24.06.2026, E. 2025/10483, K. 2026/7150 | Yalnızca aynen iade talebi, bedele hüküm (Reels) |
 | 2026-11-04 | 22:45 | 2026-11-01 21:15 | https://www.instagram.com/reel/DfNWor0l7LR/ | Y. 2. HD, 15.06.2026, E. 2025/9098, K. 2026/6561 | Kardeşin saldırısına müdahale etmeme; eşit kusur (Reels) |
 | 2026-11-04 | 23:45 | 2026-11-02 09:15 | https://www.instagram.com/reel/DfOo_aDElXL/ | Y. 2. HD, 13.04.2026, E. 2025/8533, K. 2026/4009 | Eniştesiyle güven sarsıcı davranış (Reels) |
+| 2026-11-05 | 09:45 | 2026-11-02 12:15 | https://www.instagram.com/reel/DfO9mphkU5I/ | YHGK, 24.06.2026, E. 2025/675, K. 2026/410 | İstinafta ölen eş, kesinleşen boşanma (Reels) |
+| 2026-11-05 | 10:45 | 2026-11-02 15:15 | https://www.instagram.com/reel/DfPSN2WAqA3/ | Y. 2. HD, 07.04.2026, E. 2025/6943, K. 2026/3765 | Aile konutunun şirkete satışı (Reels) |
+| 2026-11-05 | 11:45 | 2026-11-02 18:15 | https://www.instagram.com/reel/DfPm7zCDiU6/ | Y. 2. HD, 31.03.2026, E. 2025/8320, K. 2026/3419 | Babanın tehdidi eşe kusur yazılamaz (Reels) |
+| 2026-11-05 | 12:45 | 2026-11-02 21:15 | https://www.instagram.com/reel/DfP7ecTHSPL/ | Y. 2. HD, 09.06.2026, E. 2025/10934, K. 2026/6262 | Evden kovma ve çocuğa şiddet; kusur (Reels) |
+| 2026-11-05 | 13:45 | 2026-11-02 21:47 | https://www.instagram.com/reel/DfP_Jw6kZTF/ | YHGK, 23.09.2026, E. 2025/463, K. 2026/524 | Kıskançlık sözü kusur değil (Reels) |
+| 2026-11-05 | 14:45 | 2026-11-03 09:15 | https://www.instagram.com/reel/DfRNyJ2DzY7/ | Y. 2. HD, 14.09.2026, E. 2026/1950, K. 2026/8022 | Çocuklar fiilen babada; velayet (Reels) |
+| 2026-11-05 | 15:45 | 2026-11-03 12:15 | https://www.instagram.com/reel/DfRie9mD4tD/ | Y. 2. HD, 22.04.2026, E. 2026/2275, K. 2026/4541 | Eş adına tescil bağış değil (Reels) |
+| 2026-11-05 | 16:45 | 2026-11-03 15:15 | https://www.instagram.com/reel/DfR3HGzkcYi/ | Y. 2. HD, 22.04.2026, E. 2026/2344, K. 2026/4567 | Toptan nafakaya çevirme (Reels) |
+| 2026-11-05 | 17:45 | 2026-11-03 18:15 | https://www.instagram.com/reel/DfSLmO4CW40/ | YHGK, 29.04.2026, E. 2025/354, K. 2026/267 | Haklarımı hibe ediyorum yazısı (Reels) |
+| 2026-11-05 | 18:45 | 2026-11-03 21:15 | https://www.instagram.com/reel/DfSgMfgCabF/ | YHGK, 16.09.2026, E. 2025/720, K. 2026/490 | Tazminat itirazı kusur itirazı değil (Reels) |
+| 2026-11-05 | 19:45 | 2026-11-04 09:15 | https://www.instagram.com/reel/DfTylUyiQ-8/ | Y. 2. HD, 24.06.2026, E. 2026/1504, K. 2026/7178 | Sonradan değişen ziynet listesi (Reels) |
+| 2026-11-05 | 20:45 | 2026-11-04 12:15 | https://www.instagram.com/reel/DfUHMlBkZmh/ | Y. 2. HD, 22.06.2026, E. 2026/977, K. 2026/6940 | Aşağılama ve ekonomik şiddet (Reels) |
+| 2026-11-05 | 21:45 | 2026-11-04 15:15 | https://www.instagram.com/reel/DfUb204AiDD/ | Y. 2. HD, 02.03.2026, E. 2025/7660, K. 2026/2311 | Annesine giden kadın, alkol (Reels) |
+| 2026-11-05 | 22:45 | 2026-11-04 18:15 | https://www.instagram.com/reel/DfUwdq9nOY4/ | Y. 2. HD, 10.03.2026, E. 2025/5552, K. 2026/2699 | İki dosyada tek kusur (Reels) |
+| 2026-11-05 | 23:45 | 2026-11-04 21:15 | https://www.instagram.com/reel/DfVFANbAExd/ | Y. 2. HD, 22.06.2026, E. 2026/1060, K. 2026/6919 | Maaş kartı ve soyut tanık (Reels) |
 
-Sıradaki: 2026-11-02 Reels'leri, 09:15 sonrası (HGK E. 2025/675 ile devam), sonra kronolojik.
+Sıradaki: 2026-11-05 09:15'te yayınlanacak Reels (E. 2026/1948); kuyruk 05.11 sonunda 04.11'e kadarki Reels'leri tüketti, bundan sonra yalnızca yeni Reels'ler aktarılır.
