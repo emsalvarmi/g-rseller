@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "03.06.2026 · E. 2026/222 · K. 2026/6130",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadına göre düğün altınlarını kayınpeder \"saklayacağım\" diyerek aldı.",
+        "Kadın altınları kocasından da istedi.",
+        "Koca \"altınlar bende değil\" diyebilir mi?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadının iddiası",
+          "card": {
+            "kind": "check",
+            "title": "KADININ İDDİASI",
+            "good": false,
+            "rows": [
+              "Düğün ve kına takıları",
+              "Kayınpeder baskıyla aldı"
+            ],
+            "stamp": "İDDİA"
+          }
+        },
+        {
+          "title": "Erkek tarafının savunması",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Savunma",
+            "value": "Eşe husumet düşmez",
+            "tag": "Altınlar kadında"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye mahkemesi: Altınları baba aldıysa koca sorumlu değil. Kocaya karşı dava reddedildi.",
+      "icon": "gavel",
+      "tape": "HUSUMETTEN RET"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Koca yine de sorumlu tutulabilir mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Altınları babası aldı"
+        },
+        {
+          "title": "Evet",
+          "sub": "Menfaat birliği var"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Erkek babasıyla menfaat birliği içinde; altınlardan o da sorumlu, ona dava açılabilir.",
+      "extra": {
+        "label": "ŞİMDİ",
+        "text": "Deliller toplanıp davanın esası hakkında karar verilecek."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ziyneti eşin babası aldıysa eşe de dava açılabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

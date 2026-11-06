@@ -1,0 +1,93 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.05.2026 · E. 2025/7674 · K. 2026/5344",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca evi devretmeden önce karısını aradı.",
+        "Tanıklara göre kadın: \"Umurumda değil, satarsan sat.\"",
+        "Bu, devre rıza sayılır mı?"
+      ],
+      "icon": "house",
+      "stamp": "AİLE KONUTU"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Aile konutu",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Aile konutu",
+            "value": "2010'dan beri",
+            "tag": "Erkek evi terk etmişti"
+          }
+        },
+        {
+          "title": "Devir",
+          "card": {
+            "kind": "check",
+            "title": "DEVİR",
+            "good": false,
+            "rows": [
+              "Taksitler ödenemedi",
+              "Ev başkası adına tescil edildi"
+            ],
+            "stamp": "DEVREDİLDİ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derece mahkemesi: Kadının satıştan haberi vardı, dava hakkın kötüye kullanılması. Dava reddedildi.",
+      "icon": "gavel",
+      "tape": "REDDEDİLDİ"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "\"Umurumda değil\" sözü açık rıza mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Haberi vardı"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Açık rıza ispatlanmadı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Açık rıza ispatlanamadı; satacağını söylemek için aramak yetmez.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Eşin evi terk etmesi, aile konutu niteliğini kaldırmaz."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Aile konutunun devri için eşin açık rızası gerekir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

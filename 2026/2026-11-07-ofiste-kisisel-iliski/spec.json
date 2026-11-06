@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "13.05.2026 · E. 2025/674 · K. 2026/329",
+  "note": "Karar oy birliğiyle, kesin olarak verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kız çocuğu babasının yanına gitmek istemedi.",
+        "Ofiste, çökük bir kanepede yattığını anlattı.",
+        "Babayla görüşmeler azaltılmalı mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Çocuğun anlattığı",
+          "card": {
+            "kind": "check",
+            "title": "ÇOCUĞUN BEYANI",
+            "good": false,
+            "rows": [
+              "Banyo yok, kanepe çökük",
+              "Babamla görüşmek istemiyorum"
+            ],
+            "stamp": "BEYAN"
+          }
+        },
+        {
+          "title": "Uzman raporları",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "3 rapor, 7 uzman",
+            "value": "Kısıtlamaya gerek yok",
+            "tag": "Babanın ayrı evi var"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye mahkemesi görüşmeleri ayda iki pazar gündüze indirdi, bozmaya da direndi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Görüşmeler azaltılmalı mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Çocuk istemiyor"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Uzmanlar aksi görüşte"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "kicker": "HUKUK GENEL KURULU",
+      "title": "Direnme bozuldu.",
+      "text": "Çocuk annesinin cümleleriyle konuşuyordu; görüşmelerin ona zarar verdiğine dair delil yok.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Yatılı görüşme düzeni korunmalı, azaltma davası reddedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Çocuğun sözü, uzman görüşüyle birlikte tartılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/180 · K. 2026/7363",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çeyiz senedinde 300 gram altın yazıyordu.",
+        "Bilezikler takıldı, sonra ev alınsın diye geri verildi.",
+        "Boşanınca geri istenebilir mi?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Çeyiz senedi",
+          "card": {
+            "kind": "check",
+            "title": "ÇEYİZ SENEDİ",
+            "good": true,
+            "rows": [
+              "300 gram altın yazılı",
+              "İmzalar davalılara ait"
+            ],
+            "stamp": "ADLİ TIP"
+          }
+        },
+        {
+          "title": "Tanıklar",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "Takılan",
+            "value": "6 bilezik · 150 gram",
+            "tag": "Ev alınsın diye geri verildi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye mahkemesi: Altınlar kadına geçti, elinden alındığını ispatlayamadı. Talep reddedildi.",
+      "icon": "document",
+      "tape": "REDDEDİLDİ"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın altınlarını geri alabilir mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "İspat edemedi"
+        },
+        {
+          "title": "Evet",
+          "sub": "150 gram için"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tanıklara göre 150 gram bilezik ev alımı için geri verilmişti; bu kısım kabul edilmeli.",
+      "extra": {
+        "label": "300 GRAM DEĞİL",
+        "text": "Senetteki miktar değil, takıldığı anlaşılan 150 gram esas alındı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Geri verilen ziynet, ispatlanırsa geri istenebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

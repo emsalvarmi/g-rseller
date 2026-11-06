@@ -71,5 +71,10 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-05 | 21:45 | 2026-11-04 15:15 | https://www.instagram.com/reel/DfUb204AiDD/ | Y. 2. HD, 02.03.2026, E. 2025/7660, K. 2026/2311 | Annesine giden kadın, alkol (Reels) |
 | 2026-11-05 | 22:45 | 2026-11-04 18:15 | https://www.instagram.com/reel/DfUwdq9nOY4/ | Y. 2. HD, 10.03.2026, E. 2025/5552, K. 2026/2699 | İki dosyada tek kusur (Reels) |
 | 2026-11-05 | 23:45 | 2026-11-04 21:15 | https://www.instagram.com/reel/DfVFANbAExd/ | Y. 2. HD, 22.06.2026, E. 2026/1060, K. 2026/6919 | Maaş kartı ve soyut tanık (Reels) |
+| 2026-11-07 | 09:45 | 2026-11-05 09:15 | https://www.instagram.com/reel/DfWXdM2gF7x/ | Y. 2. HD, 14.09.2026, E. 2026/1948, K. 2026/8020 | İstinaf etmeyen eşin temyizi (Reels) |
+| 2026-11-07 | 10:45 | 2026-11-05 12:15 | https://www.instagram.com/reel/DfWr_b4jVSN/ | Y. 2. HD, 23.06.2026, E. 2026/880, K. 2026/6974 | Yatılı kişisel ilişki (Reels) |
+| 2026-11-07 | 11:45 | 2026-11-05 15:15 | https://www.instagram.com/reel/DfXAz78AY3P/ | Y. 2. HD, 24.06.2026, E. 2026/3046, K. 2026/7149 | Bozma kapsamı dışında kesinleşen nafaka (Reels) |
+| 2026-11-07 | 12:45 | 2026-11-05 18:15 | https://www.instagram.com/reel/DfXVSL2n0FG/ | Y. 2. HD, 10.09.2026, E. 2026/2080, K. 2026/7940 | Gerekçe-hüküm çelişkisi (Reels) |
+| 2026-11-07 | 13:45 | 2026-11-05 21:15 | https://www.instagram.com/reel/DfXp81SAI7V/ | Y. 2. HD, 22.06.2026, E. 2026/1048, K. 2026/6918 | Birlikte yaşama af (Reels) |
 
-Sıradaki: 2026-11-05 09:15'te yayınlanacak Reels (E. 2026/1948); kuyruk 05.11 sonunda 04.11'e kadarki Reels'leri tüketti, bundan sonra yalnızca yeni Reels'ler aktarılır.
+Sıradaki: 06.11.2026'da Instagram Reels'i yayınlanmadı (o gün için plan yapılmamıştı). Kuyruk 05.11'e kadarki Reels'leri tüketti; sıradaki aktarım 07.11 09:15 Reels'i (E. 2026/222).

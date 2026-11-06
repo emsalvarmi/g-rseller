@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "10.02.2026 · E. 2025/6860 · K. 2026/1395",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın evi terk etti ve bir daha dönmedi.",
+        "Erkek boşanma davası açtı, mahkeme boşanmaya karar verdi.",
+        "Terk, bu davada kusur sayılır mı?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkeğin davası",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Dava sebebi",
+            "value": "Evlilik birliğinin sarsılması",
+            "tag": "Terk davası açılmadı"
+          }
+        },
+        {
+          "title": "Kadına yüklenen kusur",
+          "card": {
+            "kind": "check",
+            "title": "KADINA YÜKLENEN",
+            "good": false,
+            "rows": [
+              "Erkeği terk etti",
+              "Bir daha dönmedi"
+            ],
+            "stamp": "KUSUR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Terk için kanunda ayrı bir boşanma sebebi ve eve dön ihtarı yolu var.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Terk, kadına kusur olarak yazılabilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Evi terk etti"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Terk davası yok"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Terk sebebine dayalı dava yokken terk kusur sayılamaz; başka kusur da ispatlanmadı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Davanın reddi gerekirdi; boşanma kararı bozuldu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Boşanma için karşı tarafın az da olsa kusuru ispatlanmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

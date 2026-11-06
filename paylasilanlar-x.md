@@ -62,3 +62,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-05 | 19:00 | Not | V-101.1 m. 4/1-g (Danıştay K. 2025/1672'de aktarıldığı hâliyle) | Makul şüphe tanımı (planlandı) |
 | 2026-11-05 | 20:30 | Zincir | Danıştay 13. D., 05.02.2025, E. 2023/644, K. 2025/620 | Vekâletle başkasının hesabında işlem; menfaatin iki katı ceza işlemi yapana, onama (videosuz) (planlandı) |
 | 2026-11-05 | 22:30 | Not | VI-104.1 m. 3 (Danıştay K. 2025/1672 karşı oyunda aktarıldığı hâliyle) | Birlikte hareket eden kişiler tanımı (planlandı) |
+| 2026-11-07 | 09:15 | Not | SPKn m. 10/1 (Danıştay K. 2025/3545'te aktarıldığı hâliyle) | İzahnameden sorumluluk sırası (planlandı) |
+| 2026-11-07 | 11:30 | Zincir | Danıştay 13. D., 18.11.2025, E. 2021/1437, K. 2025/3545 | Halka arz parasının izahnameye aykırı kullanımı; idari para cezası ve tazminat birlikte olabilir, Tebliğ iptal istemi reddedildi (videosuz) (planlandı) |
+| 2026-11-07 | 13:30 | Not | SPKn m. 32/6-7 (Danıştay K. 2025/3545'te aktarıldığı hâliyle) | 6 ay zamanaşımı, sorumluluğu kaldıran anlaşmalar geçersiz (planlandı) |
+| 2026-11-07 | 15:30 | Not | SPKn m. 32/3 (Danıştay K. 2025/3545'te aktarıldığı hâliyle) | Bilmediğini ispatlayanın sorumsuzluğu (planlandı) |
+| 2026-11-07 | 17:30 | Zincir | Danıştay 13. D., 05.05.2025, E. 2025/903, K. 2025/1807 | Özel durumların KAP'a geç/hiç bildirilmesi; 222.048 TL ceza, iki kat artırım, onama (videosuz) (planlandı) |
+| 2026-11-07 | 19:00 | Not | SPKn m. 32/5 (Danıştay K. 2025/3545'te aktarıldığı hâliyle) | Tazminat talebinin reddedileceği hâller (planlandı) |
+| 2026-11-07 | 20:30 | Zincir | Danıştay 13. D., 29.01.2025, E. 2023/1532, K. 2025/418 | Sermaye artırımı açıklanmadan önce pay satışı; içsel bilgi, piyasa bozucu eylem, 1.175.029 TL ceza onandı (videosuz) (planlandı) |
+| 2026-11-07 | 22:30 | Not | SPKn m. 103/1 (Danıştay K. 2025/3545) | İdari para cezası aralığı ve menfaatin iki katı (planlandı) |
