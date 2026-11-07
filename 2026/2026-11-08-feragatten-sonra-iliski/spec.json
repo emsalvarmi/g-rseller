@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "04.05.2026 · E. 2025/8356 · K. 2026/5023",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın ilk boşanma davasından vazgeçti.",
+        "Kocasının başka bir kadınla ilişkisi sürdü.",
+        "Yeni dava açabilir mi?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Boşanma",
+            "value": "Erkek tam kusurlu",
+            "tag": "Sadakatsizlik"
+          }
+        },
+        {
+          "title": "Bölge adliye",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAF",
+            "good": false,
+            "rows": [
+              "Feragatten sonra kusur yok",
+              "Boşanma davası reddedildi"
+            ],
+            "stamp": "RET"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Deliller, ilişkinin feragatten sonra da devam ettiğini gösteriyordu.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın boşanma davasında haklı mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "İlişki sürüyordu"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Davadan feragat etti"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Feragatten sonra süren ilişki, boşanma için yeterli bir sebep.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Erkeğe takılan altınlar kadına özgü değil; o kısım onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Feragat, sonradan devam eden kusuru affetmek demek değildir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

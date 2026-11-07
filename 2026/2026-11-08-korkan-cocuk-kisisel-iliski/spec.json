@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "13.05.2026 · E. 2026/2729 · K. 2026/5556",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuklar babalarından korktuklarını söyledi.",
+        "Uzman da görüşmelerin kaldırılmasını önerdi.",
+        "Görüşmeler sürmeli mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Annenin davası",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Talep",
+            "value": "Kişisel ilişki kaldırılsın",
+            "tag": "Velayet annede"
+          }
+        },
+        {
+          "title": "Mahkemenin kararı",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Yeni düzen",
+            "value": "Ayda 2 cumartesi, 1 saat",
+            "tag": "Uzman eşliğinde"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İdrak çağındaki çocuklar görüşmek istemedi; uzman raporu da kaldırılmasını önerdi.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kişisel ilişki tamamen kaldırılmalı mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Çocuklar ve uzman aynı görüşte"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Uzman eşliğinde sürsün"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Çocukların görüşü ve uzman raporu karşısında kişisel ilişki kaldırılmalıydı.",
+      "extra": {
+        "label": "KURAL",
+        "text": "Çocuğun sağlık ve ahlak bakımından yararı esastır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kişisel ilişki çocuk için bir haktır; yararı gerektirirse kaldırılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

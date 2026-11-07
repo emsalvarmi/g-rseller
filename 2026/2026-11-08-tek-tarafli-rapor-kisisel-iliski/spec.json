@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.06.2026 · E. 2026/3045 · K. 2026/6482",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Anne, çocuğun babasından korktuğunu söyledi.",
+        "Mahkeme babayla görüşmeyi refakatçili ve yatısız yaptı.",
+        "Rapor babayla görüşülmeden yazılmıştı."
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Annenin iddiası",
+          "card": {
+            "kind": "check",
+            "title": "ANNEYE GÖRE",
+            "good": false,
+            "rows": [
+              "Çocuk babadan korkuyor",
+              "Görüşmeye ağlayarak gidiyor"
+            ],
+            "stamp": "İDDİA"
+          }
+        },
+        {
+          "title": "Mahkemenin kararı",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kişisel ilişki",
+            "value": "Yatısız, refakatçi eşliğinde",
+            "tag": "İstinaf da onayladı"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Sosyal inceleme raporu yalnızca anne ve çocukla görüşülerek, tek taraflı hazırlanmıştı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu rapor görüşmeyi kısıtlamaya yeter mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Çocuk korkuyor"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Baba hiç dinlenmedi"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tek taraflı rapor, kişisel ilişkiyi sınırlamaya yeterli değil.",
+      "extra": {
+        "label": "YAPILACAK",
+        "text": "Uzman heyeti iki ebeveyn ve çocukla görüşsün; çocuk dinlensin."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kişisel ilişki ancak çocuğun yararı gerektirirse kısıtlanır."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

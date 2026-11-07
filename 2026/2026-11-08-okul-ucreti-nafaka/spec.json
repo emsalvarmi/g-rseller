@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.04.2026 · E. 2026/2775 · K. 2026/4877",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Baba, okul ücretinin yarısını ödeyeceğine söz verdi.",
+        "Annenin iddiasına göre ödemedi.",
+        "Nafaka artırılınca okul masrafı unutulur mu?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Anlaşmalı boşanma",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Protokol",
+            "value": "1.500 TL + okul ücretinin yarısı",
+            "tag": "Aylık iştirak nafakası"
+          }
+        },
+        {
+          "title": "Artırım davası",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Mahkeme",
+            "value": "Nafaka 25.000 TL'ye çıktı",
+            "tag": "Anne 60.000 TL istemişti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Gerekçede eğitim giderleri hiç sayılmamıştı; protokoldeki okul ücreti de belirsizdi.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Nafaka eğitim giderlerini de kapsamalı mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Okul masrafı dahil edilmeli"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Protokol ayrıca var"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Protokoldeki okul ücreti belirsiz, icra edilemez nitelikte.",
+      "extra": {
+        "label": "YAPILACAK",
+        "text": "Eğitim masraflarını da kapsayan bir nafaka belirlenmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Belirsiz protokol maddesi, nafakayı belirlerken hesaba katılmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

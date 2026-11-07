@@ -70,3 +70,12 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-07 | 19:00 | Not | SPKn m. 32/5 (Danıştay K. 2025/3545'te aktarıldığı hâliyle) | Tazminat talebinin reddedileceği hâller (planlandı) |
 | 2026-11-07 | 20:30 | Zincir | Danıştay 13. D., 29.01.2025, E. 2023/1532, K. 2025/418 | Sermaye artırımı açıklanmadan önce pay satışı; içsel bilgi, piyasa bozucu eylem, 1.175.029 TL ceza onandı (videosuz) (planlandı) |
 | 2026-11-07 | 22:30 | Not | SPKn m. 103/1 (Danıştay K. 2025/3545) | İdari para cezası aralığı ve menfaatin iki katı (planlandı) |
+| 2026-11-08 | 09:15 | Not | SPK bülteni 2026/79, 06.11.2026 (haberlerden) | 3 payda işlemler: 67 kişiye suç duyurusu ve 2 yıl işlem yasağı, bir aracı kurumun faaliyeti geçici durduruldu (isim verilmedi) (planlandı) |
+| 2026-11-08 | 11:30 | Zincir | Danıştay 13. D., 25.12.2024, E. 2020/2449, K. 2024/5968 | 85 milyon Euro'luk pay alım-satımı ile ana ortağa örtülü kazanç aktarımı; 101,8 milyon TL iade uyarısı, onama (videosuz) (planlandı) |
+| 2026-11-08 | 13:30 | Not | Danıştay 13. D. K. 2024/5968 (ilk derece gerekçesi, onandı) | SPK'nın suç duyurusu kararı idari davaya konu olamaz (planlandı) |
+| 2026-11-08 | 15:30 | Not | SPKn m. 99/4 (Danıştay K. 2025/1649) | İzinsiz faaliyet gösteren sitelere erişim engeli (planlandı) |
+| 2026-11-08 | 17:30 | Zincir | Danıştay 13. D., 17.02.2025, E. 2021/1944, K. 2025/782 | Bağımsız denetim; ortaklardan alacağın kasaya sınıflandırılması, 269.500 TL ceza onandı (videosuz) (planlandı) |
+| 2026-11-08 | 19:00 | Not | TMS 1 m. 11 (Danıştay K. 2025/782 ile onanan karar) | Bağımsız denetimde niteliksel önemlilik (planlandı) |
+| 2026-11-08 | 19:30 | Zincir | Haftalık bülten | 02.11–07.11 X paylaşımlarından 5 başlık (K. 2025/1379, 1141, 1357, 1672, 418) (planlandı) |
+| 2026-11-08 | 20:30 | Zincir | Danıştay 13. D., 21.04.2025, E. 2023/2477, K. 2025/1649 | Yurt dışı kaldıraçlı işlem sitesi yeniden açıldı; erişim engeli hukuka uygun, onama (videosuz) (planlandı) |
+| 2026-11-08 | 22:30 | Not | SPKn m. 21 (Danıştay K. 2024/5968'de aktarıldığı hâliyle) | Örtülü kazanç aktarımı yasağı (planlandı) |

@@ -76,5 +76,9 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-07 | 11:45 | 2026-11-05 15:15 | https://www.instagram.com/reel/DfXAz78AY3P/ | Y. 2. HD, 24.06.2026, E. 2026/3046, K. 2026/7149 | Bozma kapsamı dışında kesinleşen nafaka (Reels) |
 | 2026-11-07 | 12:45 | 2026-11-05 18:15 | https://www.instagram.com/reel/DfXVSL2n0FG/ | Y. 2. HD, 10.09.2026, E. 2026/2080, K. 2026/7940 | Gerekçe-hüküm çelişkisi (Reels) |
 | 2026-11-07 | 13:45 | 2026-11-05 21:15 | https://www.instagram.com/reel/DfXp81SAI7V/ | Y. 2. HD, 22.06.2026, E. 2026/1048, K. 2026/6918 | Birlikte yaşama af (Reels) |
+| 2026-11-08 | 09:45 | 2026-11-07 09:15 | https://www.instagram.com/reel/Dfbg9cJk5v-/ | Y. 2. HD, 03.06.2026, E. 2026/222, K. 2026/6130 | Kayınpederin aldığı ziynet (Reels) |
+| 2026-11-08 | 10:45 | 2026-11-07 12:15 | https://www.instagram.com/reel/Dfb1kaYga4W/ | YHGK, 13.05.2026, E. 2025/674, K. 2026/329 | Ofiste kalan çocuk, kişisel ilişki (Reels) |
+| 2026-11-08 | 11:45 | 2026-11-07 15:15 | https://www.instagram.com/reel/DfcKLGRj-I4/ | Y. 2. HD, 29.06.2026, E. 2026/180, K. 2026/7363 | Çeyiz senedi, geri verilen bilezik (Reels) |
+| 2026-11-08 | 12:45 | 2026-11-07 18:15 | https://www.instagram.com/reel/DfceyXSj2r-/ | Y. 2. HD, 11.05.2026, E. 2025/7674, K. 2026/5344 | Umurumda değil, aile konutu (Reels) |
 
-Sıradaki: 06.11.2026'da Instagram Reels'i yayınlanmadı (o gün için plan yapılmamıştı). Kuyruk 05.11'e kadarki Reels'leri tüketti; sıradaki aktarım 07.11 09:15 Reels'i (E. 2026/222).
+Sıradaki: Kuyruk 07.11 18:15 Reels'ine kadar tükendi (08.11 13:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 07.11 21:15 Reels'i (E. 2025/6860), ardından 08.11 Reels'leri.

@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "02.02.2026 · E. 2025/2231 · K. 2026/907",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mahkeme kadını daha ağır kusurlu buldu.",
+        "Erkeğin ekonomik şiddeti hesaba katılmamıştı.",
+        "Kusur dengesi değişir mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Alt mahkemeler",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kusur",
+            "value": "Kadın daha ağır kusurlu",
+            "tag": "Erkeğe tazminat, kadına nafaka yok"
+          }
+        },
+        {
+          "title": "Gözden kaçan",
+          "card": {
+            "kind": "check",
+            "title": "ERKEĞİN KUSURU",
+            "good": false,
+            "rows": [
+              "Ekonomik şiddet",
+              "Ailesinin aşağılamasına sessiz kaldı"
+            ],
+            "stamp": "KUSUR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Tüm kusurlar birlikte değerlendirilince taraflar eşit kusurluydu.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Eşit kusurlu kadın yoksulluk nafakası alabilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Daha ağır kusurlu değil"
+        },
+        {
+          "title": "Hayır",
+          "sub": "O da kusurlu"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Eşit kusurda erkeğe tazminat verilemez; geliri olmayan kadına nafaka verilmeli.",
+      "extra": {
+        "label": "KURAL",
+        "text": "Yoksulluk nafakası için kusurun daha ağır olmaması yeterli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Ekonomik şiddet ve aileye sessizlik de kusurdur."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}
