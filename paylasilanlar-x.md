@@ -79,3 +79,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-08 | 19:30 | Zincir | Haftalık bülten | 02.11–07.11 X paylaşımlarından 5 başlık (K. 2025/1379, 1141, 1357, 1672, 418) (planlandı) |
 | 2026-11-08 | 20:30 | Zincir | Danıştay 13. D., 21.04.2025, E. 2023/2477, K. 2025/1649 | Yurt dışı kaldıraçlı işlem sitesi yeniden açıldı; erişim engeli hukuka uygun, onama (videosuz) (planlandı) |
 | 2026-11-08 | 22:30 | Not | SPKn m. 21 (Danıştay K. 2024/5968'de aktarıldığı hâliyle) | Örtülü kazanç aktarımı yasağı (planlandı) |
+| 2026-11-09 | 09:15 | Not | Yargıtay 19. CD, K. 2018/6574 | Bilgi suistimalinde menfaat hesabı: açıklama öncesi ve sonrası fiyat karşılaştırması (planlandı) |
+| 2026-11-09 | 11:30 | Zincir | Yargıtay 19. CD, 30.05.2018, E. 2017/5976, K. 2018/6574 | Bilgi suistimali; menfaat iddianamedeki eylemle sınırlı, 5,3 milyon TL ceza bozuldu (videosuz) (planlandı) |
+| 2026-11-09 | 13:30 | Not | Yargıtay 19. CD, K. 2019/6880 | 2499 m. 47 (menfaatin üç katı) ve SPKn 107/1 (menfaat kadar); lehe kanun (planlandı) |
+| 2026-11-09 | 15:30 | Not | SPKn m. 107/1 (Yargıtay 19. CD K. 2019/4066'da aktarıldığı hâliyle) | Emir verme, iptal, değiştirme ve hesap hareketi seçimlik hareketleri (planlandı) |
+| 2026-11-09 | 17:30 | Zincir | Yargıtay 19. CD, 08.04.2019, E. 2019/8372, K. 2019/6880 | Toplam menfaat kadar adli para cezası her sanığa ayrı ayrı verilemez; bozma (videosuz) (planlandı) |
+| 2026-11-09 | 19:00 | Not | Yargıtay 19. CD, K. 2019/4066 | Kendinden kendine/karşılıklı işlemler manipülasyon göstergesi (planlandı) |
+| 2026-11-09 | 20:30 | Zincir | Yargıtay 19. CD, 11.02.2019, E. 2018/7815, K. 2019/4066 | 5 kişilik grup, %41 karşılıklı işlem; kast yok gerekçesiyle beraat bozuldu (şirket adı verilmedi, videosuz) (planlandı) |
+| 2026-11-09 | 22:30 | Not | CMUK m. 326/son (Y. 19. CD K. 2018/6574) | Sanık lehine bozmada aleyhe değiştirme yasağı (planlandı) |

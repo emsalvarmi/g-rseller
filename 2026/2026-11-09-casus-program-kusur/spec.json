@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "02.03.2026 · E. 2025/4495 · K. 2026/2306",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kocası telefonuna casus program yükledi.",
+        "Kadın da onu kıskanıyordu.",
+        "İkisi eşit kusurlu mu?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkeğin kusurları",
+          "card": {
+            "kind": "check",
+            "title": "TESPİT EDİLENLER",
+            "good": false,
+            "rows": [
+              "Telefona casus program",
+              "Mutfak kapısını kilitledi",
+              "Araba anahtarını sakladı"
+            ]
+          }
+        },
+        {
+          "title": "Kadının kusuru",
+          "card": {
+            "kind": "chat",
+            "title": "Sokakta",
+            "messages": [
+              "Neden baktın?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derece ve istinaf, tarafları eşit kusurlu saydı. Kadına tazminat verilmedi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusurlar gerçekten eşit mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Erkek daha ağır kusurlu"
+        },
+        {
+          "title": "Evet",
+          "sub": "İkisi de kıskanç"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Erkek kadına göre ağır kusurlu; eşit kusur kabulü hatalı.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Kadın lehine maddi ve manevi tazminata hükmedilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşin telefonunu gizlice izlemek, ağır kusur sayılabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

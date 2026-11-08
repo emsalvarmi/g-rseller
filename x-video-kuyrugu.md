@@ -80,5 +80,10 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-08 | 10:45 | 2026-11-07 12:15 | https://www.instagram.com/reel/Dfb1kaYga4W/ | YHGK, 13.05.2026, E. 2025/674, K. 2026/329 | Ofiste kalan çocuk, kişisel ilişki (Reels) |
 | 2026-11-08 | 11:45 | 2026-11-07 15:15 | https://www.instagram.com/reel/DfcKLGRj-I4/ | Y. 2. HD, 29.06.2026, E. 2026/180, K. 2026/7363 | Çeyiz senedi, geri verilen bilezik (Reels) |
 | 2026-11-08 | 12:45 | 2026-11-07 18:15 | https://www.instagram.com/reel/DfceyXSj2r-/ | Y. 2. HD, 11.05.2026, E. 2025/7674, K. 2026/5344 | Umurumda değil, aile konutu (Reels) |
+| 2026-11-09 | 09:45 | 2026-11-07 21:15 | https://www.instagram.com/reel/DfczZxxArpj/ | Y. 2. HD, 10.02.2026, E. 2025/6860, K. 2026/1395 | Terk davası yokken terk kusur değil (Reels) |
+| 2026-11-09 | 10:45 | 2026-11-08 09:15 | https://www.instagram.com/reel/DfeFwM_lMK5/ | Y. 2. HD, 11.06.2026, E. 2026/3045, K. 2026/6482 | Tek taraflı rapor, kişisel ilişki (Reels) |
+| 2026-11-09 | 11:45 | 2026-11-08 12:15 | https://www.instagram.com/reel/DfeaXVUEZ98/ | Y. 2. HD, 29.04.2026, E. 2026/2775, K. 2026/4877 | Okul ücreti ve nafaka (Reels) |
+| 2026-11-09 | 12:45 | 2026-11-08 15:15 | https://www.instagram.com/reel/Dfeu_9riVrw/ | Y. 2. HD, 02.02.2026, E. 2025/2231, K. 2026/907 | Ekonomik şiddet, eşit kusur, yoksulluk nafakası (Reels) |
+| 2026-11-09 | 13:45 | 2026-11-08 18:15 | https://www.instagram.com/reel/DffDk9CFF1q/ | Y. 2. HD, 13.05.2026, E. 2026/2729, K. 2026/5556 | Korkan çocuklar, kişisel ilişkinin kaldırılması (Reels) |
 
-Sıradaki: Kuyruk 07.11 18:15 Reels'ine kadar tükendi (08.11 13:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 07.11 21:15 Reels'i (E. 2025/6860), ardından 08.11 Reels'leri.
+Sıradaki: Kuyruk 08.11 18:15 Reels'ine kadar tükendi (09.11 14:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 08.11 21:15 Reels'i (E. 2025/8356), ardından 09.11 Reels'leri.

@@ -1,0 +1,92 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "28.04.2026 · E. 2025/10904 · K. 2026/4780",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kına gecesinde gelinlik giydi.",
+        "Ertesi gün düğün yoktu.",
+        "Damat balayına arkadaşıyla gitti."
+      ],
+      "icon": "gold",
+      "stamp": "İPTAL"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kına gecesi",
+          "card": {
+            "kind": "check",
+            "title": "TANIKLAR ANLATTI",
+            "good": false,
+            "rows": [
+              "Damadın kız kardeşleri takıları istedi",
+              "Gelini ittiler",
+              "Damat birkaç sözle yetindi"
+            ]
+          }
+        },
+        {
+          "title": "Bölge adliye",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Manevi tazminat",
+            "value": "Kadının talebi reddedildi",
+            "tag": "Kadın temyiz etti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Davetiyeler dağıtılmıştı. Herkes düğünü biliyordu.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın manevi tazminat alabilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Kişilik hakları zedelendi"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Nişan her zaman bozulabilir"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Düğünden hemen önce, ailesinin davranışlarına sessiz kalarak nişanın bozulmasına yol açmak kişilik haklarına saldırı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına uygun miktarda manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Düğüne günler kala bozulan nişan, manevi tazminat doğurabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Düğün hazırlığındaki birine gönderin."
+    }
+  ]
+}

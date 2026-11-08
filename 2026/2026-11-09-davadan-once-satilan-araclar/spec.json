@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.04.2026 · E. 2025/1911 · K. 2026/4884",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşanma davasından 8 ve 5 gün önce",
+        "koca iki arabasını sattı.",
+        "Kadın bu araçlardan pay alabilir mi?"
+      ],
+      "icon": "car"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Satışlar",
+          "card": {
+            "kind": "check",
+            "title": "ARAÇ KAYITLARI",
+            "good": false,
+            "rows": [
+              "05.11.2013: 1. araç satıldı",
+              "08.11.2013: 2. araç satıldı",
+              "13.11.2013: dava açıldı"
+            ]
+          }
+        },
+        {
+          "title": "Önceki karar",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Katılma alacağı",
+            "value": "Araçlar için ret",
+            "tag": "Satılanlar hesaba girmedi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kanuna göre katılma alacağını azaltmak için yapılan devirler, mal hâlâ duruyormuş gibi hesaba katılır.",
+      "icon": "car"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Satılan araçlar hesaba girer mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Eklenecek değer sayılır"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Artık kocanın değil"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Davadan günler önce satış hayatın olağan akışına aykırı; alacağı azaltma kastı var.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "İki araç eklenecek değer sayılıp kadının alacağı hesaplanacak."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Davadan hemen önce mal elden çıkarmak, paylaşımdan kurtarmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Boşanma sürecindeki birine gönderin."
+    }
+  ]
+}

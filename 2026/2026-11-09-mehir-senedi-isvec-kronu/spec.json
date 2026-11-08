@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.04.2026 · E. 2025/9231 · K. 2026/3883",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Mehir senedinde 250 bin İsveç kronu yazıyordu.",
+        "Boşanınca hangi günün değeri ödenir?",
+        "Siz olsanız hangi tarihi alırdınız?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mehir senedi",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "07.08.2017 tarihli senet",
+            "value": "Ziynet + 250.000 kron",
+            "tag": "Yarısı kadına"
+          }
+        },
+        {
+          "title": "Bölge adliye",
+          "card": {
+            "kind": "check",
+            "title": "İSTİNAF",
+            "good": true,
+            "rows": [
+              "Ziynet: dava tarihi bedeli",
+              "125.000 kron: ödeme günü kuru"
+            ],
+            "stamp": "KISMEN KABUL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Senet açıktı: ödeme, boşanma ya da ayrılık günündeki değer üzerinden yapılacaktı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hangi tarihteki değer esas alınmalı?",
+      "options": [
+        {
+          "title": "Senetteki tarih",
+          "sub": "Ayrılık ya da boşanma günü"
+        },
+        {
+          "title": "Mahkemenin seçtiği",
+          "sub": "Dava ya da ödeme tarihi"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Mehir senedi bağlayıcı bir sözleşme; mahkeme değerleme tarihini değiştiremez.",
+      "extra": {
+        "label": "ŞİMDİ",
+        "text": "Ayrılık ya da boşanma tarihi bulunacak, yarı pay o günün değeriyle hesaplanacak."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Senette yazan ödeme günü, hesabın da günüdür."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Mehir senedi olan birine gönderin."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.04.2026 · E. 2026/1932 · K. 2026/3887",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuklar anneleriyle yurt dışında yaşıyor.",
+        "Mahkeme babaya ayda iki hafta sonu verdi.",
+        "Bu takvim uygulanabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "check",
+            "title": "GÖRÜŞME TAKVİMİ",
+            "good": true,
+            "rows": [
+              "Ayın 1. ve 3. hafta sonu",
+              "Bayram, ara tatil, sömestr",
+              "Her yaz 40 gün"
+            ]
+          }
+        },
+        {
+          "title": "Bölge adliye",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İstinaf",
+            "value": "Başvuru reddedildi",
+            "tag": "Takvim aynen kaldı"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Çocuklar yurt dışında yaşıyor ve orada okula gidiyordu.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Takvim değişmeli mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Çocukların düzenine uymuyor"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Babanın hakkı korunmalı"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltildi.",
+      "text": "Yurt dışındaki yaşam ve okul düzenine göre bu takvim uygun görülmedi.",
+      "extra": {
+        "label": "YENİ TAKVİM",
+        "text": "Ayın ilk hafta sonu, 15 Temmuz–15 Ağustos ve dönüşümlü yılbaşı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Görüşme takvimi, çocuğun yaşadığı yere ve okuluna göre kurulur."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Yurt dışında çocuğu olan birine gönderin."
+    }
+  ]
+}
