@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2025/9964 · K. 2026/7376",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Velayet babaya verildi.",
+        "Çocuğun görüşü alınmadı.",
+        "Karar yerinde mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Dava 2019'da açıldı",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Ortak çocuk",
+            "value": "2017 doğumlu",
+            "tag": "ÇOCUK"
+          }
+        },
+        {
+          "title": "İlk derece ve istinaf",
+          "card": {
+            "kind": "seal",
+            "title": "VELAYET",
+            "seal": "BABA",
+            "sealSub": "İLK DERECE",
+            "caption": "İstinaf başvurusu reddedildi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yargılama yıllar sürdü; çocuk temyizde idrak çağındaydı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Çocuğun görüşü alınmalı mı?",
+      "options": [
+        {
+          "title": "Gerek yok",
+          "sub": "Karar onanır"
+        },
+        {
+          "title": "Alınmalı",
+          "sub": "Karar bozulur"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Çocuğun görüşü alınıp tüm deliller birlikte değerlendirilmeli.",
+      "extra": {
+        "label": "ÖLÇÜT",
+        "text": "Velayette temel ilke çocuğun üstün yararı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yargılamada çocuğun büyümesi de dikkate alınır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

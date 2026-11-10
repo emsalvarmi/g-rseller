@@ -93,4 +93,8 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-10 | 14:45 | 2026-11-09 18:15 | https://www.instagram.com/reel/DfhoZNdCTRp/ | Y. 2. HD, 02.03.2026, E. 2025/4495, K. 2026/2306 | Telefona casus program (Reels) |
 | 2026-11-10 | 15:45 | 2026-11-09 21:15 | https://www.instagram.com/reel/Dfh9G1Lj825/ | Y. 2. HD, 28.04.2026, E. 2025/10904, K. 2026/4780 | Kına gecesinde bozulan nişan (Reels) |
 
-Sıradaki: Kuyruk 09.11 21:15 Reels'ine kadar tükendi (10.11 16:45–23:45 saatleri boş bırakıldı; 09:45 saati çalışma gecikmeli başladığı için geçmişti). Sıradaki aktarım: 10.11 12:15 Reels'i (E. 2026/2520), ardından 10.11'in diğer Reels'leri.
+| 2026-11-11 | 09:45 | 2026-11-10 12:15 | https://www.instagram.com/reel/Dfjj-DbGZEL/ | Y. 2. HD, 29.04.2026, E. 2026/2520, K. 2026/4879 | Nişan yüzüğü iadesi (Reels) |
+| 2026-11-11 | 10:45 | 2026-11-10 15:15 | https://www.instagram.com/reel/Dfj4qD8kooh/ | Y. 2. HD, 09.06.2026, E. 2025/9974, K. 2026/6338 | Ziynetle kayınpedere araba (Reels) |
+| 2026-11-11 | 11:45 | 2026-11-10 18:15 | https://www.instagram.com/reel/DfkNMGWgOin/ | Y. 2. HD, 08.06.2026, E. 2026/144, K. 2026/6183 | "Kazancımı ona veremem" sözü (Reels) |
+
+Sıradaki: Kuyruk 10.11 18:15 Reels'ine kadar tükendi (11.11 12:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 10.11 21:15 Reels'i (E. 2026/1102, eski eşin evi), yayımlandıktan sonra; ardından 11.11'in Reels'leri.

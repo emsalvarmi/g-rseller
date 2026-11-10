@@ -94,3 +94,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-10 | 19:00 | Not | Danıştay 13. D. K. 2025/576 (ilk derece gerekçesi, onandı) | Grup tespitinde aracı kurum, para transferi, SGK ve MERNİS kayıtları (planlandı) |
 | 2026-11-10 | 20:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2024/11, K. 2025/578 | "Kimseyi tanımıyorum" savunması; %129,8 fiyat artışı, 386.317,27 TL kâr, 772.634,54 TL ceza onandı (şirket adı verilmedi, videosuz) (planlandı) |
 | 2026-11-10 | 22:30 | Not | Danıştay 13. D. K. 2025/576 (ilk derece gerekçesi, onandı) | Bir dakikadan kısa sürede yön değiştiren emirler aktif piyasa izlenimi (planlandı) |
+| 2026-11-11 | 09:15 | Not | SPKn m. 101/1 (Danıştay K. 2024/5682'de aktarıldığı hâliyle) | Makul şüphede işlem yasağı dışındaki tedbirler (planlandı) |
+| 2026-11-11 | 11:30 | Zincir | Danıştay 13. D., 19.12.2024, E. 2023/3048, K. 2024/5682 | VİOP'ta 6,4 milyar TL teminat çağrısı; aracı kurumların yasaklı müşteri varlıklarını satmasına izin veren Tebliğ değişikliği hukuka uygun, dava reddi (isim verilmedi, ceza davası sürüyordu, videosuz) (planlandı) |
+| 2026-11-11 | 13:30 | Not | V-101.1 Tebliği m. 5 (Danıştay K. 2022/395 ve 2024/5682'de aktarıldığı hâliyle) | Hesabı kullanılan tüzel kişilere ve hesap sahiplerine işlem yasağı (planlandı) |
+| 2026-11-11 | 15:30 | Not | V-101.1 Tebliği m. 16 (Danıştay K. 2024/5682'de aktarıldığı hâliyle) | İşlem yasaklının VİOP'ta 20 iş günü içinde pozisyon kapatması (planlandı) |
+| 2026-11-11 | 17:30 | Zincir | Danıştay 13. D., 28.05.2024, E. 2020/1888, K. 2024/2405 | Aracı kurum çalışanı ve kurum portföyü birlikte hareket; 44.094,02 TL piyasa bozucu eylem cezası onandı (hisse adı verilmedi, videosuz) (planlandı) |
+| 2026-11-11 | 19:00 | Not | Danıştay 13. D., K. 2024/2405 | 107/1 suçu oluşmasa da piyasa bozucu eylem cezası (planlandı) |
+| 2026-11-11 | 20:30 | Zincir | Danıştay 13. D., 14.02.2022, E. 2022/427, K. 2022/395 | %69,33 fiyat artışı, işlemlerin %54,56'sı tek şirket hesabından; kişiye ve hesabı kullanılan şirkete 2 yıl işlem yasağı onandı (şirket/hisse adı verilmedi, videosuz) (planlandı) |
+| 2026-11-11 | 22:30 | Not | Danıştay 13. D., K. 2024/5682 | Teminat tamamlama çağrısı ve aracı kurumun sorumluluğu (planlandı) |
