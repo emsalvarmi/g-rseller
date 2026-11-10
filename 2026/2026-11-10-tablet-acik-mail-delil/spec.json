@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "08.06.2026 · E. 2026/295 · K. 2026/6198",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Tablette açık kalan mail hesabı.",
+        "Arkadaşlık sitelerine üyelik çıktı.",
+        "Bu delil sayılır mı?"
+      ],
+      "icon": "phone"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkeme",
+          "card": {
+            "kind": "seal",
+            "title": "KUSUR",
+            "seal": "EŞİT",
+            "sealSub": "İLK DERECE",
+            "caption": "Kadının tazminatları reddedildi"
+          }
+        },
+        {
+          "title": "Delil",
+          "card": {
+            "kind": "info",
+            "icon": "phone",
+            "title": "Tablet",
+            "value": "Mail hesabı açık",
+            "tag": "DELİL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin arkadaşlık sitelerine üye olduğu bu tabletten anlaşıldı.",
+      "icon": "phone"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu delil hukuka aykırı mı?",
+      "options": [
+        {
+          "title": "Aykırı",
+          "sub": "Kullanılamaz"
+        },
+        {
+          "title": "Aykırı değil",
+          "sub": "Kullanılabilir"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Delil hukuka aykırı değil; erkek ağır kusurlu.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Kadına maddi ve manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Bu dosyada açık hesaptaki bilgi delil sayıldı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

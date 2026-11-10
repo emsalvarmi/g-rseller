@@ -1,0 +1,83 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.06.2026 · E. 2025/10640 · K. 2026/6430",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Barışmaya çalışmak affetmek mi?",
+        "İstinaf, erkeğin kadını affettiğini söyledi.",
+        "Yargıtay ne dedi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece mahkemesi",
+          "card": {
+            "kind": "text",
+            "icon": "gavel",
+            "text": "Kadına da kusur yüklendi."
+          }
+        },
+        {
+          "title": "Bölge adliye mahkemesi",
+          "card": {
+            "kind": "text",
+            "icon": "document",
+            "text": "Erkek affetti; kadının kusurları çıkarıldı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin davranışları yalnızca bir barışma girişimiydi.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Barışma girişimi af sayılır mı?",
+      "options": [
+        {
+          "title": "Sayılır",
+          "sub": "Kusurlar silinir"
+        },
+        {
+          "title": "Sayılmaz",
+          "sub": "Kusurlar kalır"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Af sayılmaz.",
+      "text": "Kadına kusur yüklenmeli; ama erkek daha ağır kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Sonuç değişmedi; karar onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Barışmayı denemek, yaşananlardan vazgeçmek değildir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

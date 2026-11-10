@@ -1,0 +1,15 @@
+hook_0	Çalışan kadın, işsiz kocasına tazminat öder mi?
+hook_1	Hukuk Genel Kurulu, oy çokluğuyla cevap verdi.
+olay_0	Kadın ve babası, Mersin'de işi olan erkeği iş vaadiyle Ankara'ya getirdi; iş bulunamadı.
+olay_1	Kadının güven sarsıcı davranışları da vardı; erkek ise sürekli iddia oynuyordu.
+olay_2	Mahkeme kadını ağır kusurlu buldu; erkeğe kırkar bin lira maddi ve manevi tazminat verdi.
+itiraz_0	Yargıtay İkinci Hukuk Dairesi, tazminatları fazla bularak bozdu.
+itiraz_1	Mahkeme ise kararında direndi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Tazminatlar fazla mı?
+karar_0	Hukuk Genel Kurulu, direnme kararını onadı.
+neden_0	Kadın bankada gişe yetkilisiydi; erkek çalışmıyor, eşinden tedbir nafakası alıyordu.
+neden_1	Kusur, evlilik süresi ve tarafların ekonomik durumu birlikte tartıldı.
+neden_2	Kırkar bin liralık tazminatlar isabetli bulundu.
+not_0	Boşanma tazminatında kusur ve tarafların durumu birlikte tartılır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

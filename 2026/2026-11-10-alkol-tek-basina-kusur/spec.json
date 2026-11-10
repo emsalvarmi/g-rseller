@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "01.06.2026 · E. 2025/9845 · K. 2026/5802",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Alkol kullanmak boşanmada kusur mu?",
+        "Mahkeme kadını ağır kusurlu buldu.",
+        "Yargıtay ne dedi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece mahkemesi",
+          "card": {
+            "kind": "check",
+            "title": "KUSUR",
+            "good": false,
+            "rows": [
+              "Kadın: ağır kusurlu",
+              "Erkek: az kusurlu"
+            ]
+          }
+        },
+        {
+          "title": "Tazminat",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Erkeğe",
+            "value": "Maddi + manevi",
+            "tag": "KADINA RET"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin güven sarsıcı davranışı da vardı. Alkolün etkisi ise ispatlanmamıştı.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusur dengesi değişir mi?",
+      "options": [
+        {
+          "title": "Değişir",
+          "sub": "Erkek ağır kusurlu"
+        },
+        {
+          "title": "Değişmez",
+          "sub": "Kadın ağır kusurlu"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Alkol tek başına kusur değil; güven sarsıcı davranış erkeğe kusur yazılmalı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Erkek ağır, kadın az kusurlu; kadına tazminat."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Bir alışkanlık, evliliğe etkisi ispatlanınca kusur olur."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

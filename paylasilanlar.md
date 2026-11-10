@@ -104,3 +104,9 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 ## Hazır ama henüz paylaşılmadı
 
 - Yargıtay 3. HD, 18.06.2026, E. 2025/6145, K. 2026/3936 — boyası dökülen sıfır araç, ayıpsız misliyle değişim (Reels hazır: `2026/2026-10-29-sifir-arac-boya/`, açıklama metni aynı klasörde `aciklama.txt`). Kullanıcı 29.10'da "ikinci bir talimata kadar yalnızca aile hukuku" dediği için bekletiliyor; aile hukuku dışı içerik serbest bırakılınca kullanılabilir.
+
+- 10.11.2026 sabah yedeği (sessiz, Karar Odası seslendirmesi 30 dk içinde başlamadı) — aynı saatlere başka bir çalışma önce planladığı için Metricool'da TASLAK olarak bekliyor; yayımlanmadı. Klasörler `2026/2026-11-10-*` (metin.tsv seslendirme için hazır, sahne dosyaları Mac'te `motor/emsalvarmi_20261110_*.py`). Kullanılırsa bu satırı tabloya taşıyın:
+  - Yargıtay 2. HD, 01.06.2026, E. 2025/9845, K. 2026/5802 — alkol, olumsuz etkisi ispatlanmadıkça tek başına kusur değil; erkek ağır kusurlu, bozma (`alkol-tek-basina-kusur`).
+  - Yargıtay 2. HD, 11.06.2026, E. 2025/10640, K. 2026/6430 — barışma girişimi af değildir; onama (`barisma-girisimi-af-degil`).
+  - Yargıtay HGK, 10.06.2026, E. 2025/453, K. 2026/353 — çalışan kadından işsiz erkeğe 40.000 + 40.000 TL tazminat isabetli; direnme onandı, oy çokluğu (`issiz-ese-tazminat-hgk`).
+  - Yargıtay 2. HD, 08.06.2026, E. 2026/295, K. 2026/6198 — mail hesabı açık tabletten elde edilen delil hukuka aykırı değil; bozma (`tablet-acik-mail-delil`).

@@ -1,0 +1,14 @@
+hook_0	Barışmaya çalışmak, eşi affetmek demek mi?
+hook_1	Bu sorunun cevabı, kusur hesabını değiştirdi.
+olay_0	Karşılıklı boşanma davasında ilk derece mahkemesi, kadına da kusur yükledi.
+olay_1	Erkeğe de kusurlar yüklenmişti.
+itiraz_0	Bölge adliye mahkemesi ise erkeğin kadını affettiğini kabul etti.
+itiraz_1	Kadına yüklenen kusurları gerekçeden çıkardı.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Barışma girişimi, af sayılır mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi, af sayılmaz dedi.
+neden_0	Erkeğin davranışları barışma girişimiydi; af olarak değerlendirilemezdi.
+neden_1	Bu yüzden o olaylar, kadına kusur olarak yüklenmeliydi.
+neden_2	Yine de erkek daha ağır kusurlu olduğu için sonuç değişmedi; karar onandı.
+not_0	Barışmayı denemek, yaşananlardan vazgeçmek değildir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

@@ -1,0 +1,14 @@
+hook_0	Alkol kullanmak, boşanmada tek başına kusur mu?
+hook_1	Yargıtay, bu dosyada ölçüyü koydu.
+olay_0	Karşılıklı boşanma davasında mahkeme, kadını ağır, erkeği az kusurlu buldu.
+olay_1	Erkeğe maddi ve manevi tazminat verildi; kadının tazminat istekleri reddedildi.
+itiraz_0	İstinaf, kadının başvurusunu esastan reddetti.
+itiraz_1	Kadın, kusur belirlemesine ve tazminatlara itiraz ederek temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Kusur dengesi değişir mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı bozdu.
+neden_0	Erkeğin güven sarsıcı davranışı vardı; bu ona kusur olarak yüklenmeliydi.
+neden_1	Alkol ise, evliliğe olumsuz etkisi ispatlanmadığı için tek başına kusur değildi.
+neden_2	Sonuç: erkek ağır, kadın az kusurlu. Kadına tazminat verilmeli, erkeğin talebi reddedilmeli.
+not_0	Bir alışkanlık, evliliğe etkisi ispatlanınca kusur olur.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

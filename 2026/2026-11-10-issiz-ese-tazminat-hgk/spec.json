@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "10.06.2026 · E. 2025/453 · K. 2026/353",
+  "note": "Karar oy çokluğuyla verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çalışan kadın işsiz kocasına tazminat öder mi?",
+        "Mahkeme kırkar bin lira verdi.",
+        "Fazla mı?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mersin'den Ankara'ya",
+          "card": {
+            "kind": "info",
+            "icon": "briefcase",
+            "title": "İş vaadi",
+            "value": "İş bulunamadı",
+            "tag": "ERKEK"
+          }
+        },
+        {
+          "title": "Mahkeme",
+          "card": {
+            "kind": "check",
+            "title": "KUSUR",
+            "good": false,
+            "rows": [
+              "Kadın: ağır kusurlu",
+              "Erkek: sürekli iddia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Yargıtay 2. Hukuk Dairesi tazminatları fazla buldu; mahkeme direndi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kırkar bin lira fazla mı?",
+      "options": [
+        {
+          "title": "Fazla",
+          "sub": "Düşürülmeli"
+        },
+        {
+          "title": "İsabetli",
+          "sub": "Yerinde"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "İsabetli.",
+      "text": "Hukuk Genel Kurulu direnme kararını oy çokluğuyla onadı.",
+      "extra": {
+        "label": "GEREKÇE",
+        "text": "Kusur, evlilik süresi ve ekonomik durum birlikte tartıldı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Boşanma tazminatında kusur ve tarafların durumu birlikte tartılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}
