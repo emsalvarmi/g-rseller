@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "08.06.2026 · E. 2026/144 · K. 2026/6183",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "\"Kazancımı ona veremem, eve o bakmak zorunda.\"",
+        "Bu sözü söyleyen kadın kusurlu mu?",
+        "İki mahkeme eşit kusur dedi."
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadının kusurları",
+          "card": {
+            "kind": "chat",
+            "title": "Evde",
+            "messages": [
+              "Pazarcılıktan kazandığını ben tek başıma kazanıyorum."
+            ]
+          }
+        },
+        {
+          "title": "Erkeğin kusurları",
+          "card": {
+            "kind": "check",
+            "title": "TESPİT EDİLENLER",
+            "good": false,
+            "rows": [
+              "Birliğe zarar verecek kadar alkol",
+              "Eve para bırakmadı",
+              "Eşinden ayrı yattı"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme bu söz nedeniyle kadına evin giderlerine katılmama kusuru da yükledi.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusurlar gerçekten eşit mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "İkisi de kusurlu"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Erkek daha ağır kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tanıklara göre evin geçimini kadın sağladı. O sözler, kadının harcama yapmadığını göstermez.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Erkek ağır kusurlu; kadına maddi ve manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "İspatlanamayan bir vakıa eşe kusur olarak yüklenemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

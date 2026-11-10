@@ -1,0 +1,93 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "22.06.2026 · E. 2026/1102 · K. 2026/6900",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Gece saatlerinde eski eşinin evine gitti.",
+        "Eşi ise onunla dalga geçti.",
+        "İkisi eşit kusurlu mu?"
+      ],
+      "icon": "house"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkeğin kusurları",
+          "card": {
+            "kind": "check",
+            "title": "TESPİT EDİLENLER",
+            "good": false,
+            "rows": [
+              "Eve geç, bazen sabah geldi",
+              "Gece eski eşinin evine gitti",
+              "Evin elektriğini kestirdi"
+            ]
+          }
+        },
+        {
+          "title": "Kadının kusurları",
+          "card": {
+            "kind": "check",
+            "title": "TESPİT EDİLENLER",
+            "good": false,
+            "rows": [
+              "Çocuklarına nafaka dışında para vermesini istemedi",
+              "Eşiyle dalga geçti, hakaret etti"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İlk derece ve istinaf, tarafları eşit kusurlu saydı. Kadının tazminat talepleri reddedildi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kusurlar gerçekten eşit mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "İkisi de kusurlu"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Erkek daha ağır kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kabul edilen kusurlara göre erkek, kadına nazaran daha ağır kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına maddi ve manevi tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusur belirlemesi hatalıysa tazminat kararı da bozulur."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

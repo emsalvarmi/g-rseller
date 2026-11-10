@@ -1,0 +1,91 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.04.2026 · E. 2026/2520 · K. 2026/4879",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Nişan bozuldu.",
+        "Bilezikler, kolye, tektaş… ve alyans.",
+        "Hepsi geri verilir mi?"
+      ],
+      "icon": "gold",
+      "stamp": "BOZULDU"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Nişanda takılanlar",
+          "card": {
+            "kind": "check",
+            "title": "İSPATLANANLAR",
+            "good": true,
+            "rows": [
+              "6 bilezik, toplam 120 gram",
+              "Tuğralı kolye ve tektaş yüzük",
+              "Alyans"
+            ]
+          }
+        },
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Hepsinin bedeli",
+            "value": "67.830,84 TL",
+            "tag": "Kadından alınacak"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın da karşı dava açtı. Erkeğe hediye ettiği saati istedi.",
+      "icon": "gold"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Nişan yüzüğü de geri verilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Bütün takılar iade edilir"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Alışılmış bir hediye"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Nişan yüzüğü alışılmışın dışında bir hediye değil; iadesine karar verilemez.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Erkeğin kabul ettiği saat için kadının talebi kabul edilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Nişan yüzüğü dışındaki altın ve takılar geri istenebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Nişanlı bir arkadaşınıza gönderin."
+    }
+  ]
+}

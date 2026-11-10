@@ -1,0 +1,89 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.06.2026 · E. 2025/9974 · K. 2026/6338",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Düğün altınları kayboldu.",
+        "Kadına göre kayınpedere araba, görümceye ev alındı.",
+        "Bunu nasıl ispatlarsınız?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İki taraf",
+          "card": {
+            "kind": "chat",
+            "title": "Mahkemede",
+            "messages": [
+              "Ziynetlerimi kocam aldı, geri vermedi.",
+              "Ziynetleri kadın götürdü."
+            ]
+          }
+        },
+        {
+          "title": "Bölge adliye",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Ziynet davası",
+            "value": "Reddedildi",
+            "tag": "Görgüye dayalı tanık yok"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye, araç ve ev alınmasını tek başına ispat saymadı.",
+      "icon": "car"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın ziynetlerini geri alabilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Tanıklar bir bütün"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Araba ve ev ispat değil"
+        }
+      ],
+      "answer": 0,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Tanık beyanları birlikte değerlendirildiğinde ziynetlerin erkekçe alınıp iade edilmediği ispatlandı.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Erkek daha ağır kusurlu; kadına tazminat verilmeli."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Tanık beyanları tek tek değil, bir bütün olarak değerlendirilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro",
+      "line": "Bu kararı bilmesi gereken birine gönderin."
+    }
+  ]
+}

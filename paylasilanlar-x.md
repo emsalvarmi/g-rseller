@@ -87,3 +87,10 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-09 | 19:00 | Not | Yargıtay 19. CD, K. 2019/4066 | Kendinden kendine/karşılıklı işlemler manipülasyon göstergesi (planlandı) |
 | 2026-11-09 | 20:30 | Zincir | Yargıtay 19. CD, 11.02.2019, E. 2018/7815, K. 2019/4066 | 5 kişilik grup, %41 karşılıklı işlem; kast yok gerekçesiyle beraat bozuldu (şirket adı verilmedi, videosuz) (planlandı) |
 | 2026-11-09 | 22:30 | Not | CMUK m. 326/son (Y. 19. CD K. 2018/6574) | Sanık lehine bozmada aleyhe değiştirme yasağı (planlandı) |
+| 2026-11-10 | 11:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2023/2478, K. 2025/574 | 6 ay işlem yasağı ceza değil önleyici tedbir; aynı işlemler için 46.958 TL idari para cezası onandı (videosuz) (planlandı) |
+| 2026-11-10 | 13:30 | Not | Danıştay 13. D. K. 2025/574 (ilk derece gerekçesi, onandı) | İşlem yasağı önleyici tedbir, ceza değil (planlandı) |
+| 2026-11-10 | 15:30 | Not | Danıştay 13. D. K. 2025/574 (ilk derece gerekçesi, onandı) | Kurul uzman raporu varken bilirkişi zorunlu değil (planlandı) |
+| 2026-11-10 | 17:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2022/3583, K. 2025/576 | "Bir gün işlem yaptım" savunması; grup %34,73, yön değiştiren emirler, 104.431,48 TL ceza onandı (videosuz) (planlandı) |
+| 2026-11-10 | 19:00 | Not | Danıştay 13. D. K. 2025/576 (ilk derece gerekçesi, onandı) | Grup tespitinde aracı kurum, para transferi, SGK ve MERNİS kayıtları (planlandı) |
+| 2026-11-10 | 20:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2024/11, K. 2025/578 | "Kimseyi tanımıyorum" savunması; %129,8 fiyat artışı, 386.317,27 TL kâr, 772.634,54 TL ceza onandı (şirket adı verilmedi, videosuz) (planlandı) |
+| 2026-11-10 | 22:30 | Not | Danıştay 13. D. K. 2025/576 (ilk derece gerekçesi, onandı) | Bir dakikadan kısa sürede yön değiştiren emirler aktif piyasa izlenimi (planlandı) |

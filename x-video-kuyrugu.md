@@ -86,4 +86,11 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-09 | 12:45 | 2026-11-08 15:15 | https://www.instagram.com/reel/Dfeu_9riVrw/ | Y. 2. HD, 02.02.2026, E. 2025/2231, K. 2026/907 | Ekonomik şiddet, eşit kusur, yoksulluk nafakası (Reels) |
 | 2026-11-09 | 13:45 | 2026-11-08 18:15 | https://www.instagram.com/reel/DffDk9CFF1q/ | Y. 2. HD, 13.05.2026, E. 2026/2729, K. 2026/5556 | Korkan çocuklar, kişisel ilişkinin kaldırılması (Reels) |
 
-Sıradaki: Kuyruk 08.11 18:15 Reels'ine kadar tükendi (09.11 14:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 08.11 21:15 Reels'i (E. 2025/8356), ardından 09.11 Reels'leri.
+| 2026-11-10 | 10:45 | 2026-11-08 21:15 | https://www.instagram.com/reel/DffYMdhke0D/ | Y. 2. HD, 04.05.2026, E. 2025/8356, K. 2026/5023 | Feragatten sonra süren ilişki (Reels) |
+| 2026-11-10 | 11:45 | 2026-11-09 09:15 | https://www.instagram.com/reel/DfgqmZODaAP/ | Y. 2. HD, 09.04.2026, E. 2025/9231, K. 2026/3883 | İsveç kronlu mehir senedi (Reels) |
+| 2026-11-10 | 12:45 | 2026-11-09 12:15 | https://www.instagram.com/reel/Dfg_Pq0j017/ | Y. 2. HD, 09.04.2026, E. 2026/1932, K. 2026/3887 | Yurt dışındaki çocuklarla kişisel ilişki (Reels) |
+| 2026-11-10 | 13:45 | 2026-11-09 15:15 | https://www.instagram.com/reel/DfhTyVRHGvw/ | Y. 2. HD, 30.04.2026, E. 2025/1911, K. 2026/4884 | Davadan önce satılan araçlar (Reels) |
+| 2026-11-10 | 14:45 | 2026-11-09 18:15 | https://www.instagram.com/reel/DfhoZNdCTRp/ | Y. 2. HD, 02.03.2026, E. 2025/4495, K. 2026/2306 | Telefona casus program (Reels) |
+| 2026-11-10 | 15:45 | 2026-11-09 21:15 | https://www.instagram.com/reel/Dfh9G1Lj825/ | Y. 2. HD, 28.04.2026, E. 2025/10904, K. 2026/4780 | Kına gecesinde bozulan nişan (Reels) |
+
+Sıradaki: Kuyruk 09.11 21:15 Reels'ine kadar tükendi (10.11 16:45–23:45 saatleri boş bırakıldı; 09:45 saati çalışma gecikmeli başladığı için geçmişti). Sıradaki aktarım: 10.11 12:15 Reels'i (E. 2026/2520), ardından 10.11'in diğer Reels'leri.
