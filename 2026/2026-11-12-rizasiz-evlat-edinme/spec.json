@@ -1,0 +1,83 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "16.06.2026 · E. 2026/4172 · K. 2026/6723",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuğa doğduğundan beri onlar baktı.",
+        "Anne evlat edinmeye rıza vermiyor.",
+        "Rıza şart mı?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Biyolojik baba",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "Çocukla hiç bağ kurmamış."
+          }
+        },
+        {
+          "title": "Anne",
+          "card": {
+            "kind": "text",
+            "icon": "document",
+            "text": "Önce rıza belgesi, sonra şikâyet."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme, anne rıza vermediği için davayı reddetti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Rıza olmadan evlat edinme olur mu?",
+      "options": [
+        {
+          "title": "Olmaz",
+          "sub": "Rıza şart"
+        },
+        {
+          "title": "Olabilir",
+          "sub": "Rıza aranmayabilir"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Anne de baba da özen yükümlülüğünü yerine getirmemişti; rızaları aranmaz.",
+      "extra": {
+        "label": "ÖLÇÜT",
+        "text": "Çocuğun üstün yararı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Özen göstermeyen ebeveynin rızası aranmayabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

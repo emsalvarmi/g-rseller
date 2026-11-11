@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "30.06.2026 · E. 2026/4247 · K. 2026/7453",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Babası olarak kaydedilmek istedi.",
+        "Adli Tıp raporu da destekledi.",
+        "Bu davayı açabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "seal",
+            "title": "DAVA",
+            "seal": "KABUL",
+            "sealSub": "İLK DERECE",
+            "caption": "Adli Tıp raporuna göre"
+          }
+        },
+        {
+          "title": "İstinaf yalnızca masraflar için",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "İstinaf konusu",
+            "value": "Vekâlet ücreti",
+            "tag": "GİDER"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye mahkemesi davayı usulden reddetti: Dava ehliyeti yok.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Baba olduğunu söyleyen kişi dava açabilir mi?",
+      "options": [
+        {
+          "title": "Açamaz",
+          "sub": "Usulden ret"
+        },
+        {
+          "title": "Açabilir",
+          "sub": "Esastan incelenir"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Bu bir tanıma talebidir; mahkemeye yazılı başvuruyla da yapılabilir.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "TMK m. 295"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Baba, çocuğunu mahkeme yoluyla da tanıyabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

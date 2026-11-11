@@ -1,0 +1,13 @@
+hook_0	Bir adam, evlilik dışı doğan çocuğun babası olarak kaydedilmek istedi.
+hook_1	Adli Tıp raporu da biyolojik baba olabileceğini gösterdi.
+olay_0	İlk derece mahkemesi davayı kabul etti.
+olay_1	Adam yalnızca vekâlet ücreti ve yargılama gideri için istinafa gitti.
+itiraz_0	Ama bölge adliye mahkemesi, adamın dava ehliyeti olmadığı gerekçesiyle davayı usulden reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Baba olduğunu söyleyen kişi bu davayı açabilir mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı bozdu.
+neden_0	Hukuki nitelendirme hâkime aittir; bu bir babalık davası değil, tanıma talebiydi.
+neden_1	Tanıma, nüfus müdürlüğüne ya da mahkemeye yazılı başvuruyla yapılabilir.
+neden_2	İdari yol zorunlu değildir; talep esastan kabul edilmeliydi.
+not_0	Baba, çocuğunu mahkeme yoluyla da tanıyabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

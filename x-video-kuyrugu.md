@@ -97,4 +97,10 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-11 | 10:45 | 2026-11-10 15:15 | https://www.instagram.com/reel/Dfj4qD8kooh/ | Y. 2. HD, 09.06.2026, E. 2025/9974, K. 2026/6338 | Ziynetle kayınpedere araba (Reels) |
 | 2026-11-11 | 11:45 | 2026-11-10 18:15 | https://www.instagram.com/reel/DfkNMGWgOin/ | Y. 2. HD, 08.06.2026, E. 2026/144, K. 2026/6183 | "Kazancımı ona veremem" sözü (Reels) |
 
-Sıradaki: Kuyruk 10.11 18:15 Reels'ine kadar tükendi (11.11 12:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 10.11 21:15 Reels'i (E. 2026/1102, eski eşin evi), yayımlandıktan sonra; ardından 11.11'in Reels'leri.
+| 2026-11-12 | 09:45 | 2026-11-10 21:15 | https://www.instagram.com/reel/DfkiWWDEpvl/ | Y. 2. HD, 22.06.2026, E. 2026/1102, K. 2026/6900 | Eski eşin evine giden koca, eşit kusur (Reels) |
+| 2026-11-12 | 10:45 | 2026-11-11 09:15 | https://www.instagram.com/reel/Dfl0JJ7D6lo/ | Y. 2. HD, 30.06.2026, E. 2025/9964, K. 2026/7376 | İdrak çağındaki çocuğun görüşü, velayet (Reels) |
+| 2026-11-12 | 11:45 | 2026-11-11 12:15 | https://www.instagram.com/reel/DfmIw0iDLDW/ | Y. 2. HD, 01.06.2026, E. 2025/9845, K. 2026/5802 | Alkol tek başına kusur mu (Reels) |
+| 2026-11-12 | 12:45 | 2026-11-11 15:15 | https://www.instagram.com/reel/Dfmda5iFJFw/ | Y. 2. HD, 11.06.2026, E. 2025/10640, K. 2026/6430 | Barışma girişimi af değil (Reels) |
+| 2026-11-12 | 13:45 | 2026-11-11 18:15 | https://www.instagram.com/reel/DfmyAcKgJe8/ | YHGK, 10.06.2026, E. 2025/453, K. 2026/353 | Çalışan kadından işsiz kocaya tazminat (Reels) |
+
+Sıradaki: Kuyruk 11.11 18:15 Reels'ine kadar tükendi (12.11 14:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 11.11 21:15 Reels'i (E. 2026/295, tablette açık mail hesabı), yayımlandıktan sonra; ardından 12.11'in Reels'leri.

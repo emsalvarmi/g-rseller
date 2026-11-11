@@ -1,0 +1,13 @@
+hook_0	İmam nikâhıyla birlikte yaşadılar; resmî nikâh hiç kıyılmadı.
+hook_1	Kadın, evlenme vaadiyle kandırıldığını söyleyip tazminat istedi.
+olay_0	Kadının anlatımına göre önce Antalya'da, sonra Fransa'da yaşadılar.
+olay_1	Yüz elli bin lira manevi tazminat istedi; şiddet gördüğünü de ileri sürdü.
+itiraz_0	İlk derece mahkemesi otuz bin lira tazminata hükmetti.
+itiraz_1	Ama bölge adliye mahkemesi kararı kaldırıp davayı reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Tazminat verilmeli mi?
+karar_0	Yargıtay Dördüncü Hukuk Dairesi, davanın reddini onadı.
+neden_0	Bölge adliye mahkemesine göre şiddet iddiasını destekleyen delil yoktu.
+neden_1	Kadın, erkeğin kayden evli olduğunu bilerek, kendi rızasıyla birlikte yaşamıştı.
+not_0	Resmî nikâh yoksa, aile hukuku değil, haksız fiil kuralları uygulanır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.06.2026 · E. 2026/3476 · K. 2026/6453",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Anne soyadı davası açtı.",
+        "Dava sürerken çocuk 18 oldu.",
+        "Davayı kim sürdürür?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Aile mahkemesi",
+          "card": {
+            "kind": "seal",
+            "title": "SOYADI",
+            "seal": "KABUL",
+            "sealSub": "İLK DERECE",
+            "caption": "Annenin kızlık soyadı"
+          }
+        },
+        {
+          "title": "Babanın istinafı",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İstinaf",
+            "value": "Esastan ret",
+            "tag": "BAM"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Çocuk, istinaf kararından önce ergin olmuştu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Annenin davası yeter mi?",
+      "options": [
+        {
+          "title": "Yeter",
+          "sub": "Karar onanır"
+        },
+        {
+          "title": "Gencin iradesi gerekir",
+          "sub": "Karar bozulur"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Ergin genç davayı kendisi takip eder; iradesi sorulmalıydı.",
+      "extra": {
+        "label": "DİĞER ÇOCUK",
+        "text": "Onun yönünden karar onandı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Dava sürerken reşit olan çocuğa söz hakkı geçer."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

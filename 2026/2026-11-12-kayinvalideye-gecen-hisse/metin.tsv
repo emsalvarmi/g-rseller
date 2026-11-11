@@ -1,0 +1,13 @@
+hook_0	Şirket hisseleri eşten kayınvalideye, sonra yine kocaya geçti.
+hook_1	Boşanmada bu hisse hesaba girer mi?
+olay_0	Şirketin yüzde doksan beşi kocadaydı; neredeyse tamamını karısına devretti.
+olay_1	Kadın da boşanma davasından dört ay önce hisselerini kayınvalidesine devretti.
+itiraz_0	Davadan sonra kayınvalide, hisselerin tamamını oğluna verdi.
+itiraz_1	Aile mahkemesi hisseyi eklenecek değer sayıp alacak hesapladı.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Hisse hesaba katılmalı mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi, bu kısmı bozdu.
+neden_0	Boşanma davası açıldığında kocanın adına hiç hisse yoktu.
+neden_1	Alacağı azaltmak için devir yapıldığı da ispatlanamadı; talep reddedilmeliydi.
+not_0	Bu dosyada devrin alacağı azaltmak için yapıldığı ispatlanamadı; hisse hesaba katılmadı.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

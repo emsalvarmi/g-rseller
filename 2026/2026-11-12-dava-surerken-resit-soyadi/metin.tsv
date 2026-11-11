@@ -1,0 +1,11 @@
+hook_0	Bir anne, çocuklarının soyadını kendi kızlık soyadıyla değiştirmek için dava açtı.
+hook_1	Ama dava sürerken bir şey değişti.
+olay_0	Aile mahkemesi davayı kabul etti; babanın istinaf başvurusu da reddedildi.
+itiraz_0	Oysa çocuklardan biri, istinaf kararından önce on sekiz yaşını doldurmuştu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Annenin davası yeter mi, yoksa gencin kendi iradesi mi gerekir?
+karar_0	Yargıtay İkinci Hukuk Dairesi, o çocuk yönünden kararı bozdu.
+neden_0	Ergin olan kişi davayı artık kendisi takip eder.
+neden_1	Gencin davaya devam etmek isteyip istemediği sorulmalıydı.
+not_0	Çocuk dava sürerken reşit olursa, söz artık ona geçer.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

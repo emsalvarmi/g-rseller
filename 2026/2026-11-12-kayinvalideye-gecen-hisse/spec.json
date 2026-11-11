@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "26.03.2026 · E. 2025/2328 · K. 2026/3198",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Hisseler eşten kayınvalideye geçti.",
+        "Sonra yine kocaya döndü.",
+        "Boşanmada hesaba girer mi?"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "2010: koca %94'ü eşine devretti",
+          "card": {
+            "kind": "info",
+            "icon": "briefcase",
+            "title": "Eşin payı",
+            "value": "%99",
+            "tag": "ŞİRKET"
+          }
+        },
+        {
+          "title": "2012: eş, kayınvalidesine devretti",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Dava tarihi",
+            "value": "31.01.2013",
+            "tag": "BOŞANMA"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme hisseyi eklenecek değer sayıp alacak hesapladı.",
+      "icon": "money"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hisse hesaba katılmalı mı?",
+      "options": [
+        {
+          "title": "Katılmalı",
+          "sub": "Eklenecek değer"
+        },
+        {
+          "title": "Katılmamalı",
+          "sub": "Talep reddedilir"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Dava tarihinde kocanın adına hisse yoktu; mal kaçırma amacı ispatlanamadı.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "TMK m. 229"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Bu dosyada devrin amacı ispatlanamadı; hisse hesaba katılmadı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+hook_0	Bir çocuğa doğduğundan beri onlar baktı; şimdi onu evlat edinmek istiyorlar.
+hook_1	Ama biyolojik anne rıza vermiyor.
+olay_0	Tanıklara göre çocuk hep onların yanındaydı; baba hiç bağ kurmamıştı.
+olay_1	Anne önce rıza belgesi imzaladı, sonra çocuğun kaçırıldığını söyleyip şikâyetçi oldu.
+itiraz_0	Çocuk sosyal hizmet uzmanına, annesinin yanında şiddet gördüğünü anlattı.
+itiraz_1	Yine de mahkeme, anne rıza vermediği için davayı reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Anne babanın rızası olmadan evlat edinme olur mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı bozdu.
+neden_0	Anne de baba da çocuğa karşı özen yükümlülüğünü yerine getirmemişti.
+neden_1	Bu durumda anne babanın rızası aranmaz.
+not_0	Çocuğuna özen göstermeyen ebeveynin rızası aranmayabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 4. Hukuk Dairesi",
+  "kunye": "16.02.2026 · E. 2023/3238 · K. 2026/1612",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "İmam nikâhıyla birlikte yaşadılar.",
+        "Resmî nikâh hiç kıyılmadı.",
+        "Tazminat alabilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadının talebi",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Manevi tazminat",
+            "value": "150.000 TL",
+            "tag": "DAVA"
+          }
+        },
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Hükmedilen",
+            "value": "30.000 TL",
+            "tag": "KISMEN KABUL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Bölge adliye mahkemesi kararı kaldırıp davayı reddetti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Tazminat verilmeli mi?",
+      "options": [
+        {
+          "title": "Verilmeli",
+          "sub": "Vaat tutulmadı"
+        },
+        {
+          "title": "Verilmemeli",
+          "sub": "Ret doğru"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Onandı.",
+      "text": "BAM: Şiddet iddiasına delil yok; kadın erkeğin evli olduğunu bilerek birlikte yaşadı.",
+      "extra": {
+        "label": "NİTELENDİRME",
+        "text": "Haksız fiil kuralları uygulanır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Resmî nikâh yoksa aile hukuku değil, haksız fiil kuralları uygulanır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

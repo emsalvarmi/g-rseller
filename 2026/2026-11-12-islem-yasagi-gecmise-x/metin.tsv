@@ -1,0 +1,12 @@
+hook_0	İşlemler iki bin on üçte yapıldı; kural ise sonradan yürürlüğe girdi.
+hook_1	Sermaye Piyasası Kurulu, bu kurala dayanarak iki yıl borsa yasağı getirdi.
+olay_0	Kurul, içsel bilgiye erişildiğini ve bilgi suistimali olduğunu değerlendirdi.
+olay_1	Ayrıca savcılığa suç duyurusunda bulundu.
+itiraz_0	Ama yasağın dayandığı tebliğ, işlemlerden sonra, iki bin on dörtte yürürlüğe girmişti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Yasak geçerli mi?
+karar_0	Danıştay On Üçüncü Dairesi, yasağın iptalini onadı.
+neden_0	İdare mahkemesine göre bu yasak, tedbir değil, yaptırım niteliğindeydi.
+neden_1	Sonradan çıkan kuralı geçmişe uygulamak, hukuki güvenlik ilkesine aykırıydı.
+not_0	Yaptırım niteliğindeki bir kural, yürürlüğünden önceki işlemlere uygulanamaz.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

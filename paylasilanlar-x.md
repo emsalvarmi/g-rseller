@@ -102,3 +102,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-11 | 19:00 | Not | Danıştay 13. D., K. 2024/2405 | 107/1 suçu oluşmasa da piyasa bozucu eylem cezası (planlandı) |
 | 2026-11-11 | 20:30 | Zincir | Danıştay 13. D., 14.02.2022, E. 2022/427, K. 2022/395 | %69,33 fiyat artışı, işlemlerin %54,56'sı tek şirket hesabından; kişiye ve hesabı kullanılan şirkete 2 yıl işlem yasağı onandı (şirket/hisse adı verilmedi, videosuz) (planlandı) |
 | 2026-11-11 | 22:30 | Not | Danıştay 13. D., K. 2024/5682 | Teminat tamamlama çağrısı ve aracı kurumun sorumluluğu (planlandı) |
+| 2026-11-12 | 09:15 | Not | VI-104.1 Tebliği m. 4/3 (Danıştay İDDK K. 2025/40) | Finansal tablolar açıklanmadan önce içeriden işlem piyasa bozucu eylem (planlandı) |
+| 2026-11-12 | 11:30 | Zincir | Danıştay İDDK, 15.01.2025, E. 2024/1988, K. 2025/40 | Hâkim ortak şirketin tablo öncesi bağlı şirket payı alımı; "kişi" tüzel kişiyi de kapsar, ceza/ret onandı (şirket adı verilmedi; videosuz — seslendirme gelmedi) (planlandı) |
+| 2026-11-12 | 13:30 | Not | SPKn m. 104 | Piyasa bozucu eylem tanımı (planlandı) |
+| 2026-11-12 | 15:30 | Not | Danıştay İDDK K. 2025/40 ile onanan daire kararı | Tebliğdeki "kişi" gerçek ve tüzel kişileri kapsar (planlandı) |
+| 2026-11-12 | 17:30 | Zincir | Danıştay 13. D., 07.01.2025, E. 2022/3928, K. 2025/39 | 2013 işlemlerine 2014 tebliğiyle 2 yıl işlem yasağı; yaptırım geçmişe uygulanamaz, iptal onandı; suç duyurusu idari davaya konu olamaz (isim verilmedi; videosuz) (planlandı) |
+| 2026-11-12 | 19:00 | Not | Danıştay 13. D., K. 2025/39 ile onanan karar | Yaptırım niteliğindeki yasak ve geriye yürümezlik (planlandı) |
+| 2026-11-12 | 20:30 | Zincir | Danıştay 13. D., 10.02.2025, E. 2024/1252, K. 2025/671 | 7 haftada %74 (endeks %1); akraba grubu, menfaatin 2 katı 1.804.395,76 TL ceza; iki tebliğde birlikte hareket farklı, onama (şirket/hisse adı verilmedi; videosuz) (planlandı) |
+| 2026-11-12 | 22:30 | Not | Danıştay 13. D., K. 2025/671 | Yatırımcı grubunun akrabalık ve ortaklık bağlarıyla belirlenmesi (planlandı) |
