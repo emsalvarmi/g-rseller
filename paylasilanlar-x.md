@@ -110,3 +110,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-12 | 19:00 | Not | Danıştay 13. D., K. 2025/39 ile onanan karar | Yaptırım niteliğindeki yasak ve geriye yürümezlik (planlandı) |
 | 2026-11-12 | 20:30 | Zincir | Danıştay 13. D., 10.02.2025, E. 2024/1252, K. 2025/671 | 7 haftada %74 (endeks %1); akraba grubu, menfaatin 2 katı 1.804.395,76 TL ceza; iki tebliğde birlikte hareket farklı, onama (şirket/hisse adı verilmedi; videosuz) (planlandı) |
 | 2026-11-12 | 22:30 | Not | Danıştay 13. D., K. 2025/671 | Yatırımcı grubunun akrabalık ve ortaklık bağlarıyla belirlenmesi (planlandı) |
+| 2026-11-13 | 09:15 | Not | SPKn m. 106 (Danıştay K. 2024/2654'te aktarıldığı hâliyle) | Bilgi suistimali tanımı ve cezası (planlandı) |
+| 2026-11-13 | 11:30 | Zincir | Danıştay 13. D., 04.07.2024, E. 2020/3383, K. 2024/3088 | Satış görüşmelerini yürüten yöneticinin pay alımı; masumiyet karinesine aykırı gerekçe ama makul şüphe yeterli, 2 yıl yasak onandı (şirket/marka adı verilmedi; videosuz — seslendirme gelmedi) (planlandı) |
+| 2026-11-13 | 13:30 | Not | SPKn m. 106/a-d | İçsel bilgiye sahip sayılan kişiler (planlandı) |
+| 2026-11-13 | 15:30 | Not | Danıştay 13. D., K. 2024/2654 | Bilgi suistimali şüphesine dayalı yasak piyasa dolandırıcılığı yönünden incelenemez; niteleme hatası, bozma (olay dönemi ve bağlamı aktarılmadı) (planlandı) |
+| 2026-11-13 | 17:30 | Zincir | Danıştay 13. D., 10.02.2025, E. 2023/3605, K. 2025/679 | Amca-yeğen grubu; yeğene 9.493,82 TL menfaat, asgari 46.958 TL ceza onandı (şirket adı verilmedi; videosuz) (planlandı) |
+| 2026-11-13 | 19:00 | Not | Danıştay 13. D., K. 2025/580 | Grup tespiti: akrabalık, aynı adres, telefon kayıtları, para transferi (planlandı) |
+| 2026-11-13 | 20:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2023/1630, K. 2025/580 | 4.266.393,22 TL ceza; 13 kişilik grup, net alımın 6 katı alım emri; işlem yasağı ceza değil tedbir, onama (şirket adı verilmedi; videosuz) (planlandı) |
+| 2026-11-13 | 22:30 | Not | Danıştay 13. D., K. 2024/3088 (ilk derece gerekçesi, onandı) | Fiyatı etkileyebilecek bilgi: satış bedelinin önemi ve faaliyetlerin sona ermesi (planlandı) |

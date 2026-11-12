@@ -1,0 +1,86 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "17.09.2026 · E. 2025/6202 · K. 2026/8279",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Ev için \"bağışlandı\" savunması.",
+        "Ama süre çoktan geçmişti.",
+        "Geç savunma dinlenir mi?"
+      ],
+      "icon": "house",
+      "stamp": "GEÇ"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Erkek",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Katılma alacağı",
+            "value": "Evlilikte alınan taşınmaz",
+            "tag": "DAVA"
+          }
+        },
+        {
+          "title": "Diğer eş",
+          "card": {
+            "kind": "text",
+            "icon": "document",
+            "text": "Cevap dilekçesi süresinde verilmedi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Süre geçince \"bağış, kişisel mal\" dendi; mahkeme davayı reddetti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Geç gelen savunma dikkate alınır mı?",
+      "options": [
+        {
+          "title": "Alınır",
+          "sub": "Ret doğru"
+        },
+        {
+          "title": "Alınmaz",
+          "sub": "Ret hatalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Süresinde cevap vermeyen taraf savunmasını sonradan genişletemez.",
+      "extra": {
+        "label": "KURAL",
+        "text": "Evlilikte alınan mal, aksi ispatlanana kadar edinilmiş maldır."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Savunma süresi içinde yapılmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

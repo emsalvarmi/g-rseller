@@ -1,0 +1,85 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "29.06.2026 · E. 2026/1403 · K. 2026/7341",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Nafaka her yıl %20 artacaktı.",
+        "Anne itiraz etti.",
+        "Sabit oran mı, endeks mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İstinaf",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "İştirak nafakası",
+            "value": "Her yıl %20 artış",
+            "tag": "BABANIN TALEBİ"
+          }
+        },
+        {
+          "title": "Anne",
+          "card": {
+            "kind": "text",
+            "icon": "document",
+            "text": "Dilekçede ÜFE oranında artış istemişti."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme, annenin artış talebi olmadığını düşündü.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hangisi uygulanmalı?",
+      "options": [
+        {
+          "title": "%20 sabit",
+          "sub": "Babanın talebi"
+        },
+        {
+          "title": "ÜFE oranı",
+          "sub": "Annenin talebi"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltilerek onandı.",
+      "text": "Annenin talebi dosyadaydı; nafaka her yıl ÜFE oranında artacak.",
+      "extra": {
+        "label": "BAŞLANGIÇ",
+        "text": "Kesinleşmeyi izleyen yıl."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Artış biçimi dilekçede açıkça yazılmalı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

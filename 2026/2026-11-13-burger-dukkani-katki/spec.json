@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "10.09.2026 · E. 2025/5564 · K. 2026/7928",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kocasının dükkânında çalıştı.",
+        "Katkısı %30 sayıldı.",
+        "Bu oran adil mi?"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın",
+          "card": {
+            "kind": "info",
+            "icon": "briefcase",
+            "title": "Burger dükkânı",
+            "value": "Düzenli çalıştı",
+            "tag": "EMEK"
+          }
+        },
+        {
+          "title": "Mahkeme",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Banka hesabı",
+            "value": "Katkı oranı %30",
+            "tag": "HÜKÜM"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Evi geçindirme yükü eski kanuna göre kocadaydı; bu hesaba katılmadı.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "%30 katkı oranı yeterli mi?",
+      "options": [
+        {
+          "title": "Yeterli",
+          "sub": "Onama"
+        },
+        {
+          "title": "Az",
+          "sub": "Bozma"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Belirlenen oran az; hakkaniyete uygun oran takdir edilmeli.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "Düzenli çalışma ve geçindirme yükü."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Eşin işyerindeki emek katkı sayılabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+hook_0	Şirketin büyük bir satışını yürüten yönetici, görüşmeler sürerken şirketin paylarını aldı.
+hook_1	Sermaye Piyasası Kurulu ona iki yıl borsa yasağı getirdi.
+olay_0	Satış daha sonra yetmiş beş milyon dolar bedelle kamuya açıklandı.
+olay_1	İdare mahkemesine göre yönetici bu bilgiye önceden erişmişti ve payları sonra kârla sattı.
+itiraz_0	Yönetici, kesin bir içsel bilgi bulunmadığını ve işlemlerinin çok az olduğunu savundu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Yasak kalmalı mı?
+karar_0	Danıştay On Üçüncü Dairesi yasağı hukuka uygun bulan kararı onadı.
+neden_0	Ceza davası sürerken mahkemenin suçun işlendiğini söylemesi masumiyet karinesine aykırıydı.
+neden_1	Ama yasak için makul şüphe yeterliydi ve dosyada bu şüphe vardı.
+not_0	İşlem yasağı bir mahkûmiyet değildir; makul şüpheye dayanan bir tedbirdir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

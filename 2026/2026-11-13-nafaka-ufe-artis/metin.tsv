@@ -1,0 +1,13 @@
+hook_0	Çocuğun nafakası her yıl yüzde yirmi artacaktı. Anne buna itiraz etti.
+hook_1	Sabit oran mı, enflasyon mu?
+olay_0	Karşılıklı boşanma davasında ortak çocuk için iştirak nafakasına hükmedildi.
+olay_1	İstinaf mahkemesi, annenin yıllık artış istemediğini düşündü.
+olay_2	Babanın istediği gibi nafakanın her yıl yüzde yirmi artmasına karar verdi.
+itiraz_0	Oysa anne, dilekçesinde nafakanın her yıl Üretici Fiyat Endeksi oranında artmasını istemişti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Yüzde yirmi mi kalmalı, endeks mi uygulanmalı?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı düzelterek onadı.
+neden_0	Annenin artış talebi dosyada vardı; karar buna göre verilmeliydi.
+neden_1	Nafaka, boşanmanın kesinleştiği yılı izleyen yıldan başlayarak her yıl endeks oranında artacak.
+not_0	Nafakanın nasıl artacağı dilekçede açıkça yazılmalıdır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

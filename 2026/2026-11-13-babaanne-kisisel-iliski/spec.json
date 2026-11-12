@@ -1,0 +1,85 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "16.09.2026 · E. 2026/6528 · K. 2026/8180",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Baba cezaevinde.",
+        "Babaanne torununu görmek istedi.",
+        "Görüşebilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Velayet",
+          "card": {
+            "kind": "text",
+            "icon": "family",
+            "text": "Çocuk annesinin yanında."
+          }
+        },
+        {
+          "title": "İki mahkeme",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kişisel ilişki",
+            "value": "Babaanne lehine",
+            "tag": "KABUL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Anne kararı temyiz etti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Babaanneyle görüşme kalmalı mı?",
+      "options": [
+        {
+          "title": "Kalmalı",
+          "sub": "Onama"
+        },
+        {
+          "title": "Kaldırılmalı",
+          "sub": "Bozma"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Babanın cezaevinde olması olağanüstü hâl sayılmadı.",
+      "extra": {
+        "label": "TMK 325",
+        "text": "Üçüncü kişiye ancak olağanüstü hâlde."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Büyükanne hakkı anne babanınkiyle aynı değil."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "23.06.2026 · E. 2025/9025 · K. 2026/7001",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "22 bilezik, 96 altın.",
+        "Kadına göre hepsi banka kasasına gitti.",
+        "Geri verilmeli mi?"
+      ],
+      "icon": "gold"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın",
+          "card": {
+            "kind": "text",
+            "icon": "gold",
+            "text": "Koca altınları kasaya koydu, sonra bozdurdu."
+          }
+        },
+        {
+          "title": "Erkek",
+          "card": {
+            "kind": "text",
+            "icon": "money",
+            "text": "Kadın bozdurup kendi hesabına yatırdı."
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "İstinaf yalnızca kadının üzerine takılı altınları kabul etti.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Hangi takılar iade edilmeli?",
+      "options": [
+        {
+          "title": "Üzerindekiler",
+          "sub": "Kısmen kabul"
+        },
+        {
+          "title": "Hepsi incelenmeli",
+          "sub": "Eksik araştırma"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Takıların varlığı tanık ve düğün görüntüleriyle sabitti.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Banka kasası araştırılmamıştı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Düğün görüntüleri ve banka kayıtları önemli."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

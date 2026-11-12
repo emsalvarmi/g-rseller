@@ -1,0 +1,13 @@
+hook_0	Düğünde yirmi iki bilezik ve doksan altı altın takıldı. Kadına göre hepsi kocanın banka kasasına gitti.
+hook_1	Bu altınlar geri verilmeli mi?
+olay_0	Kadın, kocanın düğünden hemen sonra altınları alıp bankada kasada tuttuğunu söyledi.
+olay_1	Sonra da kasadan alıp bozdurduğunu ileri sürdü.
+itiraz_0	Erkek ise altınları kadının bozdurup kendi hesabına yatırdığını savundu.
+itiraz_1	İstinaf mahkemesi yalnızca kadının üzerine takılı altınlar yönünden davayı kabul etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Bütün takılar mı, yalnızca kadının üzerindekiler mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, ziynet davası yönünden kararı bozdu.
+neden_0	Tanıklar ve düğün görüntüleriyle takıların varlığı sabitti; erkek, takıların kendisine ait olduğunu da savunmamıştı.
+neden_1	Ayrıca erkeğin adına banka kasası olup olmadığı araştırılmadan karar verilemezdi.
+not_0	Ziynet davasında düğün görüntüleri ve banka kayıtları belirleyici olabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

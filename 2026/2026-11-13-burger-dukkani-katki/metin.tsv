@@ -1,0 +1,13 @@
+hook_0	Kadın, kocasının burger dükkânında düzenli olarak çalıştı. Mahkeme katkısını yüzde otuz saydı.
+hook_1	Bu oran adil mi?
+olay_0	Kadın, katkı payı ve katılma alacağı davası açtı.
+olay_1	Mahkeme, kadının banka hesabı yönünden katkı oranını yüzde otuz olarak belirledi.
+itiraz_0	İstinaf başvurusu reddedilince kadın temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Yüzde otuz yeterli mi, az mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı bozdu.
+neden_0	Kadın, erkeğin dükkânında düzenli olarak çalışıyordu.
+neden_1	Üstelik eski Medeni Kanuna göre evi geçindirme yükümlülüğü kocadaydı; bu da hesaba katılmamıştı.
+neden_2	Daireye göre belirlenen oran azdı; hakkaniyete uygun bir oran takdir edilmeliydi.
+not_0	Eşin işyerinde düzenli çalışmak, mal paylaşımında katkı olarak değerlendirilebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

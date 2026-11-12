@@ -1,0 +1,12 @@
+hook_0	Babası cezaevinde olan bir çocuk. Babaannesi torununu görebilmek için dava açtı.
+hook_1	Babaanne torunuyla görüşebilir mi?
+olay_0	Çocuğun velayeti annedeydi; babaanne torunuyla görüşemediğini söyledi.
+olay_1	İlk derece mahkemesi de istinaf mahkemesi de babaanne ile torun arasında kişisel ilişki kurdu.
+itiraz_0	Anne bu karara karşı temyize başvurdu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Görüşme kalmalı mı, kaldırılmalı mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı bozdu.
+neden_0	Kanuna göre büyükanne gibi üçüncü kişilere bu hak ancak olağanüstü hâllerde ve çocuğun yararına uygunsa tanınır.
+neden_1	Babanın cezaevinde olması olağanüstü hâl sayılmadı; dava reddedilmeliydi.
+not_0	Büyükanne ve büyükbabanın görüşme hakkı, anne babanınkiyle aynı değildir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

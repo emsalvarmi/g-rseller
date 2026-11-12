@@ -1,0 +1,12 @@
+hook_0	Dört milyon iki yüz altmış altı bin liralık idari para cezası. Yatırımcı, bu işlemler için zaten yasak aldım dedi.
+hook_1	Aynı işlemlere iki yaptırım olur mu?
+olay_0	Kurula göre yakın akrabalardan oluşan on üç kişilik bir grup aynı payda birlikte hareket etti.
+olay_1	Grup, net aldığı payın yaklaşık altı katı alım emri iletti; alım ağırlıklı bir piyasa izlenimi doğdu.
+itiraz_0	Yatırımcı, aynı işlemler için önce altı ay işlem yasağı aldığını, ikinci yaptırımın hukuka aykırı olduğunu savundu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Ceza kalmalı mı?
+karar_0	Danıştay On Üçüncü Dairesi davanın reddini onadı.
+neden_0	İdare mahkemesine göre işlem yasağı ceza değil, önleyici bir tedbirdi.
+neden_1	Piyasa dolandırıcılığı suçu oluşmasa da işlemler piyasa bozucu eylemdi.
+not_0	İşlem yasağı ile idari para cezası aynı işlemler için birlikte uygulanabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

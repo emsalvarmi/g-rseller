@@ -1,0 +1,13 @@
+hook_0	Boşanmada ev için "bize bağışlandı" savunması yapıldı. Ama bu savunma çok geç geldi.
+hook_1	Geç kalan savunma dinlenir mi?
+olay_0	Erkek, evlilik içinde alınan bir taşınmaz için katılma alacağı istedi.
+olay_1	Diğer eş, cevap dilekçesini süresinde vermedi.
+itiraz_0	Süre geçtikten sonra taşınmazın bağış olduğunu, yani kişisel mal olduğunu ileri sürdü.
+itiraz_1	Mahkeme bu savunmayı dikkate aldı ve davayı o taşınmaz yönünden reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Geç gelen savunma dikkate alınır mı, alınmaz mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı bozdu.
+neden_0	Evlilikte edinilen mal, aksi ispatlanana kadar edinilmiş mal sayılır.
+neden_1	Süresinde cevap vermeyen taraf, iddiaları inkâr etmiş sayılır ve savunmasını sonradan genişletemez.
+not_0	Mal paylaşımı davasında savunma, süresi içinde yapılmalıdır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
