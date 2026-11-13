@@ -1,0 +1,12 @@
+hook_0	Sığ bir payda, açılış seansında çok sayıda fiyat kademesine alış emri. Kurula göre amaç, yüksek talep izlenimi yaratmaktı.
+hook_1	Suç sabit olmadan işlem yasağı verilebilir mi?
+olay_0	Yatırımcı önce altı ay, sonra altı ay daha geçici işlem yasağı aldı.
+olay_1	Kurul suç duyurusunda bulununca iki yıllık yasak getirdi. Geçen on iki ay bu süreden düşüldü.
+itiraz_0	Yatırımcı çok az pay alıp sattığını, akrabalarla para transferinin olağan olduğunu ve grup olmadıklarını savundu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Yasak kalmalı mı?
+karar_0	Danıştay On Üçüncü Dairesi, davanın reddini gerekçeli olarak onadı.
+neden_0	İdare mahkemesinin, suçun işlendiğinden söz etmesi masumiyet karinesine aykırıydı.
+neden_1	Ama yasak için suçun ispatı değil, makul şüphe yeterliydi. Dosyadaki deliller makul şüphe oluşturuyordu.
+not_0	İşlem yasağı makul şüpheye dayanır; suçun sabit olduğu anlamına gelmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

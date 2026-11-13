@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "16.06.2026 · E. 2026/915 · K. 2026/6716",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "\"Köylüsün, cahilsin.\"",
+        "Dava yine de reddedildi.",
+        "Aşağılama boşanma sebebi değil mi?"
+      ],
+      "icon": "family",
+      "stamp": "RET"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Tanıklar",
+            "value": "Eski ya da aktarım",
+            "tag": "RET"
+          }
+        },
+        {
+          "title": "İstinaf",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Kadının başvurusu",
+            "value": "Esastan ret",
+            "tag": "RET"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Aşağılama, sık alkol ve evden kovma tanık ve delillerle ispatlanmıştı.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Boşanma kararı verilmeli mi?",
+      "options": [
+        {
+          "title": "Hayır",
+          "sub": "Ret doğru"
+        },
+        {
+          "title": "Evet",
+          "sub": "Erkek tam kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kadın bu vakıalara dilekçesinde dayanmıştı; boşanmaya karar verilmeliydi.",
+      "extra": {
+        "label": "KUSUR",
+        "text": "Erkek tam kusurlu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Süregelen aşağılama evliliği sarsan kusurdur."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

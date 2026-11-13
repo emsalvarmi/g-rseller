@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "09.09.2026 · E. 2026/1195 · K. 2026/7860",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadına aylık nafaka bağlandı.",
+        "Erkek itiraz etti.",
+        "Nafaka toptan ödenebilir mi?"
+      ],
+      "icon": "money"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Mahkemeler",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kusur",
+            "value": "Erkek tam kusurlu",
+            "tag": "BOŞANMA"
+          }
+        },
+        {
+          "title": "Kadın",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Yoksulluk nafakası",
+            "value": "Aylık ödeme",
+            "tag": "HÜKÜM"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Ortak çocuk yoktu; evlilik süresi ve yaşlar da tartışılmamıştı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Ödeme şekli nasıl olmalı?",
+      "options": [
+        {
+          "title": "Aylık kalsın",
+          "sub": "Onama"
+        },
+        {
+          "title": "Toptan tartışılsın",
+          "sub": "Bozma"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Bir defalık toptan ödeme de tartışılıp değerlendirilmeliydi.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "TMK m. 176/1"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yoksulluk nafakası toptan da ödenebilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -118,3 +118,11 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-13 | 19:00 | Not | Danıştay 13. D., K. 2025/580 | Grup tespiti: akrabalık, aynı adres, telefon kayıtları, para transferi (planlandı) |
 | 2026-11-13 | 20:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2023/1630, K. 2025/580 | 4.266.393,22 TL ceza; 13 kişilik grup, net alımın 6 katı alım emri; işlem yasağı ceza değil tedbir, onama (şirket adı verilmedi; videosuz) (planlandı) |
 | 2026-11-13 | 22:30 | Not | Danıştay 13. D., K. 2024/3088 (ilk derece gerekçesi, onandı) | Fiyatı etkileyebilecek bilgi: satış bedelinin önemi ve faaliyetlerin sona ermesi (planlandı) |
+| 2026-11-14 | 09:15 | Not | V-101.1 Tebliği m. 6 (Danıştay 13. D. K. 2025/1761'de aktarıldığı hâliyle) | İşlem yasağı süreleri: 6+6 ay, suç duyurusunda 2 yıl, mahsup (planlandı) |
+| 2026-11-14 | 11:30 | Zincir | Danıştay 13. D., 10.02.2025, E. 2023/3838, K. 2025/674 | Kızlarının yönetimindeki şirketlerle grup; endeksin 5 katı artış, 40 katı düşüş; 38.308 TL ceza onandı (şirket adı verilmedi; videosuz — seslendirme gelmedi) (planlandı) |
+| 2026-11-14 | 13:30 | Not | SPKn m. 107/1 | İşlem bazlı piyasa dolandırıcılığı tanımı ve cezası (planlandı) |
+| 2026-11-14 | 15:30 | Not | Danıştay 13. D., K. 2024/2406 | Sığ payda düşük miktarla yüksek oranlar; birlikte hareket nedeniyle ceza onandı (planlandı) |
+| 2026-11-14 | 17:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2023/1781, K. 2025/577 | Hesap vekili amca, 3,02 milyon TL transfer, 1,5 milyon TL kâr; 3.001.492,48 TL ceza onandı (şirket adı verilmedi; videosuz) (planlandı) |
+| 2026-11-14 | 19:00 | Not | Danıştay 13. D., K. 2025/577 | Piyasa bozucu eylem sayılan işlem türleri (planlandı) |
+| 2026-11-14 | 20:30 | Zincir | Danıştay 13. D., 29.04.2025, E. 2023/1916, K. 2025/1761 | Sığ payda yapay derinlik; 6+6 ay sonra 2 yıl yasak, 12 ay mahsup; masumiyet karinesine aykırı gerekçe ama makul şüphe yeterli, gerekçeli onama (isim verilmedi; videosuz) (planlandı) |
+| 2026-11-14 | 22:30 | Not | Danıştay 13. D., K. 2025/1761 | Makul şüpheye dayalı yasak ve masumiyet karinesi (planlandı) |

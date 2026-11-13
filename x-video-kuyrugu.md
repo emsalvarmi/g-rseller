@@ -109,4 +109,11 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-13 | 12:45 | 2026-11-12 15:15 | https://www.instagram.com/reel/DfpCK95gBhI/ | Y. 2. HD, 30.06.2026, E. 2026/4247, K. 2026/7453 | Mahkeme yoluyla tanıma (Reels) |
 | 2026-11-13 | 13:45 | 2026-11-12 18:15 | https://www.instagram.com/reel/DfpW0VUEoul/ | Y. 4. HD, 16.02.2026, E. 2023/3238, K. 2026/1612 | İmam nikâhı ve evlenme vaadi (Reels) |
 
-Sıradaki: Kuyruk 12.11 18:15 Reels'ine kadar tükendi (13.11 14:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 12.11 21:15 Reels'i (E. 2026/4172, rızasız evlat edinme), yayımlandıktan sonra; ardından 13.11'in Reels'leri.
+| 2026-11-14 | 09:45 | 2026-11-12 21:15 | https://www.instagram.com/reel/Dfpre80HD_s/ | Y. 2. HD, 16.06.2026, E. 2026/4172, K. 2026/6723 | Rızasız evlat edinme (Reels) |
+| 2026-11-14 | 10:45 | 2026-11-13 09:15 | https://www.instagram.com/reel/Dfq9ynaEb1E/ | Y. 2. HD, 17.09.2026, E. 2025/6202, K. 2026/8279 | Geç "bağış" savunması (Reels) |
+| 2026-11-14 | 11:45 | 2026-11-13 12:15 | https://www.instagram.com/reel/DfrSXEYD-TF/ | Y. 2. HD, 29.06.2026, E. 2026/1403, K. 2026/7341 | İştirak nafakasında ÜFE artışı (Reels) |
+| 2026-11-14 | 12:45 | 2026-11-13 15:15 | https://www.instagram.com/reel/Dfrm-qYCflW/ | Y. 2. HD, 23.06.2026, E. 2025/9025, K. 2026/7001 | Ziynet ve banka kasası (Reels) |
+| 2026-11-14 | 13:45 | 2026-11-13 18:15 | https://www.instagram.com/reel/Dfr7on0D9q2/ | Y. 2. HD, 10.09.2026, E. 2025/5564, K. 2026/7928 | Dükkânda çalışan kadının katkı payı (Reels) |
+| 2026-11-14 | 14:45 | 2026-11-13 21:15 | https://www.instagram.com/reel/DfsQNZ6FThG/ | Y. 2. HD, 16.09.2026, E. 2026/6528, K. 2026/8180 | Babaanne ile kişisel ilişki (Reels) |
+
+Sıradaki: Kuyruk 13.11 21:15 Reels'ine kadar tükendi (14.11 15:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 14.11 09:15 Reels'i (E. 2025/9504, duyuma dayalı tanık), yayımlandıktan sonra; ardından 14.11'in diğer Reels'leri.

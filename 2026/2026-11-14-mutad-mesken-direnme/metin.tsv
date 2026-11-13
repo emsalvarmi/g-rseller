@@ -1,0 +1,12 @@
+hook_0	Bir çocuk altı yıldır Türkiye'de babasıyla yaşıyor. Anne, çocuğun eski yaşadığı ülkeye iadesini istedi.
+hook_1	Mahkeme, Yargıtay'ın bozmasına direnebilir mi?
+olay_0	İlk derece mahkemesi davayı reddetti. Annenin Türkiye'ye gelip burada yaşamakla yer değişikliğine razı olduğunu kabul etti.
+olay_1	Yargıtay İkinci Hukuk Dairesi kararı bozdu. İadeyi engelleyen bir sebep yoktu.
+itiraz_0	Mahkeme yeniden ret verdi. Bu kez çocuğun altı yıldır burada okula gittiğine ve annenin adres değiştirip boşanma davası açtığına dayandı.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Bu bir direnme mi, yoksa yeni bir hüküm mü?
+karar_0	Yargıtay Hukuk Genel Kurulu, bunun gerçek bir direnme kararı olmadığına karar verdi.
+neden_0	Mahkeme, ilk kararında olmayan yeni delil ve gerekçeye dayanmıştı. Bu, yeni bir hükümdü.
+neden_1	Yeni hükmü inceleme görevi Genel Kurula değil, İkinci Hukuk Dairesine aitti. Dosya oraya gönderildi.
+not_0	Bozmadan sonra yeni delille kurulan karar direnme sayılmaz; inceleme yeniden daireye düşer.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

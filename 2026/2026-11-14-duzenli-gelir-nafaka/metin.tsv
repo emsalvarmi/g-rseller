@@ -1,0 +1,12 @@
+hook_0	Kadının sigortalı bir işi ve düzenli geliri vardı. İstinaf mahkemesi bu yüzden nafaka talebini reddetti.
+hook_1	Çalışan kadın yoksulluk nafakası alabilir mi?
+olay_0	Boşanma davasında erkek tam kusurlu bulundu. Kadını evden kovduğu da tanıklarla ispatlandı.
+olay_1	İlk derece mahkemesi nafakayı, tarafları eşit kusurlu sayarak reddetmişti.
+itiraz_0	İstinaf mahkemesi gerekçeyi değiştirdi: düzenli geliri olan kadın yoksulluğa düşmezdi. Kadın temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Nafaka reddi doğru mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, yoksulluk nafakası yönünden kararı kadın yararına bozdu.
+neden_0	Sosyal ekonomik durum araştırması, tanıklar ve sigorta hizmet dökümüne göre kadın boşanmayla yoksulluğa düşecekti.
+neden_1	Mahkeme, bir defalık toptan ödemeyi de tartışarak karar vermeliydi. Talep eksik incelemeyle tümden reddedilmişti.
+not_0	Düzenli gelir tek başına yoksulluk nafakasını engellemez; bütün deliller birlikte değerlendirilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

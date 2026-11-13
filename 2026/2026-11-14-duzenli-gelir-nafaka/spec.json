@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "21.09.2026 · E. 2026/2316 · K. 2026/8305",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadının sigortalı işi vardı.",
+        "Nafaka talebi reddedildi.",
+        "Çalışan kadın nafaka alamaz mı?"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kusur",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Evden kovma",
+            "value": "Erkek tam kusurlu",
+            "tag": "İSPAT"
+          }
+        },
+        {
+          "title": "İstinaf",
+          "card": {
+            "kind": "info",
+            "icon": "briefcase",
+            "title": "Gerekçe",
+            "value": "Düzenli gelir var",
+            "tag": "RET"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Sosyal ekonomik araştırma, tanıklar ve hizmet dökümü başka bir tablo gösteriyordu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Nafaka reddi doğru mu?",
+      "options": [
+        {
+          "title": "Doğru",
+          "sub": "Geliri var"
+        },
+        {
+          "title": "Yanlış",
+          "sub": "Eksik inceleme"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kadın boşanmayla yoksulluğa düşecekti; toptan ödeme de tartışılmalıydı.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "TMK m. 175 ve 176/1"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Düzenli gelir nafakayı tek başına engellemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

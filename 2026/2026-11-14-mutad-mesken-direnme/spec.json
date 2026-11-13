@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "kunye": "07.10.2026 · E. 2026/640 · K. 2026/593",
+  "note": "Karar oy birliğiyle, kesin olarak verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Çocuk 6 yıldır Türkiye'de.",
+        "Anne iadesini istedi.",
+        "Mahkeme direnebilir mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "İade davası",
+            "value": "Ret: anne razıydı",
+            "tag": "1. KARAR"
+          }
+        },
+        {
+          "title": "2. Hukuk Dairesi",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Bozma",
+            "value": "İadeye engel yok",
+            "tag": "YARGITAY"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Mahkeme yeni delillerle yine reddetti: okul, yeni adres, boşanma davası.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu bir direnme kararı mı?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Genel Kurul inceler"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Yeni hüküm"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Daireye gönderildi.",
+      "text": "Yeni delil ve gerekçeye dayanan karar direnme değil, yeni hükümdür.",
+      "extra": {
+        "label": "GÖREV",
+        "text": "İnceleme 2. Hukuk Dairesinin."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yeni delille kurulan hüküm direnme sayılmaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

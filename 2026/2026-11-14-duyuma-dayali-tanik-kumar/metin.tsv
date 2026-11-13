@@ -1,0 +1,12 @@
+hook_0	Tanık, kocanın kumar oynadığını söyledi. Ama bunu kendi gözüyle görmemişti; başkasından duymuştu.
+hook_1	Duyduğunu anlatan tanıkla kusur ispatlanır mı?
+olay_0	Karşılıklı açılan boşanma davalarında ilk derece mahkemesi bu tanığın sözüne dayandı.
+olay_1	Erkeğe kumar oynadığı kusurunu yükledi; kadının davasını kabul edip kadına tazminat verdi.
+itiraz_0	Erkek temyize gitti. Kusur belirlemesine ve tazminatlara itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Kumar kusuru kalmalı mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kumar kusurunu ispatlanmamış saydı. Ama kararı onadı.
+neden_0	Tanığın beyanı duyuma dayalıydı. İspatlanamayan bu vakıa erkeğe kusur olarak yüklenemezdi.
+neden_1	Yine de kabul edilen diğer kusurlu davranışlar nedeniyle erkek tam kusurluydu.
+not_0	Duyuma dayalı tanık sözü, tek başına kusuru ispatlamaya yetmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

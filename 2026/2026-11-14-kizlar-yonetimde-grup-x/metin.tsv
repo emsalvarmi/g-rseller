@@ -1,0 +1,12 @@
+hook_0	İki haftada borsa endeksi yüzde on bir artarken bir pay yüzde altmış iki yükseldi. Sonraki hafta ise yüzde elli beş düştü.
+hook_1	Akraba şirketlerle aynı grup sayılmak cezaya yeter mi?
+olay_0	Sermaye Piyasası Kurulu, akrabalık ve şirket bağlarıyla birbirine bağlı kişi ve şirketleri tek bir yatırımcı grubu saydı.
+olay_1	Grup, o paydaki tüm işlemlerin yaklaşık beşte birini yapmıştı. Yatırımcı, beş milyon adet satışla en çok satan üçüncü kişiydi.
+itiraz_0	Yatırımcı grup olmadıklarını, bilirkişi raporu alınmadığını ve savunma hakkının kısıtlandığını savundu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Otuz sekiz bin liralık ceza kalmalı mı?
+karar_0	Danıştay On Üçüncü Dairesi, davanın reddini onadı.
+neden_0	İdare mahkemesine göre yatırımcı, diğer kişi ve şirketlerle ortak iradeyle hareket etmişti.
+neden_1	İşlem miktarının önceki döneme göre günlük on üç kattan fazla artması da piyasa bozucu eylemi gösteriyordu.
+not_0	Akrabalık ve şirket bağları, birlikte hareketin tespitinde birlikte değerlendirilebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

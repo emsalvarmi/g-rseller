@@ -1,0 +1,12 @@
+hook_0	Kocası ona sürekli köylüsün, cahilsin dedi. Mahkeme yine de boşanma davasını reddetti.
+hook_1	Aşağılayıcı sözler boşanma sebebi değil mi?
+olay_0	İlk derece mahkemesine göre tanıkların anlattıkları ya çok eskiydi ya da başkasından aktarılmıştı.
+olay_1	İstinaf mahkemesi de kadının başvurusunu esastan reddetti.
+itiraz_0	Kadın temyize gitti. Kusur belirlemesine ve davanın reddine itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Boşanma kararı verilmeli mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, ret kararını bozdu.
+neden_0	Tanık beyanı ve delillerle erkeğin kadını sürekli aşağıladığı, sık sık alkol aldığı ve evden kovduğu ispatlanmıştı.
+neden_1	Kadın bu vakıalara dava dilekçesinde dayanmıştı. Erkek tam kusurluydu; boşanmaya karar verilmeliydi.
+not_0	Süregelen aşağılama ve evden kovma, ispatlanırsa evliliği temelinden sarsan bir kusurdur.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

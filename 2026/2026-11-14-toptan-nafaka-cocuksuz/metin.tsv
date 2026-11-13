@@ -1,0 +1,12 @@
+hook_0	Boşanmada kadına her ay ödenecek yoksulluk nafakası bağlandı. Erkek bu karara itiraz etti.
+hook_1	Nafaka bir kerede, toplu olarak ödenebilir mi?
+olay_0	Mahkemeler erkeği tam kusurlu buldu ve kadın yararına yoksulluk nafakasına hükmetti.
+olay_1	Tarafların ortak çocuğu yoktu.
+itiraz_0	Erkek, kararın tamamını temyiz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Aylık nafaka mı, toptan ödeme mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, nafakanın ödeme şekli yönünden kararı erkek yararına bozdu.
+neden_0	Kadın daha ağır kusurlu değildi ve boşanmayla yoksulluğa düşecekti. Nafaka hakkı vardı.
+neden_1	Ama ekonomik ve sosyal durum, evlilik süresi, çocuk olmaması ve yaşlar dikkate alınarak bir defalık toptan ödeme de tartışılmalıydı.
+not_0	Yoksulluk nafakası her zaman aylık olmak zorunda değil; hâkim toptan ödemeyi de değerlendirebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

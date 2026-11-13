@@ -1,0 +1,87 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "20.04.2026 · E. 2025/9504 · K. 2026/4360",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Tanık: \"Kumar oynuyormuş.\"",
+        "Ama duyduğunu anlattı.",
+        "Bu, kusur için yeter mi?"
+      ],
+      "icon": "family"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Erkeğe kusur",
+            "value": "Kumar oynadığı",
+            "tag": "TANIK"
+          }
+        },
+        {
+          "title": "Erkek",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Temyiz",
+            "value": "Kusur ve tazminat",
+            "tag": "İTİRAZ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Tanık olayı görmemiş, başkasından duymuştu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kumar kusuru kalmalı mı?",
+      "options": [
+        {
+          "title": "Kalmalı",
+          "sub": "Tanık yeter"
+        },
+        {
+          "title": "Çıkmalı",
+          "sub": "Duyuma dayalı"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Onandı.",
+      "text": "Kumar vakıası ispatlanamadı; ama diğer davranışlarıyla erkek yine tam kusurlu.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kusur çıktı, karar değişmedi."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Duyuma dayalı tanık sözü kusuru ispatlamaz."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

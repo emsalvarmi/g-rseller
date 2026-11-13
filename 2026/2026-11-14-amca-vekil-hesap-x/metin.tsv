@@ -1,0 +1,12 @@
+hook_0	Hesap yatırımcının adınaydı ama vekili amcasıydı. Aralarında üç milyon lirayı aşan para transferi vardı.
+hook_1	Bu, grup olarak hareket etmek mi?
+olay_0	Kurula göre yatırımcı, amcası ve kuzeniyle aynı payda birlikte hareket etti.
+olay_1	Bazı günlerde grubun payı toplam işlemlerin yüzde seksenine ulaştı. Yatırımcı bir buçuk milyon lira kâr elde etti.
+itiraz_0	Yatırımcı, aynı dönem için zaten altı ay işlem yasağı aldığını ve menfaatin yanlış hesaplandığını savundu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Üç milyon liralık ceza kalmalı mı?
+karar_0	Danıştay On Üçüncü Dairesi, davanın reddini onadı.
+neden_0	İdare mahkemesine göre yakın akrabalık, telefon ve banka irtibatı birlikte hareketi gösteriyordu.
+neden_1	İşlem yasağı ise ceza değil, önleyici bir tedbirdi. Bilirkişi raporu almak da zorunlu değildi.
+not_0	Hesabı kimin kullandığı ve para trafiği, grup tespitinde belirleyici olabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
