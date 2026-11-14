@@ -126,3 +126,12 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-14 | 19:00 | Not | Danıştay 13. D., K. 2025/577 | Piyasa bozucu eylem sayılan işlem türleri (planlandı) |
 | 2026-11-14 | 20:30 | Zincir | Danıştay 13. D., 29.04.2025, E. 2023/1916, K. 2025/1761 | Sığ payda yapay derinlik; 6+6 ay sonra 2 yıl yasak, 12 ay mahsup; masumiyet karinesine aykırı gerekçe ama makul şüphe yeterli, gerekçeli onama (isim verilmedi; videosuz) (planlandı) |
 | 2026-11-14 | 22:30 | Not | Danıştay 13. D., K. 2025/1761 | Makul şüpheye dayalı yasak ve masumiyet karinesi (planlandı) |
+| 2026-11-15 | 09:15 | Not | SPKn m. 107/2 | Bilgi bazlı piyasa dolandırıcılığı tanımı ve cezası (planlandı) |
+| 2026-11-15 | 11:30 | Zincir | Danıştay 13. D., 04.02.2025, E. 2023/1520, K. 2025/585 | Telegram grubuna üyelik ve işlem 107/2 makul şüphesi için yetmez; %351 artış, 6 ay yasağın iptali onandı, oy çokluğu (pay/kişi adı verilmedi; videosuz — seslendirme gelmedi) (planlandı) |
+| 2026-11-15 | 13:30 | Not | V-101.1 Tebliği m. 4/1-g (Danıştay K. 2025/585 karşı oyunda aktarıldığı hâliyle) | Makul şüphe tanımı (planlandı) |
+| 2026-11-15 | 15:30 | Not | VI-104.1 Tebliği m. 3 (Danıştay K. 2025/585 karşı oyunda aktarıldığı hâliyle) | Birlikte hareket eden kişiler tanımı (planlandı) |
+| 2026-11-15 | 17:30 | Zincir | Danıştay 13. D., 25.02.2025, E. 2024/142, K. 2025/944 | "Algoritmalar yaptı" savunması; en çok kendinden kendine işlem, menfaatin 2 katı 2.159.731,72 TL ceza onandı (K. 2025/679 ile aynı dosyanın amca kısmı; pay adı verilmedi; videosuz) (planlandı) |
+| 2026-11-15 | 19:00 | Not | Danıştay 13. D., K. 2025/585 | Telegram grubuna üyelik 107/2 yasağı için yetmez (planlandı) |
+| 2026-11-15 | 19:30 | Zincir | Haftalık bülten | 09.11–14.11 X paylaşımlarından 5 başlık (K. 2025/574, 40, 39, 1761, 576) (planlandı) |
+| 2026-11-15 | 20:30 | Zincir | Danıştay 13. D., 24.02.2025, E. 2024/3520, K. 2025/883 | Sosyal medya hesaplarını amca kullanıyordu; paylaşım yapmayan yeğene 107/2 yasağının iptali onandı, oy çokluğu (kişi/pay adı verilmedi; videosuz) (planlandı) |
+| 2026-11-15 | 22:30 | Not | Danıştay 13. D., K. 2025/883 | 107/1 ile 107/2 farkı; yasağın dayandığı fıkra (planlandı) |

@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.05.2026 · E. 2025/7420 · K. 2026/5358",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Boşanma kesinleşti.",
+        "Sonra otel kayıtları geldi.",
+        "Zina kusuru yüklenir mi?"
+      ],
+      "icon": "document",
+      "stamp": "ZİNA?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Boşanma",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kesinleşme",
+            "value": "23.09.2020",
+            "tag": "BİTTİ"
+          }
+        },
+        {
+          "title": "Tazminat",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "İstenen / verilen",
+            "value": "5 → 8 milyon TL",
+            "tag": "MADDİ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadın, kesinleşmeden sonra zina sebebiyle yeni dava açmıştı.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Boşanmadan sonraki ilişki kusur mu?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Zina kusuru"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Sadakat borcu bitti"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Sadakat yükümlülüğü boşanmanın kesinleşmesiyle sona ermişti.",
+      "extra": {
+        "label": "ÜSTELİK",
+        "text": "Talep aşılarak tazminat verilemez."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Boşanma kesinleşince sadakat borcu biter."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

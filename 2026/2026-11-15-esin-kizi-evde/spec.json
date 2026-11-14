@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "04.05.2026 · E. 2025/10359 · K. 2026/5045",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Eşinin kızı eve taşındı.",
+        "Erkek arkadaşıyla birlikte.",
+        "Evden ayrılan koca mı kusurlu?"
+      ],
+      "icon": "house",
+      "stamp": "TERK?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Evde",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Kadın",
+            "value": "Sessiz kaldı",
+            "tag": "OLAY"
+          }
+        },
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kusur",
+            "value": "Eşit kusurlu",
+            "tag": "KARAR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kızı, annesinin eşini evde istemiyordu. Erkek bunun üzerine evden ayrıldı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kim kusurlu?",
+      "options": [
+        {
+          "title": "Eşit kusur",
+          "sub": "Erkek evi terk etti"
+        },
+        {
+          "title": "Kadın",
+          "sub": "Tam kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Ayrılma haklı nedene dayanıyordu; erkeğe terk kusuru yüklenemezdi.",
+      "extra": {
+        "label": "TAZMİNAT",
+        "text": "Erkeğe maddi ve manevi tazminat."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Haklı nedenle ayrılmak terk sayılmayabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

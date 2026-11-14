@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "11.02.2026 · E. 2025/7219 · K. 2026/1503",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Altınlar kasaya konacaktı.",
+        "Geri verilmedi.",
+        "Akıbeti nasıl ispatlanır?"
+      ],
+      "icon": "gold",
+      "stamp": "KASA"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Kadın",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "Talep",
+            "value": "Aynen iade",
+            "tag": "ZİYNET"
+          }
+        },
+        {
+          "title": "Erkek",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Savunma",
+            "value": "Ev için bozduruldu",
+            "tag": "İDDİA"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Banka kasasının kayıtları hiç getirtilmemişti.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Bu delillerle karar verilebilir mi?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Deliller yeterli"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Eksik inceleme"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kasanın giriş çıkış kayıtları ve kamera görüntüleri getirtilmeliydi.",
+      "extra": {
+        "label": "AYRICA",
+        "text": "Kadının kasaya erişimi araştırılmalı."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kasa kayıtları belirleyici olabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -116,4 +116,9 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-14 | 13:45 | 2026-11-13 18:15 | https://www.instagram.com/reel/Dfr7on0D9q2/ | Y. 2. HD, 10.09.2026, E. 2025/5564, K. 2026/7928 | Dükkânda çalışan kadının katkı payı (Reels) |
 | 2026-11-14 | 14:45 | 2026-11-13 21:15 | https://www.instagram.com/reel/DfsQNZ6FThG/ | Y. 2. HD, 16.09.2026, E. 2026/6528, K. 2026/8180 | Babaanne ile kişisel ilişki (Reels) |
 
-Sıradaki: Kuyruk 13.11 21:15 Reels'ine kadar tükendi (14.11 15:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 14.11 09:15 Reels'i (E. 2025/9504, duyuma dayalı tanık), yayımlandıktan sonra; ardından 14.11'in diğer Reels'leri.
+| 2026-11-15 | 09:45 | 2026-11-14 09:15 | https://www.instagram.com/reel/Dftih10k8wz/ | Y. 2. HD, 20.04.2026, E. 2025/9504, K. 2026/4360 | Duyuma dayalı tanık ve kumar kusuru (Reels) |
+| 2026-11-15 | 10:45 | 2026-11-14 12:15 | https://www.instagram.com/reel/Dft3OnrGpwO/ | YHGK, 07.10.2026, E. 2026/640, K. 2026/593 | Mutad meskene iade, direnme değil (Reels) |
+| 2026-11-15 | 11:45 | 2026-11-14 15:15 | https://www.instagram.com/reel/DfuLvnhgHBd/ | Y. 2. HD, 09.09.2026, E. 2026/1195, K. 2026/7860 | Toptan yoksulluk nafakası (Reels) |
+| 2026-11-15 | 12:45 | 2026-11-14 18:15 | https://www.instagram.com/reel/DfugXL9Dkid/ | Y. 2. HD, 21.09.2026, E. 2026/2316, K. 2026/8305 | Düzenli geliri olan kadının nafakası (Reels) |
+
+Sıradaki: Kuyruk 14.11 18:15 Reels'ine kadar tükendi (15.11 13:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 14.11 21:15 Reels'i (E. 2026/915, "köylüsün, cahilsin"), yayımlandıktan sonra; ardından 15.11'in Reels'leri.

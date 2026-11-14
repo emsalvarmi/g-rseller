@@ -1,0 +1,11 @@
+hook_0	Dava ağustosta açıldı. Çocukların nafakası ise sekiz ay sonra başlatıldı.
+hook_1	Nafaka hangi tarihten başlamalı?
+olay_0	Mahkeme iki çocuğa ayda biner lira tedbir nafakası verdi. Başlangıç olarak da nisandaki duruşma gününü esas aldı.
+itiraz_0	Anne, başlangıç tarihine itiraz ederek temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Duruşma günü mü, dava tarihi mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı düzelterek onadı.
+neden_0	Çocuklar yararına tedbir nafakası dava tarihinden itibaren verilmeliydi.
+neden_1	Yeniden yargılama gerekmediği için tarih, tahsilde tekerrür olmayacak şekilde düzeltildi.
+not_0	Bu kararda tedbir nafakası dava tarihinden başlatıldı.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

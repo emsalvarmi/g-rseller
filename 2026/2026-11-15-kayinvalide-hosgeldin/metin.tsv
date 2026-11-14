@@ -1,0 +1,12 @@
+hook_0	Kocasının ailesine hoş geldiniz demedi, yüzünü astı. Mahkeme bunu kusur saydı.
+hook_1	Bu, boşanmada kusur mu?
+olay_0	Mahkeme tarafları eşit kusurlu buldu. Kadına kayınvalidesinin ayağına sehpa çarpması da yüklendi.
+itiraz_0	Kadın, kusur belirlemesine ve reddedilen tazminatlara itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Kadın kusurlu mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı kadın lehine bozdu.
+neden_0	Sehpa olayından sonra evlilik sürmüştü. Olay affedilmiş sayıldı.
+neden_1	Diğer iddialardaki tanık beyanları soyut ve inandırıcı olmaktan uzaktı.
+neden_2	Eve gelmeyen, eşi ve çocuğuyla ilgilenmeyen erkek tam kusurluydu.
+not_0	Soyut tanık beyanıyla kusur yüklenemez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

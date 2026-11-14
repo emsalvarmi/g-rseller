@@ -1,0 +1,11 @@
+hook_0	Düğün altınları, banka kasasına konacak diye kadından alındı. Sonra geri verilmedi.
+hook_1	Altınların akıbeti nasıl ispatlanır?
+olay_0	Erkek, kadının altınları bozdurup ev alımında kullandığını savundu. Mahkeme davayı kısmen kabul etti.
+itiraz_0	İstinaftan sonra iki taraf da temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Bu delillerle karar verilebilir mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi kararı bozdu.
+neden_0	Banka kasasının giriş çıkış kayıtları ve kamera görüntüleri getirtilmeliydi.
+neden_1	Kadının kasaya erişimi ve evin ödemeleri de araştırılmalıydı. Eksik inceleme vardı.
+not_0	Ziynet davasında kasa kayıtları belirleyici olabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

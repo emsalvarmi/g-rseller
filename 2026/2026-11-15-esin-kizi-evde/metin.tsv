@@ -1,0 +1,11 @@
+hook_0	Karısının önceki evliliğinden olan kızı, erkek arkadaşıyla birlikte onların evine yerleşti.
+hook_1	Evden ayrılan koca mı kusurlu?
+olay_0	Kız, annesinin eşini evde istemedi. Kadın sessiz kaldı. Mahkeme tarafları eşit kusurlu buldu.
+itiraz_0	Erkek, kusur belirlemesine ve tazminatların reddine itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Eşit kusur mu, kadının tam kusuru mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı erkek lehine bozdu.
+neden_0	Erkeğin evden ayrılması haklı nedene dayanıyordu. Ona terk kusuru yüklenemezdi.
+neden_1	Kadının erkeğe sürekli hakaret ettiği de ispatlanmıştı. Kadın tam kusurluydu.
+not_0	Haklı nedenle evden ayrılmak terk sayılmayabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

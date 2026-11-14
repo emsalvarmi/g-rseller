@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "04.05.2026 · E. 2025/8153 · K. 2026/5024",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "\"Hoş geldiniz\" demedi.",
+        "Mahkeme kusur saydı.",
+        "Bu, boşanmada kusur mu?"
+      ],
+      "icon": "family",
+      "stamp": "EŞİT KUSUR"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kusur",
+            "value": "Eşit kusurlu",
+            "tag": "KARAR"
+          }
+        },
+        {
+          "title": "Kadına yüklenen",
+          "card": {
+            "kind": "info",
+            "icon": "house",
+            "title": "Sehpa olayı",
+            "value": "Kayınvalidenin ayağı",
+            "tag": "İDDİA"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Sehpa olayından sonra evlilik sürmüştü. Diğer tanık beyanları soyuttu.",
+      "icon": "document"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kadın kusurlu mu?",
+      "options": [
+        {
+          "title": "Evet",
+          "sub": "Eşit kusur doğru"
+        },
+        {
+          "title": "Hayır",
+          "sub": "Kadın kusursuz"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Olay affedilmiş sayıldı; kadına kusur yüklenemezdi. Kadına tazminat verilmeliydi.",
+      "extra": {
+        "label": "KUSUR",
+        "text": "Erkek tam kusurlu."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Soyut tanık beyanıyla kusur yüklenemez."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

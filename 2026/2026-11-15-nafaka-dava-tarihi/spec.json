@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "16.06.2026 · E. 2026/900 · K. 2026/6711",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Dava ağustosta açıldı.",
+        "Nafaka 8 ay sonra başladı.",
+        "Nafaka hangi tarihten başlar?"
+      ],
+      "icon": "money",
+      "stamp": "TARİH"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Dava",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Dava tarihi",
+            "value": "15.08.2023",
+            "tag": "AÇILDI"
+          }
+        },
+        {
+          "title": "Mahkeme",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Tedbir nafakası",
+            "value": "16.04.2024'ten",
+            "tag": "1.000 TL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Anne, nafakanın başlangıç tarihine itiraz edip temyize gitti.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Nafaka ne zamandan başlamalı?",
+      "options": [
+        {
+          "title": "Duruşma günü",
+          "sub": "16.04.2024"
+        },
+        {
+          "title": "Dava tarihi",
+          "sub": "15.08.2023"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Düzeltilerek onandı.",
+      "text": "Çocuklar yararına tedbir nafakası dava tarihinden itibaren verilmeliydi.",
+      "extra": {
+        "label": "NOT",
+        "text": "Tahsilde tekerrür olmayacak şekilde."
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Bu kararda nafaka dava tarihinden başlatıldı."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

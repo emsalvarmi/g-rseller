@@ -1,0 +1,11 @@
+hook_0	Boşanma kesinleşti. Mahkeme sonradan gelen otel kayıtlarıyla erkeğe zina kusuru da yükledi.
+hook_1	Boşandıktan sonra sadakat borcu sürer mi?
+olay_0	Kadın asıl davada beş milyon lira maddi tazminat istemişti. Mahkeme sekiz milyon lira verdi.
+itiraz_0	Erkek, kusura ve tazminatlara itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Boşanmadan sonraki ilişki kusur mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kusur ve maddi tazminat yönünden bozdu.
+neden_0	Sadakat yükümlülüğü boşanmanın kesinleşmesiyle sona ermişti. Yeniden boşanma davası açılamazdı.
+neden_1	Hâkim taleple bağlıydı. İstenenden fazlasına hükmedilemezdi.
+not_0	Boşanma kesinleşince sadakat yükümlülüğü de biter.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
