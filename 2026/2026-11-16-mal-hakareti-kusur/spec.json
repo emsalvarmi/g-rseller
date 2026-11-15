@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "06.10.2026 · E. 2026/725 · K. 2026/9122",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Koca hakaret ve şiddet.",
+        "Kadın da ona “mal” dedi.",
+        "İkisi eşit mi kusurlu?"
+      ],
+      "icon": "family",
+      "stamp": "EŞİT?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk karar",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Erkek",
+            "value": "Tam kusurlu",
+            "tag": "KALDIRILDI"
+          }
+        },
+        {
+          "title": "Yeni karar",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Taraflar",
+            "value": "Eşit kusurlu",
+            "tag": "KARAR"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek son olayda ortak çocuğa da fiziksel şiddet uygulamıştı.",
+      "icon": "family"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Kim daha kusurlu?",
+      "options": [
+        {
+          "title": "Eşit kusur",
+          "sub": "İkisi de hakaret etti"
+        },
+        {
+          "title": "Erkek ağır kusurlu",
+          "sub": "Çocuğa da şiddet"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Erkek ağır kusurluydu; kadına maddi ve manevi tazminat verilmeliydi.",
+      "extra": {
+        "label": "KADIN",
+        "text": "Kusurlu, ama daha az"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Kusurlar sayılmaz, tartılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

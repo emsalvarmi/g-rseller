@@ -1,0 +1,10 @@
+hook_0	Yatırımcı, piyasa bozucu işlemlerden kâr etmedi. Tersine zarar etti.
+hook_1	Yine de cezası ortalamadan kesilebilir mi?
+olay_0	Hisse yüzde elli arttı, endeks yüzde sekiz. Yatırımcı alım emirlerini satımın altı katı sayıda, parça parça gönderdi.
+itiraz_0	Kurul, alt ve üst sınırın ortalaması olan dört yüz doksan sekiz bin lira ceza verdi. Danıştay On Üçüncü Dairesi, ceza bireyselleştirilmedi diye işlemi iptal etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	İptal mi, ceza mı?
+karar_0	Danıştay İdari Dava Daireleri Kurulu, iptal kısmını oy çokluğuyla bozdu.
+neden_0	Daire, cezanın gerekçesini ara kararla idareden sorabilirdi. İhlalin önemi ve yatırımcıların zararı, alt sınırdan uzaklaşmayı haklı kılıyordu.
+not_0	Zarar etmek, piyasa bozucu eylem cezasını tek başına düşürmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

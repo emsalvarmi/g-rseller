@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "14.09.2026 · E. 2026/1979 · K. 2026/7967",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Yazları iki ay öğreticilik.",
+        "Sonra işe başladığı iddiası.",
+        "Nafaka yine de verilir mi?"
+      ],
+      "icon": "document",
+      "stamp": "NAFAKA?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kadına",
+            "value": "Yoksulluk nafakası",
+            "tag": "KARAR"
+          }
+        },
+        {
+          "title": "İstinaf",
+          "card": {
+            "kind": "info",
+            "icon": "money",
+            "title": "Aylık",
+            "value": "8.000 TL",
+            "tag": "ARTIRILDI"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek, kadının çalışmaya başladığını ve babasından miras kaldığını ileri sürdü.",
+      "icon": "briefcase"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Ne yapılmalı?",
+      "options": [
+        {
+          "title": "Nafaka kalsın",
+          "sub": "8.000 TL"
+        },
+        {
+          "title": "Yeniden araştırılsın",
+          "sub": "Gelir ve miras"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kadının işi, geliri ve miras payı araştırılmadan karar verilemezdi.",
+      "extra": {
+        "label": "SEBEP",
+        "text": "Eksik inceleme"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Nafakadan önce güncel gelir araştırılır."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

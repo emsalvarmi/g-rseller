@@ -1,0 +1,11 @@
+hook_0	Kadın muhasebeci. Düzenli bir maaşı, kendi arabası ve eşiyle ortak bir evi var.
+hook_1	Boşanınca yoksulluk nafakası alabilir mi?
+olay_0	Karşılıklı boşanma davasında kadına yoksulluk nafakası bağlandı. Karar bölge adliye mahkemesinden geçti.
+itiraz_0	Erkek temyize gitti. Nafakanın koşullarının oluşmadığını söyledi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Nafaka sürsün mü, yoksa reddedilsin mi?
+karar_0	Yargıtay İkinci Hukuk Dairesi, nafaka yönünden kararı erkek lehine bozdu.
+neden_0	Yoksulluk nafakası için, isteyen eşin boşanmayla yoksulluğa düşecek olması gerekir.
+neden_1	Düzenli ve sürekli geliri, arabası ve ortak evi olan kadın yoksulluğa düşmeyecekti.
+not_0	Yoksulluk nafakası, boşanmayla yoksulluğa düşecek eş içindir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

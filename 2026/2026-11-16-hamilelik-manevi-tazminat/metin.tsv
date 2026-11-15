@@ -1,0 +1,12 @@
+hook_0	Kadın evden ayrıldığında hamileydi. Bebeğini baba evinde doğurdu.
+hook_1	Onu bu süreçte yalnız bırakan eş manevi tazminat öder mi?
+olay_0	Mahkeme, erkeğin doğumdan sonra da kadınla ve çocukla ilgilenmediğini tespit etti. Düğün takılarını da kadının bilgisi dışında bozdurmuştu.
+olay_1	Erkek tam kusurlu bulundu ve boşanmaya karar verildi.
+itiraz_0	Ama mahkeme kişilik haklarına saldırı olmadığını söyleyip manevi tazminatı reddetti. Bölge adliye mahkemesi de bunu yerinde buldu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Manevi tazminat yok mu, var mı?
+karar_0	Yargıtay İkinci Hukuk Dairesi, manevi tazminat yönünden kararı kadın lehine bozdu.
+neden_0	Hamilelik ve doğum sürecinde eşini yalnız bırakan erkek, eşine ve çocuğuna karşı özen yükümlülüğünü ihmal etmişti.
+neden_1	Bu, kadının kişilik değerlerine saldırıydı. Kadına uygun bir manevi tazminat verilmeliydi.
+not_0	Hamilelikte ve doğumda eşini yalnız bırakmak manevi tazminat sebebi olabilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

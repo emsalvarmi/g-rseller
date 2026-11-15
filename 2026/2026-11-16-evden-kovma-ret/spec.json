@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "01.10.2026 · E. 2026/2719 · K. 2026/8932",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın boşanmak istedi.",
+        "İki mahkeme de reddetti.",
+        "Evden kovan eşle evlilik sürer mi?"
+      ],
+      "icon": "house",
+      "stamp": "RET?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Boşanma davası",
+            "value": "Reddedildi",
+            "tag": "KARAR"
+          }
+        },
+        {
+          "title": "İstinaf",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Bölge adliye",
+            "value": "Esastan ret",
+            "tag": "İSTİNAF"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkeğin eşine hakaret ettiği ve onu evden kovduğu ispatlanmıştı.",
+      "icon": "house"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Boşanma olur mu?",
+      "options": [
+        {
+          "title": "Ret",
+          "sub": "Evlilik sürsün"
+        },
+        {
+          "title": "Boşanma",
+          "sub": "Erkek tam kusurlu"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Ortak hayat temelinden sarsılmıştı; boşanmaya karar verilmeliydi.",
+      "extra": {
+        "label": "KUSUR",
+        "text": "Erkek tam kusurlu"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "İspatlanan hakaret ve evden kovma, boşanma sebebidir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+hook_0	Kadın ev hanımıydı. Sadece yazları iki ay Kur'an kursunda öğreticilik yapıyordu.
+hook_1	Boşanınca yoksulluk nafakası alır mı?
+olay_0	Mahkeme kadına yoksulluk nafakası bağladı. Bölge adliye mahkemesi miktarı az buldu, aylık sekiz bin liraya çıkardı.
+itiraz_0	Erkek, kadının çalışmaya başladığını ve babasından miras kaldığını ileri sürdü. Kadın tarafı da çalıştığını ama düşük maaş aldığını söyledi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Nafaka böyle kalsın mı, yoksa yeniden mi araştırılsın?
+karar_0	Yargıtay İkinci Hukuk Dairesi, nafaka yönünden kararı erkek lehine bozdu.
+neden_0	Kadın çalışıyor mu, ne zamandan beri, geliri düzenli ve sürekli mi; bunlar araştırılmalıydı.
+neden_1	Gelirlerin denk olup olmadığı ve mirastan pay kalıp kalmadığı da incelenmeliydi.
+not_0	Nafakadan önce eşlerin güncel geliri ve malvarlığı araştırılmalıdır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

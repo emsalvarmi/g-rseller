@@ -1,0 +1,11 @@
+hook_0	Kadın boşanmak istedi. İki mahkeme de davayı reddetti.
+hook_1	Hakaret eden ve evden kovan eşle evlilik sürdürülmeli mi?
+olay_0	Kadının açtığı boşanma davasını ilk derece mahkemesi reddetti.
+itiraz_0	Kadın istinafa gitti. Bölge adliye mahkemesi de başvuruyu esastan reddetti. Kadın temyize gitti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Dava reddedilsin mi, yoksa boşanmaya mı karar verilsin?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı kadın lehine bozdu.
+neden_0	Erkeğin eşine hakaret ettiği ve onu evden kovduğu ispatlanmıştı. Erkek tam kusurluydu.
+neden_1	Ortak hayat temelinden sarsılmıştı. Eşleri birlikte yaşamaya zorlamak artık mümkün değildi.
+not_0	Hakaret ve evden kovma ispatlanınca, dava yetersiz gerekçeyle reddedilemez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

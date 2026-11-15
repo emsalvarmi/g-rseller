@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "05.10.2026 · E. 2026/2971 · K. 2026/9026",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Kadın muhasebeci.",
+        "Maaşı, arabası, ortak evi var.",
+        "Yoksulluk nafakası alır mı?"
+      ],
+      "icon": "money",
+      "stamp": "NAFAKA?"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "İlk derece",
+          "card": {
+            "kind": "info",
+            "icon": "gavel",
+            "title": "Kadına",
+            "value": "Yoksulluk nafakası",
+            "tag": "KARAR"
+          }
+        },
+        {
+          "title": "Temyiz",
+          "card": {
+            "kind": "info",
+            "icon": "document",
+            "title": "Erkek",
+            "value": "Nafakaya itiraz",
+            "tag": "TEMYİZ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Kadının düzenli ve sürekli geliri, üzerine kayıtlı aracı ve eşiyle ortak bir evi vardı.",
+      "icon": "briefcase"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Nafaka sürsün mü?",
+      "options": [
+        {
+          "title": "Sürsün",
+          "sub": "Boşanma kadını etkiler"
+        },
+        {
+          "title": "Reddedilsin",
+          "sub": "Yoksulluğa düşmez"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Kadın boşanmayla yoksulluğa düşmeyecekti; nafaka talebi reddedilmeliydi.",
+      "extra": {
+        "label": "DAYANAK",
+        "text": "Türk Medeni Kanunu 175. madde"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Yoksulluk nafakası, yoksulluğa düşecek eş içindir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+hook_0	On dokuz günde bir hissede en çok işlemi, en çok emri, en çok fiyat yükseltici işlemi aynı yatırımcı yaptı.
+hook_1	Rapor tebliğ edilmedi diye ceza düşer mi?
+olay_0	Sermaye Piyasası Kurulu, yatırımcının işlemlerini piyasa bozucu eylem saydı. Elde ettiği menfaatin iki katı ceza verdi.
+itiraz_0	Yatırımcı, denetleme raporunun kendisine tebliğ edilmediğini, cezanın fahiş olduğunu ve somut tespit yapılmadığını söyledi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Ceza kalksın mı, kalsın mı?
+karar_0	İdare mahkemesi davayı reddetti, bölge idare mahkemesi de istinafı reddetti. Danıştay On Üçüncü Dairesi kararı onadı.
+neden_0	Raporda yatırımcının en çok işlem, en çok emir ve en çok kendinden kendine işlem yapan kişi olduğu tespit edilmişti.
+not_0	Piyasa bozucu eylemde menfaat varsa ceza, menfaatin iki katından az olamaz.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

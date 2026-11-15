@@ -1,0 +1,88 @@
+{
+  "court": "Yargıtay 2. Hukuk Dairesi",
+  "kunye": "21.09.2026 · E. 2026/2334 · K. 2026/8310",
+  "note": "Karar oy birliğiyle verildi.",
+  "scenes": [
+    {
+      "type": "hook",
+      "lines": [
+        "Evden ayrıldığında hamileydi.",
+        "Bebeğini baba evinde doğurdu.",
+        "Manevi tazminat yok mu?"
+      ],
+      "icon": "family",
+      "stamp": "YALNIZ"
+    },
+    {
+      "type": "steps",
+      "kicker": "NE OLDU?",
+      "items": [
+        {
+          "title": "Tespit",
+          "card": {
+            "kind": "info",
+            "icon": "family",
+            "title": "Erkek",
+            "value": "İlgilenmedi",
+            "tag": "OLAY"
+          }
+        },
+        {
+          "title": "Takılar",
+          "card": {
+            "kind": "info",
+            "icon": "gold",
+            "title": "Düğün takıları",
+            "value": "Habersiz bozduruldu",
+            "tag": "OLAY"
+          }
+        }
+      ]
+    },
+    {
+      "type": "twist",
+      "big": "Ama…",
+      "text": "Erkek tam kusurlu bulunduğu hâlde manevi tazminat iki derecede de reddedildi.",
+      "icon": "gavel"
+    },
+    {
+      "type": "quiz",
+      "kicker": "SİZCE?",
+      "question": "Manevi tazminat?",
+      "options": [
+        {
+          "title": "Yok",
+          "sub": "Kişilik hakkına saldırı yok"
+        },
+        {
+          "title": "Var",
+          "sub": "Özen yükümlülüğü ihmal"
+        }
+      ],
+      "answer": 1,
+      "countdown": 4
+    },
+    {
+      "type": "reveal",
+      "title": "Bozuldu.",
+      "text": "Hamilelik ve doğumda eşini yalnız bırakmak kişilik değerlerine saldırıydı.",
+      "extra": {
+        "label": "SONUÇ",
+        "text": "Kadına manevi tazminat"
+      }
+    },
+    {
+      "type": "lessons",
+      "kicker": "KARAR",
+      "items": [
+        [
+          "Unutmayın:",
+          "Zor günde yalnız bırakmak tazminat sebebi olabilir."
+        ]
+      ]
+    },
+    {
+      "type": "outro"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+hook_0	Koca küfürlü hakaretler etti, şiddet uyguladı. Kadın da ona sürekli mal dedi, o da şiddet uyguladı.
+hook_1	Bu evlilikte iki taraf eşit mi kusurlu?
+olay_0	Mahkeme önce erkeği tam kusurlu buldu. Dosya istinaftan geri dönünce bu kez iki tarafı eşit kusurlu saydı.
+olay_1	Böylece kadının maddi ve manevi tazminat talepleri reddedildi.
+itiraz_0	Kadın temyize gitti. Kusur belirlemesine ve tazminatların reddine itiraz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Eşit kusur mu, erkeğin ağır kusuru mu?
+karar_0	Yargıtay İkinci Hukuk Dairesi, kararı kadın lehine bozdu.
+neden_0	Erkek eşine sürekli hakaret etmiş, birçok kez şiddet uygulamış, son olayda ortak çocuğa da şiddet uygulamıştı.
+neden_1	Kadın da kusurluydu, ama erkek ağır kusurluydu. Kadına maddi ve manevi tazminat verilmeliydi.
+not_0	İki eş de kusurlu olabilir; ama kusurun ağırlığı tartılmadan eşit kusur denemez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
