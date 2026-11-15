@@ -16,7 +16,7 @@ Fail suçu işlemekten vazgeçer, sonra başka bir ani kararla fiili işlerse ta
 
 ---
 
-Birden fazla kişiye karşı tek fiille işlenen suçta zincirleme artırım, TCK m. 43/2'nin yollamasıyla 43/1'e göre yapılır. Yargıtay 12. CD, "değişik tarihlerde birden fazla eylem" gerekçesini bu yönden düzeltti.
+Birden fazla kişiye karşı tek fiille işlenen suçta zincirleme artırım, TCK m. 43/2'nin yollamasıyla 43/1'e göre yapılır. Yargıtay 12. CD, hükümde uygulanan artırım maddesini bu yönden düzelterek onadı.
 
 (Y. 12. CD, K. 2026/4565)
 
