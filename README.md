@@ -2,6 +2,18 @@
 
 Bu depo @emsalvarmi Instagram hesabının gönderi görsellerini barındırır. Metricool görselleri buradaki `raw.githubusercontent.com` bağlantılarından alıp kendi sunucusuna kopyalar.
 
+## GÜNCEL PLAN — kullanıcının 15.11.2026 talimatı (aşağıdaki eski planların yerine geçer)
+
+- **Konu:** yeni bir talimata kadar YALNIZCA **ceza hukuku**: ilgi çekici, öğretici kararlar (Yargıtay ceza daireleri, Ceza Genel Kurulu, bölge adliye ceza daireleri). Aile hukuku ve SPK/manipülasyon/fon konuları askıda.
+- **Video:** her gün **4 seslendirmeli video — 09:15, 13:15, 17:15, 21:15.** Aynı video aynı saatte hem Instagram Reels hem X'te paylaşılır. X'te tek tweet: soru + "Yargıtay ne dedi? 🎬" (Ceza Genel Kurulu için "Yargıtay Ceza Genel Kurulu ne dedi? 🎬") + boş satır + kısa künye + boş satır + 2 etiket (ör. `#cezahukuku #tasarlama`); ≤ 280 karakter.
+- **Seslendirmesiz video ASLA paylaşılmaz.** Eski sessiz şablon (`sablon/video`) kullanılmaz. Seslendirme gelmezse o saat boş kalır ve kullanıcıya bildirilir. Mac'teki otomatik başlatma (LaunchAgent) çalışmazsa kullanıcıdan Karar Odası klasöründeki `seslendir_gemini.applescript` dosyasına çift tıklaması istenir.
+- **X notları:** günde 3 tek tweetlik ceza hukuku notu — 11:15, 15:15, 19:15 (videolardan farklı bir hukuki nokta, kısa künye, 2 etiket, bağlantı yok).
+- **Durdurulanlar:** X karar zincirleri, Pazar bülteni, eski Instagram Reels'lerinin X'e saatte bir aktarılması (`x-video-kuyrugu.md`), "Sizce?" gönderileri.
+- **Ceza hukuku hassasiyeti:** kişi, şirket, kullanıcı adı, yer adı gibi kimlik belirleyici bilgi yok; masumiyet karinesi (kesinleşmemiş ya da bozulmuş kararlarda "suçlu" denmez; kanun yararına bozma ve usul kararlarında bunun suçluluk anlamına gelmediği belirtilir); şiddet ayrıntısı, cinsel içerik, çocuklara karşı cinsel suçlar ve kamuoyunda devam eden davalar yok; siyasi yorum yok; avukatlık reklam yasağı aynen geçerli. Künyede oy birliği/çokluğu yalnızca karar metninde yazıyorsa belirtilir.
+- **Instagram:** REEL, `isAiGenerated: true`; açıklama aşağıdaki biçimde, sonunda "Seslendirme sentetik sestir."; en fazla 5 hashtag (`#cezahukuku` dahil).
+- **Sahne dosyaları:** `motor/emsalvarmi_ortak.py` + karara özel `emsalvarmi_<YYYYMMDD>_<konu>.py` (örnekler: `emsalvarmi_20261116_kopek_isirdi.py`, `..._instagram_foto.py`, `..._es_telefon_dinleme.py`, `..._tasarlama_sahte_hesap.py`).
+- 16.11.2026 için daha önce hazırlanan aile hukuku Reels'leri, SPK zincir ve notları ile X kuyruk videoları Metricool'da **taslağa** alındı (silinmedi).
+
 ## Klasörler
 
 - `2026/<YYYY-MM-DD>-<konu>/01.png … 06.png`: yayınlanan gönderilerin slaytları.
@@ -98,14 +110,14 @@ Günde 15 video (yaklaşık 120 MB) main'e eklenirse depo birkaç haftada GitHub
 
 Not: Bu ortamda uzak dal silinemiyor; `medya-test` adlı küçük bir deneme dalı kaldı, yok sayın.
 
-### Güncel yayın planı ve içerik talimatı
+### (ESKİ — 15.11.2026'dan itibaren geçersiz) Yayın planı ve içerik talimatı
 
 - **Sıklık (kullanıcının 01.11.2026 talimatıyla 3 saatte 1):** her gün 09:15, 12:15, 15:15, 18:15 ve 21:15'te 1 Reels (günde 5 video).
 - **Konu (kullanıcının 29.10.2026 talimatı, ikinci bir talimata kadar):** yalnızca aile hukuku kararları ve özellikle ilgi çekici konular. Örnek alanlar: aldatma ve sadakat, şiddet ve ekonomik şiddet, eşin ailesinin müdahalesi, sosyal medya ve telefon delilleri, kusur ve maddi-manevi tazminat, nafaka (tedbir, iştirak, yoksulluk; artırım, azaltım, kaldırma), velayet ve çocukla kişisel ilişki, düğün takıları ve ziynet, nişan ve hediyeler, mal rejimi ve katılma alacağı, mal kaçırma, aile konutu, soybağı ve babalık, koruma kararları (6284). Kararlar çoğunlukla Yargıtay 2. Hukuk Dairesi ve Hukuk Genel Kurulundan gelir.
 - Aynı gün aynı alt konudan en fazla 2 video olsun; gün içinde konuları karıştırın. En çekici kararları akşam saatlerine (18:15 ve 21:15) koyun.
 - Yalnızca kısa bir onama ya da usul kararı olan, olayı anlatmayan kararları seçmeyin; olay ve gerekçesi metinde yazan kararları seçin.
 
-### X (Twitter) planı
+### (ESKİ — 15.11.2026'dan itibaren geçersiz) X (Twitter) planı
 
 X hesabı (@emsalvarmi) Metricool'de aynı markaya bağlı (network: `twitter`).
 
