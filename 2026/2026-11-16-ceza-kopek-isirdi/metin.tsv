@@ -1,0 +1,13 @@
+hook_0	Bir köpek, iş yerinden çıkan birini yüzünden ısırdı.
+hook_1	Sahibi, orada sokak köpeklerinin de olduğunu söyledi.
+olay_0	Yaralıya göre onu ısıran, sanığın köpeğiydi.
+olay_1	Yüzünde kalıcı bir iz kaldı.
+itiraz_0	Sanık, hangi köpeğin ısırdığını görmediğini savundu.
+itiraz_1	Kamera kaydı yoktu; ilk derece mahkemesi beraat verdi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Beraat mı, ceza mı?
+karar_0	Bölge adliye mahkemesi cezaya hükmetti; Yargıtay onadı.
+neden_0	Mahkeme, sanığa iftira atması için sebebi olmayan yaralının anlatımına itibar etti.
+neden_1	Köpeğine sahip çıkmayan sanık, özen yükümlülüğüne aykırı davranmıştı.
+not_0	Köpeğinize sahip çıkmamak, taksirle yaralamadan ceza getirebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

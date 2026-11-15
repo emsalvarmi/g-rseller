@@ -122,10 +122,12 @@ Kullanıcının 01.11.2026 talimatı: Instagram'da daha önce yayınlanmış Ree
 | 2026-11-15 | 12:45 | 2026-11-14 18:15 | https://www.instagram.com/reel/DfugXL9Dkid/ | Y. 2. HD, 21.09.2026, E. 2026/2316, K. 2026/8305 | Düzenli geliri olan kadının nafakası (Reels) |
 
 
-| 2026-11-16 | 09:45 | 2026-11-14 21:15 | https://www.instagram.com/reel/Dfu0-YhFBw8/ | Y. 2. HD, 16.06.2026, E. 2026/915, K. 2026/6716 | Aşağılanan kadının boşanma davası, "köylüsün, cahilsin" (Reels) |
-| 2026-11-16 | 10:45 | 2026-11-15 09:15 | https://www.instagram.com/reel/DfwHWdFFAj-/ | Y. 2. HD, 16.06.2026, E. 2026/900, K. 2026/6711 | Tedbir nafakası dava tarihinden başlar (Reels) |
-| 2026-11-16 | 11:45 | 2026-11-15 12:15 | https://www.instagram.com/reel/Dfwb_ApD1wp/ | Y. 2. HD, 04.05.2026, E. 2025/8153, K. 2026/5024 | Kayınvalideye "hoş geldiniz" dememek, soyut tanık (Reels) |
-| 2026-11-16 | 12:45 | 2026-11-15 15:15 | https://www.instagram.com/reel/DfwwlzTldtY/ | Y. 2. HD, 11.02.2026, E. 2025/7219, K. 2026/1503 | Banka kasası, kamera kayıtları ve ziynet (Reels) |
-| 2026-11-16 | 13:45 | 2026-11-15 18:15 | https://www.instagram.com/reel/DfxFJozEWV3/ | Y. 2. HD, 04.05.2026, E. 2025/10359, K. 2026/5045 | Eşin kızı eve yerleşti, haklı ayrılma (Reels) |
+| 2026-11-16 | 09:45 | 2026-11-14 21:15 | https://www.instagram.com/reel/Dfu0-YhFBw8/ | Y. 2. HD, 16.06.2026, E. 2026/915, K. 2026/6716 | Aşağılanan kadının boşanma davası, "köylüsün, cahilsin" (Reels) — 15.11 talimatıyla TASLAĞA ALINDI, yayınlanmadı |
+| 2026-11-16 | 10:45 | 2026-11-15 09:15 | https://www.instagram.com/reel/DfwHWdFFAj-/ | Y. 2. HD, 16.06.2026, E. 2026/900, K. 2026/6711 | Tedbir nafakası dava tarihinden başlar (Reels) — 15.11 talimatıyla TASLAĞA ALINDI, yayınlanmadı |
+| 2026-11-16 | 11:45 | 2026-11-15 12:15 | https://www.instagram.com/reel/Dfwb_ApD1wp/ | Y. 2. HD, 04.05.2026, E. 2025/8153, K. 2026/5024 | Kayınvalideye "hoş geldiniz" dememek, soyut tanık (Reels) — 15.11 talimatıyla TASLAĞA ALINDI, yayınlanmadı |
+| 2026-11-16 | 12:45 | 2026-11-15 15:15 | https://www.instagram.com/reel/DfwwlzTldtY/ | Y. 2. HD, 11.02.2026, E. 2025/7219, K. 2026/1503 | Banka kasası, kamera kayıtları ve ziynet (Reels) — 15.11 talimatıyla TASLAĞA ALINDI, yayınlanmadı |
+| 2026-11-16 | 13:45 | 2026-11-15 18:15 | https://www.instagram.com/reel/DfxFJozEWV3/ | Y. 2. HD, 04.05.2026, E. 2025/10359, K. 2026/5045 | Eşin kızı eve yerleşti, haklı ayrılma (Reels) — 15.11 talimatıyla TASLAĞA ALINDI, yayınlanmadı |
 
 Sıradaki: Kuyruk 15.11 18:15 Reels'ine kadar tükendi (16.11 14:45–23:45 saatleri boş bırakıldı). Sıradaki aktarım: 15.11 21:15 Reels'i (E. 2025/7420, boşanma sonrası otel kayıtları), yayımlandıktan sonra; ardından 16.11'in Reels'leri.
+
+**15.11.2026'dan itibaren bu kuyruk DURDURULDU** (kullanıcı talimatı: X'te yalnızca günün 4 seslendirmeli ceza hukuku videosu ve 3 not).

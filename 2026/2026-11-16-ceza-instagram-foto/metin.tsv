@@ -1,0 +1,12 @@
+hook_0	Kendi hesabınızda paylaştığınız bir fotoğrafı, başkası paylaşabilir mi?
+hook_1	Bu dosya, beraat ile mahkûmiyet arasında gidip geldi.
+olay_0	Sanık, birinin kendi hesabında paylaştığı fotoğrafı ele geçirdi.
+olay_1	Fotoğrafı, rıza olmadan kendi Instagram hesabından paylaştı.
+itiraz_0	İlk derece mahkemesi hapis cezası verdi, istinaf ise beraate çevirdi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Paylaşmak serbest mi, suç mu?
+karar_0	Yargıtay beraati bozdu; sonunda verilen iki yıl bir ay hapis onandı.
+neden_0	Mahkemeye göre, kendi hesabında paylaşılan fotoğraf da kişisel veriydi.
+neden_1	Rıza olmadan paylaşılması, verileri hukuka aykırı olarak verme suçuydu.
+not_0	Paylaşılmış olması, fotoğrafın herkesin malı olduğu anlamına gelmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

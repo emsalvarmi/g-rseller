@@ -1,0 +1,13 @@
+hook_0	Boşanma davası için eşinin telefonuna program yükledi.
+hook_1	Konuşmaları kaydedip davaya delil olarak sundu.
+olay_0	Eşler arasında boşanma davası sürüyordu.
+olay_1	Şüphelilerden biri arayıp üç aydır dinlediğini söyleyince şikâyet geldi.
+itiraz_0	Savcılık, kovuşturmaya yer olmadığına karar verdi.
+itiraz_1	Gerekçe: kayıt davaya delil için alınmış, kimseye yayılmamıştı.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Delil toplamak mı, suç mu?
+karar_0	Yargıtay, itirazı reddeden kararı kanun yararına bozdu.
+neden_0	Konuşmalar, eşin bilgisi ve rızası dışında kayda alınmıştı.
+neden_1	Bunun suç olup olmadığını değerlendirmek mahkemeye aitti.
+not_0	Delil toplama amacı, rıza dışı dinlemede soruşturmayı tek başına bitirmez.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
