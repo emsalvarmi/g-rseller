@@ -150,3 +150,6 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-16 | 17:15 | Video | Yargıtay 12. CD, 24.11.2025, E. 2024/1491, K. 2025/8105 | CEZA: Eşin telefonunu dinleme, kanun yararına bozma (aynı video) (planlandı) |
 | 2026-11-16 | 19:15 | Not | Y. 12. CD, K. 2026/4565 | Tek fiille birden fazla kişiye karşı suçta zincirleme artırım TCK 43/2 yollamasıyla 43/1 (planlandı) |
 | 2026-11-16 | 21:15 | Video | YCGK, 10.06.2026, E. 2026/71, K. 2026/376 | CEZA: Sahte hesap ve tasarlama, oy çokluğu (aynı video) (planlandı) |
+| 2026-11-17 | 11:15 | Not | YCGK, 08.10.2025, K. 2025/391 | Aracını verip olay yerine birlikte gitmek: ortak hâkimiyet ispatlanamazsa müşterek faillik değil, yardım etme (TCK 39/2), oy çokluğu (planlandı) |
+| 2026-11-17 | 15:15 | Not | YCGK, 16.09.2026, K. 2026/485 | Silahla tehdit / öldürmeye teşebbüs ayrımının ölçütleri; somut olayda tehdit, oy çokluğu (planlandı) |
+| 2026-11-17 | 19:15 | Not | Y. 12. CD, 14.04.2025, K. 2025/3787 | Soruşturmada şikâyetçi olmadığını açıkça bildiren mağdurun kovuşturmada yeniden şikâyeti geçersiz; düşme (TCK 73) (planlandı) |

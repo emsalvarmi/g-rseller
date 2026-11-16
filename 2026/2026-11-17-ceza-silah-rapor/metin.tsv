@@ -1,0 +1,13 @@
+hook_0	Evinde bir tabanca bulundu ve mahkûm edildi.
+hook_1	Ama dosyadaki rapor, başka bir silaha aitti.
+olay_0	Mahkeme, bilirkişi raporuna dayanarak on ay hapis ve adli para cezası verdi.
+olay_1	Hükmün açıklanması geri bırakıldı; karar istinaf edilmeden kesinleşti.
+itiraz_0	Sonra anlaşıldı ki rapor, başka bir başsavcılığın dosyasından yanlışlıkla gelmişti.
+itiraz_1	Doğru rapora göre bu tabanca, yasak silahlardan değildi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Kesinleşen karar kalır mı, kalkar mı?
+karar_0	Yargıtay, Adalet Bakanlığının istemiyle kararı kanun yararına bozdu.
+neden_0	Yargıtay’a göre suçun unsurları oluşmamıştı.
+neden_1	Yargıtay, hükmün açıklanmasının geri bırakılması kararını doğrudan kaldırdı.
+not_0	Kesinleşmiş bir karar bile, kanun yararına bozma yoluyla düzeltilebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

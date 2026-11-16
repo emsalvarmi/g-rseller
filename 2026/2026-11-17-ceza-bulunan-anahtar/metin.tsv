@@ -1,0 +1,12 @@
+hook_0	Kaybolan bir iş yeri anahtarı, bir başkasının arabasında bulundu.
+hook_1	O anahtar, bir gün iş yerinin kapısını açtı.
+olay_0	Sanık, anahtarı aracında bulduğunu ve onunla kapıyı açıp eşyaları aldığını anlattı.
+olay_1	Kamera görüntüleri de kapının anahtarla açıldığını gösteriyordu.
+itiraz_0	Savunmaya göre zarar giderilmişti; etkin pişmanlık uygulanmalıydı, malın değeri de azdı.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Ceza indirilir mi, onanır mı?
+karar_0	Yargıtay, hırsızlıktan verilen hükmü onadı.
+neden_0	Savunmanın itirazları yerinde görülmedi.
+neden_1	Yargıtay'a göre bulunan anahtarla kapıyı açmak da ayrıca bir nitelikli hâldi.
+not_0	Bulunan bir anahtarla kapı açmak, hırsızlığı daha ağır hâle getirebilir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

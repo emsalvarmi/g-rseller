@@ -1,0 +1,12 @@
+hook_0	İnternetten, aylık kirayla bir telefon kiralandı.
+hook_1	Kira ödenmedi, telefon da geri verilmedi.
+olay_0	Firma, güveni kötüye kullanma suçundan şikâyetçi oldu.
+olay_1	Savcılık, olayın hukuki bir uyuşmazlık olduğunu söyleyip kovuşturmaya yer olmadığına karar verdi.
+itiraz_0	İtiraz da reddedildi; oysa şüpheli, telefonu vefat eden bir arkadaşı adına kiraladığını söylüyordu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Hukuk davası mı, soruşturma mı?
+karar_0	Yargıtay, itirazın reddi kararını kanun yararına bozdu.
+neden_0	Telefonu fiilen kimin kullandığı ve ihtarların tebliğ edilip edilmediği araştırılmamıştı.
+neden_1	Bu bozma bir suçluluk tespiti değil; eksik soruşturma tamamlanmalıydı.
+not_0	Hukuki uyuşmazlık demeden önce, savunmadaki iddialar araştırılmalıdır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
