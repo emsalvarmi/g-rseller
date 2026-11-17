@@ -1,0 +1,12 @@
+hook_0	Kiracı eve döndüğünde kapının kilidi değiştirilmişti.
+hook_1	Ev, bu arada başka birine kiralanmıştı.
+olay_0	Kiracı şikâyetçi oldu; tapuda pay sahibi biri de dairenin rızası dışında kiraya verildiğini söyledi.
+olay_1	Savcılık, suç oluşmadığını söyleyip kovuşturmaya yer olmadığına karar verdi.
+itiraz_0	İtiraz edildi; sulh ceza hâkimliği itirazı reddetti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Dosya kapanır mı, soruşturma genişler mi?
+karar_0	Yargıtay, itirazın reddi kararını kanun yararına bozdu.
+neden_0	Tapu kayıtları, evin kime ait olduğu ve hukuk ile icra dosyaları getirtilmemişti.
+neden_1	Bu bozma bir suçluluk tespiti değil; eksik soruşturma tamamlanmalıydı.
+not_0	Kilit değişti diye dosya kapanmaz; önce mülkiyet ve kullanım hakkı araştırılır.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

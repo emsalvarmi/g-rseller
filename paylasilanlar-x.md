@@ -157,3 +157,6 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-17 | 21:15 | Video | Yargıtay 11. CD, 23.02.2026, E. 2025/4722, K. 2026/1906 | CEZA: Kiralık telefon, kanun yararına bozma (aynı video) (planlandı) |
 | 2026-11-18 | 09:15 | Video | Yargıtay 8. CD, 11.12.2025, E. 2025/12194, K. 2025/10541 | CEZA: Başka silahın raporu, HAGB kaldırıldı (aynı video) (planlandı) |
 | 2026-11-18 | 13:15 | Video | Yargıtay 4. CD, 04.05.2026, E. 2024/12236, K. 2026/8234 | CEZA: WhatsApp ses kaydı, hakaret değil eleştiri (aynı video) (planlandı) |
+| 2026-11-18 | 11:15 | Not | Y. 11. CD, 16.09.2026, K. 2026/8016 | İstinaf, ilk derece mahkûmiyetini delilleri yeniden değerlendirerek dosya üzerinden beraat/düşmeye çeviremez; duruşma açılmalı (CMK 280/1-g), bozma, oy çokluğu (planlandı) |
+| 2026-11-18 | 15:15 | Not | Y. 2. CD, 23.06.2026, K. 2026/12171 | Duruşmaya gelmeyen, şikâyetçi olmayan, katılma talebi olmayan suçtan zarar görenin beraat hükmünü temyiz hakkı yok (CMK 298) (planlandı) |
+| 2026-11-18 | 19:15 | Not | Y. 7. CD, 17.06.2026, K. 2026/7140 | Orman Kanunu m. 93: ilk derece beraati istinafta kaldırıldı, 15 ay hapis ve yapıların müsaderesi; ruhsat savunmasına rağmen onama, oy birliği (planlandı) |

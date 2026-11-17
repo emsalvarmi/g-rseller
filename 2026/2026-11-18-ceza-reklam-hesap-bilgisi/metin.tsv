@@ -1,0 +1,12 @@
+hook_0	Biri, ünlü bir sosyal medya hesabıyla reklam ayarlayabileceğini söyledi.
+hook_1	Güven kazanmak için o kişinin adını ve hesabını paylaştı; para gönderildi.
+olay_0	İlk derece mahkemesi, verileri hukuka aykırı olarak verme suçundan hapis cezası verdi.
+olay_1	İstinaf ise bu bilgilerin zaten biliniyor olduğunu söyleyip beraat kararı verdi.
+itiraz_0	Hesap sahibinin vekili kararı temyiz etti.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Herkesin bildiği bilgi mi, kişisel veri mi?
+karar_0	Yargıtay, beraat kararını bozdu; dosya yeniden görülecek.
+neden_0	Ad ve sosyal medya hesap bilgisi kişisel veridir.
+neden_1	İkna için yetkisiz kişilere verilmesiyle suçun unsurları oluşur.
+not_0	Ad ve hesap bilgisi biliniyor olsa da kişisel veridir.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
