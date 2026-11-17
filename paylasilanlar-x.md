@@ -153,3 +153,7 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-17 | 11:15 | Not | YCGK, 08.10.2025, K. 2025/391 | Aracını verip olay yerine birlikte gitmek: ortak hâkimiyet ispatlanamazsa müşterek faillik değil, yardım etme (TCK 39/2), oy çokluğu (planlandı) |
 | 2026-11-17 | 15:15 | Not | YCGK, 16.09.2026, K. 2026/485 | Silahla tehdit / öldürmeye teşebbüs ayrımının ölçütleri; somut olayda tehdit, oy çokluğu (planlandı) |
 | 2026-11-17 | 19:15 | Not | Y. 12. CD, 14.04.2025, K. 2025/3787 | Soruşturmada şikâyetçi olmadığını açıkça bildiren mağdurun kovuşturmada yeniden şikâyeti geçersiz; düşme (TCK 73) (planlandı) |
+| 2026-11-17 | 17:15 | Video | Yargıtay 2. CD, 17.12.2025, E. 2023/26383, K. 2025/23328 | CEZA: Bulunan anahtarla hırsızlık (Instagram ile aynı seslendirmeli video) (planlandı) |
+| 2026-11-17 | 21:15 | Video | Yargıtay 11. CD, 23.02.2026, E. 2025/4722, K. 2026/1906 | CEZA: Kiralık telefon, kanun yararına bozma (aynı video) (planlandı) |
+| 2026-11-18 | 09:15 | Video | Yargıtay 8. CD, 11.12.2025, E. 2025/12194, K. 2025/10541 | CEZA: Başka silahın raporu, HAGB kaldırıldı (aynı video) (planlandı) |
+| 2026-11-18 | 13:15 | Video | Yargıtay 4. CD, 04.05.2026, E. 2024/12236, K. 2026/8234 | CEZA: WhatsApp ses kaydı, hakaret değil eleştiri (aynı video) (planlandı) |
