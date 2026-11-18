@@ -1,0 +1,23 @@
+@font-face{font-family:V;font-weight:400;src:url('file://__FONT__/Vazirmatn-Regular.ttf')}
+@font-face{font-family:V;font-weight:600;src:url('file://__FONT__/Vazirmatn-SemiBold.ttf')}
+@font-face{font-family:V;font-weight:900;src:url('file://__FONT__/Vazirmatn-Black.ttf')}
+*{margin:0;box-sizing:border-box}html{overflow:hidden}
+body{width:1080px;height:1350px;font-family:V;direction:rtl;background:#0A0C0F;color:#EEF0F3;position:relative;overflow:hidden;padding:110px 90px;display:flex;flex-direction:column}
+body:before{content:'';position:absolute;inset:0;background:radial-gradient(800px 600px at 90% 0%,#1b2029 0,transparent 70%)}
+body>*{position:relative}
+.lg{align-self:flex-start;font-weight:900;font-size:44px;background:#FFF8EC;color:#15171a;padding:8px 30px;border-radius:14px;border-bottom:7px solid #FF3B30;transform:rotate(-2deg)}
+.pg{position:absolute;left:90px;bottom:70px;font-size:30px;color:#6d7682;font-weight:600;direction:ltr}
+.hd{position:absolute;right:90px;bottom:70px;font-size:30px;color:#6d7682;font-weight:600;direction:ltr}
+h1{font-weight:900;font-size:104px;line-height:1.35}h1 span{color:#FF3B30}
+h2{font-weight:900;font-size:76px;line-height:1.45}h2 mark,h1 mark{background:#FFE14D;color:#15171a;padding:0 14px;border-radius:8px}
+p{font-size:46px;line-height:1.8;color:#C3CAD4;font-weight:400}p b{color:#fff}
+.tag{color:#FF3B30;font-weight:600;font-size:46px}
+.tr{direction:ltr;text-align:right;font-weight:900;font-size:190px;line-height:1.2;color:#FFE14D}
+.it{background:#14181e;border-right:10px solid #3DDC97;border-radius:18px;padding:26px 34px}
+.it b{font-weight:900;font-size:46px;display:block;line-height:1.5}.it small{font-size:36px;color:#aab2bd;line-height:1.6;display:block}
+.it.wr{border-right-color:#FF3B30}
+.sp{flex:1}.gap{height:50px}.col{display:flex;flex-direction:column;gap:22px}
+.cta{align-self:stretch;text-align:center;background:#FF3B30;color:#fff;font-weight:900;font-size:60px;padding:26px;border-radius:22px}
+.sl{font-weight:900;font-size:58px;color:#FFE14D;line-height:1.6;text-align:center}
+.foot{height:90px}
+bdi.tr-in{white-space:nowrap;color:#FFE14D}

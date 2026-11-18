@@ -187,3 +187,7 @@ Yazılar okunmadan geçmemeli. Motor her metnin ekranda kalma süresini kelime s
 ### Instagram açıklaması
 
 İlk satır anahtar kelimeli bir başlık (ör. "Boşanmada düğün altınları kimin? Yargıtay ne dedi?"), ardından 2–3 cümlelik özet, künye, izleyiciye soru, "Bu paylaşım genel bilgilendirme amaçlıdır." satırı ve en fazla 5 hashtag (konuya özgü 3 + #yargıtay #hukuk gibi 2 genel).
+
+## `farsi/` klasörü
+
+`farsi/` klasörü ve `medya-farsi` dalı başka bir sayfaya (`@torkiye_bedoone_tale`) aittir; kuralları `farsi/README.md` içindedir. @emsalvarmi görevleri bu klasöre ve o dala dokunmaz; Farsça sayfanın görevleri de bu deponun geri kalanına ve `medya` dalına dokunmaz.
