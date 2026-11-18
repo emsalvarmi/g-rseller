@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- |
 | 2026-11-18 | 13:45 | Post (3 görsel) | Sayfa tanıtımı | Yayımlandı: https://www.instagram.com/p/Df4Uo_vDW5F/ |
 | 2026-11-18 | 13:55 | Video | Yatırımla ikamet kararı (150 bin dolar / 3 yıl) | Yayımlandı: https://www.instagram.com/reel/Df4VveZj7-0/ |
+| 2026-11-18 | 23:02 | Post (7 görsel) | Yatırımla ikamet kararının SÖYLEMEDİĞİ 5 şey (plan dışı ek gönderi) | Planlandı |
 | 2026-11-19 | 09:00 | Post | Günün Kelimesi: İpotek | Planlandı |
 | 2026-11-19 | 12:30 | Video | Dolandırıcılık Dosyası 1: ipotekli tapu | Planlandı |
 | 2026-11-19 | 18:00 | Post (3 görsel) | Kontrol Listesi: ödeme öncesi 5 soru | Planlandı |
