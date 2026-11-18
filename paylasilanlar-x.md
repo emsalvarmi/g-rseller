@@ -160,3 +160,5 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-18 | 11:15 | Not | Y. 11. CD, 16.09.2026, K. 2026/8016 | İstinaf, ilk derece mahkûmiyetini delilleri yeniden değerlendirerek dosya üzerinden beraat/düşmeye çeviremez; duruşma açılmalı (CMK 280/1-g), bozma, oy çokluğu (planlandı) |
 | 2026-11-18 | 15:15 | Not | Y. 2. CD, 23.06.2026, K. 2026/12171 | Duruşmaya gelmeyen, şikâyetçi olmayan, katılma talebi olmayan suçtan zarar görenin beraat hükmünü temyiz hakkı yok (CMK 298) (planlandı) |
 | 2026-11-18 | 19:15 | Not | Y. 7. CD, 17.06.2026, K. 2026/7140 | Orman Kanunu m. 93: ilk derece beraati istinafta kaldırıldı, 15 ay hapis ve yapıların müsaderesi; ruhsat savunmasına rağmen onama, oy birliği (planlandı) |
+| 2026-11-18 | 21:15 | Video | Yargıtay 8. CD, 08.10.2026, E. 2025/14922, K. 2026/11178 | CEZA: Kilit değişti, kanun yararına bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-19 | 09:15 | Video | Yargıtay 12. CD, 22.06.2026, E. 2024/1724, K. 2026/6484 | CEZA: Hesap adı ve bilgisi kişisel veri (aynı video) (planlandı) |
