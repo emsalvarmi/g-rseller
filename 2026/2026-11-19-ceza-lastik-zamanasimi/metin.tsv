@@ -1,0 +1,12 @@
+hook_0	Aracınızın lastiği patladı; siz uğraşırken çantanız kayboldu.
+hook_1	Yıllar sonra dava düştü. Neden?
+olay_0	İddiaya göre birkaç kişi, gündüz bir iş yerinde aracın lastiğini patlattı.
+olay_1	Lastik yapılırken biri dikkat dağıttı, diğeri araçtaki para dolu çantayı aldı.
+itiraz_0	Yerel mahkeme hırsızlık ve mala zarar vermeden mahkûmiyet verdi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Ceza onanır mı, dava düşer mi?
+karar_0	Yargıtay, hükümleri bozdu ve davaları düşürdü.
+neden_0	Olay iki bin on üç yılındaydı; on iki yıllık olağanüstü zamanaşımı dolmuştu.
+neden_1	Düşme, ne suçluluk ne beraat tespitidir; dava esastan karara bağlanmadan biter.
+not_0	Ceza davasının da süresi vardır; zamanaşımı dolunca dava düşer.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

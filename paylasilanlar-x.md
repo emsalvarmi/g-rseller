@@ -162,3 +162,6 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-18 | 19:15 | Not | Y. 7. CD, 17.06.2026, K. 2026/7140 | Orman Kanunu m. 93: ilk derece beraati istinafta kaldırıldı, 15 ay hapis ve yapıların müsaderesi; ruhsat savunmasına rağmen onama, oy birliği (planlandı) |
 | 2026-11-18 | 21:15 | Video | Yargıtay 8. CD, 08.10.2026, E. 2025/14922, K. 2026/11178 | CEZA: Kilit değişti, kanun yararına bozma (Instagram ile aynı video) (planlandı) |
 | 2026-11-19 | 09:15 | Video | Yargıtay 12. CD, 22.06.2026, E. 2024/1724, K. 2026/6484 | CEZA: Hesap adı ve bilgisi kişisel veri (aynı video) (planlandı) |
+| 2026-11-19 | 11:15 | Not | Y. 6. CD, 27.04.2026, K. 2026/3556 | Israrlı takipten düşme sonrası aynı mağdura karşı tehditte uzlaştırma engeli kalkar (CMK 253/3); kanun yararına bozma, oy birliği (planlandı) |
+| 2026-11-19 | 15:15 | Not | Y. 12. CD, 13.04.2026, K. 2026/3664 | Hesaba sanığın IP adresinden bağlanılması tek başına yetmez; şifre kırılmış olabilir savunması, beraat onandı, oy birliği (planlandı) |
+| 2026-11-19 | 19:15 | Not | Y. 11. CD, 16.09.2026, K. 2026/8015 | Önceden doğan borç için verilen çekte dolandırıcılık unsuru oluşmaz; eksik araştırma, bozma, oy birliği (planlandı) |

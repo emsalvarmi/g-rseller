@@ -1,0 +1,12 @@
+hook_0	Mantar toplayan iki kişiye arılar saldırdı.
+hook_1	Biri hayatını kaybetti. Yakındaki arıcı sorumlu mu?
+olay_0	Olay yerine kırk metre uzakta, sanığa ait bir arı kovanı vardı.
+olay_1	Bilirkişiye göre arıcı, kovanların yerini değiştirirken uyarı amaçlı önlem almamıştı.
+itiraz_0	Ama çevrede başka kovanlar da vardı; bir arı beş kilometre gidebiliyordu.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Arıcı cezalandırılır mı, beraat mi eder?
+karar_0	İlk derece beraat verdi; Yargıtay bu kararı onadı.
+neden_0	Saldıran arıların kimin kovanlarından geldiği tespit edilemedi.
+neden_1	Önlem eksikliğiyle ölüm arasında bağ kurulamadı; şüphe sanık lehine yorumlandı.
+not_0	Ceza için kusur yetmez; kusurla sonuç arasındaki bağ da kanıtlanmalı.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.

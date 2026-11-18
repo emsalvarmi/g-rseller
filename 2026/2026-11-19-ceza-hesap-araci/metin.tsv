@@ -1,0 +1,13 @@
+hook_0	Hesabınıza yetmiş bin lira geliyor.
+hook_1	Para bir dolandırıcılıktan geliyorsa, suçlu siz misiniz?
+olay_0	Banka görevlisi gibi arayan biri, bir esnafın şifresini aldı.
+olay_1	Yetmiş bin lira bir mobilyacının hesabına geçti; o da otuz binini çekip dışarıdakilere verdi.
+itiraz_0	Savunması: Bu kişiler daha önce alışveriş yapmış, yeni sipariş vermişti.
+itiraz_1	İlk derece beraat verdi; istinaf üç yıl dört ay hapis verdi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Mobilyacı suç ortağı mı, yoksa kullanılan biri mi?
+karar_0	Yargıtay, hapis cezasını bozdu.
+neden_0	Kimliği belirsiz kişiler, önceki alışverişle güvenini kazanmıştı.
+neden_1	Suç işleme iradesi, şüpheden uzak kanıtlanamadı.
+not_0	Hesaba para gelmesi tek başına ortaklık değildir; kast kanıtlanmalı.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
