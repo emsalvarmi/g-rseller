@@ -2,7 +2,15 @@
 
 Bu depo @emsalvarmi Instagram hesabının gönderi görsellerini barındırır. Metricool görselleri buradaki `raw.githubusercontent.com` bağlantılarından alıp kendi sunucusuna kopyalar.
 
-## GÜNCEL PLAN — kullanıcının 15.11.2026 talimatı (aşağıdaki eski planların yerine geçer)
+## GÜNCEL PLAN — kullanıcının 19.11.2026 talimatı: "Kafede Hukuk" dizisi (20.11.2026'dan itibaren; aşağıdaki planların video kısmının yerine geçer)
+
+- **Video biçimi:** her gün 4 video (09:15, 13:15, 17:15, 21:15), aynı video aynı saatte Instagram Reels ve X'te. Biçim ve üretim: **`sablon/kafede/BENIOKU.md`** (iki çizim karakter Ayşe ve Mert, konuşma balonları, dosyanın yolculuğu şeridi + gün sayacı, Mert'in tahmin etiketi ve karnesi, kararın kalbi alıntısı, paylaşım saatine göre sahne).
+- **Seslendirme YOK.** Bu dizi için kullanıcı seslendirme istemedi; Mac'te seslendirme ve çift tıklama adımı artık gerekmez. Eski Karar Odası seslendirmeli şablonu ve "seslendirmesiz video paylaşılmaz" kuralı bu dizi için uygulanmaz.
+- **Konu:** ceza hukuku (15.11 talimatı sürüyor); oyunlaştırılmış biçim nedeniyle ölüm/ağır şiddet içeren olaylar seçilmez.
+- **Bölüm numarası ve Mert'in karnesi:** `kafede-hukuk.md` dosyasından devam eder.
+- **X notları:** günde 3 not (11:15, 15:15, 19:15) aynen sürer.
+
+## (ESKİ VİDEO KISMI) PLAN — kullanıcının 15.11.2026 talimatı (X notları ve konu kuralları geçerli)
 
 - **Konu:** yeni bir talimata kadar YALNIZCA **ceza hukuku**: ilgi çekici, öğretici kararlar (Yargıtay ceza daireleri, Ceza Genel Kurulu, bölge adliye ceza daireleri). Aile hukuku ve SPK/manipülasyon/fon konuları askıda.
 - **Video:** her gün **4 seslendirmeli video — 09:15, 13:15, 17:15, 21:15.** Aynı video aynı saatte hem Instagram Reels hem X'te paylaşılır. X'te tek tweet: soru + "Yargıtay ne dedi? 🎬" (Ceza Genel Kurulu için "Yargıtay Ceza Genel Kurulu ne dedi? 🎬") + boş satır + kısa künye + boş satır + 2 etiket (ör. `#cezahukuku #tasarlama`); ≤ 280 karakter.
