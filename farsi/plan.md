@@ -30,13 +30,13 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Elden ödeme ve tapuda düşük bedel gösterme — 19.11.2026
 - [ ] İskânsız, kat irtifaklı daire
 - [ ] Hisseli tapu
-- [ ] Sahte ikamet danışmanı ("ikamet garantili")
+- [x] Sahte ikamet danışmanı ("ikamet garantili") — 20.11.2026
 - [ ] Genel vekâletnamenin kötüye kullanılması
 - [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi"
 - [ ] Bitmemiş projeden "garantili kira" vaadi
 - [ ] Geri verilmeyen kira depozitosu
 - [ ] Kira sözleşmesi olmadan ev tutmak
-- [ ] Sahte ilanla kapora toplama (ev görülmeden para)
+- [x] Sahte ilanla kapora toplama (ev görülmeden para) — 20.11.2026
 - [ ] İkinci el araç alımında noter dışı ödeme
 - [ ] "Pasaport garantisi" vaadi
 - [ ] Banka hesabı açtırma karşılığı para isteyen aracılar
