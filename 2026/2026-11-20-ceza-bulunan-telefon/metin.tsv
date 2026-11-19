@@ -1,0 +1,13 @@
+hook_0	Yerde bir telefon buldunuz.
+hook_1	Kendi hattınızı taktınız. Hırsız siz misiniz?
+olay_0	Bir kafede, asılı çantadan telefon ve cüzdan çalındı.
+olay_1	Ertesi sabah telefon, başka birinin hattıyla kullanıldı.
+itiraz_0	Savunması: Telefonu bir bankın yanında, yerde buldum.
+itiraz_1	Yargıtay dairesi hırsızlık dedi; yerel mahkeme direndi.
+soru_0	Siz hâkim olsaydınız?
+soru_1	Hırsızlık mı, bulunan eşyayı sahiplenmek mi?
+karar_0	Ceza Genel Kurulu: Bu, hırsızlık değil.
+neden_0	Çalma anına dair kamera ya da tanık yoktu; cüzdan da onda çıkmadı.
+neden_1	Hırsızın attığı telefon kaybolmuş eşyaydı; suç, kaybolmuş eşya üzerinde tasarruftu.
+not_0	Bulduğunuzu sahibine ya da yetkililere bildirin; kendiniz kullanmak da suçtur.
+kapanis_0	Emsal var mı? Kararı bil, hakkını bil.
