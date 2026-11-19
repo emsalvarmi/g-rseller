@@ -61,8 +61,8 @@ def build_timeline(spec):
         if k == "in":
             n += 1
             rid = f"m{n}"
-            rows.append({"kind": "typing", "a": t, "b": t + 0.9})
-            t += 0.9
+            rows.append({"kind": "typing", "a": t, "b": t + 0.8})
+            t += 0.8
             rows.append({"kind": "in", "id": rid, "t": t, "x": ev["text"], "m": ev.get("time", ""), "ty": 1})
             snd.append((t, "pop_in", 0.35))
             last_in = rid
@@ -77,10 +77,10 @@ def build_timeline(spec):
             if last_in is None:
                 raise SystemExit("flag olayından önce en az bir 'in' mesajı olmalı")
             _, d = tts(ev["voice"])
-            a, b = t, t + 0.4 + d + 0.8
+            a, b = t, t + 0.4 + d + 0.6
             flags.append({"a": a, "b": b, "id": last_in, "k": ev["k"], "h": ev["h"], "p": ev["p"]})
             snd += [(a, "hit", 0.55), (a + 0.4, "voice", ev["voice"])]
-            t = b + 0.4
+            t = b + 0.3
         elif k == "skip":
             n += 1
             skips.append({"a": t, "b": t + 1.6, "big": ev["big"], "small": ev.get("small", "")})

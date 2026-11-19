@@ -28,9 +28,9 @@ python3 farsi/video/ph.py <spec.json>                # okunuş kontrolü (aşağ
 python3 farsi/video/make_video.py <spec.json> <çıktı-klasörü>
 ```
 
-Çıktı: `reel.mp4` (1080×1920, sesli), `kapak.jpg`, kontrol kareleri (`kare_uyari.jpg`, `kare_ozet.jpg`, `kare_kapanis.jpg`). Yayından önce kontrol karelerine **bakın** (taşma, kesilme, boş alan) ve `ffprobe` ile ses akışını doğrulayın. Hedef süre 55–75 sn; uzarsa bir mesaj ya da bir özet maddesi çıkarın.
+Çıktı: `reel.mp4` (1080×1920, sesli), `kapak.jpg`, kontrol kareleri (`kare_uyari.jpg`, `kare_ozet.jpg`, `kare_kapanis.jpg`). Yayından önce kontrol karelerine **bakın** (taşma, kesilme, boş alan) ve `ffprobe` ile ses akışını doğrulayın. Hedef süre 50–65 sn (rahat okunur ve dinlenir, ama oyalanmaz); 65 sn'yi geçerse bir mesaj ya da bir özet maddesi çıkarın.
 
-Örnek spec: `farsi/2026/2026-11-21-sahte-tercuman/spec.json`. Alanlar:
+Örnek spec'ler: `farsi/2026/2026-11-19-sahte-tercuman/spec.json`, `farsi/2026/2026-11-19-elden-odeme/spec.json`. Alanlar:
 
 - `contact`: sohbetteki karşı taraf (`name`, `initial`, `grad` iki renk).
 - `intro`: `tag` (ör. «پرونده کلاهبرداری · ۴»), `h1` (2–3 kısa satır, vurgulanan kelime `<span>` içinde), `note`, `voice` (en fazla ~5 sn).
