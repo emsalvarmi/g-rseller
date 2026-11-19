@@ -2,20 +2,22 @@
 
 Bu depo @emsalvarmi Instagram hesabının gönderi görsellerini barındırır. Metricool görselleri buradaki `raw.githubusercontent.com` bağlantılarından alıp kendi sunucusuna kopyalar.
 
-## GÜNCEL PLAN — kullanıcının 19.11.2026 talimatı: "Kafede Hukuk" dizisi (20.11.2026'dan itibaren; aşağıdaki planların video kısmının yerine geçer)
+## GÜNCEL PLAN — kullanıcının 19.11.2026 ve 20.11.2026 talimatları: "Kafede Hukuk" dizisi (20.11.2026'dan itibaren; aşağıdaki planların yerine geçer)
+
+**20.11.2026 00:02 talimatı: "Bundan sonraki bütün paylaşımlarımızı bu formatta yapacağız." @emsalvarmi'nin bütün paylaşımları Kafede Hukuk bölümleridir; X'te ayrıca metin notu YOK.**
 
 - **Video biçimi:** her gün 4 video (09:15, 13:15, 17:15, 21:15), aynı video aynı saatte Instagram Reels ve X'te. Biçim ve üretim: **`sablon/kafede/BENIOKU.md`** (iki çizim karakter Ayşe ve Mert, konuşma balonları, dosyanın yolculuğu şeridi + gün sayacı, Mert'in tahmin etiketi ve karnesi, kararın kalbi alıntısı, paylaşım saatine göre sahne).
 - **Seslendirme YOK.** Bu dizi için kullanıcı seslendirme istemedi; Mac'te seslendirme ve çift tıklama adımı artık gerekmez. Eski Karar Odası seslendirmeli şablonu ve "seslendirmesiz video paylaşılmaz" kuralı bu dizi için uygulanmaz.
 - **Konu:** ceza hukuku (15.11 talimatı sürüyor); oyunlaştırılmış biçim nedeniyle ölüm/ağır şiddet içeren olaylar seçilmez.
 - **Bölüm numarası ve Mert'in karnesi:** `kafede-hukuk.md` dosyasından devam eder.
-- **X notları:** günde 3 not (11:15, 15:15, 19:15) aynen sürer.
+- **X notları KALDIRILDI (20.11.2026 talimatı):** 11:15, 15:15, 19:15 notları artık yazılmaz. X'te yalnızca 4 Kafede Hukuk videosu paylaşılır. 20.11 için önceden planlanmış 3 not Metricool'da taslağa alındı (silinmedi).
 
-## (ESKİ VİDEO KISMI) PLAN — kullanıcının 15.11.2026 talimatı (X notları ve konu kuralları geçerli)
+## (ESKİ) PLAN — kullanıcının 15.11.2026 talimatı (yalnızca konu ve ceza hukuku hassasiyeti kuralları geçerli; video biçimi ve X notları geçersiz)
 
 - **Konu:** yeni bir talimata kadar YALNIZCA **ceza hukuku**: ilgi çekici, öğretici kararlar (Yargıtay ceza daireleri, Ceza Genel Kurulu, bölge adliye ceza daireleri). Aile hukuku ve SPK/manipülasyon/fon konuları askıda.
 - **Video:** her gün **4 seslendirmeli video — 09:15, 13:15, 17:15, 21:15.** Aynı video aynı saatte hem Instagram Reels hem X'te paylaşılır. X'te tek tweet: soru + "Yargıtay ne dedi? 🎬" (Ceza Genel Kurulu için "Yargıtay Ceza Genel Kurulu ne dedi? 🎬") + boş satır + kısa künye + boş satır + 2 etiket (ör. `#cezahukuku #tasarlama`); ≤ 280 karakter.
 - **Seslendirmesiz video ASLA paylaşılmaz.** Eski sessiz şablon (`sablon/video`) kullanılmaz. Seslendirme gelmezse o saat boş kalır ve kullanıcıya bildirilir. Mac'teki otomatik başlatma (LaunchAgent) çalışmazsa kullanıcıdan Karar Odası klasöründeki `seslendir_gemini.applescript` dosyasına çift tıklaması istenir.
-- **X notları:** günde 3 tek tweetlik ceza hukuku notu — 11:15, 15:15, 19:15 (videolardan farklı bir hukuki nokta, kısa künye, 2 etiket, bağlantı yok).
+- ~~**X notları:** günde 3 tek tweetlik ceza hukuku notu — 11:15, 15:15, 19:15.~~ (20.11.2026 talimatıyla kaldırıldı.)
 - **Durdurulanlar:** X karar zincirleri, Pazar bülteni, eski Instagram Reels'lerinin X'e saatte bir aktarılması (`x-video-kuyrugu.md`), "Sizce?" gönderileri.
 - **Ceza hukuku hassasiyeti:** kişi, şirket, kullanıcı adı, yer adı gibi kimlik belirleyici bilgi yok; masumiyet karinesi (kesinleşmemiş ya da bozulmuş kararlarda "suçlu" denmez; kanun yararına bozma ve usul kararlarında bunun suçluluk anlamına gelmediği belirtilir); şiddet ayrıntısı, cinsel içerik, çocuklara karşı cinsel suçlar ve kamuoyunda devam eden davalar yok; siyasi yorum yok; avukatlık reklam yasağı aynen geçerli. Künyede oy birliği/çokluğu yalnızca karar metninde yazıyorsa belirtilir.
 - **Instagram:** REEL, `isAiGenerated: true`; açıklama aşağıdaki biçimde, sonunda "Seslendirme sentetik sestir."; en fazla 5 hashtag (`#cezahukuku` dahil).
