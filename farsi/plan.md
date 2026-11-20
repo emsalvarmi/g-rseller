@@ -28,22 +28,31 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Aynı dairenin birden fazla kişiye satılması — 20.11.2026
 - [x] Satıcının getirdiği tercüman, yetki belgesi göstermeyen emlakçı — 19.11.2026
 - [x] Elden ödeme ve tapuda düşük bedel gösterme — 19.11.2026
-- [ ] İskânsız, kat irtifaklı daire
+- [x] İskânsız, kat irtifaklı daire — 21.11.2026
 - [ ] Hisseli tapu
 - [x] Sahte ikamet danışmanı ("ikamet garantili") — 20.11.2026
 - [ ] Genel vekâletnamenin kötüye kullanılması
 - [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi"
 - [ ] Bitmemiş projeden "garantili kira" vaadi
-- [ ] Geri verilmeyen kira depozitosu
+- [x] Geri verilmeyen kira depozitosu — 21.11.2026
 - [ ] Kira sözleşmesi olmadan ev tutmak
 - [x] Sahte ilanla kapora toplama (ev görülmeden para) — 20.11.2026
 - [ ] İkinci el araç alımında noter dışı ödeme
 - [ ] "Pasaport garantisi" vaadi
 - [ ] Banka hesabı açtırma karşılığı para isteyen aracılar
-- [ ] Sahte dekont / "parayı gönderdim" ekran görüntüsü
+- [x] Sahte dekont / "parayı gönderdim" ekran görüntüsü — 21.11.2026
+- [ ] Tapu randevusundan önce istenen "işlem masrafı / harç avansı" (aracıya elden)
+- [ ] Kiracının adına açtırılmayan abonelikler (elektrik, su, doğal gaz eski kiracının üstünde)
+- [ ] Sahte iş teklifi: "çalışma izni bizden" diyerek para isteyen aracı
+- [ ] Ev sahibinin sözleşme dışı, elden ve makbuzsuz kira artışı istemesi
+- [ ] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
+
+## 09:00 postu dönüşümü
+
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. Sıradaki: 22.11 Günün Kelimesi → 23.11 Doğru mu Yanlış mı → 24.11 Nereye Gidilir.
 
 ## Günün Kelimesi kuyruğu
 
