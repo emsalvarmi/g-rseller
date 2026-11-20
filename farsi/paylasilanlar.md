@@ -24,3 +24,4 @@
 ## Hazır ama henüz paylaşılmadı
 
 - (yok)
+- Tanıtım videosu (UGC tarzı, canlandırma; kullanıcı reklam için istedi, 20.11.2026): `2026/2026-11-20-tanitim-ugc/spec.json`. Kullanıcı istemeden planlamayın.
