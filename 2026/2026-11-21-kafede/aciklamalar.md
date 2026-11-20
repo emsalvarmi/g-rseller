@@ -1,5 +1,6 @@
-# Kafede Hukuk — 21.11.2026 açıklamaları
-Videolar: `medya` dalında `kafede-20261121-b5..b8/` (reel.mp4, kapak.jpg); Metricool kopyaları static.metricool.com'da. Sahne verisi: `bolumler.py`. Motor: `sablon/kafede/kafede.py`.
+# Kafede Hukuk — 21.11.2026 açıklamaları (KISA + SESLİ biçim)
+Videolar: `medya` dalında `kisa-20261121-b5..b8/` (reel.mp4, kapak.jpg); Metricool kopyaları static.metricool.com'da. Karar verisi: `bolumler.py`; kısa diyalog ve seslendirme metni: `kisa.py`. Motor: `sablon/kafede/kafede_kisa.py`.
+Not: 20.11 akşam görevi bu dört bölümü eski uzun/sessiz biçimde üretip planlamıştı; kullanıcının 21.11 00:38 talimatıyla kısa/sesli biçimde yeniden üretildi, eski gönderiler Metricool'da taslağa alındı (silinmedi).
 
 ## Bölüm 5 — 09:15 (b5)
 
@@ -8,7 +9,7 @@ Videolar: `medya` dalında `kafede-20261121-b5..b8/` (reel.mp4, kapak.jpg); Metr
 ```
 Apartman yönetimi değişti, eski dönemin defterleri teslim edilmedi: Güveni kötüye kullanma mı, başka bir suç mu? Yargıtay ne dedi?
 
-Kafede Hukuk · Bölüm 5
+Kafede Hukuk · Bölüm 5 · Gerçek dava, Mert tahmin ediyor 🎧
 
 Bir apartmanda yeni seçilen yönetim, eski döneme ait karar defteri ile harcama belgelerini noter kanalıyla da istedi; iddiaya göre eski yönetim kurulu başkanı ve yardımcısı bunları teslim etmedi. Savunmalarına göre apartmana hırsız girmiş, defter ve belgeler odadan çalınmıştı; dosyada 25.06.2014 tarihli bir hırsızlık müracaat tutanağı da vardı. İlk derece mahkemesi hizmet nedeniyle güveni kötüye kullanmadan mahkûmiyet kararı verdi.
 
@@ -18,7 +19,7 @@ Mert'in karnesi: 2 doğru · 3 yanlış. Siz ne tahmin etmiştiniz? Yorumlara ya
 
 Yargıtay 11. Ceza Dairesi, 09.06.2026, E. 2021/36601, K. 2026/6232 (oy birliği).
 
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir. Seslendirme sentetik sestir.
 
 #cezahukuku #kafedehukuku #apartman #yargıtay #hukuk
 ```
@@ -42,7 +43,7 @@ Y. 11. CD, 09.06.2026, E. 2021/36601, K. 2026/6232
 ```
 Muhasebeci işten ayrıldı, kasada açık olduğu iddia edildi: Ceza alır mı? Yargıtay ne dedi?
 
-Kafede Hukuk · Bölüm 6
+Kafede Hukuk · Bölüm 6 · Gerçek dava, Mert tahmin ediyor 🎧
 
 Bir hukuk bürosunda muhasebe ve finans işlerinden sorumlu çalışan 08.02.2007'de işten ayrıldı. Ardından yapılan kontrolde; bir çalışanın hesabına yanlışlıkla yatırılan 530 YTL'nin elden geri alınıp kasaya kaydedilmediği, fazladan yatırılan 900 YTL'nin iade edilmesine rağmen kasa defterine işlenmediği ve belgesi bulunmayan 3.203 YTL'lik harcama çıkışı olduğu iddia edildi. Sanık hakkında hizmet nedeniyle güveni kötüye kullanmadan dava açıldı.
 
@@ -52,7 +53,7 @@ Mert'in karnesi: 3 doğru · 3 yanlış. Siz ne tahmin etmiştiniz? Yorumlara ya
 
 Yargıtay 15. Ceza Dairesi, 18.04.2018, E. 2015/969, K. 2018/2750 (oy birliği).
 
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir. Seslendirme sentetik sestir.
 
 #cezahukuku #kafedehukuku #beraat #yargıtay #hukuk
 ```
@@ -76,7 +77,7 @@ Y. 15. CD, 18.04.2018, E. 2015/969, K. 2018/2750
 ```
 Hesabınızda para yok ama ATM para veriyor: Çekmek suç mu? Yargıtay ne dedi?
 
-Kafede Hukuk · Bölüm 7
+Kafede Hukuk · Bölüm 7 · Gerçek dava, Mert tahmin ediyor 🎧
 
 Bankanın bilgisayar yazılımında oluşan hata sonucu, hesabında para bulunmayan bir kişi 14.01.2014 - 18.01.2014 tarihleri arasında bankanın ATM'sinden değişik zamanlarda birden fazla kez toplam 56.000 TL çekti. Bozma üzerine yeniden yargılama yapan ilk derece mahkemesi, "kaybolmuş veya hata sonucu ele geçmiş eşya üzerinde tasarruf" suçundan mahkûmiyet kararı verdi.
 
@@ -86,7 +87,7 @@ Mert'in karnesi: 4 doğru · 3 yanlış. Siz ne tahmin etmiştiniz? Yorumlara ya
 
 Yargıtay 2. Ceza Dairesi, 03.06.2025, E. 2023/28153, K. 2025/10970 (oy birliği).
 
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir. Seslendirme sentetik sestir.
 
 #cezahukuku #kafedehukuku #banka #yargıtay #hukuk
 ```
@@ -110,7 +111,7 @@ Y. 2. CD, 03.06.2025, E. 2023/28153, K. 2025/10970
 ```
 5 liralık taklit bir oyuncak için 12 yıla yakın süren dava: Sonunda ne oldu? Yargıtay Ceza Genel Kurulu ne dedi?
 
-Kafede Hukuk · Bölüm 8
+Kafede Hukuk · Bölüm 8 · Gerçek dava, Mert tahmin ediyor 🎧
 
 Bir marka sahibi şirket, bir marketten 5 TL'lik oyuncak aldığını belirterek fiş ve fotoğrafla şikâyetçi oldu. Sulh ceza kararıyla yapılan aramada rafların altında tek bir taklit oyuncak bulundu; market sahibi oyuncağın oraya nasıl geldiğini bilmediğini, satmadığını savundu. İlk derece mahkemesi marka hakkına tecavüzden 10 ay hapis verdi (hüküm 2022'de açıklandı); bölge adliye mahkemesi beraat kararı verdi. Yargıtay 7. Ceza Dairesi oy çokluğuyla bozdu, bölge adliye mahkemesi beraatte direndi.
 
@@ -120,7 +121,7 @@ Mert'in karnesi: 4 doğru · 4 yanlış. Siz ne tahmin etmiştiniz? Yorumlara ya
 
 Yargıtay Ceza Genel Kurulu, 18.06.2025, E. 2024/381, K. 2025/259 (arama yönünden oy birliği, suçun sabit olup olmadığı yönünden oy çokluğu).
 
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş değildir. Her somut olay kendi koşulları içinde değerlendirilmelidir. Karakterler temsilîdir; dosyanın tarafları değildir. Seslendirme sentetik sestir.
 
 #cezahukuku #kafedehukuku #cezagenelkurulu #yargıtay #hukuk
 ```

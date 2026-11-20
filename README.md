@@ -2,15 +2,24 @@
 
 Bu depo @emsalvarmi Instagram hesabının gönderi görsellerini barındırır. Metricool görselleri buradaki `raw.githubusercontent.com` bağlantılarından alıp kendi sunucusuna kopyalar.
 
-## GÜNCEL PLAN — kullanıcının 19.11.2026 ve 20.11.2026 talimatları: "Kafede Hukuk" dizisi (20.11.2026'dan itibaren; aşağıdaki planların yerine geçer)
+## GÜNCEL PLAN — kullanıcının 21.11.2026 talimatı: "Kafede Hukuk" KISA ve SESLİ biçim (21.11.2026 09:15'ten itibaren)
+
+**21.11.2026 00:38 talimatı: "Yarın sabahtan itibaren yeni biçimle paylaşım yapalım."** Yeni biçim (ayrıntı: **`sablon/kafede/BENIOKU.md`**, motor `sablon/kafede/kafede_kisa.py`):
+- **Durumla açılış:** ilk kareden itibaren "GERÇEK DAVA" kartı + kısa durum + soru. Mahkeme kararı sonda sürpriz.
+- **25–35 sn**, Ayşe ve Mert **iki ayrı sesle** konuşur (Mac'te Gemini: Ayşe = Sulafat, Mert = Puck); balonlar ekranda kalır.
+- Mert'in tahmini erken gelir; karar mührü; kapanışta karne + künye + uyarılar. Kararın kalbi alıntısı videoda yok.
+- **SES GELMEZSE O SAAT BOŞ KALIR** (kullanıcının 21.11.2026 tercihi): sessiz yedek video paylaşılmaz; kullanıcıya hangi saatlerin boş kaldığı bildirilir.
+- Her gün 4 video (09:15, 13:15, 17:15, 21:15), aynı video aynı saatte Instagram Reels ve X'te. X'te ayrıca metin notu YOK (20.11.2026 talimatı).
+- **Konu:** ceza hukuku; "bunu bir arkadaşına gönderir mi?" testine uyan, günlük hayattan, sonucu ters köşe kararlar. Ölüm/ağır şiddet, cinsel içerik, çocuklar, süren davalar, siyaset yok.
+- **Bölüm numarası ve Mert'in karnesi:** `kafede-hukuk.md` dosyasından devam eder.
+- Seslendirme akışı: `kisa.py` → `metin.tsv` (Mac'te `/Users/batinyilmaz/Movies/KararOdasi/`), `seslendir_istek.txt`; otomatik başlatma çoğu zaman çalışmadığı için kullanıcıdan `seslendir_gemini.applescript` dosyasına çift tıklaması istenir. `gemini_anahtar.txt` ASLA okunmaz.
+
+### (ÖNCEKİ) 19–20.11.2026: Kafede Hukuk uzun ve seslendirmesiz biçim (20.11'de yayımlandı; artık kullanılmıyor)
 
 **20.11.2026 00:02 talimatı: "Bundan sonraki bütün paylaşımlarımızı bu formatta yapacağız." @emsalvarmi'nin bütün paylaşımları Kafede Hukuk bölümleridir; X'te ayrıca metin notu YOK.**
 
-- **Video biçimi:** her gün 4 video (09:15, 13:15, 17:15, 21:15), aynı video aynı saatte Instagram Reels ve X'te. Biçim ve üretim: **`sablon/kafede/BENIOKU.md`** (iki çizim karakter Ayşe ve Mert, konuşma balonları, dosyanın yolculuğu şeridi + gün sayacı, Mert'in tahmin etiketi ve karnesi, kararın kalbi alıntısı, paylaşım saatine göre sahne).
-- **Seslendirme YOK.** Bu dizi için kullanıcı seslendirme istemedi; Mac'te seslendirme ve çift tıklama adımı artık gerekmez. Eski Karar Odası seslendirmeli şablonu ve "seslendirmesiz video paylaşılmaz" kuralı bu dizi için uygulanmaz.
-- **Konu:** ceza hukuku (15.11 talimatı sürüyor); oyunlaştırılmış biçim nedeniyle ölüm/ağır şiddet içeren olaylar seçilmez.
-- **Bölüm numarası ve Mert'in karnesi:** `kafede-hukuk.md` dosyasından devam eder.
-- **X notları KALDIRILDI (20.11.2026 talimatı):** 11:15, 15:15, 19:15 notları artık yazılmaz. X'te yalnızca 4 Kafede Hukuk videosu paylaşılır. 20.11 için önceden planlanmış 3 not Metricool'da taslağa alındı (silinmedi).
+- **Video biçimi (eski):** 45–60 sn, seslendirmesiz, kararın kalbi alıntılı (`sablon/kafede/kafede.py`).
+- **X notları KALDIRILDI (20.11.2026 talimatı):** 11:15, 15:15, 19:15 notları artık yazılmaz. 20.11 için önceden planlanmış 3 not Metricool'da taslağa alındı (silinmedi).
 
 ## (ESKİ) PLAN — kullanıcının 15.11.2026 talimatı (yalnızca konu ve ceza hukuku hassasiyeti kuralları geçerli; video biçimi ve X notları geçersiz)
 

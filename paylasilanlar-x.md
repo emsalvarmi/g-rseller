@@ -176,3 +176,5 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-21 | 13:15 | Video | Yargıtay 15. CD, 18.04.2018, E. 2015/969, K. 2018/2750 | CEZA: KAFEDE HUKUK Bölüm 6: büro muhasebecisi, beraat onandı (Instagram ile aynı video) (planlandı) |
 | 2026-11-21 | 17:15 | Video | Yargıtay 2. CD, 03.06.2025, E. 2023/28153, K. 2025/10970 | CEZA: KAFEDE HUKUK Bölüm 7: ATM yazılım hatası, TCK 160, bozma (Instagram ile aynı video) (planlandı) |
 | 2026-11-21 | 21:15 | Video | YCGK, 18.06.2025, E. 2024/381, K. 2025/259 | CEZA: KAFEDE HUKUK Bölüm 8: taklit oyuncak, hukuka aykırı arama, beraat onandı (Instagram ile aynı video) (planlandı) |
+
+- 21.11.2026: Bölüm 5–8 X gönderileri yeni kısa/sesli videolarla yeniden planlandı (09:15, 13:15, 17:15, 21:15); eski biçimdeki X gönderileri taslağa alındı.
