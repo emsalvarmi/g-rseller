@@ -1,0 +1,136 @@
+"""Kafede Hukuk bölümleri — 21.11.2026 (Bölüm 5–8). Her bölüm tek bir Yargıtay kararının tam metninden hazırlanır.
+duraklar: (etiket1, etiket2, tarih, olaydan_bu_yana_gun|None, renk)
+diyalog:  (konuşan A=Ayşe/B=Mert, metin, durak_indeksi|None, 'tahmin'|'sonuc'|None)
+Gün sayıları Python ile hesaplandı (datetime.date farkı).
+"""
+
+BOLUMLER = {
+    'b5_apartman': dict(
+        no=5, saat='sabah',
+        soru=['Apartman yönetimi değişti,', 'defterler teslim edilmedi.', 'Suç ne?'],
+        duraklar=[('TUTANAK', '"HIRSIZ GİRDİ"', '25.06.2014', 0, 'gri'),
+                  ('MAHKÛMİYET', 'İLK DERECE', '2020', None, 'kirmizi'),
+                  ('BOZMA', 'YARGITAY', '09.06.2026', 4367, 'altin')],
+        diyalog=[
+            ('A', 'Bir apartmanda yönetim değişiyor. Yeni yönetici eski dönemin defterlerini istiyor.', None, None),
+            ('A', 'Karar defteri, harcama belgeleri… Noter kanalıyla da istiyor.', None, None),
+            ('B', 'Eski yönetim vermemiş mi?', None, None),
+            ('A', 'İddiaya göre vermemiş. Eski başkan ve yardımcısı yargılandı.', None, None),
+            ('A', 'Savunmaları: Apartmana hırsız girdi, defterler odadan çalındı. Dosyada hırsızlık tutanağı da var.', 0, None),
+            ('A', 'İlk derece mahkemesi hizmet nedeniyle güveni kötüye kullanmadan mahkûmiyet verdi.', 1, None),
+            ('B', 'Bence doğru. Emanet edilen şeyi vermemişler; ceza onanır.', None, 'tahmin'),
+            ('A', 'Yargıtay hükmü bozdu.', 2, 'sonuc'),
+            ('A', 'Ona göre defterleri vermemek, iddia edildiği gibiyse başka bir suç: özel belgeyi gizlemek.', None, None),
+            ('A', 'Üstelik "hırsız girdi" savunması ve tutanak kararda hiç tartışılmamış.', None, None),
+            ('B', 'Yani yanlış suçtan ceza, savunma da cevapsız.', None, None),
+            ('A', 'Aynen. Bozma kimin haklı olduğunu söylemiyor; dosya yeniden görülecek.', None, None),
+        ],
+        tahmin='CEZA ONANIR', dogru=False,
+        kalp_metin=('… sanıkların yeni seçilen apartman yönetimine defter ve belgeleri teslim etmeme eyleminin 5237 sayılı '
+                    'Kanun\'un 208 inci maddesinde düzenlenen "özel belgeyi bozmak, yok etmek veya gizlemek" suçunu '
+                    'oluşturduğu gözetilmeksizin sanıklar hakkında hizmet nedeniyle güveni kötüye kullanma suçundan '
+                    'hüküm kurulması …'),
+        kalp_vurgu='"özel belgeyi bozmak, yok etmek veya gizlemek" suçunu oluşturduğu gözetilmeksizin',
+        kalp_kaynak='Yargıtay 11. Ceza Dairesi · 09.06.2026 · gerekçeden birebir',
+        kalp_not='Bozma suçluluk ya da masumiyet tespiti değildir.',
+        karne_baslik='Verilmeyen defterler', karne_tahmin='Ceza onanır', karne_sonuc='Bozma: başka suç + savunma',
+        toplam_dogru=2, toplam_yanlis=3,
+        kunyeler=['Yargıtay 11. CD · 09.06.2026 · E. 2021/36601 · K. 2026/6232'],
+    ),
+    'b6_buro': dict(
+        no=6, saat='ogle',
+        soru=['Muhasebeci işten ayrıldı,', 'kasada açık iddiası çıktı.', 'Ceza alır mı?'],
+        duraklar=[('KONTROL', 'İŞTEN AYRILIŞ', '08.02.2007', 0, 'gri'),
+                  ('BERAAT', 'İLK DERECE', '', None, 'yesil'),
+                  ('ONAMA', 'YARGITAY', '18.04.2018', 4087, 'altin')],
+        diyalog=[
+            ('A', 'Bir büroda muhasebe ve finanstan sorumlu çalışan, 2007\'de işten ayrılıyor.', 0, None),
+            ('A', 'Arkasından kontrol yapılıyor; kasa defterinde sorunlar çıkıyor.', None, None),
+            ('B', 'Ne tür sorunlar?', None, None),
+            ('A', 'İddiaya göre bir çalışanın hesabına yanlışlıkla yatırılan 530 lira elden geri alınmış ama kasaya işlenmemiş.', None, None),
+            ('A', 'Fazladan yatırılan 900 lira da öyle. Belgesi olmayan 3.203 liralık harcama da var.', None, None),
+            ('B', 'Bunlar ciddi iddialar.', None, None),
+            ('B', 'Ama bence ispat zor. Beraat çıkar.', None, 'tahmin'),
+            ('A', 'İlk derece mahkemesi beraat verdi: Mahkûmiyete yeterli, kesin ve inandırıcı delil yok.', 1, None),
+            ('A', 'Büro temyiz etti; eksik inceleme ve hatalı bilirkişi raporu dedi.', None, None),
+            ('A', 'Yargıtay oy birliğiyle beraati onadı. Tam 11 yıl sonra.', 2, 'sonuc'),
+            ('B', 'Yani kasada açık çıkması tek başına suçu ispatlamıyor.', None, None),
+            ('A', 'Ceza davasında şüphe kalırsa sanık yararlanır.', None, None),
+        ],
+        tahmin='BERAAT', dogru=True,
+        kalp_metin=('… sanık savunması, katılan beyanları, bilirkişi raporları ve dosya kapsamından sanığın atılı suçu '
+                    'işlediğine ilişkin mahkumiyetine yeterli, kesin ve inandırıcı delil elde edilemediği gerekçesine '
+                    'dayanan mahkemenin beraat yönünde kabulünde bir isabetsizlik görülmemiştir.'),
+        kalp_vurgu='mahkumiyetine yeterli, kesin ve inandırıcı delil elde edilemediği',
+        kalp_kaynak='Yargıtay 15. Ceza Dairesi · 18.04.2018 · gerekçeden birebir',
+        kalp_not='Beraat kesinleşti; iddialar ispatlanamadı.',
+        karne_baslik='Kasadaki açık', karne_tahmin='Beraat', karne_sonuc='Beraat onandı',
+        toplam_dogru=3, toplam_yanlis=3,
+        kunyeler=['Yargıtay 15. CD · 18.04.2018 · E. 2015/969 · K. 2018/2750'],
+    ),
+    'b7_atm': dict(
+        no=7, saat='aksamustu',
+        soru=['Hesapta para yok,', 'ama ATM para veriyor.', 'Çekmek suç mu?'],
+        duraklar=[('İLK ÇEKİM', 'ATM', '14.01.2014', 0, 'gri'),
+                  ('56 BİN TL', 'SON ÇEKİM', '18.01.2014', 4, 'kirmizi'),
+                  ('MAHKÛMİYET', 'BOZMA SONRASI', '2023', None, 'kirmizi'),
+                  ('BOZMA', 'YARGITAY', '03.06.2025', 4158, 'altin')],
+        diyalog=[
+            ('A', 'Bir bankanın yazılımında hata oluyor.', None, None),
+            ('A', 'Bir müşterinin hesabında para yok ama ATM ona para veriyor.', 0, None),
+            ('B', 'Şaka gibi. O ne yapmış?', None, None),
+            ('A', 'Beş gün boyunca defalarca çekmiş. Toplam 56 bin lira.', 1, None),
+            ('B', 'Hata bankanın ama… bence suç. Para onun değil.', None, 'tahmin'),
+            ('A', 'Mahkeme de suç dedi: kaybolmuş veya hata sonucu ele geçmiş eşya üzerinde tasarruf.', 2, None),
+            ('A', 'Bu hüküm, daha önceki bir bozmadan sonra kurulmuştu.', None, None),
+            ('A', 'Yargıtay hükmü yine bozdu.', 3, 'sonuc'),
+            ('B', 'Lehine mi bozdu?', None, None),
+            ('A', 'Hayır. Bankaya karşı birden fazla çekim var; zincirleme suç hükmü uygulanmalıydı.', None, None),
+            ('A', 'Ceza da alt sınıra yakın, eksik bulundu. Ayrıca basit yargılama yeniden değerlendirilecek.', None, None),
+            ('B', 'ATM hata yapınca para senin olmuyor. Not aldım.', None, None),
+        ],
+        tahmin='SUÇ', dogru=True,
+        kalp_metin=('… bilgisayar yazılımında oluşan hata sonucu hesabında para bulunmamasına rağmen katılana ait ortak '
+                    'ATM cihazından, 14.01.2014 - 18.01.2014 tarihleri arasında değişik zamanlarda birden fazla kez '
+                    'toplam 56.000,00 TL para çekerek tasarrufta bulunması karşısında; … zincirleme şeklinde kaybolmuş '
+                    'veya hata sonucu ele geçmiş eşya üzerinde tasarruf suçunu gerçekleştirdiği anlaşılan …'),
+        kalp_vurgu='bilgisayar yazılımında oluşan hata sonucu hesabında para bulunmamasına rağmen',
+        kalp_kaynak='Yargıtay 2. Ceza Dairesi · 03.06.2025 · gerekçeden birebir',
+        kalp_not='Bozma kesin hüküm değildir; dosya yerel mahkemeye döndü.',
+        karne_baslik='Para veren ATM', karne_tahmin='Suç', karne_sonuc='Suç; zincirleme → Bozma',
+        toplam_dogru=4, toplam_yanlis=3,
+        kunyeler=['Yargıtay 2. CD · 03.06.2025 · E. 2023/28153 · K. 2025/10970'],
+    ),
+    'b8_oyuncak': dict(
+        no=8, saat='gece',
+        soru=['5 liralık taklit bir oyuncak,', '12 yıla yakın süren dava.', 'Sonunda ne oldu?'],
+        duraklar=[('OLAY', '5 TL FİŞ', '21.07.2013', 0, 'gri'),
+                  ('10 AY HAPİS', 'İLK DERECE', '02.02.2022', 3118, 'kirmizi'),
+                  ('BERAAT', 'İSTİNAF', '21.06.2022', 3257, 'yesil'),
+                  ('BOZMA', 'DAİRE', '25.05.2023', 3595, 'kirmizi'),
+                  ('ONAMA', 'CGK', '18.06.2025', 4350, 'yesil')],
+        diyalog=[
+            ('A', 'Bir marka sahibi şirket, bir marketten 5 liralık oyuncak alıyor. Fişini de saklıyor.', 0, None),
+            ('A', 'İddia: Oyuncak taklit. Sulh ceza kararıyla markette arama yapılıyor.', None, None),
+            ('A', 'Rafların altında tek bir taklit oyuncak bulunuyor. Market sahibi onu satmadığını söylüyor.', None, None),
+            ('A', 'İlk derece 10 ay hapis verdi; hüküm 2022\'de açıklandı.', 1, None),
+            ('A', 'İstinaf ise beraat dedi.', 2, None),
+            ('A', 'Yargıtay dairesi oy çokluğuyla bozdu; istinaf kararında direndi.', 3, None),
+            ('B', 'Taklit ürün bulunmuş işte. Bence ceza çıkar.', None, 'tahmin'),
+            ('A', 'Ceza Genel Kurulu beraati onadı.', 4, 'sonuc'),
+            ('A', 'Aramada savcı yoktu; ihtiyar heyetinden ya da komşulardan iki kişi de bulundurulmamıştı.', None, None),
+            ('A', 'Bu yüzden oyuncak hukuka aykırı delil sayıldı. Fiş ve fotoğraf tek başına yetmedi.', None, None),
+            ('B', 'Yani delilin nasıl toplandığı, ne bulunduğu kadar önemli.', None, None),
+        ],
+        tahmin='CEZA ÇIKAR', dogru=False,
+        kalp_metin=('… sanığın iş yerindeki aramanın, o yer ihtiyar heyetinden veya komşulardan iki kişi hazır '
+                    'bulundurulmaksızın yapılması nedeniyle icrası bakımından hukuka aykırı ve bu arama işlemi sırasında '
+                    'ele geçirilen suça konu eşyanın hukuka aykırı yöntemle elde edilmiş delil niteliğinde olduğu …'),
+        kalp_vurgu='hukuka aykırı yöntemle elde edilmiş delil niteliğinde olduğu',
+        kalp_kaynak='Yargıtay Ceza Genel Kurulu · 18.06.2025 · gerekçeden birebir',
+        kalp_not='Arama yönünden oy birliği, suçun sabit olmadığı yönünden oy çokluğu.',
+        karne_baslik='5 liralık oyuncak', karne_tahmin='Ceza çıkar', karne_sonuc='CGK: Beraat onandı',
+        toplam_dogru=4, toplam_yanlis=4,
+        kunyeler=['Yargıtay CGK · 18.06.2025 · E. 2024/381 · K. 2025/259'],
+    ),
+}

@@ -172,3 +172,7 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-20 | 13:15 | Video | YCGK, 05.04.2023, E. 2022/378, K. 2023/205 | CEZA: KAFEDE HUKUK Bölüm 2: para üstü, dolandırıcılık (Instagram ile aynı seslendirmesiz video) (planlandı) |
 | 2026-11-20 | 17:15 | Video | Yargıtay 2. CD, 05.05.2026, E. 2023/28232, K. 2026/8277 | CEZA: KAFEDE HUKUK Bölüm 3: lastik, zamanaşımı, düşme (Instagram ile aynı seslendirmesiz video) (planlandı) |
 | 2026-11-20 | 21:15 | Video | YCGK, 22.02.2023, E. 2019/323, K. 2023/101 | CEZA: KAFEDE HUKUK Bölüm 4: bulunan telefon, TCK 160 (Instagram ile aynı seslendirmesiz video) (planlandı) |
+| 2026-11-21 | 09:15 | Video | Yargıtay 11. CD, 09.06.2026, E. 2021/36601, K. 2026/6232 | CEZA: KAFEDE HUKUK Bölüm 5: apartman defterleri, bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-21 | 13:15 | Video | Yargıtay 15. CD, 18.04.2018, E. 2015/969, K. 2018/2750 | CEZA: KAFEDE HUKUK Bölüm 6: büro muhasebecisi, beraat onandı (Instagram ile aynı video) (planlandı) |
+| 2026-11-21 | 17:15 | Video | Yargıtay 2. CD, 03.06.2025, E. 2023/28153, K. 2025/10970 | CEZA: KAFEDE HUKUK Bölüm 7: ATM yazılım hatası, TCK 160, bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-21 | 21:15 | Video | YCGK, 18.06.2025, E. 2024/381, K. 2025/259 | CEZA: KAFEDE HUKUK Bölüm 8: taklit oyuncak, hukuka aykırı arama, beraat onandı (Instagram ile aynı video) (planlandı) |

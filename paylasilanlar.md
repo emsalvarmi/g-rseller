@@ -144,6 +144,10 @@ Aynı kararın tekrar paylaşılmaması için her yeni gönderiden sonra bu tabl
 | 2026-11-20 | Yargıtay CGK, 05.04.2023, E. 2022/378, K. 2023/205 | CEZA · KAFEDE HUKUK Bölüm 2: Kasada fazla para üstü; hırsızlık değil dolandırıcılık, uzlaştırma için bozma, oy birliği. Mert: "dolandırıcılık" ✓ (Reels, 13:15) | planlandı |
 | 2026-11-20 | Yargıtay 2. CD, 05.05.2026, E. 2023/28232, K. 2026/8277 | CEZA · KAFEDE HUKUK Bölüm 3: Lastik patlatılıp çanta alındığı iddiası; 12 yıllık zamanaşımı, düşme, oy birliği. Mert: "onama" ✗ (Reels, 17:15) | planlandı |
 | 2026-11-20 | Yargıtay CGK, 22.02.2023, E. 2019/323, K. 2023/101 | CEZA · KAFEDE HUKUK Bölüm 4: Hırsızın attığı telefon kaybolmuş eşya; TCK 160, uzlaştırma için bozma, oy birliği. Mert: "kayıp eşya" ✓ (Reels, 21:15) | planlandı |
+| 2026-11-21 | Yargıtay 11. CD, 09.06.2026, E. 2021/36601, K. 2026/6232 | CEZA · KAFEDE HUKUK Bölüm 5: Eski apartman yönetiminin defterleri teslim etmemesi; TCK 208 gözetilmedi, "hırsız girdi" savunması tartışılmadı, bozma, oy birliği. Mert: "onanır" ✗ (Reels, 09:15) | planlandı |
+| 2026-11-21 | Yargıtay 15. CD, 18.04.2018, E. 2015/969, K. 2018/2750 | CEZA · KAFEDE HUKUK Bölüm 6: Hukuk bürosu muhasebecisi, kasaya işlenmeyen paralar iddiası; delil yetersizliğinden beraat onandı, oy birliği. Mert: "beraat" ✓ (Reels, 13:15) | planlandı |
+| 2026-11-21 | Yargıtay 2. CD, 03.06.2025, E. 2023/28153, K. 2025/10970 | CEZA · KAFEDE HUKUK Bölüm 7: Yazılım hatasıyla boş hesaptan ATM'den 56.000 TL; TCK 160, zincirleme suç ve eksik ceza nedeniyle bozma, oy birliği. Mert: "suç" ✓ (Reels, 17:15) | planlandı |
+| 2026-11-21 | Yargıtay CGK, 18.06.2025, E. 2024/381, K. 2025/259 | CEZA · KAFEDE HUKUK Bölüm 8: 5 TL'lik taklit oyuncak; arama tanığı yok, hukuka aykırı delil, BAM direnme beraati onandı (arama oy birliği, sübut oy çokluğu). Mert: "ceza çıkar" ✗ (Reels, 21:15) | planlandı |
 
 ## Hazır ama henüz paylaşılmadı
 
