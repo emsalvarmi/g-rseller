@@ -176,5 +176,9 @@ X'te aynı kararın tekrar paylaşılmaması için her paylaşımdan sonra bir s
 | 2026-11-21 | 13:15 | Video | Yargıtay 15. CD, 18.04.2018, E. 2015/969, K. 2018/2750 | CEZA: KAFEDE HUKUK Bölüm 6: büro muhasebecisi, beraat onandı (Instagram ile aynı video) (planlandı) |
 | 2026-11-21 | 17:15 | Video | Yargıtay 2. CD, 03.06.2025, E. 2023/28153, K. 2025/10970 | CEZA: KAFEDE HUKUK Bölüm 7: ATM yazılım hatası, TCK 160, bozma (Instagram ile aynı video) (planlandı) |
 | 2026-11-21 | 21:15 | Video | YCGK, 18.06.2025, E. 2024/381, K. 2025/259 | CEZA: KAFEDE HUKUK Bölüm 8: taklit oyuncak, hukuka aykırı arama, beraat onandı (Instagram ile aynı video) (planlandı) |
+| 2026-11-22 | 09:15 | Video | Yargıtay 11. CD, 12.10.2026, E. 2023/662, K. 2026/8858 | CEZA: KAFEDE HUKUK Bölüm 9: emanet araba, hukuki ihtilaf, bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-22 | 13:15 | Video | Yargıtay 2. CD, 31.12.2024, E. 2024/16784, K. 2024/22055 | CEZA: KAFEDE HUKUK Bölüm 10: sökülen kombi, güveni kötüye kullanma, kanun yararına bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-22 | 17:15 | Video | Yargıtay 11. CD, 21.09.2026, E. 2026/5124, K. 2026/8130 | CEZA: KAFEDE HUKUK Bölüm 11: dondurma satış elemanı, mağdur işveren, bozma (Instagram ile aynı video) (planlandı) |
+| 2026-11-22 | 21:15 | Video | Yargıtay 8. CD, 14.10.2026, E. 2026/6539, K. 2026/11402 | CEZA: KAFEDE HUKUK Bölüm 12: trafik cezası itirazı, iftira, onama (Instagram ile aynı video) (planlandı) |
 
 - 21.11.2026: Bölüm 5–8 X gönderileri yeni kısa/sesli videolarla yeniden planlandı (09:15, 13:15, 17:15, 21:15); eski biçimdeki X gönderileri taslağa alındı.
