@@ -12,8 +12,8 @@ from sohbet import F, W, H, FPS, ease, CREAM, INK, NAVY, GOLD, INTER_M, INTER_SB
 from kafede import RED, GREEN, SOFT
 from kafede_kisa import load_wav, tempo, SR
 
-TEMPO = 1.10
-SAYIM = 2.7          # geri sayım süresi
+TEMPO = 1.18
+SAYIM = 2.2          # geri sayım süresi
 GAP = 0.16
 SON = 0.9            # son sesten sonra bekleme (döngü)
 BG1, BG2 = (9, 13, 24), (20, 28, 48)
@@ -50,10 +50,13 @@ def timeline(ep, key, sesdir):
         p = os.path.join(sesdir, f'{key}_A_{i:02d}.wav') if sesdir else None
         aud.append(load_wav(p) if p and os.path.exists(p) else None)
     voiced = all(a is not None for a in aud)
-    texts = [ep['soru_ses']] + [s for _, s, _ in ep['satirlar']] + [ep['gonder_ses']]
+    texts = [ep['soru_ses']] + [x[1] for x in ep['satirlar']] + [ep['gonder_ses']]
+    # 4. öğesi 'sessiz' olan satır seslendirilmez: kartı ekranda belirir, kısa süre kalır (süreyi kısaltmak için)
+    sessiz = [False] + [len(x) > 3 and x[3] == 'sessiz' for x in ep['satirlar']] + [False]
+    voiced = all(a is not None or z for a, z in zip(aud, sessiz))
     if voiced:
-        aud = [tempo(a, TEMPO) for a in aud]
-        durs = [len(a) / SR for a in aud]
+        aud = [None if z else tempo(a, TEMPO) for a, z in zip(aud, sessiz)]
+        durs = [1.5 if a is None else len(a) / SR for a in aud]
     else:
         durs = [max(1.2, 0.36 * len(t.split()) + 0.3) for t in texts]
     t = 0.15
@@ -146,7 +149,7 @@ def compose(t, st):
         # bilgi kartları
         y = by + bh + 44
         fc = F(INTER_SB, 46)
-        for i, (ekran, _, tur) in enumerate(ep['satirlar']):
+        for i, (ekran, _, tur) in enumerate([x[:3] for x in ep['satirlar']]):
             sg = tm['seg'][i + 1]
             if t < sg['t0']:
                 break
@@ -207,7 +210,8 @@ def mix(st, path):
         add(t0, (np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-tt * decay) * (1 - np.exp(-tt * 900)) * vol).astype(np.float32))
     if tm['aud']:
         for sg, au in zip(tm['seg'], tm['aud']):
-            add(sg['t0'], au * 0.9)
+            if au is not None:
+                add(sg['t0'], au * 0.9)
     for k in range(3):
         tone(tm['t_say'] + k * SAYIM / 3, 880, 880, 0.09, 0.16, 45)
     m = int(0.25 * SR); tt = np.arange(m) / SR
