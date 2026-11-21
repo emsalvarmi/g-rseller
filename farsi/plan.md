@@ -29,7 +29,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Satıcının getirdiği tercüman, yetki belgesi göstermeyen emlakçı — 19.11.2026
 - [x] Elden ödeme ve tapuda düşük bedel gösterme — 19.11.2026
 - [x] İskânsız, kat irtifaklı daire — 21.11.2026
-- [ ] Hisseli tapu
+- [x] Hisseli tapu — 22.11.2026
 - [x] Sahte ikamet danışmanı ("ikamet garantili") — 20.11.2026
 - [ ] Genel vekâletnamenin kötüye kullanılması
 - [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi"
@@ -37,7 +37,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Geri verilmeyen kira depozitosu — 21.11.2026
 - [ ] Kira sözleşmesi olmadan ev tutmak
 - [x] Sahte ilanla kapora toplama (ev görülmeden para) — 20.11.2026
-- [ ] İkinci el araç alımında noter dışı ödeme
+- [x] İkinci el araç alımında noter dışı ödeme — 22.11.2026
 - [ ] "Pasaport garantisi" vaadi
 - [ ] Banka hesabı açtırma karşılığı para isteyen aracılar
 - [x] Sahte dekont / "parayı gönderdim" ekran görüntüsü — 21.11.2026
@@ -45,17 +45,21 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [ ] Kiracının adına açtırılmayan abonelikler (elektrik, su, doğal gaz eski kiracının üstünde)
 - [ ] Sahte iş teklifi: "çalışma izni bizden" diyerek para isteyen aracı
 - [ ] Ev sahibinin sözleşme dışı, elden ve makbuzsuz kira artışı istemesi
-- [ ] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi
+- [x] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi — 22.11.2026
+- [ ] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü
+- [ ] Sahte "Göç İdaresi" / "polis" araması: telefonda para ya da kimlik bilgisi isteyenler
+- [ ] Kiralık ev için emlakçıya sözleşmeden önce elden "hizmet bedeli"
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. Sıradaki: 22.11 Günün Kelimesi → 23.11 Doğru mu Yanlış mı → 24.11 Nereye Gidilir.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). Sıradaki: 23.11 Doğru mu Yanlış mı → 24.11 Nereye Gidilir → 25.11 Günün Kelimesi.
 
 ## Günün Kelimesi kuyruğu
 
 - [x] İpotek = رهن — 19.11.2026
 - [x] Kapora = بیعانه — 20.11.2026
-- [ ] Yeminli tercüman · Tapu · İskân · Kat mülkiyeti · Kat irtifakı · Noter · Vekâletname · Ekspertiz (değerleme) · Kefil · Depozito · Aidat · İkamet izni · Randevu · Dekont · Kira sözleşmesi · Haciz · Şerh · Emlakçı yetki belgesi
+- [x] Noter = دفتر اسناد رسمی — 22.11.2026
+- [ ] Yeminli tercüman · Tapu · İskân · Kat mülkiyeti · Kat irtifakı · Vekâletname · Ekspertiz (değerleme) · Kefil · Depozito · Aidat · İkamet izni · Randevu · Dekont · Kira sözleşmesi · Haciz · Şerh · Emlakçı yetki belgesi
