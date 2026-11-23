@@ -42,23 +42,26 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [ ] Banka hesabı açtırma karşılığı para isteyen aracılar
 - [x] Sahte dekont / "parayı gönderdim" ekran görüntüsü — 21.11.2026
 - [ ] Tapu randevusundan önce istenen "işlem masrafı / harç avansı" (aracıya elden)
-- [ ] Kiracının adına açtırılmayan abonelikler (elektrik, su, doğal gaz eski kiracının üstünde)
-- [ ] Sahte iş teklifi: "çalışma izni bizden" diyerek para isteyen aracı
+- [x] Kiracının adına açtırılmayan abonelikler (elektrik, su, doğal gaz eski kiracının üstünde) — 24.11.2026
+- [x] Sahte iş teklifi: "çalışma izni bizden" diyerek para isteyen aracı — 24.11.2026
 - [ ] Ev sahibinin sözleşme dışı, elden ve makbuzsuz kira artışı istemesi
 - [x] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi — 22.11.2026
-- [ ] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü
+- [x] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü — 24.11.2026
 - [x] Sahte "Göç İdaresi" / "polis" araması: telefonda para ya da kimlik bilgisi isteyenler — 23.11.2026 (mesajla, ikamet iptali tehdidi)
 - [ ] Kiralık ev için emlakçıya sözleşmeden önce elden "hizmet bedeli"
 - [ ] Satıcı adına vekâletle satış: vekâletnamenin güncelliği ve satış yetkisi tapuda kontrol edilmeden ödeme
 - [ ] Sahte kargo / gümrük mesajı: "paketiniz bekliyor" bağlantısıyla kart bilgisi isteme
 - [ ] Kiralık evde ev sahibi olmayan kişiyle (alt kiracı, eski kiracı) sözleşme yapmak
+- [ ] Sosyal medyada "ev arkadaşı aranıyor" ilanı: oda görülmeden istenen depozito
+- [ ] İkinci el telefon alımı: kayıtsız / IMEI sorunlu cihaz ve elden ödeme
+- [ ] Sahte banka araması: "hesabınızda şüpheli işlem" diyerek SMS kodu isteme
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). Sıradaki: 24.11 Nereye Gidilir → 25.11 Günün Kelimesi → 26.11 Doğru mu Yanlış mı.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). Sıradaki: 25.11 Günün Kelimesi → 26.11 Doğru mu Yanlış mı → 27.11 Nereye Gidilir.
 
 ## Günün Kelimesi kuyruğu
 
