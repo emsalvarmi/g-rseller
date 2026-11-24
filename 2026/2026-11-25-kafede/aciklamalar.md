@@ -1,5 +1,5 @@
-# Kafede Hukuk — 23.11.2026 açıklamaları (KISA + SESLİ biçim)
-HENÜZ PLANLANMADI: seslendirme 22.11 akşamı gelmedi (istek 22:29 ve 22:33'te yazıldı, 2 saat beklendi). Ses gelirse bu metinler aynen kullanılabilir. Karar verisi: `bolumler.py`; diyalog ve seslendirme metni: `kisa.py`.
+# Kafede Hukuk — 25.11.2026 açıklamaları (KISA + SESLİ biçim; 23.11 klasöründen taşındı)
+HENÜZ PLANLANMADI: seslendirme 24.11 akşamı gelmedi (Mac'teki metin.tsv iki kez Farsça görevle çakıştı; ardından Mac 22:55 TSİ civarı bağlantıyı kaybetti). Ses gelirse bu metinler aynen kullanılabilir. Karar verisi: `bolumler.py`; diyalog ve seslendirme metni: `kisa.py`.
 
 ## Bölüm 13 — 09:15 (b13)
 
