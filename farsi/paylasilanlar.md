@@ -28,13 +28,18 @@
 | 2026-11-23 | 09:00 | Post (2 görsel) | Doğru mu Yanlış mı: verilen vekâletname geri alınamaz mı (azil; TBK m. 512) | Yayımlandı: https://www.instagram.com/p/DgEsMWaCJ93/ |
 | 2026-11-23 | 11:30 | Video | Dolandırıcılık Dosyası 13: genel vekâletname ("her şey içinde olsun"); tek işle sınırlı vekâlet (TBK m. 504) | Yayımlandı: https://www.instagram.com/reel/DgE9LLBgmBb/ |
 | 2026-11-23 | 15:30 | Video | Dolandırıcılık Dosyası 14: kira sözleşmesi olmadan ev tutmak (kâğıtsız, elden ve makbuzsuz kira) | Yayımlandı: https://www.instagram.com/reel/DgFYq3LEdu5/ |
-| 2026-11-23 | 19:30 | Video | Dolandırıcılık Dosyası 15: sahte "Göç İdaresi" mesajı, "ikametin iptal olacak" diyerek şahsi hesaba para isteme (YİMER 157) | Planlandı |
-| 2026-11-23 | 22:00 | Post (3 görsel) | Kontrol Listesi: "Göç İdaresi" ya da "polis" adına mesaj/arama gelirse 4 iş | Planlandı |
-| 2026-11-24 | 09:00 | Post (3 görsel) | Nereye Gidilir: kiralık evde elektrik, su, doğal gaz aboneliği nereden kendi adınıza açılır (3 abonelik, 3 doğru yer) | Planlandı |
-| 2026-11-24 | 11:30 | Video | Dolandırıcılık Dosyası 16: satın alınan evde oturan kiracı, sözlü "boş teslim" sözü (TBK m. 310) | Planlandı |
-| 2026-11-24 | 15:30 | Video | Dolandırıcılık Dosyası 17: abonelikler eski kiracının üstünde, fatura parası kişiye gönderiliyor | Planlandı |
+| 2026-11-23 | 19:30 | Video | Dolandırıcılık Dosyası 15: sahte "Göç İdaresi" mesajı, "ikametin iptal olacak" diyerek şahsi hesaba para isteme (YİMER 157) | Yayımlandı: https://www.instagram.com/reel/DgF0MF3maX8/ |
+| 2026-11-23 | 22:00 | Post (3 görsel) | Kontrol Listesi: "Göç İdaresi" ya da "polis" adına mesaj/arama gelirse 4 iş | Yayımlandı: https://www.instagram.com/p/DgGF9TvChl9/ |
+| 2026-11-24 | 09:00 | Post (3 görsel) | Nereye Gidilir: kiralık evde elektrik, su, doğal gaz aboneliği nereden kendi adınıza açılır (3 abonelik, 3 doğru yer) | Yayımlandı: https://www.instagram.com/p/DgHRFwoCIbw/ |
+| 2026-11-24 | 11:30 | Video | Dolandırıcılık Dosyası 16: satın alınan evde oturan kiracı, sözlü "boş teslim" sözü (TBK m. 310) | Yayımlandı: https://www.instagram.com/reel/DgHh95KExuT/ |
+| 2026-11-24 | 15:30 | Video | Dolandırıcılık Dosyası 17: abonelikler eski kiracının üstünde, fatura parası kişiye gönderiliyor | Yayımlandı: https://www.instagram.com/reel/DgH9fkoggOF/ |
 | 2026-11-24 | 19:30 | Video | Dolandırıcılık Dosyası 18: sahte iş teklifi, "çalışma izni bizden", işvereni söylemeden dosya masrafı isteyen aracı (6735 s. Kanun m. 23) | Planlandı |
 | 2026-11-24 | 22:00 | Post (3 görsel) | Kontrol Listesi: kiracılı evi satın almadan önce 4 soru | Planlandı |
+| 2026-11-25 | 09:00 | Post | Günün Kelimesi: Dekont (banka makbuzu) | Planlandı |
+| 2026-11-25 | 11:30 | Video | Dolandırıcılık Dosyası 19: tapu randevusundan önce aracıya elden "tapu harcı avansı" (harç tapu müdürlüğünün verdiği numarayla bankadan ödenir) | Planlandı |
+| 2026-11-25 | 15:30 | Video | Dolandırıcılık Dosyası 20: sahte kargo / gümrük mesajı, bağlantıyla kart bilgisi ve SMS kodu isteme | Planlandı |
+| 2026-11-25 | 19:30 | Video | Dolandırıcılık Dosyası 21: banka hesabı açtırma aracısı ("bankaya gelmene gerek yok", kart ve şifre aracıda) | Planlandı |
+| 2026-11-25 | 22:00 | Post (3 görsel) | Kontrol Listesi: Türkiye'de banka hesabı açmadan önce 4 nokta | Planlandı |
 
 ## Hazır ama henüz paylaşılmadı
 
