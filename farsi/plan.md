@@ -38,7 +38,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Kira sözleşmesi olmadan ev tutmak — 23.11.2026
 - [x] Sahte ilanla kapora toplama (ev görülmeden para) — 20.11.2026
 - [x] İkinci el araç alımında noter dışı ödeme — 22.11.2026
-- [ ] "Pasaport garantisi" vaadi
+- [x] "Pasaport garantisi" vaadi — 26.11.2026
 - [x] Banka hesabı açtırma karşılığı para isteyen aracılar — 25.11.2026
 - [x] Sahte dekont / "parayı gönderdim" ekran görüntüsü — 21.11.2026
 - [x] Tapu randevusundan önce istenen "işlem masrafı / harç avansı" (aracıya elden) — 25.11.2026
@@ -49,22 +49,26 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü — 24.11.2026
 - [x] Sahte "Göç İdaresi" / "polis" araması: telefonda para ya da kimlik bilgisi isteyenler — 23.11.2026 (mesajla, ikamet iptali tehdidi)
 - [ ] Kiralık ev için emlakçıya sözleşmeden önce elden "hizmet bedeli"
-- [ ] Satıcı adına vekâletle satış: vekâletnamenin güncelliği ve satış yetkisi tapuda kontrol edilmeden ödeme
+- [x] Satıcı adına vekâletle satış: vekâletnamenin güncelliği ve satış yetkisi tapuda kontrol edilmeden ödeme — 26.11.2026
 - [x] Sahte kargo / gümrük mesajı: "paketiniz bekliyor" bağlantısıyla kart bilgisi isteme — 25.11.2026
-- [ ] Kiralık evde ev sahibi olmayan kişiyle (alt kiracı, eski kiracı) sözleşme yapmak
+- [x] Kiralık evde ev sahibi olmayan kişiyle (alt kiracı, eski kiracı) sözleşme yapmak — 26.11.2026
 - [ ] Sosyal medyada "ev arkadaşı aranıyor" ilanı: oda görülmeden istenen depozito
 - [ ] İkinci el telefon alımı: kayıtsız / IMEI sorunlu cihaz ve elden ödeme
 - [ ] Sahte banka araması: "hesabınızda şüpheli işlem" diyerek SMS kodu isteme
 - [ ] Satıcının "tapuda borç yok" sözü: emlak vergisi ve aidat borcu sorulmadan alım
 - [ ] Sahte kiralık araç / "depozitoyu önce gönder" ilanı
 - [ ] Sahte sağlık sigortası poliçesi: ikamet başvurusu için aracıdan alınan, sorgulanamayan poliçe
+- [ ] Site aidatı / "yönetim borcu" adıyla şahsi hesaba istenen para (yönetimin resmî hesabı ve makbuz sorulmadan ödeme)
+- [ ] Sahte tapu randevusu / "sıra bizde, bugün ödeme yap" baskısı: randevu resmî kanaldan doğrulanmadan ödeme
+- [ ] Okul kaydı için aracıya "kontenjan parası": kayıt şartları okuldan / resmî kurumdan sorulmadan ödeme
+- [ ] Ortak iş kurma teklifi: şirket kaydı ve ortaklık belgesi görülmeden sermaye gönderme
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). Sıradaki: 26.11 Doğru mu Yanlış mı → 27.11 Nereye Gidilir → 28.11 Günün Kelimesi.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). Sıradaki: 27.11 Nereye Gidilir → 28.11 Günün Kelimesi → 29.11 Doğru mu Yanlış mı.
 
 ## Günün Kelimesi kuyruğu
 

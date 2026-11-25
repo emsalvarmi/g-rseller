@@ -33,13 +33,18 @@
 | 2026-11-24 | 09:00 | Post (3 görsel) | Nereye Gidilir: kiralık evde elektrik, su, doğal gaz aboneliği nereden kendi adınıza açılır (3 abonelik, 3 doğru yer) | Yayımlandı: https://www.instagram.com/p/DgHRFwoCIbw/ |
 | 2026-11-24 | 11:30 | Video | Dolandırıcılık Dosyası 16: satın alınan evde oturan kiracı, sözlü "boş teslim" sözü (TBK m. 310) | Yayımlandı: https://www.instagram.com/reel/DgHh95KExuT/ |
 | 2026-11-24 | 15:30 | Video | Dolandırıcılık Dosyası 17: abonelikler eski kiracının üstünde, fatura parası kişiye gönderiliyor | Yayımlandı: https://www.instagram.com/reel/DgH9fkoggOF/ |
-| 2026-11-24 | 19:30 | Video | Dolandırıcılık Dosyası 18: sahte iş teklifi, "çalışma izni bizden", işvereni söylemeden dosya masrafı isteyen aracı (6735 s. Kanun m. 23) | Planlandı |
-| 2026-11-24 | 22:00 | Post (3 görsel) | Kontrol Listesi: kiracılı evi satın almadan önce 4 soru | Planlandı |
-| 2026-11-25 | 09:00 | Post | Günün Kelimesi: Dekont (banka makbuzu) | Planlandı |
-| 2026-11-25 | 11:30 | Video | Dolandırıcılık Dosyası 19: tapu randevusundan önce aracıya elden "tapu harcı avansı" (harç tapu müdürlüğünün verdiği numarayla bankadan ödenir) | Planlandı |
-| 2026-11-25 | 15:30 | Video | Dolandırıcılık Dosyası 20: sahte kargo / gümrük mesajı, bağlantıyla kart bilgisi ve SMS kodu isteme | Planlandı |
+| 2026-11-24 | 19:30 | Video | Dolandırıcılık Dosyası 18: sahte iş teklifi, "çalışma izni bizden", işvereni söylemeden dosya masrafı isteyen aracı (6735 s. Kanun m. 23) | Yayımlandı: https://www.instagram.com/reel/DgIY9BiHJAe/ |
+| 2026-11-24 | 22:00 | Post (3 görsel) | Kontrol Listesi: kiracılı evi satın almadan önce 4 soru | Yayımlandı: https://www.instagram.com/p/DgIqvFdimHa/ |
+| 2026-11-25 | 09:00 | Post | Günün Kelimesi: Dekont (banka makbuzu) | Yayımlandı: https://www.instagram.com/p/DgJ1twcjYpa/ |
+| 2026-11-25 | 11:30 | Video | Dolandırıcılık Dosyası 19: tapu randevusundan önce aracıya elden "tapu harcı avansı" (harç tapu müdürlüğünün verdiği numarayla bankadan ödenir) | Yayımlandı: https://www.instagram.com/reel/DgKGwykoDUA/ |
+| 2026-11-25 | 15:30 | Video | Dolandırıcılık Dosyası 20: sahte kargo / gümrük mesajı, bağlantıyla kart bilgisi ve SMS kodu isteme | Yayımlandı: https://www.instagram.com/reel/DgKiQOrJShr/ |
 | 2026-11-25 | 19:30 | Video | Dolandırıcılık Dosyası 21: banka hesabı açtırma aracısı ("bankaya gelmene gerek yok", kart ve şifre aracıda) | Planlandı |
 | 2026-11-25 | 22:00 | Post (3 görsel) | Kontrol Listesi: Türkiye'de banka hesabı açmadan önce 4 nokta | Planlandı |
+| 2026-11-26 | 09:00 | Post (2 görsel) | Doğru mu Yanlış mı: Türkiye'de ev alınca kendiliğinden vatandaş olunur mu (yanlış; ayrı başvuru, karar devletin) | Planlandı |
+| 2026-11-26 | 11:30 | Video | Dolandırıcılık Dosyası 22: satıcı adına vekâletle satış (vekâletname fotoğrafı, satış yetkisi, kaporanın vekilin şahsi hesabına istenmesi) | Planlandı |
+| 2026-11-26 | 15:30 | Video | Dolandırıcılık Dosyası 23: ev sahibi olmayan kişiyle kira sözleşmesi (tapu ve kimlik karşılaştırması; malik değilse vekâletname ya da yazılı izin) | Planlandı |
+| 2026-11-26 | 19:30 | Video | Dolandırıcılık Dosyası 24: "pasaport garantisi" vaadi (vatandaşlık kararı devletin; "yer ayırtma" için peşin para) | Planlandı |
+| 2026-11-26 | 22:00 | Post (3 görsel) | Kontrol Listesi: evi satıcının vekili satıyorsa ödeme öncesi 4 kontrol | Planlandı |
 
 ## Hazır ama henüz paylaşılmadı
 
