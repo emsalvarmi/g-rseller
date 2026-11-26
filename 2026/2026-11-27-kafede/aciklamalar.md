@@ -1,5 +1,5 @@
 # Kafede Hukuk — 27.11.2026 açıklamaları (KISA + SESLİ biçim; 25.11 klasöründen taşındı)
-Seslendirme isteği 26.11 19:49 TSİ yazıldı. Ses gelirse bu metinler aynen kullanılır. Karar verisi: `bolumler.py`; diyalog ve seslendirme metni: `kisa.py`.
+HENÜZ PLANLANMADI: seslendirme isteği 26.11 19:49 TSİ yazıldı, 19:52'de çift tıklama istendi, 21:47'ye kadar ses gelmedi. Sabah 08:12 görevi yeniden deneyecek; ses gelirse bu metinler aynen kullanılır. Karar verisi: `bolumler.py`; diyalog ve seslendirme metni: `kisa.py`.
 
 ## Bölüm 13 — 09:15 (b13)
 
