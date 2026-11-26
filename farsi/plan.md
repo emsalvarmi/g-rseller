@@ -33,7 +33,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Sahte ikamet danışmanı ("ikamet garantili") — 20.11.2026
 - [x] Genel vekâletnamenin kötüye kullanılması — 23.11.2026
 - [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi"
-- [ ] Bitmemiş projeden "garantili kira" vaadi
+- [x] Bitmemiş projeden "garantili kira" vaadi — 27.11.2026
 - [x] Geri verilmeyen kira depozitosu — 21.11.2026
 - [x] Kira sözleşmesi olmadan ev tutmak — 23.11.2026
 - [x] Sahte ilanla kapora toplama (ev görülmeden para) — 20.11.2026
@@ -57,18 +57,23 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [ ] Sahte banka araması: "hesabınızda şüpheli işlem" diyerek SMS kodu isteme
 - [ ] Satıcının "tapuda borç yok" sözü: emlak vergisi ve aidat borcu sorulmadan alım
 - [ ] Sahte kiralık araç / "depozitoyu önce gönder" ilanı
-- [ ] Sahte sağlık sigortası poliçesi: ikamet başvurusu için aracıdan alınan, sorgulanamayan poliçe
+- [x] Sahte sağlık sigortası poliçesi: ikamet başvurusu için aracıdan alınan, sorgulanamayan poliçe — 27.11.2026
 - [ ] Site aidatı / "yönetim borcu" adıyla şahsi hesaba istenen para (yönetimin resmî hesabı ve makbuz sorulmadan ödeme)
 - [ ] Sahte tapu randevusu / "sıra bizde, bugün ödeme yap" baskısı: randevu resmî kanaldan doğrulanmadan ödeme
 - [ ] Okul kaydı için aracıya "kontenjan parası": kayıt şartları okuldan / resmî kurumdan sorulmadan ödeme
-- [ ] Ortak iş kurma teklifi: şirket kaydı ve ortaklık belgesi görülmeden sermaye gönderme
+- [x] Ortak iş kurma teklifi: şirket kaydı ve ortaklık belgesi görülmeden sermaye gönderme — 27.11.2026
+- [ ] Tapu günü son anda değişen hesap: "parayı malikin değil şu hesabın IBAN'ına at" (alıcı adı malikle karşılaştırılmadan ödeme)
+- [ ] Eşyalı kiralık ev: yazılı eşya listesi (demirbaş tutanağı) olmadan teslim alma ve çıkarken "eksik eşya" parası
+- [ ] Sahte ev sahibi / emlakçı adına "kira hesabı değişti" mesajı: yeni IBAN'ı ev sahibine bilinen numaradan sormadan ödeme
+- [ ] İkinci el eşya alımında "kargoya verdim, önce ödeme yap" diyen satıcı (ürün görülmeden havale)
+- [ ] İkamet randevusu satan aracı: "randevu bulunmuyor, biz hallederiz" (randevu resmî e-ikamet sitesinden alınır)
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). Sıradaki: 27.11 Nereye Gidilir → 28.11 Günün Kelimesi → 29.11 Doğru mu Yanlış mı.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). 27.11 Nereye Gidilir (ikamet için sağlık sigortası). Sıradaki: 28.11 Günün Kelimesi → 29.11 Doğru mu Yanlış mı → 30.11 Nereye Gidilir.
 
 ## Günün Kelimesi kuyruğu
 

@@ -38,13 +38,18 @@
 | 2026-11-25 | 09:00 | Post | Günün Kelimesi: Dekont (banka makbuzu) | Yayımlandı: https://www.instagram.com/p/DgJ1twcjYpa/ |
 | 2026-11-25 | 11:30 | Video | Dolandırıcılık Dosyası 19: tapu randevusundan önce aracıya elden "tapu harcı avansı" (harç tapu müdürlüğünün verdiği numarayla bankadan ödenir) | Yayımlandı: https://www.instagram.com/reel/DgKGwykoDUA/ |
 | 2026-11-25 | 15:30 | Video | Dolandırıcılık Dosyası 20: sahte kargo / gümrük mesajı, bağlantıyla kart bilgisi ve SMS kodu isteme | Yayımlandı: https://www.instagram.com/reel/DgKiQOrJShr/ |
-| 2026-11-25 | 19:30 | Video | Dolandırıcılık Dosyası 21: banka hesabı açtırma aracısı ("bankaya gelmene gerek yok", kart ve şifre aracıda) | Planlandı |
-| 2026-11-25 | 22:00 | Post (3 görsel) | Kontrol Listesi: Türkiye'de banka hesabı açmadan önce 4 nokta | Planlandı |
-| 2026-11-26 | 09:00 | Post (2 görsel) | Doğru mu Yanlış mı: Türkiye'de ev alınca kendiliğinden vatandaş olunur mu (yanlış; ayrı başvuru, karar devletin) | Planlandı |
-| 2026-11-26 | 11:30 | Video | Dolandırıcılık Dosyası 22: satıcı adına vekâletle satış (vekâletname fotoğrafı, satış yetkisi, kaporanın vekilin şahsi hesabına istenmesi) | Planlandı |
-| 2026-11-26 | 15:30 | Video | Dolandırıcılık Dosyası 23: ev sahibi olmayan kişiyle kira sözleşmesi (tapu ve kimlik karşılaştırması; malik değilse vekâletname ya da yazılı izin) | Planlandı |
+| 2026-11-25 | 19:30 | Video | Dolandırıcılık Dosyası 21: banka hesabı açtırma aracısı ("bankaya gelmene gerek yok", kart ve şifre aracıda) | Yayımlandı: https://www.instagram.com/reel/DgK9wi-BxUc/ |
+| 2026-11-25 | 22:00 | Post (3 görsel) | Kontrol Listesi: Türkiye'de banka hesabı açmadan önce 4 nokta | Yayımlandı: https://www.instagram.com/p/DgLPgzEFeUr/ |
+| 2026-11-26 | 09:00 | Post (2 görsel) | Doğru mu Yanlış mı: Türkiye'de ev alınca kendiliğinden vatandaş olunur mu (yanlış; ayrı başvuru, karar devletin) | Yayımlandı: https://www.instagram.com/p/DgMalX6ClOg/ |
+| 2026-11-26 | 11:30 | Video | Dolandırıcılık Dosyası 22: satıcı adına vekâletle satış (vekâletname fotoğrafı, satış yetkisi, kaporanın vekilin şahsi hesabına istenmesi) | Yayımlandı: https://www.instagram.com/reel/DgMrlvGTECj/ |
+| 2026-11-26 | 15:30 | Video | Dolandırıcılık Dosyası 23: ev sahibi olmayan kişiyle kira sözleşmesi (tapu ve kimlik karşılaştırması; malik değilse vekâletname ya da yazılı izin) | Yayımlandı: https://www.instagram.com/reel/DgNHDdmh0sk/ |
 | 2026-11-26 | 19:30 | Video | Dolandırıcılık Dosyası 24: "pasaport garantisi" vaadi (vatandaşlık kararı devletin; "yer ayırtma" için peşin para) | Planlandı |
 | 2026-11-26 | 22:00 | Post (3 görsel) | Kontrol Listesi: evi satıcının vekili satıyorsa ödeme öncesi 4 kontrol | Planlandı |
+| 2026-11-27 | 09:00 | Post (3 görsel) | Nereye Gidilir: ikamet için sağlık sigortası, 3 soru 3 doğru yer (poliçe gerçek mi → sigorta şirketi; hangi sigorta kabul edilir → İl Göç İdaresi / 157; başvuru → e-ikamet.goc.gov.tr) | Planlandı |
+| 2026-11-27 | 11:30 | Video | Dolandırıcılık Dosyası 25: bitmemiş projeden "garantili kira" vaadi (garanti broşürde, sözleşmede değil; teslim tarihi belirsiz) | Planlandı |
+| 2026-11-27 | 15:30 | Video | Dolandırıcılık Dosyası 26: sahte sağlık sigortası poliçesi (şirketi belirsiz, şahsi hesaba ödeme; poliçeyi sigorta şirketinden doğrulama) | Planlandı |
+| 2026-11-27 | 19:30 | Video | Dolandırıcılık Dosyası 27: ortak iş kurma teklifi ("şimdilik benim adıma, sonra seni ekleriz"; tescil ve sözleşme olmadan şahsi hesaba sermaye) | Planlandı |
+| 2026-11-27 | 22:00 | Post (3 görsel) | Kontrol Listesi: "garantili kira" sözü verildiyse imzadan önce 4 soru | Planlandı |
 
 ## Hazır ama henüz paylaşılmadı
 
