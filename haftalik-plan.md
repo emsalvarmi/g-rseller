@@ -1,34 +1,47 @@
-# 23.11–29.11.2026 haftalık plan (kullanıcının 21.11.2026 talimatı)
+# 27.11.2026 — yeni yayın planı (kullanıcının 26.11.2026 kararı)
 
-Üç biçim, günde üç video. Konu: günlük hayat hukuku. Ses: tek erkek anlatıcı (Charon, otoriteli).
+Vatandaş yakalaması videosunun 3 saatte en yüksek izlenmeye ulaşmasıyla eski 3 formatlı sistem bırakıldı. Yeni düzen: günde 1 video, saat 19:15, tek erkek anlatıcı (Charon). Her içerik için 1-2 saat Yargıtay/mevzuat araştırması, en iyi karar/madde seçilir.
 
-- **09:15 Format 1 "Suç mu, değil mi?"** — iki buton, 3 sn geri sayım, cevap, "arkadaşına gönder". Motor: `sablon/kafede/sucmu.py`.
-- **13:15 Format 2 "Başına Gelirse: 3 Adım"** — senaryo, 3 numaralı kart tek tek, "Kaydet". Motor: `sablon/kafede/adim3.py`.
-- **19:15 Format 3 "Bunu Yanlış Biliyoruz"** — yaygın yanlış + büyük kırmızı X + gerçek + ceza, "Bunu sanan arkadaşına gönder". Motor: `sablon/kafede/yanlis.py`.
+## Tek format: "Gerçek Şu ki"
 
-Her videonun ses tonu: Charon, "confident, authoritative Turkish male narrator, measured pace, slightly dramatic on the question".
+25-35 sn. Motor: `sablon/kafede/gercek.py` (yanlis.py tabanlı, üç ton varyantlı).
 
-## 21 konu
+**İskelet:**
+- 0-3 sn: Çarpıcı durum (tek cümle, büyük)
+- 3-6 sn: Yanılgı/soru
+- 6-10 sn: Büyük damga (ton + metin)
+- 10-20 sn: Kanun + ilke
+- 20-27 sn: Hak / bedel
+- 27-30 sn: "Bunu bilmesi gereken arkadaşına gönder" + künye + uyarı
 
-| Gün | 09:15 Format 1 (Suç mu?) | 13:15 Format 2 (3 Adım) | 19:15 Format 3 (Yanlış) |
+**Üç ton (içeriğe göre otomatik):**
+- 🟢 **HAKKIN VAR** — güç veren, yeşil damga
+- 🔴 **YANLIŞ BİLİYORUZ** — düzeltici, kırmızı X
+- ⚠️ **DİKKAT, SUÇ** — uyaran, sarı
+
+## 10 konu · 27.11-06.12
+
+| # | Gün | Konu | Ton |
 |---|---|---|---|
-| 23.11 Pzt | Bulunan cüzdandaki 10 bin TL cebe | Trafikte kaza, karşı taraf kaçtı | "Kirasını ödemeyen kiracının kilidini değiştirebilirim" |
-| 24.11 Sal | Eski sevgilinin fotoğrafı hikayede | Kiradan çıkışta depozito iade yok | "Düğünde takılan takı ortak mal" |
-| 25.11 Çar | Yanlış gelen 50 bin TL havaleyi çekip harcamak | Kargonun içi hasarlı çıktı | "Trafik cezasına itiraz 30 gün" |
-| 26.11 Per | Komşunun sarkan meyvesini toplamak | Dolandırıldın, karttan para çekildi | "Hırsızı yakalayıp bağlayan suç işler" |
-| 27.11 Cum | İşten çıkarılırken müdüre WhatsApp hakaret | İşten çıkarıldın, tazminat verilmedi | "WhatsApp yazışmaları mahkemede delil olmaz" |
-| 28.11 Cmt | Arabadan sigara atma, orman yangını | Komşu sürekli gürültü yapıyor | "Boşanmada mallar yarı yarıya" |
-| 29.11 Paz | Trafikte orta parmak gösterme | Markette etiket-kasa fiyat farkı | "Alkol ölçümünü reddedersem ehliyet gitmez" |
+| 1 | 27.11 Cum | Nikahsız birlikte yaşam → katkı payı + sebepsiz zenginleşme | 🟢 |
+| 2 | 28.11 Cmt | Düğün takıları → kişisel mal, kime takılırsa onun | 🔴 |
+| 3 | 29.11 Paz | Nafaka ödememek → tazyik hapsi (ödeyene kadar) | 🔴 |
+| 4 | 30.11 Pzt | Bulunan 10 bin TL, 1 yıl ilan → bulana ait | 🟢 |
+| 5 | 01.12 Sal | Çarp-kaç kaza → Güvence Hesabı devlet ödemesi | 🟢 |
+| 6 | 02.12 Çar | Eski eş evde tek → ecrimisil 5 yıla kadar | 🟢 |
+| 7 | 03.12 Per | Hamile olduğunu söylediğin gün çıkarıldın → ayrımcılık tazminatı | 🟢 |
+| 8 | 04.12 Cum | Çocuğa "terbiye" tokadı → kasten yaralama (ağırlaşmış) | ⚠️ |
+| 9 | 05.12 Cmt | Eşin habersiz kefaleti → TBK 584 geçersiz | 🟢 |
+| 10 | 06.12 Paz | Ev sahibi depozitoyu harcadı → özel banka hesabı zorunlu | 🟢 |
+
+## Kaynak ve dikkat
+
+- Her konu için tam metin Yargıtay/CGK/istinaf kararı + madde doğrulaması (LexPanel + UYAP)
+- Kimlik belirleyici bilgi yok; iddia/kabul ayrımı; masumiyet karinesi
+- İçerik senaryoları günlük hayata uyarlanır; birebir dava değil
+- Siyasi yorum yok, avukatlık reklam yasağı kuralları geçerli
+- Sonunda disclaimer: "Genel bilgilendirme amaçlıdır; hukuki görüş değildir. Seslendirme sentetik sestir."
 
 ## Ölçüm
 
-Her biçim Instagram'ın ayrı sinyalini hedefler:
-- Format 1 → **yorum ve yeniden izleme** (tahmin + ters köşe)
-- Format 2 → **kaydetme** (pratik rehber, lazım olabilir)
-- Format 3 → **gönderme** (yanlışa inanan arkadaşa DM)
-
-30.11 Pazartesi ortasında bir haftalık sonucu çıkarırız: hangi biçimin izlenmesi, erişimi ve etkileşim oranı en yüksek; hangi konu tavan kırdı; hangi saat en iyi performans gösterdi. Buna göre 01.12'den itibaren rota değişir.
-
-## Kaynak
-Her Format 1 ve Format 3 videosu gerçek bir Yargıtay/CGK/istinaf kararına ya da bir kanun hükmüne dayanır. Format 2 videoları yürürlükteki mevzuat ve bakanlık/kolluk süreçlerine dayanır. Olgular karar metninden alınır; iddia ve mahkeme tespiti ayrılır. Kimlik belirleyici bilgi, siyasi yorum ve avukatlık reklam yasağına aykırı ifade yok.
-
+30.11 (hafta içi) ve 06.12 (sonunda) izlenme + erişim + gönderme oranlarına bakılır. En iyi 3 konunun ortak noktası çıkarılıp sonraki haftaya yansıtılır.
