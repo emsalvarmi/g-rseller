@@ -48,13 +48,13 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi — 22.11.2026
 - [x] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü — 24.11.2026
 - [x] Sahte "Göç İdaresi" / "polis" araması: telefonda para ya da kimlik bilgisi isteyenler — 23.11.2026 (mesajla, ikamet iptali tehdidi)
-- [ ] Kiralık ev için emlakçıya sözleşmeden önce elden "hizmet bedeli"
+- [x] Kiralık ev için emlakçıya sözleşmeden önce elden "hizmet bedeli" — 28.11.2026
 - [x] Satıcı adına vekâletle satış: vekâletnamenin güncelliği ve satış yetkisi tapuda kontrol edilmeden ödeme — 26.11.2026
 - [x] Sahte kargo / gümrük mesajı: "paketiniz bekliyor" bağlantısıyla kart bilgisi isteme — 25.11.2026
 - [x] Kiralık evde ev sahibi olmayan kişiyle (alt kiracı, eski kiracı) sözleşme yapmak — 26.11.2026
 - [ ] Sosyal medyada "ev arkadaşı aranıyor" ilanı: oda görülmeden istenen depozito
 - [ ] İkinci el telefon alımı: kayıtsız / IMEI sorunlu cihaz ve elden ödeme
-- [ ] Sahte banka araması: "hesabınızda şüpheli işlem" diyerek SMS kodu isteme
+- [x] Sahte banka araması: "hesabınızda şüpheli işlem" diyerek SMS kodu isteme — 28.11.2026
 - [ ] Satıcının "tapuda borç yok" sözü: emlak vergisi ve aidat borcu sorulmadan alım
 - [ ] Sahte kiralık araç / "depozitoyu önce gönder" ilanı
 - [x] Sahte sağlık sigortası poliçesi: ikamet başvurusu için aracıdan alınan, sorgulanamayan poliçe — 27.11.2026
@@ -62,18 +62,22 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [ ] Sahte tapu randevusu / "sıra bizde, bugün ödeme yap" baskısı: randevu resmî kanaldan doğrulanmadan ödeme
 - [ ] Okul kaydı için aracıya "kontenjan parası": kayıt şartları okuldan / resmî kurumdan sorulmadan ödeme
 - [x] Ortak iş kurma teklifi: şirket kaydı ve ortaklık belgesi görülmeden sermaye gönderme — 27.11.2026
-- [ ] Tapu günü son anda değişen hesap: "parayı malikin değil şu hesabın IBAN'ına at" (alıcı adı malikle karşılaştırılmadan ödeme)
+- [x] Tapu günü son anda değişen hesap: "parayı malikin değil şu hesabın IBAN'ına at" (alıcı adı malikle karşılaştırılmadan ödeme) — 28.11.2026
 - [ ] Eşyalı kiralık ev: yazılı eşya listesi (demirbaş tutanağı) olmadan teslim alma ve çıkarken "eksik eşya" parası
 - [ ] Sahte ev sahibi / emlakçı adına "kira hesabı değişti" mesajı: yeni IBAN'ı ev sahibine bilinen numaradan sormadan ödeme
 - [ ] İkinci el eşya alımında "kargoya verdim, önce ödeme yap" diyen satıcı (ürün görülmeden havale)
 - [ ] İkamet randevusu satan aracı: "randevu bulunmuyor, biz hallederiz" (randevu resmî e-ikamet sitesinden alınır)
+- [ ] Kiracıdan sözleşmede yazmayan "çıkış temizlik / boya parası" isteyen ev sahibi (yazılı dayanak ve makbuz sorulmadan ödeme)
+- [ ] Sosyal medyada "yatırım / kripto danışmanı": kazanç garantisiyle şahsi hesaba para isteme
+- [ ] Sahte bilet / tur satışı: sosyal medya hesabından, şahsi hesaba ödeme
+- [ ] Ev alırken "ekspertizi biz hallederiz" diyen satıcı tarafı: değerleme raporunu kimin sipariş ettiği sorulmadan güvenmek
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). 27.11 Nereye Gidilir (ikamet için sağlık sigortası). Sıradaki: 28.11 Günün Kelimesi → 29.11 Doğru mu Yanlış mı → 30.11 Nereye Gidilir.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). 27.11 Nereye Gidilir (ikamet için sağlık sigortası). 28.11 Kelime (Yetki Belgesi). Sıradaki: 29.11 Doğru mu Yanlış mı → 30.11 Nereye Gidilir → 01.12 Günün Kelimesi.
 
 ## Günün Kelimesi kuyruğu
 
@@ -81,4 +85,5 @@ Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu
 - [x] Kapora = بیعانه — 20.11.2026
 - [x] Noter = دفتر اسناد رسمی — 22.11.2026
 - [x] Dekont = رسید بانکی — 25.11.2026
-- [ ] Yeminli tercüman · Tapu · İskân · Kat mülkiyeti · Kat irtifakı · Vekâletname · Ekspertiz (değerleme) · Kefil · Depozito · Aidat · İkamet izni · Randevu · Kira sözleşmesi · Haciz · Şerh · Emlakçı yetki belgesi
+- [x] Emlakçı yetki belgesi (Yetki Belgesi) = مجوز مشاور املاک — 28.11.2026
+- [ ] Yeminli tercüman · Tapu · İskân · Kat mülkiyeti · Kat irtifakı · Vekâletname · Ekspertiz (değerleme) · Kefil · Depozito · Aidat · İkamet izni · Randevu · Kira sözleşmesi · Haciz · Şerh
