@@ -32,7 +32,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Hisseli tapu — 22.11.2026
 - [x] Sahte ikamet danışmanı ("ikamet garantili") — 20.11.2026
 - [x] Genel vekâletnamenin kötüye kullanılması — 23.11.2026
-- [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi"
+- [ ] Şişirilmiş değerleme raporu ve "vatandaşlık paketi" (değerleme raporu kısmı 29.11.2026'da işlendi; yalnızca "paket" açısından ele alın)
 - [x] Bitmemiş projeden "garantili kira" vaadi — 27.11.2026
 - [x] Geri verilmeyen kira depozitosu — 21.11.2026
 - [x] Kira sözleşmesi olmadan ev tutmak — 23.11.2026
@@ -44,7 +44,7 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [x] Tapu randevusundan önce istenen "işlem masrafı / harç avansı" (aracıya elden) — 25.11.2026
 - [x] Kiracının adına açtırılmayan abonelikler (elektrik, su, doğal gaz eski kiracının üstünde) — 24.11.2026
 - [x] Sahte iş teklifi: "çalışma izni bizden" diyerek para isteyen aracı — 24.11.2026
-- [ ] Ev sahibinin sözleşme dışı, elden ve makbuzsuz kira artışı istemesi
+- [x] Ev sahibinin sözleşme dışı, elden ve makbuzsuz kira artışı istemesi — 29.11.2026
 - [x] Döviz bozdurma / "daha iyi kur" vaadiyle sokakta ya da mesajla para değişimi — 22.11.2026
 - [x] Tapuda görünmeyen kiracı: satın alınan evde oturan kiracı ve "boş teslim" sözü — 24.11.2026
 - [x] Sahte "Göç İdaresi" / "polis" araması: telefonda para ya da kimlik bilgisi isteyenler — 23.11.2026 (mesajla, ikamet iptali tehdidi)
@@ -68,16 +68,20 @@ Bu kitleyi ilgilendiren yeni bir resmî karar çıktığında (Resmî Gazete, G�
 - [ ] İkinci el eşya alımında "kargoya verdim, önce ödeme yap" diyen satıcı (ürün görülmeden havale)
 - [ ] İkamet randevusu satan aracı: "randevu bulunmuyor, biz hallederiz" (randevu resmî e-ikamet sitesinden alınır)
 - [ ] Kiracıdan sözleşmede yazmayan "çıkış temizlik / boya parası" isteyen ev sahibi (yazılı dayanak ve makbuz sorulmadan ödeme)
-- [ ] Sosyal medyada "yatırım / kripto danışmanı": kazanç garantisiyle şahsi hesaba para isteme
+- [x] Sosyal medyada "yatırım / kripto danışmanı": kazanç garantisiyle şahsi hesaba para isteme — 29.11.2026
 - [ ] Sahte bilet / tur satışı: sosyal medya hesabından, şahsi hesaba ödeme
-- [ ] Ev alırken "ekspertizi biz hallederiz" diyen satıcı tarafı: değerleme raporunu kimin sipariş ettiği sorulmadan güvenmek
+- [x] Ev alırken "ekspertizi biz hallederiz" diyen satıcı tarafı: değerleme raporunu kimin sipariş ettiği sorulmadan güvenmek — 29.11.2026
 - [ ] Yatırımla ikamet kararını ev satışı için kullanan emlakçılar (11994 sayılı Karar, RG 18.11.2026/33434) — 18.11.2026'da yayımlandı, tekrar edilmez
 
+- [ ] Tapu devrinden önce "anahtar teslim" sözüyle ödemenin tamamını isteme (ödeme ve tapu devri aynı gün, tapu müdürlüğünde)
+- [ ] Kira sözleşmesinde kefil olmak: arkadaşın sözleşmesine okumadan atılan kefil imzası
+- [ ] Sahte "tapu / ikamet sorgulama" sitesi: resmî görünen bağlantıyla kimlik ve kart bilgisi isteme (resmî adres kontrol edilmeden giriş)
+- [ ] Taşınma / nakliye firması: yazılı sözleşme ve fiyat olmadan eşya teslimi, teslimde "ek ücret" isteme
 Günde üç video için kuyruk yetmez: kuyruk azaldıkça aynı temalardan (tapu ve mülk, ikamet, kira ve ev sahibi, para ve ödeme, vatandaşlık ve yatırım, araç, banka, iş ve çalışma izni, sağlık sigortası, okul kaydı, sahte ilan ve sahte danışman) yeni konular türetip kuyruğa ekleyin. Aynı tuzağı tekrar etmeyin; yalnızca yerleşik ve emin olduğunuz kuralları konu edin.
 
 ## 09:00 postu dönüşümü
 
-19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). 27.11 Nereye Gidilir (ikamet için sağlık sigortası). 28.11 Kelime (Yetki Belgesi). Sıradaki: 29.11 Doğru mu Yanlış mı → 30.11 Nereye Gidilir → 01.12 Günün Kelimesi.
+19.11 Kelime, 20.11 Kelime (aynı gün 22:00'de Doğru mu Yanlış mı), 21.11 Nereye Gidilir. 22.11 Kelime (Noter). 23.11 Doğru mu Yanlış mı (vekâletname geri alınır mı). 24.11 Nereye Gidilir (abonelikler). 25.11 Kelime (Dekont). 26.11 Doğru mu Yanlış mı (ev alınca kendiliğinden vatandaşlık). 27.11 Nereye Gidilir (ikamet için sağlık sigortası). 28.11 Kelime (Yetki Belgesi). 29.11 Doğru mu Yanlış mı (ev sahibi istediği zaman kirayı artırabilir mi). Sıradaki: 30.11 Nereye Gidilir → 01.12 Günün Kelimesi → 02.12 Doğru mu Yanlış mı.
 
 ## Günün Kelimesi kuyruğu
 

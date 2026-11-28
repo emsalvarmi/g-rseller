@@ -48,13 +48,18 @@
 | 2026-11-27 | 09:00 | Post (3 görsel) | Nereye Gidilir: ikamet için sağlık sigortası, 3 soru 3 doğru yer (poliçe gerçek mi → sigorta şirketi; hangi sigorta kabul edilir → İl Göç İdaresi / 157; başvuru → e-ikamet.goc.gov.tr) | Yayımlandı: https://www.instagram.com/p/DgO_a8bCPtq/ |
 | 2026-11-27 | 11:30 | Video | Dolandırıcılık Dosyası 25: bitmemiş projeden "garantili kira" vaadi (garanti broşürde, sözleşmede değil; teslim tarihi belirsiz) | Yayımlandı: https://www.instagram.com/reel/DgPQXnZMf7f/ |
 | 2026-11-27 | 15:30 | Video | Dolandırıcılık Dosyası 26: sahte sağlık sigortası poliçesi (şirketi belirsiz, şahsi hesaba ödeme; poliçeyi sigorta şirketinden doğrulama) | Yayımlandı: https://www.instagram.com/reel/DgPr3qBs-Aa/ |
-| 2026-11-27 | 19:30 | Video | Dolandırıcılık Dosyası 27: ortak iş kurma teklifi ("şimdilik benim adıma, sonra seni ekleriz"; tescil ve sözleşme olmadan şahsi hesaba sermaye) | Planlandı |
-| 2026-11-27 | 22:00 | Post (3 görsel) | Kontrol Listesi: "garantili kira" sözü verildiyse imzadan önce 4 soru | Planlandı |
-| 2026-11-28 | 09:00 | Post | Günün Kelimesi: Yetki Belgesi (emlakçı yetki belgesi) | Planlandı |
-| 2026-11-28 | 11:30 | Video | Dolandırıcılık Dosyası 28: tapu gününden önce değişen hesap ("malikin hesabında limit var, kardeşinin hesabına at"; alıcı adı malikle aynı değilse ödeme yok) | Planlandı |
-| 2026-11-28 | 15:30 | Video | Dolandırıcılık Dosyası 29: kiralık ev için emlakçıya sözleşmeden önce elden, makbuzsuz "hizmet bedeli" (komisyon sözleşme kurulunca; TBK m. 521) | Planlandı |
+| 2026-11-27 | 19:30 | Video | Dolandırıcılık Dosyası 27: ortak iş kurma teklifi ("şimdilik benim adıma, sonra seni ekleriz"; tescil ve sözleşme olmadan şahsi hesaba sermaye) | Yayımlandı: https://www.instagram.com/reel/DgQHYWvR8-C/ |
+| 2026-11-27 | 22:00 | Post (3 görsel) | Kontrol Listesi: "garantili kira" sözü verildiyse imzadan önce 4 soru | Yayımlandı: https://www.instagram.com/p/DgQZAWAiCyh/ |
+| 2026-11-28 | 09:00 | Post | Günün Kelimesi: Yetki Belgesi (emlakçı yetki belgesi) | Yayımlandı: https://www.instagram.com/p/DgRkHLCigTW/ |
+| 2026-11-28 | 11:30 | Video | Dolandırıcılık Dosyası 28: tapu gününden önce değişen hesap ("malikin hesabında limit var, kardeşinin hesabına at"; alıcı adı malikle aynı değilse ödeme yok) | Yayımlandı: https://www.instagram.com/reel/DgR1I6CtPyr/ |
+| 2026-11-28 | 15:30 | Video | Dolandırıcılık Dosyası 29: kiralık ev için emlakçıya sözleşmeden önce elden, makbuzsuz "hizmet bedeli" (komisyon sözleşme kurulunca; TBK m. 521) | Yayımlandı: https://www.instagram.com/reel/DgSQnuMpsQR/ |
 | 2026-11-28 | 19:30 | Video | Dolandırıcılık Dosyası 30: sahte "banka güvenlik birimi" mesajı/araması, şüpheli işlem diyerek SMS kodu isteme (kapat, kartın arkasındaki numarayı kendin ara) | Planlandı |
 | 2026-11-28 | 22:00 | Post (3 görsel) | Kontrol Listesi: tapu günü ev parasını göndermeden önce 4 kontrol (hesap sahibi = malik) | Planlandı |
+| 2026-11-29 | 09:00 | Post (2 görsel) | Doğru mu Yanlış mı: ev sahibi istediği zaman kirayı artırabilir mi (yanlış; artış yenileme döneminde, yasal üst sınır var; TBK m. 344) | Planlandı |
+| 2026-11-29 | 11:30 | Video | Dolandırıcılık Dosyası 31: "ekspertizi (değerleme raporunu) biz hallederiz" diyen satıcı tarafı (değerleme şirketini alıcı seçer, lisansını sorar) | Planlandı |
+| 2026-11-29 | 15:30 | Video | Dolandırıcılık Dosyası 32: ev sahibinin sözleşme ortasında elden, makbuzsuz kira artışı istemesi, "yoksa evi boşalt" (kira bankadan, artış yenilemede; TBK m. 344) | Planlandı |
+| 2026-11-29 | 19:30 | Video | Dolandırıcılık Dosyası 33: "garantili kazanç" vaat eden yatırım kanalı, şahsi hesaba para, çekim için "vergi" isteme (lisansı SPK listesinden kontrol) | Planlandı |
+| 2026-11-29 | 22:00 | Post (3 görsel) | Kontrol Listesi: değerleme raporunu satıcı getirdiyse satın almadan önce 4 soru | Planlandı |
 
 ## Hazır ama henüz paylaşılmadı
 
